@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T00:41:17.408Z",
+  "generatedAt": "2026-09-05T21:34:33.527Z",
   "client": {
     "name": "Affordable Home Remodeling",
     "canonicalUrl": "https://affordablehomeremodeling.aiovisibility.net",
@@ -131,8 +131,8 @@
     ]
   },
   "package": {
-    "totalFiles": 1714,
-    "totalBytes": 8353345,
+    "totalFiles": 1950,
+    "totalBytes": 12799082,
     "stats": {
       "qna": 0,
       "faqs": 1263,
@@ -8636,47 +8636,1227 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 28285,
+        "bytes": 26395,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 154446,
+        "bytes": 160386,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 789284,
+        "bytes": 794990,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 47553,
+        "bytes": 53001,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 17525,
+        "bytes": 23064,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 981781,
+        "bytes": 987328,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 602995,
+        "bytes": 210162,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 145822,
+        "bytes": 151333,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 720721,
+        "bytes": 726196,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-the-right-time-to-add-onto-my-house.html",
+        "bytes": 18406,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-planning-your-home-addition.html",
+        "bytes": 17932,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/timeline-for-a-seamless-home-addition-project.html",
+        "bytes": 20827,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-do-i-need-to-know-about-adu-regulations.html",
+        "bytes": 18849,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-building-an-adu.html",
+        "bytes": 18780,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/timeline-for-building-your-dream-adu.html",
+        "bytes": 22680,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/worried-your-garage-conversion-won-t-meet-adu-standards.html",
+        "bytes": 18843,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-a-garage-conversion-an-adu-a-smart-move-for-your-home.html",
+        "bytes": 19705,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/thinking-of-building-a-new-home-here-s-what-to-expect.html",
+        "bytes": 18797,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-new-home-build-budget-starts-to-balloon.html",
+        "bytes": 19513,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/don-t-let-these-mistakes-derail-your-garage-to-adu-conversion.html",
+        "bytes": 21524,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-you-need-a-professional-general-contractor-for-your-new-build.html",
+        "bytes": 20874,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-avoid-during-your-whole-home-remodel.html",
+        "bytes": 18286,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-your-whole-home-remodel-project-getting-overwhelming.html",
+        "bytes": 18423,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-whole-home-remodel-for-success.html",
+        "bytes": 23086,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-pitfalls-in-custom-home-renovation-projects.html",
+        "bytes": 18386,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-bring-in-a-pro-for-your-custom-home-renovation.html",
+        "bytes": 18582,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mapping-out-your-custom-home-renovation-journey.html",
+        "bytes": 23782,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-your-kitchen-remodel-might-be-over-budget.html",
+        "bytes": 17304,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-to-update-your-kitchen.html",
+        "bytes": 17213,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/timeline-planning-for-a-smooth-kitchen-renovation.html",
+        "bytes": 22149,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-avoid-common-custom-kitchen-design-mistakes.html",
+        "bytes": 17467,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-makes-a-custom-kitchen-truly-stand-out.html",
+        "bytes": 17264,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-the-right-time-for-a-custom-kitchen-renovation.html",
+        "bytes": 17526,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-consider-before-your-bathroom-remodel.html",
+        "bytes": 17863,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-avoid-common-bathroom-remodeling-mistakes.html",
+        "bytes": 18656,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-you-upgrade-your-bathroom.html",
+        "bytes": 18672,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-know-before-starting-interior-painting.html",
+        "bytes": 18075,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-steer-clear-of-with-interior-paint.html",
+        "bytes": 18550,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-it-time-for-a-fresh-coat-of-interior-paint.html",
+        "bytes": 18571,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-planning-exterior-painting.html",
+        "bytes": 17964,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-for-exterior-painting-help.html",
+        "bytes": 18426,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/exterior-painting-project-timeline.html",
+        "bytes": 18627,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-are-your-energy-bills-so-high.html",
+        "bytes": 17748,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-for-window-replacement.html",
+        "bytes": 18227,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-replacing-your-windows.html",
+        "bytes": 17050,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-are-my-doors-drafty.html",
+        "bytes": 17169,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-for-door-replacement-help.html",
+        "bytes": 17645,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-replace-your-exterior-doors-like-a-pro.html",
+        "bytes": 21638,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/are-my-windows-letting-money-fly-out.html",
+        "bytes": 17122,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-upgrading-your-home-s-windows.html",
+        "bytes": 19159,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-for-new-windows.html",
+        "bytes": 18635,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-it-time-to-replace-my-drafty-doors.html",
+        "bytes": 17258,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/preparing-for-a-new-door-installation.html",
+        "bytes": 18297,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-choosing-new-doors.html",
+        "bytes": 18981,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-signs-my-roof-needs-repair.html",
+        "bytes": 20102,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-for-a-major-roof-replacement.html",
+        "bytes": 19851,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-with-your-roofing-project.html",
+        "bytes": 20077,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-is-my-home-feeling-too-small.html",
+        "bytes": 17136,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/struggling-with-space-common-mistakes-in-planning-a-home-addition.html",
+        "bytes": 18039,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-does-a-home-addition-project-actually-work.html",
+        "bytes": 20354,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-an-adu-right-for-my-property-what-to-consider.html",
+        "bytes": 17958,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/confused-about-adu-regulations-what-you-need-to-know.html",
+        "bytes": 18065,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/getting-started-with-your-adu-a-step-by-step-guide.html",
+        "bytes": 20455,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-consider-before-converting-your-garage-into-an-adu.html",
+        "bytes": 17809,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-converting-your-garage-into-an-adu.html",
+        "bytes": 19189,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/timeline-for-a-garage-conversion-adu-project.html",
+        "bytes": 22838,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-get-started-with-a-new-home-build.html",
+        "bytes": 17430,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-building-a-new-home.html",
+        "bytes": 18696,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-the-new-home-construction-process.html",
+        "bytes": 21780,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-your-whole-home-remodel-might-be-over-budget.html",
+        "bytes": 18046,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-the-right-time-to-start-a-whole-home-remodel.html",
+        "bytes": 17813,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-a-major-home-renovation.html",
+        "bytes": 21984,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-your-custom-home-project.html",
+        "bytes": 18878,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-a-custom-home-renovation-right-for-me.html",
+        "bytes": 18496,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-prepare-your-home-for-a-big-custom-renovation.html",
+        "bytes": 21863,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-biggest-mistakes-to-avoid-in-a-kitchen-remodel.html",
+        "bytes": 17820,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-bring-in-a-pro-for-my-kitchen-redo.html",
+        "bytes": 17682,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-do-i-plan-a-kitchen-layout-that-actually-works.html",
+        "bytes": 16038,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-a-custom-kitchen-renovation-right-for-my-home.html",
+        "bytes": 18020,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-can-i-make-my-custom-kitchen-unique-but-still-functional.html",
+        "bytes": 21331,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-choose-the-best-materials-for-my-custom-kitchen.html",
+        "bytes": 18123,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-your-bathroom-remodel-might-be-taking-too-long.html",
+        "bytes": 17456,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-dream-bathroom-remodel.html",
+        "bytes": 20303,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-your-bathroom-ready-for-an-upgrade.html",
+        "bytes": 19954,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-paint-project-pitfalls.html",
+        "bytes": 17610,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-for-a-new-interior-paint-job.html",
+        "bytes": 19528,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/getting-your-walls-ready-for-a-fresh-coat.html",
+        "bytes": 22898,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-your-exterior-paint-job-might-not-last.html",
+        "bytes": 17695,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-you-consider-replacing-your-windows.html",
+        "bytes": 17871,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-prepare-for-your-exterior-painting-project.html",
+        "bytes": 20849,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-affordable-home-remodeling-the-right-choice-for-your-window-replacement.html",
+        "bytes": 18705,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/troubleshooting-common-exterior-paint-problems.html",
+        "bytes": 20503,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-choosing-new-windows.html",
+        "bytes": 19494,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-are-my-energy-bills-so-high.html",
+        "bytes": 16980,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-choose-the-right-windows-for-my-home.html",
+        "bytes": 17453,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-do-i-prepare-for-window-replacement.html",
+        "bytes": 18711,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-is-my-door-sticking-or-not-closing-properly.html",
+        "bytes": 17575,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-consider-upgrading-my-exterior-doors.html",
+        "bytes": 18354,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-my-roof-ready-for-an-upgrade.html",
+        "bytes": 18733,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-a-full-roof-replacement.html",
+        "bytes": 19341,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-planning-your-new-roof.html",
+        "bytes": 19864,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-consider-replacing-my-old-doors.html",
+        "bytes": 19746,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-choose-the-right-new-doors-for-your-home.html",
+        "bytes": 19691,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/getting-started-with-your-door-installation-project.html",
+        "bytes": 19848,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-home-feels-too-small-for-your-family.html",
+        "bytes": 17793,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-budget-surprises-during-your-home-addition.html",
+        "bytes": 17998,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-perfect-home-addition-from-concept-to-completion.html",
+        "bytes": 21089,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-an-adu-right-for-my-property-in-southern-california.html",
+        "bytes": 17946,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-the-adu-construction-process.html",
+        "bytes": 22496,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-adu-mistakes-that-can-cost-you-time-and-money.html",
+        "bytes": 17760,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-converting-your-garage-to-an-adu-right-for-you.html",
+        "bytes": 17460,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-garage-adu-project-smoothly.html",
+        "bytes": 21455,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-you-consider-a-garage-conversion.html",
+        "bytes": 18458,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-in-new-home-construction.html",
+        "bytes": 18099,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-does-a-new-home-build-really-involve.html",
+        "bytes": 23197,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-the-right-time-to-build-a-brand-new-home.html",
+        "bytes": 19041,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-the-right-time-for-a-whole-home-remodel.html",
+        "bytes": 17642,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-during-your-whole-home-remodel.html",
+        "bytes": 17428,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/whole-home-remodel-a-step-by-step-guide-to-transforming-your-space.html",
+        "bytes": 24938,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-custom-renovation-seems-too-complicated.html",
+        "bytes": 17856,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-a-custom-home-renovation-worth-the-investment.html",
+        "bytes": 18259,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-custom-home-renovation.html",
+        "bytes": 17493,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-does-my-kitchen-feel-so-cramped.html",
+        "bytes": 17522,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-your-kitchen-remodel.html",
+        "bytes": 18452,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-kitchen-remodel.html",
+        "bytes": 20976,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-a-custom-kitchen-renovation-worth-the-investment.html",
+        "bytes": 18346,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-in-your-custom-kitchen-renovation.html",
+        "bytes": 20156,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/timeline-for-your-custom-kitchen-renovation.html",
+        "bytes": 22255,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/thinking-of-a-bathroom-renovation-avoid-these-common-pitfalls.html",
+        "bytes": 18519,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-it-time-to-upgrade-your-bathroom-here-s-how-to-tell.html",
+        "bytes": 18245,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/your-bathroom-remodel-what-to-expect-from-start-to-finish.html",
+        "bytes": 20910,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/ready-for-a-new-look-what-to-know-about-interior-painting.html",
+        "bytes": 18518,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/signs-your-home-needs-a-fresh-coat-of-interior-paint.html",
+        "bytes": 18293,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-interior-painting-project-for-a-smooth-experience.html",
+        "bytes": 20968,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-does-my-exterior-paint-peel-and-crack.html",
+        "bytes": 17728,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-choosing-exterior-paint-colors.html",
+        "bytes": 19115,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-prepare-your-home-for-exterior-painting.html",
+        "bytes": 20736,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-consider-replacing-your-home-s-windows.html",
+        "bytes": 19613,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-are-my-new-windows-still-drafty.html",
+        "bytes": 19516,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-s-the-process-for-a-professional-window-replacement.html",
+        "bytes": 22009,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-doors-look-worn-out-what-should-i-do.html",
+        "bytes": 17915,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-to-replace-a-door.html",
+        "bytes": 18483,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-s-the-process-for-getting-new-doors-installed.html",
+        "bytes": 19361,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/are-my-old-windows-costing-me-too-much.html",
+        "bytes": 18480,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-planning-window-replacement.html",
+        "bytes": 19377,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-does-window-installation-work.html",
+        "bytes": 20042,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-isn-t-my-door-closing-right.html",
+        "bytes": 16994,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-upgrade-my-home-s-entryways.html",
+        "bytes": 17237,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-choose-the-best-door-for-your-home.html",
+        "bytes": 19612,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-signs-of-a-leaky-roof.html",
+        "bytes": 17304,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-roof-looks-old-what-s-next.html",
+        "bytes": 18869,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-extend-your-roof-s-lifespan.html",
+        "bytes": 20976,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/worried-your-home-addition-won-t-blend-in.html",
+        "bytes": 17709,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-the-right-time-to-add-to-your-home.html",
+        "bytes": 18388,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-perfect-home-addition.html",
+        "bytes": 20753,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/thinking-about-an-adu-but-don-t-know-where-to-start.html",
+        "bytes": 17981,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-building-an-adu-right-for-you.html",
+        "bytes": 18368,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-your-adu-construction-project.html",
+        "bytes": 21549,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-a-garage-conversion-to-adu-right-for-my-property.html",
+        "bytes": 18494,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-garage-adu-projects.html",
+        "bytes": 17993,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-key-steps-for-a-successful-garage-adu-conversion.html",
+        "bytes": 20767,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-new-home-construction-the-best-option-for-you.html",
+        "bytes": 18454,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-mistakes-to-steer-clear-of-in-new-home-construction.html",
+        "bytes": 18467,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-new-home-construction-project.html",
+        "bytes": 21377,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-is-my-whole-home-remodel-taking-so-long.html",
+        "bytes": 17457,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-consider-a-custom-home-renovation.html",
+        "bytes": 17392,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-makes-a-custom-renovation-truly-custom.html",
+        "bytes": 17291,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-budget-for-a-custom-home-renovation-project.html",
+        "bytes": 20421,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/common-mistakes-when-planning-a-whole-home-remodel.html",
+        "bytes": 19128,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-a-whole-home-remodel-right-for-my-family.html",
+        "bytes": 18084,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-kitchen-layout-just-doesn-t-work-anymore.html",
+        "bytes": 19516,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/are-you-making-these-common-kitchen-remodeling-mistakes.html",
+        "bytes": 20141,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-s-the-process-for-a-custom-kitchen-design-and-build.html",
+        "bytes": 22134,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-to-completely-redo-your-kitchen.html",
+        "bytes": 21071,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-choose-the-right-materials-for-your-dream-kitchen.html",
+        "bytes": 21112,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-a-full-kitchen-remodel-the-right-move-for-my-home-in-southern-california.html",
+        "bytes": 20747,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-common-pitfalls-in-a-bathroom-remodel.html",
+        "bytes": 19666,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-consider-a-full-bathroom-remodel.html",
+        "bytes": 19864,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-can-i-plan-a-bathroom-remodel-that-truly-fits-my-needs.html",
+        "bytes": 21156,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-walls-look-dull-and-tired-what-should-i-do.html",
+        "bytes": 19749,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-it-time-to-repaint-my-home-s-interior.html",
+        "bytes": 19860,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-steps-for-a-professional-interior-paint-job.html",
+        "bytes": 20437,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-does-my-exterior-paint-look-faded-so-soon.html",
+        "bytes": 17926,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-it-time-to-repaint-my-home-s-exterior.html",
+        "bytes": 18149,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-get-a-long-lasting-exterior-paint-job.html",
+        "bytes": 24659,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-signs-i-need-new-windows.html",
+        "bytes": 17673,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/can-replacing-windows-really-boost-my-home-s-value.html",
+        "bytes": 18308,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-happens-during-a-window-replacement-project.html",
+        "bytes": 24411,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-your-doors-might-need-replacing-sooner-than-you-think.html",
+        "bytes": 17657,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-know-before-your-new-doors-are-installed.html",
+        "bytes": 17577,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-door-replacement.html",
+        "bytes": 18537,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-it-time-to-replace-your-drafty-windows.html",
+        "bytes": 17690,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-choose-the-right-windows-for-your-southern-california-home.html",
+        "bytes": 18616,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/understanding-the-window-replacement-process.html",
+        "bytes": 21463,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-is-my-roof-leaking-after-a-small-storm.html",
+        "bytes": 17357,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-consider-replacing-my-old-roof.html",
+        "bytes": 17644,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-a-roof-replacement-project.html",
+        "bytes": 22072,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-signs-of-a-poorly-installed-door.html",
+        "bytes": 17719,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-can-i-prevent-drafts-around-my-entry-doors.html",
+        "bytes": 17947,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-prepare-my-home-for-new-door-installation.html",
+        "bytes": 21304,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-a-home-addition-the-right-move-for-you.html",
+        "bytes": 18219,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-home-addition-project.html",
+        "bytes": 19150,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-is-an-adu-and-why-should-you-consider-building-one.html",
+        "bytes": 18237,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-adu-construction.html",
+        "bytes": 18014,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-maximize-your-adu-s-rental-potential.html",
+        "bytes": 18441,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-isn-t-my-garage-conversion-getting-approved.html",
+        "bytes": 17681,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-your-garage-to-adu-project.html",
+        "bytes": 21797,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-you-convert-your-garage-to-an-adu.html",
+        "bytes": 18977,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/my-new-home-build-is-over-budget-what-went-wrong.html",
+        "bytes": 17870,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-new-home-construction.html",
+        "bytes": 22232,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-hire-a-general-contractor-for-a-new-build.html",
+        "bytes": 19957,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-do-when-your-whole-home-remodel-feels-overwhelming.html",
+        "bytes": 18365,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-whole-home-remodel-so-it-stays-on-budget.html",
+        "bytes": 20194,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/signs-your-whole-home-remodel-needs-professional-help.html",
+        "bytes": 19900,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-consider-custom-home-renovations-over-standard-upgrades.html",
+        "bytes": 20645,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-ensure-your-custom-home-renovation-reflects-your-style.html",
+        "bytes": 20948,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-a-custom-home-renovation-project.html",
+        "bytes": 21172,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-your-kitchen-renovation-costs-are-spiraling-out-of-control.html",
+        "bytes": 17729,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-you-consider-a-full-kitchen-overhaul.html",
+        "bytes": 17564,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-dream-kitchen-remodel-effectively.html",
+        "bytes": 24862,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-custom-kitchen-design.html",
+        "bytes": 17643,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-a-kitchen-remodel-right-for-my-home-in-southern-california.html",
+        "bytes": 18170,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-your-custom-kitchen-renovation-project.html",
+        "bytes": 18043,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-does-my-bathroom-remodel-cost-so-much.html",
+        "bytes": 18259,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-your-bathroom-renovation.html",
+        "bytes": 19171,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-are-the-biggest-mistakes-to-avoid-when-painting-my-home-interior.html",
+        "bytes": 19927,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-consider-professional-interior-painting-services.html",
+        "bytes": 19991,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-professional-interior-painting-worth-the-investment.html",
+        "bytes": 19483,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-should-i-consider-repainting-my-home-s-exterior.html",
+        "bytes": 17756,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-planning-your-exterior-paint-job.html",
+        "bytes": 18196,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-s-the-exterior-painting-process-look-like.html",
+        "bytes": 21559,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-it-time-to-replace-my-old-windows.html",
+        "bytes": 17555,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-do-i-choose-the-right-replacement-windows-for-my-home.html",
+        "bytes": 23753,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-to-call-a-pro-for-window-replacement.html",
+        "bytes": 17913,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-are-my-windows-drafty.html",
+        "bytes": 16635,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-window-installation-project.html",
+        "bytes": 21031,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-it-time-to-replace-my-exterior-doors.html",
+        "bytes": 16856,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-replacing-your-doors.html",
+        "bytes": 17174,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-get-started-with-a-door-replacement-project.html",
+        "bytes": 21148,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/why-your-new-door-installation-might-be-lagging.html",
+        "bytes": 17987,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/when-is-the-right-time-to-replace-your-old-doors.html",
+        "bytes": 17817,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/how-to-plan-your-door-installation-project.html",
+        "bytes": 23086,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/is-your-roof-showing-signs-of-trouble.html",
+        "bytes": 17841,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/what-to-expect-during-a-major-roofing-project.html",
+        "bytes": 24023,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-getting-a-new-roof.html",
+        "bytes": 18855,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -8713,17 +9893,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 765948,
+        "bytes": 868532,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 223252,
+        "bytes": 256569,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 223252,
+        "bytes": 256569,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -8733,17 +9913,17 @@
       },
       {
         "path": "README.md",
-        "bytes": 256231,
+        "bytes": 292891,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 238701,
+        "bytes": 270128,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1177,
+        "bytes": 32604,
         "purpose": "Standard sitemap"
       }
     ]
