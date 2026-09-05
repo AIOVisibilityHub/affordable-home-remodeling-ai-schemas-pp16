@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-09-05T00:40:52.142Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Affordable Home Remodeling",
+    "canonicalUrl": "https://affordablehomeremodeling.aiovisibility.net",
+    "primaryWebsiteUrl": "affordablehomeremodeling.com",
+    "aiDataHub": "https://affordablehomeremodeling.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Affordable Home Remodeling — canonical website",
+      "url": "https://affordablehomeremodeling.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Affordable Home Remodeling — AI Data Hub",
+      "url": "https://affordablehomeremodeling.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/affordable-home-remodeling-ai-schemas-pp16"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/affordable-home-remodeling-ai-schemas-pp16",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/affordable-home-remodeling-ai-schemas-pp16"
+    }
+  }
+}
