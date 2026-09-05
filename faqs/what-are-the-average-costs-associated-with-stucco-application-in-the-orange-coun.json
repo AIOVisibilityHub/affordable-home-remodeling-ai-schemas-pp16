@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-average-costs-associated-with-stucco-application-in-the-orange-coun",
+  "name": "What are the average costs associated with stucco application in the Orange County area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the average costs associated with stucco application in the Orange County area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of stucco application in the Orange County area can vary significantly based on several factors, including the total square footage of the exterior, the complexity of the architectural details, the type of stucco system (e.g., traditional three-coat, one-coat), and the chosen finish. Generally, homeowners can expect costs to range from $6 to $10 per square foot for new installations or full re-stuccoing. This estimate typically includes labor, materials, and basic preparation. For a precise quote, it is best to get a detailed estimate for your specific project.",
+        "@type": "Answer",
+        "description": "Stucco application costs in Orange County generally range from $6 to $10 per square foot, depending on the home's size, complexity, stucco type, and finish."
+      }
+    }
+  ],
+  "description": "Stucco application costs in Orange County generally range from $6 to $10 per square foot, depending on the home's size, complexity, stucco type, and finish."
+}

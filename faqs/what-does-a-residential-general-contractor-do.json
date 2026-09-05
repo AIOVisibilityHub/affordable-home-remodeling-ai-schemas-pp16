@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-does-a-residential-general-contractor-do",
+  "name": "What does a residential general contractor do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a residential general contractor do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A residential general contractor manages all aspects of a home remodeling or construction project. This includes planning, scheduling, hiring and supervising subcontractors (like plumbers, electricians, and carpenters), securing necessary permits, and ensuring the project stays on budget and schedule. They act as the primary point of contact, coordinating communication between all parties involved and making sure the work meets quality standards and local building codes.",
+        "@type": "Answer",
+        "description": "A residential general contractor manages home remodeling or construction projects, handling planning, scheduling, subcontractors, permits, and ensuring quality and compliance."
+      }
+    }
+  ],
+  "description": "A residential general contractor manages home remodeling or construction projects, handling planning, scheduling, subcontractors, permits, and ensuring quality"
+}

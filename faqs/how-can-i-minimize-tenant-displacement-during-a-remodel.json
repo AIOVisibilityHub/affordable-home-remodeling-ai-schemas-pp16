@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-can-i-minimize-tenant-displacement-during-a-remodel",
+  "name": "How can I minimize tenant displacement during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I minimize tenant displacement during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimizing tenant displacement during a remodel often involves careful planning and communication. For occupied units, consider performing renovations during off-peak hours, tackling one room at a time, or scheduling work during a tenant's vacation. For vacant units, aim to complete renovations quickly between tenants. Discuss potential inconveniences with tenants in advance and offer temporary solutions if possible, such as access to alternative facilities if a bathroom or kitchen is unusable. Expediting material delivery and having a detailed work schedule are also key.",
+        "@type": "Answer",
+        "description": "Minimize displacement by planning carefully, scheduling work efficiently, and communicating openly with tenants, potentially renovating during vacancies or in phases."
+      }
+    }
+  ],
+  "description": "Minimize displacement by planning carefully, scheduling work efficiently, and communicating openly with tenants, potentially renovating during vacancies or in p"
+}

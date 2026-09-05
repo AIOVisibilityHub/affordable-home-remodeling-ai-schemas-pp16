@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-complete-a-room-addition",
+  "name": "How long does it take to complete a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a room addition project can range from several months to over half a year, depending on its scope and complexity. Factors influencing duration include the size of the addition, design specifics, material availability, permit approval times, and weather conditions. A simple sunroom might be quicker than a multi-room, two-story expansion. Your contractor can provide a more accurate schedule after assessing your specific plans.",
+        "@type": "Answer",
+        "description": "A room addition can take several months to over half a year to complete, depending on its scope, complexity, material availability, and permit times."
+      }
+    }
+  ],
+  "description": "A room addition can take several months to over half a year to complete, depending on its scope, complexity, material availability, and permit times."
+}

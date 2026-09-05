@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-often-should-i-have-my-tile-roof-inspected-for-potential-repairs",
+  "name": "How often should I have my tile roof inspected for potential repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my tile roof inspected for potential repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to have your tile roof inspected at least once a year, ideally in the spring or fall, by a qualified professional. More frequent inspections may be beneficial after severe weather events like heavy storms, high winds, or significant rainfall. Regular inspections help identify minor issues early, preventing them from escalating into more costly and extensive repairs.",
+        "@type": "Answer",
+        "description": "Annual inspections are recommended, with additional checks after severe weather, to catch minor issues early."
+      }
+    }
+  ],
+  "description": "Annual inspections are recommended, with additional checks after severe weather, to catch minor issues early."
+}

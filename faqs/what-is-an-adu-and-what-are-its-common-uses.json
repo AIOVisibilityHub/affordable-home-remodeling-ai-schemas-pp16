@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-an-adu-and-what-are-its-common-uses",
+  "name": "What is an ADU and what are its common uses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ADU and what are its common uses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot. It can be attached to the main house, detached, or a conversion of an existing space like a garage. ADUs are commonly used for housing family members, such as aging parents or adult children, as rental income properties, or as dedicated home offices or studios. They provide flexibility and can add significant value to a property, offering solutions for increased housing needs or financial opportunities.",
+        "@type": "Answer",
+        "description": "An ADU is a secondary housing unit on a single-family lot, used for family housing, rental income, or dedicated workspaces."
+      }
+    }
+  ],
+  "description": "An ADU is a secondary housing unit on a single-family lot, used for family housing, rental income, or dedicated workspaces."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-a-custom-kitchen-renovation-in-southern-california",
+  "name": "What permits are required for a custom kitchen renovation in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a custom kitchen renovation in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for custom kitchen renovations in Southern California, including cities like Anaheim or Lake Forest, depend on the scope of work. Most projects involving structural changes, alterations to plumbing or electrical systems, or significant layout modifications will require permits from your local city or county building department. Minor cosmetic updates typically do not. Our team handles all necessary permit applications to ensure your renovation complies with local building codes and regulations.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for structural, plumbing, or electrical changes in Southern California. Our team handles all necessary permit applications to ensure compliance."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for structural, plumbing, or electrical changes in Southern California. Our team handles all necessary permit applications to ensure"
+}

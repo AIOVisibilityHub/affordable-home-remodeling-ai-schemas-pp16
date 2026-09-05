@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-custom-kitchen-renovation-take",
+  "name": "How long does a typical custom kitchen renovation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical custom kitchen renovation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a custom kitchen renovation can vary significantly based on the project's scope and complexity. A small-scale remodel might take 4-8 weeks from demolition to completion. More extensive projects involving layout changes, custom cabinetry, or structural modifications could extend to 10-16 weeks or more. Factors like material lead times, inspection schedules, and unforeseen issues can also impact the timeline. We provide a detailed project schedule at the outset.",
+        "@type": "Answer",
+        "description": "Typical custom kitchen renovations can take 4-16 weeks, depending on the project's scope, complexity, and material lead times."
+      }
+    }
+  ],
+  "description": "Typical custom kitchen renovations can take 4-16 weeks, depending on the project's scope, complexity, and material lead times."
+}

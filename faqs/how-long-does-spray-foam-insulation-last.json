@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-spray-foam-insulation-last",
+  "name": "How long does spray foam insulation last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does spray foam insulation last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When properly installed, spray foam insulation is a very durable and long-lasting material. It adheres directly to the surfaces, becoming an integral part of the building structure. Unlike some traditional insulations that can settle, sag, or degrade over time, spray foam maintains its shape and R-value for the lifespan of the structure itself. This means you can expect its insulating properties to remain effective for many decades without needing replacement.",
+        "@type": "Answer",
+        "description": "Properly installed spray foam insulation can last for the lifespan of the structure, maintaining its insulating properties for decades."
+      }
+    }
+  ],
+  "description": "Properly installed spray foam insulation can last for the lifespan of the structure, maintaining its insulating properties for decades."
+}

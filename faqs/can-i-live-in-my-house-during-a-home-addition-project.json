@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-live-in-my-house-during-a-home-addition-project",
+  "name": "Can I live in my house during a home addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my house during a home addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during an addition depends entirely on the scope and nature of the project. For minor additions that are largely exterior or confined to one area, it might be feasible, though you should expect noise, dust, and disruptions. For larger projects, especially those involving major structural changes, significant utility disruptions (like water or electricity), or extensive interior work in main living areas, it is often advisable, and sometimes necessary, to relocate temporarily. We discuss this with clients during the planning phase to establish expectations and ensure safety and comfort.",
+        "@type": "Answer",
+        "description": "Living in your house during an addition depends on the project's scope. Minor work might be manageable, but large structural changes or utility disruptions often require temporary relocation."
+      }
+    }
+  ],
+  "description": "Living in your house during an addition depends on the project's scope. Minor work might be manageable, but large structural changes or utility disruptions ofte"
+}

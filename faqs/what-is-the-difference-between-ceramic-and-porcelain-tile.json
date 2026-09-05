@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-ceramic-and-porcelain-tile",
+  "name": "What is the difference between ceramic and porcelain tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between ceramic and porcelain tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both are made from clay, porcelain tile is denser, less porous, and more durable than ceramic tile. Porcelain is fired at higher temperatures and for longer, resulting in a tile that is more water-resistant, making it ideal for high-moisture areas like bathrooms and outdoor use. Ceramic tile is generally softer, easier to cut, and often more budget-friendly, suitable for various indoor applications with less foot traffic.",
+        "@type": "Answer",
+        "description": "Porcelain tile is denser, more water-resistant, and more durable than ceramic, making it suitable for high-moisture and high-traffic areas. Ceramic is softer, easier to cut, and often more affordable."
+      }
+    }
+  ],
+  "description": "Porcelain tile is denser, more water-resistant, and more durable than ceramic, making it suitable for high-moisture and high-traffic areas. Ceramic is softer, e"
+}

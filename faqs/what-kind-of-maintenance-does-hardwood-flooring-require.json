@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-maintenance-does-hardwood-flooring-require",
+  "name": "What kind of maintenance does hardwood flooring require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does hardwood flooring require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hardwood flooring requires regular maintenance to preserve its appearance and longevity. This includes sweeping or vacuuming regularly to remove dirt and grit, which can scratch the surface. Use a damp mop with a pH-neutral wood cleaner, avoiding excessive water. Place mats at entryways to minimize dirt and use furniture pads to prevent scratches. Periodic professional refinishing may be needed every 7-10 years, depending on wear.",
+        "@type": "Answer",
+        "description": "Regular maintenance includes sweeping, vacuuming, and cleaning with a damp mop and wood cleaner. Use mats and furniture pads, and consider periodic refinishing."
+      }
+    }
+  ],
+  "description": "Regular maintenance includes sweeping, vacuuming, and cleaning with a damp mop and wood cleaner. Use mats and furniture pads, and consider periodic refinishing."
+}

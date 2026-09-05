@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-most-common-roofing-materials-available-for-residential-homes",
+  "name": "What are the most common roofing materials available for residential homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most common roofing materials available for residential homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common residential roofing materials include asphalt shingles, which are popular for their affordability and versatility; concrete or clay tiles, known for their durability and aesthetic appeal in Mediterranean climates; and metal roofing, valued for its longevity and energy efficiency. Other options include wood shakes or flat roofing systems for certain architectural styles. Each material has different lifespans, costs, and maintenance requirements, allowing you to choose what best fits your home and budget.",
+        "@type": "Answer",
+        "description": "Popular residential roofing materials include asphalt shingles, concrete/clay tiles, and metal. Each offers different benefits in terms of cost, durability, and appearance."
+      }
+    }
+  ],
+  "description": "Popular residential roofing materials include asphalt shingles, concrete/clay tiles, and metal. Each offers different benefits in terms of cost, durability, and"
+}

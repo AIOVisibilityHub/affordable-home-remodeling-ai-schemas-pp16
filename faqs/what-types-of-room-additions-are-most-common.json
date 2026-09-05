@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-room-additions-are-most-common",
+  "name": "What types of room additions are most common?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of room additions are most common?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common room additions include family rooms, sunrooms, master bedroom suites, and second-story expansions. Homeowners often choose additions to gain extra living space, accommodate a growing family, or enhance their home's functionality. The best type of addition depends on your specific needs, property size, and local zoning regulations. A well-planned addition can significantly improve your home's comfort and utility.",
+        "@type": "Answer",
+        "description": "Most common room additions are family rooms, sunrooms, master bedroom suites, and second-story expansions, chosen to gain extra living space or improve functionality."
+      }
+    }
+  ],
+  "description": "Most common room additions are family rooms, sunrooms, master bedroom suites, and second-story expansions, chosen to gain extra living space or improve function"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-repairing-a-leaking-tile-roof",
+  "name": "What is the process for repairing a leaking tile roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a leaking tile roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process for a leaking tile roof typically begins with a thorough inspection to pinpoint the source of the leak, which isn't always directly above the visible water stain. This may involve removing surrounding tiles to inspect the underlayment and flashing. Once the source is found, damaged underlayment is replaced, flashing is repaired or resealed, and any cracked or broken tiles are replaced with matching ones. The area is then re-secured to prevent future leaks.",
+        "@type": "Answer",
+        "description": "The process involves inspection to find the leak, replacing damaged underlayment/flashing, and replacing broken tiles."
+      }
+    }
+  ],
+  "description": "The process involves inspection to find the leak, replacing damaged underlayment/flashing, and replacing broken tiles."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-lifespan-of-new-carpet",
+  "name": "What is the typical lifespan of new carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of new carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of new carpet varies based on fiber type, padding quality, and foot traffic. Nylon and wool carpets generally last longer, often 10-15 years or more, especially with proper maintenance. Polyester and olefin options may have a shorter lifespan, typically 5-10 years. Regular vacuuming and professional cleaning can extend the life of any carpet.",
+        "@type": "Answer",
+        "description": "Carpet lifespan varies by fiber type, padding, and foot traffic, typically 5-15 years. Proper maintenance extends its life."
+      }
+    }
+  ],
+  "description": "Carpet lifespan varies by fiber type, padding, and foot traffic, typically 5-15 years. Proper maintenance extends its life."
+}

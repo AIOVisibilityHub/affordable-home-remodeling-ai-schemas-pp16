@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-needed-for-a-whole-home-remodel",
+  "name": "What permits are needed for a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most whole-home remodeling projects require various permits from your local city or county building department, such as Huntington Beach or Irvine. These typically include building permits for structural changes, electrical permits for wiring, plumbing permits for water and waste lines, and mechanical permits for HVAC systems. Depending on the scope, specialized permits like those for grading or historical properties may also be necessary. We handle the permit application process to ensure all work complies with local codes.",
+        "@type": "Answer",
+        "description": "Whole-home remodels usually require building, electrical, plumbing, and mechanical permits from your local building department to ensure compliance with local codes."
+      }
+    }
+  ],
+  "description": "Whole-home remodels usually require building, electrical, plumbing, and mechanical permits from your local building department to ensure compliance with local c"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-building-a-room-addition",
+  "name": "What is the process for building a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for building a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The room addition process typically begins with initial consultations and design planning, followed by obtaining necessary permits from local authorities. Once permits are approved, construction begins with foundation work, framing, roofing, and exterior finishing. Interior work includes electrical, plumbing, insulation, drywall, flooring, and painting. Final inspections ensure compliance with building codes. Throughout the process, communication with your contractor is key.",
+        "@type": "Answer",
+        "description": "The room addition process involves design planning, permit acquisition, construction (foundation, framing, exterior, interior), and final inspections."
+      }
+    }
+  ],
+  "description": "The room addition process involves design planning, permit acquisition, construction (foundation, framing, exterior, interior), and final inspections."
+}

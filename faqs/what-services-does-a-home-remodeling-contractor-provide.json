@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-services-does-a-home-remodeling-contractor-provide",
+  "name": "What services does a home remodeling contractor provide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What services does a home remodeling contractor provide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home remodeling contractor manages and executes various renovation projects for residential properties. This can include kitchen and bathroom remodels, whole-home renovations, room additions, and exterior upgrades. They oversee all aspects from initial design consultation and material selection to securing permits, scheduling subcontractors, and supervising construction, ensuring the project aligns with the client's vision, budget, and timeline. Their role is to streamline the complex remodeling process and deliver a high-quality finished product.",
+        "@type": "Answer",
+        "description": "A home remodeling contractor manages residential renovation projects, including design, permits, construction, and subcontractor coordination, to deliver a completed remodel."
+      }
+    }
+  ],
+  "description": "A home remodeling contractor manages residential renovation projects, including design, permits, construction, and subcontractor coordination, to deliver a comp"
+}

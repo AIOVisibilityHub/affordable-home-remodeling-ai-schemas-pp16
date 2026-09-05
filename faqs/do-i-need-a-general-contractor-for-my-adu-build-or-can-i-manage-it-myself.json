@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-general-contractor-for-my-adu-build-or-can-i-manage-it-myself",
+  "name": "Do I need a general contractor for my ADU build, or can I manage it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a general contractor for my ADU build, or can I manage it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible to self-manage, hiring a qualified general contractor is highly recommended for ADU construction. A general contractor coordinates all subcontractors, manages timelines, ensures quality control, handles permits and inspections, and navigates unforeseen challenges. They possess the expertise and network to complete the project efficiently, safely, and to code, saving you significant time, stress, and potential costly errors compared to managing it yourself, especially for complex builds.",
+        "@type": "Answer",
+        "description": "Hiring a general contractor for an ADU build is recommended for managing subcontractors, timelines, permits, and ensuring quality and code compliance, saving time and avoiding potential errors."
+      }
+    }
+  ],
+  "description": "Hiring a general contractor for an ADU build is recommended for managing subcontractors, timelines, permits, and ensuring quality and code compliance, saving ti"
+}

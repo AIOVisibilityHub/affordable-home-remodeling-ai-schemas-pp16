@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-a-room-addition-in-huntington-beach",
+  "name": "What permits are required for a room addition in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a room addition in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a room addition in Huntington Beach, you will typically need building permits from the city's planning and building departments. These permits ensure that your project complies with local zoning ordinances, structural safety codes, electrical codes, and plumbing regulations. Depending on the scope, additional permits for electrical, plumbing, or mechanical work may also be required. Your contractor can assist with the permit application process.",
+        "@type": "Answer",
+        "description": "In Huntington Beach, room additions generally require building permits from the city, covering zoning, structural, electrical, and plumbing compliance."
+      }
+    }
+  ],
+  "description": "In Huntington Beach, room additions generally require building permits from the city, covering zoning, structural, electrical, and plumbing compliance."
+}

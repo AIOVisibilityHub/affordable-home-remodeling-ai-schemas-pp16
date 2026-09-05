@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-tile-flooring-installation-typically-take",
+  "name": "How long does tile flooring installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does tile flooring installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of tile flooring installation varies based on the area size, tile type, subfloor condition, and pattern complexity. For a standard room, it can take anywhere from 2 to 5 days, including preparation, tile laying, grouting, and curing time. Larger or more intricate projects will naturally require more time. Your contractor can provide a more precise timeline after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Tile flooring installation typically takes 2 to 5 days for a standard room, depending on size, tile type, and complexity. Larger projects will take longer."
+      }
+    }
+  ],
+  "description": "Tile flooring installation typically takes 2 to 5 days for a standard room, depending on size, tile type, and complexity. Larger projects will take longer."
+}

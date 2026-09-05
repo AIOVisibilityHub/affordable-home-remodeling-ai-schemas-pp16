@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-warranty-should-i-expect-for-a-shingle-roof-replacement",
+  "name": "What kind of warranty should I expect for a shingle roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty should I expect for a shingle roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When investing in a shingle roof replacement, you should expect two types of warranties: a manufacturer's warranty for the roofing materials and a contractor's warranty for the workmanship. Manufacturer warranties typically cover defects in the shingles for 20 to 50 years, depending on the shingle type. Workmanship warranties from reputable contractors usually last between 5 and 10 years, covering installation errors. Always ensure both warranties are clearly outlined in your contract and understand their terms and conditions.",
+        "@type": "Answer",
+        "description": "Expect both a manufacturer's warranty for material defects (20-50 years) and a contractor's warranty for workmanship (5-10 years)."
+      }
+    }
+  ],
+  "description": "Expect both a manufacturer's warranty for material defects (20-50 years) and a contractor's warranty for workmanship (5-10 years)."
+}

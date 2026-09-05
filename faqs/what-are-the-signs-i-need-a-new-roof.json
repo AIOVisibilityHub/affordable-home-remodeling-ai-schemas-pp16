@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-i-need-a-new-roof",
+  "name": "What are the signs I need a new roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs I need a new roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators you need a new roof include missing, cracked, or curled shingles; granules in your gutters; water stains on your ceilings or walls; and a sagging roof deck. If your roof is over 20-25 years old, it's also worth having it inspected, even if you don't see obvious damage, as its protective capabilities may be diminishing due to age and weather exposure. Regular inspections can help identify issues before they become major problems, protecting your home from water damage.",
+        "@type": "Answer",
+        "description": "Look for missing or damaged shingles, granules in gutters, water stains inside your home, or a sagging roof. An older roof (20+ years) should also be inspected."
+      }
+    }
+  ],
+  "description": "Look for missing or damaged shingles, granules in gutters, water stains inside your home, or a sagging roof. An older roof (20+ years) should also be inspected."
+}

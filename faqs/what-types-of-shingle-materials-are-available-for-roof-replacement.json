@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-shingle-materials-are-available-for-roof-replacement",
+  "name": "What types of shingle materials are available for roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of shingle materials are available for roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When replacing your shingle roof, you have several material options, each offering different aesthetics, durability, and price points. The most common is asphalt shingles, available in 3-tab, architectural (laminated), and designer styles, offering good performance and cost-effectiveness. Other options include wood shakes or shingles for a natural look, or synthetic shingles that mimic other materials but offer enhanced durability and fire resistance. Our experts can help you choose the best material that fits your budget, home style, and performance requirements.",
+        "@type": "Answer",
+        "description": "Available shingle materials include asphalt (3-tab, architectural, designer), wood shakes, and synthetic shingles. Each offers different looks, durability, and costs."
+      }
+    }
+  ],
+  "description": "Available shingle materials include asphalt (3-tab, architectural, designer), wood shakes, and synthetic shingles. Each offers different looks, durability, and"
+}

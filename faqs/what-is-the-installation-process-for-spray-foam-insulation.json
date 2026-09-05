@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-installation-process-for-spray-foam-insulation",
+  "name": "What is the installation process for spray foam insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for spray foam insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process involves preparing the area by covering surfaces to protect them from overspray. Technicians then use specialized equipment to mix and spray the liquid foam onto the designated surfaces, such as walls, attics, or crawl spaces. The foam expands rapidly, filling cavities and sealing gaps. After application, the foam cures and hardens. Proper ventilation is maintained during and immediately after installation to ensure safety and allow for off-gassing. The site is then cleaned, and the new insulation is ready to perform.",
+        "@type": "Answer",
+        "description": "The process involves preparing the area, spraying the liquid foam which expands and hardens, followed by curing and cleanup."
+      }
+    }
+  ],
+  "description": "The process involves preparing the area, spraying the liquid foam which expands and hardens, followed by curing and cleanup."
+}

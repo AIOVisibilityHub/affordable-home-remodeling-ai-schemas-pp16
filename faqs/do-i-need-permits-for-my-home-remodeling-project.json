@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-my-home-remodeling-project",
+  "name": "Do I need permits for my home remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for my home remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most significant home remodeling projects require permits from your local building department, especially if they involve structural changes, electrical work, plumbing, or altering the footprint of your home. Permits ensure that your project meets safety codes and zoning regulations. Skipping permits can lead to fines, difficulties selling your home, and potential insurance issues. Your general contractor should be knowledgeable about local permit requirements in areas like Huntington Beach or Irvine and can manage the application process for you.",
+        "@type": "Answer",
+        "description": "Yes, most major home remodels involving structural, electrical, or plumbing changes require permits to ensure safety and compliance with local building codes."
+      }
+    }
+  ],
+  "description": "Yes, most major home remodels involving structural, electrical, or plumbing changes require permits to ensure safety and compliance with local building codes."
+}

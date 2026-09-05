@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-i-need-a-full-roof-replacement-or-just-a-repair",
+  "name": "How do I know if I need a full roof replacement or just a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a full roof replacement or just a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining whether you need a roof replacement or a repair depends on the extent and nature of the damage. Signs like widespread missing or cracked shingles, significant sagging, water leaks in multiple areas, or a roof that's approaching its typical lifespan (often 20-25 years for asphalt) usually indicate a replacement is necessary. For isolated damage, such as a few missing shingles or minor leaks, a targeted repair might suffice. A professional inspection can accurately assess the condition and recommend the most cost-effective solution for your home.",
+        "@type": "Answer",
+        "description": "Assess for widespread damage, leaks, or age (over 20 years for asphalt) for replacement. Isolated issues may only require repair. A professional inspection is recommended."
+      }
+    }
+  ],
+  "description": "Assess for widespread damage, leaks, or age (over 20 years for asphalt) for replacement. Isolated issues may only require repair. A professional inspection is r"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-roof-installation-project-take",
+  "name": "How long does a typical roof installation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof installation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof installation project depends on factors like the roof's size, its complexity (e.g., steep pitches, multiple valleys), weather conditions, and the type of material being installed. A standard asphalt shingle roof on an average-sized home can often be completed within 2-5 days. More complex projects involving tile or metal roofing, or those requiring extensive decking repair, may take longer, sometimes up to a week or more. We aim to complete projects efficiently while maintaining high quality.",
+        "@type": "Answer",
+        "description": "Most roof installations take 2-5 days for average-sized homes with asphalt shingles. Larger or more complex projects, or those with different materials, can take longer."
+      }
+    }
+  ],
+  "description": "Most roof installations take 2-5 days for average-sized homes with asphalt shingles. Larger or more complex projects, or those with different materials, can tak"
+}

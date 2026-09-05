@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-to-install-hardwood-flooring",
+  "name": "What is the average cost to install hardwood flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install hardwood flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hardwood flooring installation costs depend on factors such as the type of wood (solid vs. engineered), wood species, finish, subfloor condition, and labor rates. Engineered hardwood can sometimes be more budget-friendly than solid hardwood, but specific pricing varies. We provide detailed estimates after an on-site evaluation to account for all project specifics in Huntington Beach and surrounding areas.",
+        "@type": "Answer",
+        "description": "Installation costs vary based on wood type, species, finish, and labor. A detailed estimate is provided after an on-site evaluation."
+      }
+    }
+  ],
+  "description": "Installation costs vary based on wood type, species, finish, and labor. A detailed estimate is provided after an on-site evaluation."
+}

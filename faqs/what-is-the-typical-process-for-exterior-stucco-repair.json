@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-process-for-exterior-stucco-repair",
+  "name": "What is the typical process for exterior stucco repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for exterior stucco repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical stucco repair process begins with a thorough inspection to assess the extent and cause of the damage. Damaged stucco is carefully removed, and the underlying substrate is prepared. A new base coat is applied, often with a mesh for reinforcement, followed by a finish coat. The new stucco is then textured and colored to match the existing finish as closely as possible, ensuring a seamless repair.",
+        "@type": "Answer",
+        "description": "Stucco repair involves inspecting damage, removing old material, preparing the surface, and applying new base and finish coats to match existing stucco."
+      }
+    }
+  ],
+  "description": "Stucco repair involves inspecting damage, removing old material, preparing the surface, and applying new base and finish coats to match existing stucco."
+}

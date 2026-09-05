@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-it-cost-to-remodel-a-rental-property-in-orange-county",
+  "name": "How much does it cost to remodel a rental property in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remodel a rental property in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of remodeling a rental property in Orange County varies significantly based on the scope, materials, and property size. A minor cosmetic update, like painting and new fixtures, might range from $5,000 to $15,000. Mid-range kitchen remodels can start at $20,000 to $40,000, while a full gut renovation of a bathroom might be $10,000 to $25,000. These are general estimates; exact pricing requires a detailed assessment by a local contractor, considering specific material choices and labor rates in areas like Irvine or Huntington Beach.",
+        "@type": "Answer",
+        "description": "Remodel costs in Orange County vary widely; cosmetic updates may be $5,000-$15,000, while kitchen or bathroom renovations can range from $10,000 to $40,000 or more."
+      }
+    }
+  ],
+  "description": "Remodel costs in Orange County vary widely; cosmetic updates may be $5,000-$15,000, while kitchen or bathroom renovations can range from $10,000 to $40,000 or m"
+}

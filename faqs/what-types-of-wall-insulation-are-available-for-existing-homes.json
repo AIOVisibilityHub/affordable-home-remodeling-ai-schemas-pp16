@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-wall-insulation-are-available-for-existing-homes",
+  "name": "What types of wall insulation are available for existing homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of wall insulation are available for existing homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For existing homes, common wall insulation types include blown-in cellulose or fiberglass, and spray foam insulation. Blown-in materials are often installed by drilling small holes in exterior walls and filling the cavities, making them suitable for retrofits without extensive demolition. Spray foam offers excellent sealing properties and a high R-value, but typically requires more access to wall cavities. The best choice depends on your home's construction, budget, and desired R-value, as well as accessibility.",
+        "@type": "Answer",
+        "description": "Common types for existing homes are blown-in cellulose or fiberglass, and spray foam. Each has different installation methods and benefits."
+      }
+    }
+  ],
+  "description": "Common types for existing homes are blown-in cellulose or fiberglass, and spray foam. Each has different installation methods and benefits."
+}

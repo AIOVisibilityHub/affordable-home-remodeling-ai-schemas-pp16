@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-payment-schedule-for-a-whole-home-remodel",
+  "name": "What is the typical payment schedule for a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical payment schedule for a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard payment schedule for a whole-home remodel often begins with an initial deposit to secure the contractor's services and cover initial material orders and project setup. Subsequent payments are typically tied to the completion of specific project milestones, such as demolition, framing, rough-ins for electrical and plumbing, drywall installation, and final finishes. The final payment is usually due upon successful completion of the project and your final approval. We'll provide a clear payment schedule in your contract.",
+        "@type": "Answer",
+        "description": "Payment schedules usually start with a deposit, followed by payments tied to project milestones like demolition, rough-ins, and finishes, with the final payment due upon completion."
+      }
+    }
+  ],
+  "description": "Payment schedules usually start with a deposit, followed by payments tied to project milestones like demolition, rough-ins, and finishes, with the final payment"
+}

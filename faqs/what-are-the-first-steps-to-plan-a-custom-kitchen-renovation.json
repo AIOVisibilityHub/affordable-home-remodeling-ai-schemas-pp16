@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-first-steps-to-plan-a-custom-kitchen-renovation",
+  "name": "What are the first steps to plan a custom kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to plan a custom kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first steps involve defining your needs, desires, and budget. Start by gathering inspiration from magazines or online platforms to determine your preferred style, materials, and desired features. Consider your current kitchen's challenges and how you want the new space to function. Once you have a clear vision, contact a general contractor like us for a consultation. We can help refine your ideas, assess feasibility, and provide a preliminary estimate to guide your planning.",
+        "@type": "Answer",
+        "description": "Start by defining your needs, desires, and budget, then gather inspiration. Next, contact a general contractor for a consultation to refine your vision and get an estimate."
+      }
+    }
+  ],
+  "description": "Start by defining your needs, desires, and budget, then gather inspiration. Next, contact a general contractor for a consultation to refine your vision and get"
+}

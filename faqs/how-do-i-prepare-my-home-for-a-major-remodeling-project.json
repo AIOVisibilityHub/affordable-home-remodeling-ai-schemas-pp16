@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-prepare-my-home-for-a-major-remodeling-project",
+  "name": "How do I prepare my home for a major remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for a major remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home for a major remodel involves several steps. Start by decluttering and packing away personal items, especially from areas being renovated, to protect them from dust and damage. Create a clear path for workers and materials, and consider setting up a temporary living zone if essential areas like the kitchen or bathroom will be inaccessible. Discuss with your contractor about utility shut-offs, waste disposal, and any specific requests they have for site preparation to ensure a smooth start.",
+        "@type": "Answer",
+        "description": "Prepare for a remodel by decluttering, protecting valuables, clearing pathways, and discussing utility needs and site preparation with your contractor."
+      }
+    }
+  ],
+  "description": "Prepare for a remodel by decluttering, protecting valuables, clearing pathways, and discussing utility needs and site preparation with your contractor."
+}

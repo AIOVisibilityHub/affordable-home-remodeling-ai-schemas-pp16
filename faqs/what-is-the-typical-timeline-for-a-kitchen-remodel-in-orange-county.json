@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-a-kitchen-remodel-in-orange-county",
+  "name": "What is the typical timeline for a kitchen remodel in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a kitchen remodel in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen remodel in areas like Huntington Beach or Irvine can vary significantly based on its scope. A minor cosmetic update, such as painting and cabinet refacing, might take 2-4 weeks. A mid-range remodel involving new cabinets, countertops, and some layout changes typically ranges from 6-10 weeks. A major renovation, including structural modifications, appliance relocation, or custom cabinetry, can extend to 10-16 weeks or more. Factors like material availability, permit approvals, and the complexity of designs influence the overall timeline. We provide a detailed project schedule after initial design consultations.",
+        "@type": "Answer",
+        "description": "A kitchen remodel in Orange County can take from 2 weeks for minor updates to 16+ weeks for major renovations, depending on scope and complexity."
+      }
+    }
+  ],
+  "description": "A kitchen remodel in Orange County can take from 2 weeks for minor updates to 16+ weeks for major renovations, depending on scope and complexity."
+}

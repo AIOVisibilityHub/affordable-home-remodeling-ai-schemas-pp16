@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-home-remodeling-project-take-with-a-general-contractor",
+  "name": "How long does a typical home remodeling project take with a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home remodeling project take with a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home remodeling project depends heavily on its size and complexity. A small bathroom remodel might take 3-6 weeks, while a major kitchen renovation could take 8-16 weeks. Larger projects, such as a whole-house remodel or adding an extension, can extend from several months to over a year. The general contractor provides a detailed timeline during the planning phase, which accounts for design, permitting, material procurement, and construction phases.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope; small remodels take weeks, while larger projects can take months or over a year. A timeline is provided during planning."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope; small remodels take weeks, while larger projects can take months or over a year. A timeline is provided during planning."
+}

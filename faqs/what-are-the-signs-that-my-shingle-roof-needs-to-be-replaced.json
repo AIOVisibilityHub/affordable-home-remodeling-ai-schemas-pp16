@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-that-my-shingle-roof-needs-to-be-replaced",
+  "name": "What are the signs that my shingle roof needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my shingle roof needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators for shingle roof replacement include cracked, curled, or missing shingles, which can compromise the roof's integrity. Granule loss, visible in gutters or on the ground, signals deterioration and reduced UV protection. A sagging roof deck or water stains on interior ceilings suggest potential structural damage or leaks that require immediate attention. If your roof is nearing or has exceeded its expected lifespan, typically 20-25 years for asphalt shingles, it's prudent to have a professional inspection to assess its condition and determine if a replacement is necessary to protect your home.",
+        "@type": "Answer",
+        "description": "Signs include cracked, curled, or missing shingles, granule loss, sagging, or interior water stains. If your roof is old, an inspection can determine if replacement is needed."
+      }
+    }
+  ],
+  "description": "Signs include cracked, curled, or missing shingles, granule loss, sagging, or interior water stains. If your roof is old, an inspection can determine if replace"
+}

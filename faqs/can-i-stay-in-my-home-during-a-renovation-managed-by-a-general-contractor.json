@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-stay-in-my-home-during-a-renovation-managed-by-a-general-contractor",
+  "name": "Can I stay in my home during a renovation managed by a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a renovation managed by a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during a renovation depends on the scope and nature of the project. For minor remodels like a single bathroom update, it may be feasible to remain in your home. However, for extensive renovations such as a whole-house remodel, kitchen demolition, or projects involving significant dust, noise, or utility shut-offs, it is generally safer and more comfortable to temporarily relocate. Your general contractor can advise on the best approach based on your specific project details.",
+        "@type": "Answer",
+        "description": "Staying home during renovation depends on the project's scope. Minor remodels might allow it, but extensive work often requires temporary relocation for safety and comfort."
+      }
+    }
+  ],
+  "description": "Staying home during renovation depends on the project's scope. Minor remodels might allow it, but extensive work often requires temporary relocation for safety"
+}

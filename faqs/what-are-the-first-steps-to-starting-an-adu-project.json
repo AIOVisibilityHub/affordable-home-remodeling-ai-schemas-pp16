@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-first-steps-to-starting-an-adu-project",
+  "name": "What are the first steps to starting an ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to starting an ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial steps for an ADU project involve understanding your property's potential and local zoning. First, research local ADU regulations in your specific city to confirm eligibility and requirements. Next, consider your budget and desired uses for the ADU. Then, consult with a qualified general contractor or architect to assess your site, discuss design options, and get a preliminary cost estimate. This early planning helps streamline the entire process.",
+        "@type": "Answer",
+        "description": "Begin by researching local ADU regulations for your property, establishing a budget, and consulting with a general contractor or architect for site assessment and design options."
+      }
+    }
+  ],
+  "description": "Begin by researching local ADU regulations for your property, establishing a budget, and consulting with a general contractor or architect for site assessment a"
+}

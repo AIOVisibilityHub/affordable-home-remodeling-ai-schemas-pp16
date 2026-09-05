@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-a-custom-home-renovation-typically-cost",
+  "name": "How much does a custom home renovation typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a custom home renovation typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom home renovation is highly variable, depending on factors such as the size of the area being renovated, the quality of materials selected, the complexity of the design, and any structural changes required. For example, a basic kitchen remodel might start from $25,000, while a luxury whole-home renovation could exceed $150,000. We provide detailed estimates after an initial consultation and design phase, ensuring transparency in pricing.",
+        "@type": "Answer",
+        "description": "Renovation costs vary widely based on project size, material choices, and design complexity, ranging from $25,000 for basic remodels to over $150,000 for whole-home projects."
+      }
+    }
+  ],
+  "description": "Renovation costs vary widely based on project size, material choices, and design complexity, ranging from $25,000 for basic remodels to over $150,000 for whole-"
+}

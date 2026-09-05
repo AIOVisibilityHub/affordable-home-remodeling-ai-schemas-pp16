@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-for-a-custom-kitchen-renovation-in-orange-county",
+  "name": "What is the average cost for a custom kitchen renovation in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost for a custom kitchen renovation in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom kitchen renovation in areas like Huntington Beach, Irvine, or Mission Viejo varies widely based on size, materials, and design complexity. A minor cosmetic update might start from $25,000, while a mid-range renovation could range from $45,000 to $80,000. High-end, luxury custom kitchens often exceed $100,000, especially with premium appliances, custom cabinetry, and structural changes. We provide detailed, transparent quotes after an initial consultation to align with your budget.",
+        "@type": "Answer",
+        "description": "Average costs for custom kitchen renovations in Orange County vary, typically from $25,000 for minor updates to over $100,000 for high-end projects."
+      }
+    }
+  ],
+  "description": "Average costs for custom kitchen renovations in Orange County vary, typically from $25,000 for minor updates to over $100,000 for high-end projects."
+}

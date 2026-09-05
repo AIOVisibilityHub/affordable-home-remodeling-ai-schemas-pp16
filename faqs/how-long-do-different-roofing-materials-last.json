@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-do-different-roofing-materials-last",
+  "name": "How long do different roofing materials last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do different roofing materials last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of roofing materials varies significantly. Asphalt shingles typically last 20-30 years, depending on their quality and climate conditions. Concrete or clay tiles are very durable, often lasting 50 years or more. Metal roofs are known for their exceptional longevity, frequently exceeding 40-70 years. Wood shakes and flat roofing systems have shorter lifespans, usually ranging from 15-30 years. Regular maintenance can help extend the life of any roofing material.",
+        "@type": "Answer",
+        "description": "Asphalt shingles last 20-30 years, tiles 50+ years, and metal roofs 40-70+ years. Lifespans vary by material, quality, and maintenance."
+      }
+    }
+  ],
+  "description": "Asphalt shingles last 20-30 years, tiles 50+ years, and metal roofs 40-70+ years. Lifespans vary by material, quality, and maintenance."
+}

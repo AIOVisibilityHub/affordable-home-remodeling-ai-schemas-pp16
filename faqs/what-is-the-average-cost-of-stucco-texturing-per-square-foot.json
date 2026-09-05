@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-stucco-texturing-per-square-foot",
+  "name": "What is the average cost of stucco texturing per square foot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of stucco texturing per square foot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of stucco texturing varies significantly based on factors such as the type of texture, the condition of the existing surface, and accessibility. On average, you might expect to pay between $3 to $9 per square foot for texturing services. This estimate generally includes labor and materials. It's advisable to get a detailed quote as project specifics can influence the final price.",
+        "@type": "Answer",
+        "description": "The average cost for stucco texturing ranges from $3 to $9 per square foot, varying by texture type and project complexity."
+      }
+    }
+  ],
+  "description": "The average cost for stucco texturing ranges from $3 to $9 per square foot, varying by texture type and project complexity."
+}

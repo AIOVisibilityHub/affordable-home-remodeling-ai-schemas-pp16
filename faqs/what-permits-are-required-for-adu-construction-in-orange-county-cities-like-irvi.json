@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-adu-construction-in-orange-county-cities-like-irvi",
+  "name": "What permits are required for ADU construction in Orange County cities like Irvine or Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for ADU construction in Orange County cities like Irvine or Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADU construction in Orange County cities like Irvine or Huntington Beach requires various permits, typically including a building permit, electrical permit, plumbing permit, and mechanical permit. You'll also need approved architectural plans, structural plans, and sometimes fire department approval depending on the design and location. Specific requirements can vary slightly by city, so it's essential to check with the local planning and building departments or work with a contractor familiar with local regulations.",
+        "@type": "Answer",
+        "description": "ADU construction in Orange County cities like Irvine or Huntington Beach requires building, electrical, plumbing, and mechanical permits, plus approved architectural and structural plans."
+      }
+    }
+  ],
+  "description": "ADU construction in Orange County cities like Irvine or Huntington Beach requires building, electrical, plumbing, and mechanical permits, plus approved architec"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-installing-blown-in-insulation-in-existing-walls",
+  "name": "What is the process for installing blown-in insulation in existing walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing blown-in insulation in existing walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for installing blown-in insulation in existing walls typically involves several steps. First, small holes, usually 2-3 inches in diameter, are drilled into the exterior siding or interior drywall, strategically placed to access each stud cavity. Then, insulation material, such as cellulose or fiberglass, is blown through these holes using specialized equipment until the cavities are dense and full. Finally, the drilled holes are sealed and patched to match the surrounding wall, ensuring a seamless finish. This method minimizes disruption to your home.",
+        "@type": "Answer",
+        "description": "Small holes are drilled into walls, insulation is blown into cavities until full, then the holes are sealed and patched."
+      }
+    }
+  ],
+  "description": "Small holes are drilled into walls, insulation is blown into cavities until full, then the holes are sealed and patched."
+}

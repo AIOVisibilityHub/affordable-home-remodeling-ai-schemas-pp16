@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-maintenance-does-stucco-require-to-keep-it-looking-good",
+  "name": "What kind of maintenance does stucco require to keep it looking good?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does stucco require to keep it looking good?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco is a low-maintenance exterior, but some simple care helps preserve its appearance and integrity. Regular cleaning, typically once a year, with a garden hose and mild detergent can remove dirt, dust, and mildew. Avoid high-pressure washing, which can damage the surface. Inspect your stucco periodically for any hairline cracks or small holes and promptly repair them with appropriate stucco patch materials to prevent moisture intrusion. Ensuring your gutters and downspouts are clean and directing water away from the walls also helps prevent staining and water damage.",
+        "@type": "Answer",
+        "description": "Stucco maintenance includes annual cleaning with a hose and mild detergent, inspecting for and repairing small cracks, and ensuring proper drainage to prevent water damage."
+      }
+    }
+  ],
+  "description": "Stucco maintenance includes annual cleaning with a hose and mild detergent, inspecting for and repairing small cracks, and ensuring proper drainage to prevent w"
+}

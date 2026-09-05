@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/is-open-cell-or-closed-cell-spray-foam-better-for-my-home",
+  "name": "Is open-cell or closed-cell spray foam better for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is open-cell or closed-cell spray foam better for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between open-cell and closed-cell spray foam depends on your specific insulation needs and project goals. Open-cell foam is less dense, more flexible, and allows water vapor to pass through, making it suitable for interior walls where sound dampening is also desired. Closed-cell foam is denser, more rigid, provides a higher R-value per inch, and acts as a vapor barrier, making it ideal for exterior walls, crawl spaces, and areas where moisture control and structural integrity are crucial. We can assess your home's unique requirements to recommend the optimal solution.",
+        "@type": "Answer",
+        "description": "Open-cell is good for sound and interior walls, while closed-cell offers higher R-value, moisture barrier properties, and is ideal for exterior or damp areas."
+      }
+    }
+  ],
+  "description": "Open-cell is good for sound and interior walls, while closed-cell offers higher R-value, moisture barrier properties, and is ideal for exterior or damp areas."
+}

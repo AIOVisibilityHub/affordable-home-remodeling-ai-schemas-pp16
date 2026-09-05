@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-a-custom-home-renovation",
+  "name": "What permits are required for a custom home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a custom home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The specific permits required for a custom home renovation depend on the scope of work and local regulations. Common permits include building, electrical, plumbing, and mechanical permits. Any structural changes, additions, or significant layout modifications almost always necessitate a building permit. Our team will identify all necessary permits for your project and manage the application process with your local city or county building department to ensure full compliance.",
+        "@type": "Answer",
+        "description": "Permits vary by project scope, often including building, electrical, and plumbing. We handle identifying and securing all necessary permits with local authorities."
+      }
+    }
+  ],
+  "description": "Permits vary by project scope, often including building, electrical, and plumbing. We handle identifying and securing all necessary permits with local authoriti"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-the-repaired-stucco-match-my-existing-home-exterior",
+  "name": "Will the repaired stucco match my existing home exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will the repaired stucco match my existing home exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching repaired stucco to your existing exterior is a primary goal. Experienced contractors use various techniques to achieve a seamless match, including selecting the correct stucco mix, aggregates, and pigments. They also consider the application method to replicate the original texture, whether it's smooth, dash, or another finish. While an exact 100% match can be challenging due to weathering of existing stucco, professionals strive for a blend that is visually consistent and hard to detect.",
+        "@type": "Answer",
+        "description": "Experienced contractors aim to seamlessly match repaired stucco by carefully selecting materials and textures, making it visually consistent with your existing exterior."
+      }
+    }
+  ],
+  "description": "Experienced contractors aim to seamlessly match repaired stucco by carefully selecting materials and textures, making it visually consistent with your existing"
+}

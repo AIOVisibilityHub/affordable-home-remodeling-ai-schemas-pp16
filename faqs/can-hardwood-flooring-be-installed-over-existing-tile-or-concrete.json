@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-hardwood-flooring-be-installed-over-existing-tile-or-concrete",
+  "name": "Can hardwood flooring be installed over existing tile or concrete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can hardwood flooring be installed over existing tile or concrete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing hardwood flooring over existing tile is generally not recommended due to potential subfloor irregularities and height differences. It is usually best to remove the tile first. Hardwood can be installed over concrete slabs, but proper moisture barriers and subfloor preparation are crucial. Engineered hardwood is often preferred for concrete installations because it is more resistant to moisture and temperature fluctuations than solid hardwood.",
+        "@type": "Answer",
+        "description": "Installing over tile is not recommended; tile should be removed. Hardwood can be installed over concrete with proper moisture barriers and subfloor preparation."
+      }
+    }
+  ],
+  "description": "Installing over tile is not recommended; tile should be removed. Hardwood can be installed over concrete with proper moisture barriers and subfloor preparation."
+}

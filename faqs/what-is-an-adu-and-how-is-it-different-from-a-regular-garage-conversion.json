@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-an-adu-and-how-is-it-different-from-a-regular-garage-conversion",
+  "name": "What is an ADU and how is it different from a regular garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ADU and how is it different from a regular garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot. While a garage conversion might simply transform the space into a new room, an ADU conversion creates a complete, independent living space with its own kitchen, bathroom, and sleeping area. This distinction is crucial for understanding zoning requirements, permits, and the potential for rental income or multi-generational living.",
+        "@type": "Answer",
+        "description": "An ADU is a complete, independent living unit with kitchen, bath, and sleeping area, unlike a simple garage conversion which just adds a room."
+      }
+    }
+  ],
+  "description": "An ADU is a complete, independent living unit with kitchen, bath, and sleeping area, unlike a simple garage conversion which just adds a room."
+}

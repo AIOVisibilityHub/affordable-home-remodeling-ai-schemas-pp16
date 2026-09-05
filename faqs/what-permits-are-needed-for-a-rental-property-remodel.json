@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-needed-for-a-rental-property-remodel",
+  "name": "What permits are needed for a rental property remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a rental property remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements depend on the scope of work and local building codes. Minor cosmetic changes like painting or flooring often don't require permits. However, any structural modifications, electrical work, plumbing changes, or significant alterations to the building envelope typically do. Examples include moving walls, adding new fixtures that require new wiring or pipes, or changing the footprint of the property. Always check with your local city's building department, such as in Anaheim, before starting any renovation to ensure compliance and avoid potential fines or rework.",
+        "@type": "Answer",
+        "description": "Permit needs vary by project scope; structural, electrical, or plumbing changes usually require permits, while minor cosmetic work often does not. Always check with your local building department."
+      }
+    }
+  ],
+  "description": "Permit needs vary by project scope; structural, electrical, or plumbing changes usually require permits, while minor cosmetic work often does not. Always check"
+}

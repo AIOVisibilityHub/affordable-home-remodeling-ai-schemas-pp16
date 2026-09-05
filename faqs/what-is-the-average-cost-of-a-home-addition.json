@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-a-home-addition",
+  "name": "What is the average cost of a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a home addition is highly variable, influenced by factors such as the size and type of the addition, the quality of materials selected, and the complexity of the design. Adding a bathroom or a small room will cost less than a multi-room or second-story expansion. Foundation work, structural modifications, plumbing, electrical, and finish materials all contribute to the overall budget. We provide detailed estimates after an initial consultation and design phase, ensuring transparency. Homeowners should also budget for permits, architectural plans, and potential unexpected expenses. A good rule of thumb is to allocate 10-15% of the estimated cost for contingencies.",
+        "@type": "Answer",
+        "description": "Average home addition costs vary widely based on size, type, materials, and design complexity. Detailed estimates include construction, permits, and a contingency budget."
+      }
+    }
+  ],
+  "description": "Average home addition costs vary widely based on size, type, materials, and design complexity. Detailed estimates include construction, permits, and a contingen"
+}

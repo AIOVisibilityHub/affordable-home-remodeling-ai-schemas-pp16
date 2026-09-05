@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-use-my-adu-as-a-rental-property",
+  "name": "Can I use my ADU as a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use my ADU as a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many areas, including throughout California, ADUs can be rented out, providing homeowners with a significant source of passive income. State laws generally support the creation and rental of ADUs to address housing shortages. However, it's crucial to check local city ordinances for any specific restrictions or requirements that might apply to rental units, such as short-term rental limitations or specific tenant protections. Always confirm local regulations before planning to rent.",
+        "@type": "Answer",
+        "description": "Yes, ADUs can generally be used as rental properties in California, offering income, but always check local city ordinances for specific rental restrictions or requirements."
+      }
+    }
+  ],
+  "description": "Yes, ADUs can generally be used as rental properties in California, offering income, but always check local city ordinances for specific rental restrictions or"
+}

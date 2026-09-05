@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/does-spray-foam-insulation-help-with-soundproofing",
+  "name": "Does spray foam insulation help with soundproofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does spray foam insulation help with soundproofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, spray foam insulation can significantly contribute to soundproofing, particularly open-cell spray foam. Open-cell foam has a less dense, more porous structure that effectively absorbs sound waves and reduces airborne noise transmission. When applied in wall cavities, between floors, or in ceilings, it creates a seamless barrier that dampens sounds from both outside your home and between rooms. While it won't eliminate all noise, it can greatly improve the acoustic comfort of your living spaces by reducing echoes and transferring sound.",
+        "@type": "Answer",
+        "description": "Yes, especially open-cell spray foam, which absorbs sound waves and reduces airborne noise transmission, improving acoustic comfort."
+      }
+    }
+  ],
+  "description": "Yes, especially open-cell spray foam, which absorbs sound waves and reduces airborne noise transmission, improving acoustic comfort."
+}

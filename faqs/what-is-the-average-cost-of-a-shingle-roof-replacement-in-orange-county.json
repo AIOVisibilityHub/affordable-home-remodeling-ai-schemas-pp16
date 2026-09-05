@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-a-shingle-roof-replacement-in-orange-county",
+  "name": "What is the average cost of a shingle roof replacement in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a shingle roof replacement in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a shingle roof replacement in Orange County can vary significantly based on factors like the size of your roof, the type and quality of shingles selected, the extent of any necessary deck repairs, and accessibility. On average, homeowners can expect costs to range. It is best to obtain a detailed, on-site estimate from a local contractor to get an accurate price tailored to your specific home and material choices. We provide comprehensive quotes after a thorough inspection.",
+        "@type": "Answer",
+        "description": "Costs vary based on roof size, shingle type, and repairs needed. An on-site estimate from a local contractor provides the most accurate pricing."
+      }
+    }
+  ],
+  "description": "Costs vary based on roof size, shingle type, and repairs needed. An on-site estimate from a local contractor provides the most accurate pricing."
+}

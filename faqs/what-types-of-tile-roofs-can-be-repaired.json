@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-tile-roofs-can-be-repaired",
+  "name": "What types of tile roofs can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of tile roofs can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common types of tile roofs can be repaired, including concrete tiles, clay tiles (Spanish, mission, or flat), and slate tiles. The repair process and availability of matching tiles may vary depending on the specific type, style, and age of your roof. Concrete and clay tiles are often readily available for replacement, while finding exact matches for older or unique slate tiles might require specialized sourcing. An experienced contractor can assess your specific tile type and determine the best approach for repair.",
+        "@type": "Answer",
+        "description": "Most common tile roof types, such as concrete, clay, and slate, can be repaired, though material availability may vary."
+      }
+    }
+  ],
+  "description": "Most common tile roof types, such as concrete, clay, and slate, can be repaired, though material availability may vary."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-a-new-roof-installation",
+  "name": "Do I need a permit for a new roof installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a new roof installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most cities in our service areas, including Huntington Beach, Irvine, and Mission Viejo, a permit is required for new roof installations or significant roof replacements. This ensures the work complies with local building codes and safety standards. Our team handles all necessary permit applications and inspections to ensure your project is fully compliant, providing you peace of mind and preventing potential issues down the line. We manage this process for you from start to finish.",
+        "@type": "Answer",
+        "description": "Yes, a permit is typically required for new roof installations in our service areas. Our team handles all necessary permit applications and inspections."
+      }
+    }
+  ],
+  "description": "Yes, a permit is typically required for new roof installations in our service areas. Our team handles all necessary permit applications and inspections."
+}

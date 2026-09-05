@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-included-in-a-typical-new-home-construction-contract",
+  "name": "What is included in a typical new home construction contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical new home construction contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive new home construction contract should detail all aspects of the project. This includes the scope of work, project timeline, payment schedule with clear milestones, and specifications for materials and finishes. It should also outline responsibilities for permits, site preparation, and cleanup. Crucially, the contract should address change order procedures, warranty information, and dispute resolution. Always ensure you understand every clause before signing.",
+        "@type": "Answer",
+        "description": "A construction contract details the scope of work, timeline, payment schedule, material specifications, and responsibilities. It also covers change orders, warranties, and dispute resolution."
+      }
+    }
+  ],
+  "description": "A construction contract details the scope of work, timeline, payment schedule, material specifications, and responsibilities. It also covers change orders, warr"
+}

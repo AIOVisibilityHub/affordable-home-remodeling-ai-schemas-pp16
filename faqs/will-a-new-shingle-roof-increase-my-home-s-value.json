@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-a-new-shingle-roof-increase-my-home-s-value",
+  "name": "Will a new shingle roof increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a new shingle roof increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new shingle roof replacement is a significant home improvement that can positively impact your home's value and curb appeal. Buyers often prioritize homes with updated roofs as it signals fewer immediate maintenance concerns and better protection. The return on investment for a new roof can be substantial, often recouping a large percentage of the cost at resale. Beyond monetary value, it also enhances energy efficiency and provides peace of mind, making your home more attractive to potential buyers.",
+        "@type": "Answer",
+        "description": "Yes, a new shingle roof can increase home value and curb appeal by signaling fewer maintenance concerns, improving energy efficiency, and providing peace of mind."
+      }
+    }
+  ],
+  "description": "Yes, a new shingle roof can increase home value and curb appeal by signaling fewer maintenance concerns, improving energy efficiency, and providing peace of min"
+}

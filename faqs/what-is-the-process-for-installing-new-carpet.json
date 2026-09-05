@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-installing-new-carpet",
+  "name": "What is the process for installing new carpet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing new carpet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Carpet installation typically begins with removing old flooring and preparing the subfloor, ensuring it's clean, dry, and smooth. Next, tack strips are installed around the perimeter of the room, followed by the carpet padding. The new carpet is then laid out, stretched to prevent wrinkles, and secured to the tack strips. Finally, seams are joined, edges are trimmed, and transitions to other flooring types are completed.",
+        "@type": "Answer",
+        "description": "The process involves removing old flooring, preparing the subfloor, installing tack strips and padding, laying and stretching the new carpet, and finishing seams and edges."
+      }
+    }
+  ],
+  "description": "The process involves removing old flooring, preparing the subfloor, installing tack strips and padding, laying and stretching the new carpet, and finishing seam"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-considerations-are-important-when-choosing-a-contractor-for-an-adu-conversi",
+  "name": "What considerations are important when choosing a contractor for an ADU conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important when choosing a contractor for an ADU conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your ADU conversion, prioritize experience specifically with ADU projects and local regulations in areas like Irvine or Yorba Linda. Look for contractors with proper licensing, insurance, and a strong portfolio of completed projects. Good communication, transparent pricing, and positive client testimonials are also crucial. Ensure they handle the entire process, from design and permitting to construction.",
+        "@type": "Answer",
+        "description": "Choose a contractor with ADU-specific experience, proper licensing, insurance, strong communication, transparent pricing, and positive references, especially in your local area."
+      }
+    }
+  ],
+  "description": "Choose a contractor with ADU-specific experience, proper licensing, insurance, strong communication, transparent pricing, and positive references, especially in"
+}

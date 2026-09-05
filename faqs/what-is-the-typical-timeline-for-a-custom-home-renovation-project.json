@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-a-custom-home-renovation-project",
+  "name": "What is the typical timeline for a custom home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a custom home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom home renovation varies significantly based on the project's scope and complexity. Small projects, like a bathroom remodel, might take 4-8 weeks. Larger projects, such as a whole-home renovation or a major addition, could extend from 3-6 months or even longer. This includes design, permitting, material selection, and construction phases. We establish a detailed project schedule upfront, keeping you informed at every stage to ensure timely completion.",
+        "@type": "Answer",
+        "description": "Project timelines vary greatly; small renovations take 4-8 weeks, while larger ones can be 3-6 months or more, depending on scope and complexity."
+      }
+    }
+  ],
+  "description": "Project timelines vary greatly; small renovations take 4-8 weeks, while larger ones can be 3-6 months or more, depending on scope and complexity."
+}

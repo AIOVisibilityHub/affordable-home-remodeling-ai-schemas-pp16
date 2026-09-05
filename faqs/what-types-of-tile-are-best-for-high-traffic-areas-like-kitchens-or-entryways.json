@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-tile-are-best-for-high-traffic-areas-like-kitchens-or-entryways",
+  "name": "What types of tile are best for high-traffic areas like kitchens or entryways?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of tile are best for high-traffic areas like kitchens or entryways?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For high-traffic areas, durable tile options are essential. Porcelain tile is an excellent choice due to its high density, low porosity, and resistance to scratches, stains, and moisture. Ceramic tile, specifically glazed ceramic, also offers good durability and is a more budget-friendly option. Natural stone tiles like granite or slate can withstand heavy use but require more maintenance, including regular sealing. Consider the PEI (Porcelain Enamel Institute) rating, where a higher rating indicates greater durability, typically PEI Class III or IV for these areas.",
+        "@type": "Answer",
+        "description": "Porcelain tile is highly recommended for high-traffic areas due to its durability and resistance to wear. Glazed ceramic tile is also a good, more affordable option."
+      }
+    }
+  ],
+  "description": "Porcelain tile is highly recommended for high-traffic areas due to its durability and resistance to wear. Glazed ceramic tile is also a good, more affordable op"
+}

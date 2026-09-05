@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-rental-property-renovation-take",
+  "name": "How long does a typical rental property renovation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical rental property renovation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a rental property renovation depends heavily on the project's complexity and size. Small cosmetic updates, like painting and new flooring in a single room, might take a few days to a week. A full kitchen or bathroom remodel can typically last 2 to 4 weeks. Extensive renovations involving multiple rooms, structural changes, or permitting processes could extend to several weeks or even months. Proper planning, efficient scheduling, and clear communication with your contractor can help keep the project on track and minimize downtime between tenants.",
+        "@type": "Answer",
+        "description": "Renovation timelines vary from a few days for minor updates to several weeks or months for extensive projects, depending on complexity and scope."
+      }
+    }
+  ],
+  "description": "Renovation timelines vary from a few days for minor updates to several weeks or months for extensive projects, depending on complexity and scope."
+}

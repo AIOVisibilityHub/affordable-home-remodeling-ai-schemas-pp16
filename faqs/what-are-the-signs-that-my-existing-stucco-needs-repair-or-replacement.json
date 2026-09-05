@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-that-my-existing-stucco-needs-repair-or-replacement",
+  "name": "What are the signs that my existing stucco needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my existing stucco needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your stucco may need repair or replacement. Common issues include visible cracks, especially spiderweb or hairline cracks that can allow moisture intrusion. Staining, discoloration, or efflorescence (white powdery deposits) often point to moisture problems. Crumbling, softening, or blistering stucco suggests degradation. Additionally, impact damage or areas where stucco has detached from the underlying wall are clear indicators. Addressing these issues promptly can prevent more extensive damage to your home's structure and maintain its aesthetic appeal.",
+        "@type": "Answer",
+        "description": "Signs your stucco needs repair or replacement include cracks, staining, discoloration, crumbling, softening, blistering, or detachment from the wall."
+      }
+    }
+  ],
+  "description": "Signs your stucco needs repair or replacement include cracks, staining, discoloration, crumbling, softening, blistering, or detachment from the wall."
+}

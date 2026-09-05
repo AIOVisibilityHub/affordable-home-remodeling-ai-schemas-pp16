@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-repairing-my-exterior-stucco",
+  "name": "When should I consider repairing my exterior stucco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing my exterior stucco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider repairing your exterior stucco when you observe visible cracks, chips, soft spots, or discoloration. Small cracks can allow moisture to penetrate, leading to more significant damage like mold growth, wood rot, or detachment from the wall. Addressing these issues promptly can prevent extensive and costly repairs later, preserving your home's structural integrity and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "Consider stucco repair when you see cracks, chips, soft spots, or discoloration to prevent further damage."
+      }
+    }
+  ],
+  "description": "Consider stucco repair when you see cracks, chips, soft spots, or discoloration to prevent further damage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-stucco-be-applied-over-existing-siding-like-wood-or-brick",
+  "name": "Can stucco be applied over existing siding like wood or brick?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can stucco be applied over existing siding like wood or brick?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Applying stucco over existing siding is possible but requires careful preparation to ensure proper adhesion and longevity. If the existing siding is wood, it typically needs to be covered with a weather barrier, such as building paper, followed by a metal lath before stucco application. For brick, the surface usually needs to be clean, sound, and sometimes requires a bonding agent or lath depending on the brick's condition and porosity. Proper assessment by a contractor is crucial to determine if your existing siding is suitable for a stucco overlay and what preparation steps are necessary.",
+        "@type": "Answer",
+        "description": "Stucco can be applied over existing wood or brick siding, but it requires proper surface preparation, including a weather barrier and metal lath, to ensure adhesion."
+      }
+    }
+  ],
+  "description": "Stucco can be applied over existing wood or brick siding, but it requires proper surface preparation, including a weather barrier and metal lath, to ensure adhe"
+}

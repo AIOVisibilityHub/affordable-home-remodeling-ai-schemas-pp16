@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-spray-foam-insulation",
+  "name": "What is spray foam insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is spray foam insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Spray foam insulation is a liquid mixture applied through a spray gun that expands and hardens into an insulating layer. It creates an effective air barrier, sealing gaps and preventing air leakage more thoroughly than traditional insulation types. This can significantly improve energy efficiency by reducing heat transfer and maintaining consistent indoor temperatures. There are two main types: open-cell and closed-cell, each with distinct properties suited for different applications within a home.",
+        "@type": "Answer",
+        "description": "Spray foam insulation is a liquid mixture that expands into an insulating layer, creating an air barrier to improve energy efficiency."
+      }
+    }
+  ],
+  "description": "Spray foam insulation is a liquid mixture that expands into an insulating layer, creating an air barrier to improve energy efficiency."
+}

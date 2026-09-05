@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-preparation-do-i-need-to-do-before-roofers-arrive",
+  "name": "What preparation do I need to do before roofers arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation do I need to do before roofers arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the roofing crew arrives, it's helpful to take a few preparatory steps. Clear the driveway and surrounding areas to provide unobstructed access for materials and equipment. Remove any fragile items, decorative elements, or vehicles from around your home to prevent accidental damage. Cover sensitive plants or outdoor furniture, and ensure pets are secured indoors. Inform your neighbors about the upcoming work as it can be noisy. This helps streamline the process and protects your property.",
+        "@type": "Answer",
+        "description": "Clear the work area, remove fragile items and vehicles, cover plants, secure pets, and inform neighbors. These steps protect your property and streamline the installation."
+      }
+    }
+  ],
+  "description": "Clear the work area, remove fragile items and vehicles, cover plants, secure pets, and inform neighbors. These steps protect your property and streamline the in"
+}

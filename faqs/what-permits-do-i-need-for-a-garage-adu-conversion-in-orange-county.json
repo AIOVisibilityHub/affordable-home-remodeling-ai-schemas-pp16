@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-do-i-need-for-a-garage-adu-conversion-in-orange-county",
+  "name": "What permits do I need for a garage ADU conversion in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits do I need for a garage ADU conversion in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a garage into an ADU in Orange County requires multiple permits, including building permits, zoning clearance, and potentially plumbing, electrical, and mechanical permits. The specific requirements can vary slightly between cities like Huntington Beach, Irvine, and Mission Viejo, but generally involve adherence to local building codes, safety standards, and ADU ordinances. Our team assists clients with navigating the local permitting process to ensure compliance.",
+        "@type": "Answer",
+        "description": "Multiple permits are needed in Orange County, including building, zoning, plumbing, electrical, and mechanical. Requirements vary by specific city, but all must comply with local ADU ordinances."
+      }
+    }
+  ],
+  "description": "Multiple permits are needed in Orange County, including building, zoning, plumbing, electrical, and mechanical. Requirements vary by specific city, but all must"
+}

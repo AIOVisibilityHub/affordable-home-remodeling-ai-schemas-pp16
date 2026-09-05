@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-stay-in-my-home-during-a-custom-renovation",
+  "name": "Can I stay in my home during a custom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a custom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during a custom renovation depends heavily on the project's scale and the areas being renovated. For minor updates like a single bathroom, staying might be feasible with some inconvenience. However, for whole-home renovations, major kitchen remodels, or projects involving significant dust, noise, or utility shut-offs, temporarily relocating is often recommended for safety, comfort, and project efficiency. We can discuss these logistics during planning.",
+        "@type": "Answer",
+        "description": "Staying home during renovation depends on the project's scale; minor work might allow it, but major renovations often require temporary relocation for safety and comfort."
+      }
+    }
+  ],
+  "description": "Staying home during renovation depends on the project's scale; minor work might allow it, but major renovations often require temporary relocation for safety an"
+}

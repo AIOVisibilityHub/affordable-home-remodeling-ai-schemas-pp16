@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/should-i-purchase-land-before-hiring-a-general-contractor-for-new-home-construct",
+  "name": "Should I purchase land before hiring a general contractor for new home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I purchase land before hiring a general contractor for new home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally advisable to involve a general contractor or at least consult with one before purchasing land for a new home. A contractor can provide valuable insights on the feasibility of building on a specific lot, potential site preparation costs (e.g., grading, utility connections), and zoning restrictions. Their expertise can help you avoid costly surprises and ensure the land is suitable for your desired home design, saving you time and money in the long run.",
+        "@type": "Answer",
+        "description": "Consulting a general contractor before buying land is recommended. They can assess the lot's suitability, potential site costs, and zoning, helping you avoid surprises."
+      }
+    }
+  ],
+  "description": "Consulting a general contractor before buying land is recommended. They can assess the lot's suitability, potential site costs, and zoning, helping you avoid su"
+}

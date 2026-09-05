@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/is-it-better-to-install-hardwood-flooring-before-or-after-painting",
+  "name": "Is it better to install hardwood flooring before or after painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to install hardwood flooring before or after painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to complete all painting tasks before installing hardwood flooring. This prevents paint drips or spills from damaging the newly installed floor. While installers take precautions, overspray or accidental drips are easier to clean from a subfloor or unfinished surface. Installing floors after painting also protects them from heavy foot traffic during the painting process.",
+        "@type": "Answer",
+        "description": "It is best to complete all painting before hardwood flooring installation to prevent damage from drips or spills and protect the new floors."
+      }
+    }
+  ],
+  "description": "It is best to complete all painting before hardwood flooring installation to prevent damage from drips or spills and protect the new floors."
+}

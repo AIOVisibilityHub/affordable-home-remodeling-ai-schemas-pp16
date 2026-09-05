@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-factors-should-i-consider-when-choosing-an-insulation-contractor-for-spray",
+  "name": "What factors should I consider when choosing an insulation contractor for spray foam?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing an insulation contractor for spray foam?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for spray foam insulation, consider their experience with spray foam applications, as it requires specialized equipment and expertise. Look for certifications and proper licensing, which indicate adherence to industry standards and safety protocols. Request references or review past projects to assess their quality of work and customer satisfaction. It's also important to ensure they are familiar with local building codes in areas like Yorba Linda or Mission Viejo and offer a clear warranty for their services and the materials used. A thorough quote and professional assessment are also key.",
+        "@type": "Answer",
+        "description": "Look for experience, certifications, licenses, references, and familiarity with local building codes. Ensure they offer a clear warranty and a professional assessment."
+      }
+    }
+  ],
+  "description": "Look for experience, certifications, licenses, references, and familiarity with local building codes. Ensure they offer a clear warranty and a professional asse"
+}

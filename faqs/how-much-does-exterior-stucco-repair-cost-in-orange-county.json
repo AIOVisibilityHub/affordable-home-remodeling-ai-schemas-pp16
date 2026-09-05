@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-exterior-stucco-repair-cost-in-orange-county",
+  "name": "How much does exterior stucco repair cost in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does exterior stucco repair cost in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior stucco repair in Orange County varies significantly based on the damage's size, location, and complexity. Minor cracks might be a few hundred dollars, while extensive damage requiring scaffolding or water intrusion remediation can range from several thousands. Factors like matching existing texture and color also influence the price. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Stucco repair costs in Orange County depend on the damage's size and complexity, ranging from hundreds for minor fixes to thousands for extensive repairs."
+      }
+    }
+  ],
+  "description": "Stucco repair costs in Orange County depend on the damage's size and complexity, ranging from hundreds for minor fixes to thousands for extensive repairs."
+}

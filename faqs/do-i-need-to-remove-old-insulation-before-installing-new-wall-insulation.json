@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-remove-old-insulation-before-installing-new-wall-insulation",
+  "name": "Do I need to remove old insulation before installing new wall insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove old insulation before installing new wall insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, it's not strictly necessary to remove existing wall insulation, especially if it's in good condition and not compromised by moisture, pests, or damage. New insulation can often be blown in over or alongside the old material, provided there's enough space and the old insulation isn't causing issues. However, if the existing insulation is moldy, water-damaged, pest-infested, or has settled significantly, removal is highly recommended to ensure the effectiveness and health benefits of the new installation. A professional assessment will determine the best approach.",
+        "@type": "Answer",
+        "description": "Removal isn't always needed unless old insulation is damaged or compromised. New insulation can often be installed over existing material, but a professional assessment is best."
+      }
+    }
+  ],
+  "description": "Removal isn't always needed unless old insulation is damaged or compromised. New insulation can often be installed over existing material, but a professional as"
+}

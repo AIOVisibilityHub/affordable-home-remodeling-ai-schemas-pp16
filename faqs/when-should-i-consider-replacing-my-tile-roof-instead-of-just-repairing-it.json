@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-replacing-my-tile-roof-instead-of-just-repairing-it",
+  "name": "When should I consider replacing my tile roof instead of just repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my tile roof instead of just repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your tile roof rather than repairing it when repairs become frequent, extensive, or no longer cost-effective. If your roof is nearing the end of its typical lifespan (50+ years for many tile types), or if there's widespread damage to the underlayment, multiple areas of leakage, or significant structural issues, replacement might be the more economical long-term solution. A professional assessment can help determine if repeated repairs are a temporary fix for a larger, systemic problem.",
+        "@type": "Answer",
+        "description": "Consider replacing your tile roof if repairs are frequent, extensive, or no longer cost-effective, especially if the roof is nearing its lifespan or has widespread damage."
+      }
+    }
+  ],
+  "description": "Consider replacing your tile roof if repairs are frequent, extensive, or no longer cost-effective, especially if the roof is nearing its lifespan or has widespr"
+}

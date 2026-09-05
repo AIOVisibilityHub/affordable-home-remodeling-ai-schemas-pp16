@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-needed-for-new-home-construction-in-huntington-beach",
+  "name": "What permits are needed for new home construction in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for new home construction in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New home construction in Huntington Beach requires various permits from the city's building department. These typically include a building permit, electrical permit, plumbing permit, and mechanical permit. Depending on the project, you may also need permits for grading, demolition, or specific environmental considerations. Your general contractor will usually manage the permit application process, ensuring all necessary approvals are secured before construction begins to comply with local codes and zoning ordinances.",
+        "@type": "Answer",
+        "description": "New home construction in Huntington Beach requires building, electrical, plumbing, and mechanical permits. Your general contractor typically handles securing these permits."
+      }
+    }
+  ],
+  "description": "New home construction in Huntington Beach requires building, electrical, plumbing, and mechanical permits. Your general contractor typically handles securing th"
+}

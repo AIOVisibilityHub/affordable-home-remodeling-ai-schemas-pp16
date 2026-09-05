@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-common-challenges-or-hurdles-in-a-garage-adu-conversion",
+  "name": "What are the common challenges or hurdles in a garage ADU conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges or hurdles in a garage ADU conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in garage ADU conversions include navigating complex local zoning laws and permitting processes, ensuring the existing garage structure can support the conversion, and managing potential utility upgrades (electrical, plumbing). Noise and privacy concerns with neighbors, parking requirements, and unexpected structural issues during construction can also arise. Experienced contractors can help mitigate these challenges.",
+        "@type": "Answer",
+        "description": "Challenges include zoning and permitting, structural integrity, utility upgrades, neighbor concerns, parking, and unforeseen construction issues."
+      }
+    }
+  ],
+  "description": "Challenges include zoning and permitting, structural integrity, utility upgrades, neighbor concerns, parking, and unforeseen construction issues."
+}

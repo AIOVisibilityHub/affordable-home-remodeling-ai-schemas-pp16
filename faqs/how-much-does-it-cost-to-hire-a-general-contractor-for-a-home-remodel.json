@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-it-cost-to-hire-a-general-contractor-for-a-home-remodel",
+  "name": "How much does it cost to hire a general contractor for a home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to hire a general contractor for a home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of hiring a general contractor varies significantly based on the project's scope, complexity, materials chosen, and regional labor rates. General contractor fees typically range from 10% to 20% of the total project cost. This fee covers their overhead, project management, insurance, and profit. For an accurate estimate, it's essential to have a detailed discussion about your specific project requirements, as contractors provide custom quotes rather than fixed prices.",
+        "@type": "Answer",
+        "description": "General contractor costs vary based on project scope, materials, and complexity, typically ranging from 10% to 20% of the total project cost."
+      }
+    }
+  ],
+  "description": "General contractor costs vary based on project scope, materials, and complexity, typically ranging from 10% to 20% of the total project cost."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-should-i-hire-a-general-contractor-for-my-home-renovation",
+  "name": "When should I hire a general contractor for my home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a general contractor for my home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a general contractor when your home renovation project involves multiple trades, requires permits, or is complex enough that you don't have the time or expertise to manage it yourself. This typically includes kitchen and bathroom remodels, room additions, or whole-home renovations. For smaller, single-trade jobs like painting a room or replacing a faucet, a general contractor may not be necessary.",
+        "@type": "Answer",
+        "description": "Hire a general contractor for complex home renovations involving multiple trades or permits, such as kitchen remodels, additions, or whole-home projects."
+      }
+    }
+  ],
+  "description": "Hire a general contractor for complex home renovations involving multiple trades or permits, such as kitchen remodels, additions, or whole-home projects."
+}

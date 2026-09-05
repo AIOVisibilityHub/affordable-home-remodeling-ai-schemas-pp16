@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-home-addition-project-take",
+  "name": "How long does a typical home addition project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home addition project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a home addition project varies significantly based on its size, complexity, and the specific permitting requirements of your city, such as Irvine or Yorba Linda. Generally, a small-to-medium addition might take 4-8 months from design to completion, including permitting, demolition, construction, and finishing touches. Larger or more complex projects, like second-story additions, can extend to 8-12 months or more. Unexpected discoveries during demolition, weather delays, or material lead times can also impact the schedule. We prioritize clear communication and detailed project planning to manage expectations and minimize delays.",
+        "@type": "Answer",
+        "description": "A typical home addition can take 4-12 months, depending on size, complexity, and local permitting. Factors like unexpected discoveries or material availability can influence the timeline."
+      }
+    }
+  ],
+  "description": "A typical home addition can take 4-12 months, depending on size, complexity, and local permitting. Factors like unexpected discoveries or material availability"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-flashing-and-why-is-it-important-for-tile-roof-repair",
+  "name": "What is flashing, and why is it important for tile roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is flashing, and why is it important for tile roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flashing refers to thin pieces of impervious material, typically metal (like aluminum, copper, or galvanized steel), installed to prevent water penetration at vulnerable areas of a roof. On a tile roof, flashing is crucial around chimneys, skylights, vents, valleys, and roof-to-wall intersections. During repair, damaged or improperly installed flashing is a common cause of leaks. Replacing or repairing compromised flashing ensures these critical junctions are waterproof, directing water away from the roof structure and preventing interior damage.",
+        "@type": "Answer",
+        "description": "Flashing is impervious material, often metal, used to prevent water penetration at roof junctions like chimneys and vents; its repair is vital for preventing leaks in tile roofs."
+      }
+    }
+  ],
+  "description": "Flashing is impervious material, often metal, used to prevent water penetration at roof junctions like chimneys and vents; its repair is vital for preventing le"
+}

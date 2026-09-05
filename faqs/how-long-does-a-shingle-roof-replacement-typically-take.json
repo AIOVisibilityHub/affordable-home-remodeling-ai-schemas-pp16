@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-shingle-roof-replacement-typically-take",
+  "name": "How long does a shingle roof replacement typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a shingle roof replacement typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a shingle roof replacement depends on several factors, including the size and complexity of your roof, weather conditions, and the crew size. For an average-sized residential home, the process typically takes between 2 to 5 days from start to finish. This includes removing old shingles, making any necessary deck repairs, installing new underlayment, and laying down the new shingles.",
+        "@type": "Answer",
+        "description": "A shingle roof replacement for an average home usually takes 2 to 5 days, depending on roof size and weather."
+      }
+    }
+  ],
+  "description": "A shingle roof replacement for an average home usually takes 2 to 5 days, depending on roof size and weather."
+}

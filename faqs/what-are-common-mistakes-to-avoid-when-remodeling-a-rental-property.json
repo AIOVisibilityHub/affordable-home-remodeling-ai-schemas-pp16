@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-common-mistakes-to-avoid-when-remodeling-a-rental-property",
+  "name": "What are common mistakes to avoid when remodeling a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common mistakes to avoid when remodeling a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Avoid over-improving the property beyond what the local market can support; aim for a mid-range appeal. Not obtaining necessary permits can lead to legal issues and fines. Neglecting durable materials in favor of cheaper, less robust options often results in higher long-term maintenance costs. Failing to vet contractors properly or having an unclear contract can cause delays and disputes. Also, ensure you understand tenant rights and local regulations to avoid legal complications during the renovation process.",
+        "@type": "Answer",
+        "description": "Common mistakes include over-improving, neglecting permits, using low-quality materials, poor contractor vetting, and ignoring tenant rights or local regulations."
+      }
+    }
+  ],
+  "description": "Common mistakes include over-improving, neglecting permits, using low-quality materials, poor contractor vetting, and ignoring tenant rights or local regulation"
+}

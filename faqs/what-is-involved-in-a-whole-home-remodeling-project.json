@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-a-whole-home-remodeling-project",
+  "name": "What is involved in a whole-home remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a whole-home remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-home remodeling project typically involves significant changes to multiple areas of your house, often including structural modifications, reconfiguring layouts, updating kitchens and bathrooms, and upgrading electrical or plumbing systems. It goes beyond cosmetic updates to transform the function, flow, and aesthetics of your entire living space. This type of project requires careful planning, design, and coordination across various trades to ensure a cohesive and successful outcome that aligns with your vision and budget.",
+        "@type": "Answer",
+        "description": "A whole-home remodel involves extensive changes to multiple areas of your house, including structural work, layout reconfigurations, and system upgrades, transforming the entire living space."
+      }
+    }
+  ],
+  "description": "A whole-home remodel involves extensive changes to multiple areas of your house, including structural work, layout reconfigurations, and system upgrades, transf"
+}

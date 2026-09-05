@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-most-popular-stucco-textures-for-homes-in-orange-county",
+  "name": "What are the most popular stucco textures for homes in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most popular stucco textures for homes in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Orange County, popular stucco textures often include smooth, Santa Barbara, and dash finishes. Smooth stucco offers a contemporary, clean look. Santa Barbara provides a slightly distressed, hand-troweled appearance, adding character. Dash finishes are created by flicking stucco onto the surface, resulting in a coarse, uniform texture. The choice depends on the architectural style of the home and desired aesthetic, balancing modern appeal with traditional charm often seen in local residences.",
+        "@type": "Answer",
+        "description": "Popular stucco textures in Orange County include smooth, Santa Barbara, and dash finishes, each offering distinct aesthetic and architectural styles."
+      }
+    }
+  ],
+  "description": "Popular stucco textures in Orange County include smooth, Santa Barbara, and dash finishes, each offering distinct aesthetic and architectural styles."
+}

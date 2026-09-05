@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-common-mistakes-to-avoid-during-an-investment-property-renovation",
+  "name": "What are common mistakes to avoid during an investment property renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common mistakes to avoid during an investment property renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common mistakes include underestimating the budget and not allocating a contingency fund, failing to obtain necessary permits, and choosing overly personalized or low-quality materials. Another pitfall is neglecting to research the target rental market, leading to renovations that don't appeal to potential tenants. Poor communication with contractors, changing plans frequently, and not establishing clear timelines can also cause significant delays and cost overruns. Always prioritize functionality and broad appeal over niche aesthetics.",
+        "@type": "Answer",
+        "description": "Avoid under-budgeting, ignoring permits, using poor-quality or overly personalized materials, and neglecting target market research. Poor communication and frequent plan changes also cause issues."
+      }
+    }
+  ],
+  "description": "Avoid under-budgeting, ignoring permits, using poor-quality or overly personalized materials, and neglecting target market research. Poor communication and freq"
+}

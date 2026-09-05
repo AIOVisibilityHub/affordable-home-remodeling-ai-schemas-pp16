@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-an-adu-increase-my-property-value-and-by-how-much",
+  "name": "Will an ADU increase my property value and by how much?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an ADU increase my property value and by how much?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An ADU can significantly increase property value, often providing a strong return on investment, especially in high-demand housing markets. The exact increase depends on factors like the ADU's size, quality of construction, functionality, and local market conditions. Appraisers consider the ADU's rental income potential, additional living space, and amenities. While not guaranteed, an ADU can make your property more attractive to potential buyers and generate income, boosting its overall worth.",
+        "@type": "Answer",
+        "description": "An ADU can significantly increase property value due to added living space, rental income potential, and market demand, though the exact increase varies by project and location."
+      }
+    }
+  ],
+  "description": "An ADU can significantly increase property value due to added living space, rental income potential, and market demand, though the exact increase varies by proj"
+}

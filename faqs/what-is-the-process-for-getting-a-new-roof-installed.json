@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-getting-a-new-roof-installed",
+  "name": "What is the process for getting a new roof installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting a new roof installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a detailed inspection and free estimate, where we assess your current roof and discuss material options. Once materials are selected and the contract is signed, we obtain necessary permits. On installation day, we protect your property, remove the old roof, inspect the deck, make any necessary repairs, install new underlayment and flashing, and then lay the new roofing material. Finally, we conduct a thorough cleanup and final inspection.",
+        "@type": "Answer",
+        "description": "The process involves inspection and estimate, material selection, permitting, old roof removal, deck repair, new material installation, and final cleanup."
+      }
+    }
+  ],
+  "description": "The process involves inspection and estimate, material selection, permitting, old roof removal, deck repair, new material installation, and final cleanup."
+}

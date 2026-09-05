@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-a-custom-kitchen-renovation-increase-my-home-s-value",
+  "name": "Can a custom kitchen renovation increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a custom kitchen renovation increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-executed custom kitchen renovation can significantly increase your home's resale value and appeal. Kitchens are often considered the heart of a home, and modern, functional, and aesthetically pleasing kitchens are highly sought after by potential buyers. While specific returns on investment vary based on market conditions and renovation costs, homeowners typically recoup a substantial portion of their investment, alongside enjoying the enhanced living experience while they own the home.",
+        "@type": "Answer",
+        "description": "Yes, a quality custom kitchen renovation can significantly increase your home's value and appeal to potential buyers, offering a strong return on investment."
+      }
+    }
+  ],
+  "description": "Yes, a quality custom kitchen renovation can significantly increase your home's value and appeal to potential buyers, offering a strong return on investment."
+}

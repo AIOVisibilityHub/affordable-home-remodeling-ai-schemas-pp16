@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-to-install-tile-flooring-per-square-foot",
+  "name": "What is the average cost to install tile flooring per square foot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install tile flooring per square foot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The average cost to install tile flooring can range significantly, typically between $10 to $25 per square foot, including both materials and labor. This range depends on several factors: the type and quality of tile selected (e.g., ceramic, porcelain, natural stone), the complexity of the installation (e.g., intricate patterns, difficult cuts), subfloor preparation requirements, and local labor rates. More premium materials and custom designs will place the cost at the higher end of the spectrum. Always request a detailed estimate.",
+        "@type": "Answer",
+        "description": "Tile installation generally costs $10-$25 per square foot, covering both materials and labor. This varies based on tile type, installation complexity, and necessary subfloor work."
+      }
+    }
+  ],
+  "description": "Tile installation generally costs $10-$25 per square foot, covering both materials and labor. This varies based on tile type, installation complexity, and neces"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-general-contractor-and-a-handyman-for-remodelin",
+  "name": "What is the difference between a general contractor and a handyman for remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general contractor and a handyman for remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor is licensed and insured to manage and execute large-scale, complex remodeling projects that often require multiple trades (e.g., plumbing, electrical, carpentry, masonry). They oversee the entire project, from design to completion, including hiring subcontractors, managing budgets, and securing permits. A handyman typically handles smaller repairs, maintenance tasks, or minor improvements that do not involve significant structural changes or require permits. For substantial remodels, a general contractor is the appropriate choice.",
+        "@type": "Answer",
+        "description": "A general contractor manages complex, multi-trade remodels and secures permits, while a handyman handles smaller repairs and minor improvements without structural changes."
+      }
+    }
+  ],
+  "description": "A general contractor manages complex, multi-trade remodels and secures permits, while a handyman handles smaller repairs and minor improvements without structur"
+}

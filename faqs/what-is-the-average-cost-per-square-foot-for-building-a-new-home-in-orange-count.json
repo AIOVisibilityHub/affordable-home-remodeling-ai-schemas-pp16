@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-per-square-foot-for-building-a-new-home-in-orange-count",
+  "name": "What is the average cost per square foot for building a new home in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost per square foot for building a new home in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for new home construction in Orange County can vary significantly, ranging from approximately $250 to over $600, depending on the level of finishes, custom features, and lot preparation required. This estimate usually includes labor and materials, but excludes the cost of the land itself. Factors like architectural style, energy efficiency features, and high-end selections for kitchens and bathrooms will influence the final price.",
+        "@type": "Answer",
+        "description": "In Orange County, new home construction costs can range from $250 to over $600 per square foot, excluding land costs. Final price depends on finishes and custom features."
+      }
+    }
+  ],
+  "description": "In Orange County, new home construction costs can range from $250 to over $600 per square foot, excluding land costs. Final price depends on finishes and custom"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-typical-costs-associated-with-converting-a-garage-into-an-adu",
+  "name": "What are the typical costs associated with converting a garage into an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with converting a garage into an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to convert a garage into an ADU varies significantly based on factors like the size of the garage, the quality of finishes, necessary structural modifications, and plumbing/electrical upgrades. It typically includes design, permitting fees, materials, and labor. A basic conversion might start in the low six figures, but a more complex project with higher-end finishes will be considerably more. We provide detailed estimates after an initial consultation and site assessment.",
+        "@type": "Answer",
+        "description": "Costs vary based on garage size, finishes, and necessary upgrades, typically ranging from the low six figures upwards. A detailed estimate requires an assessment."
+      }
+    }
+  ],
+  "description": "Costs vary based on garage size, finishes, and necessary upgrades, typically ranging from the low six figures upwards. A detailed estimate requires an assessmen"
+}

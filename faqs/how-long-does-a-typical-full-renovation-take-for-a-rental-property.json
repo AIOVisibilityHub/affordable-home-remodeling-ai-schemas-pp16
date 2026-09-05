@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-full-renovation-take-for-a-rental-property",
+  "name": "How long does a typical full renovation take for a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical full renovation take for a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a full renovation for a rental property can vary significantly based on the scope and complexity of the project. A cosmetic refresh involving paint, flooring, and minor updates might take 2-4 weeks. A more extensive renovation including kitchen and bathroom remodels, or minor structural changes, could range from 6-12 weeks. Major overhauls or additions might extend to several months. Factors like permit approval times, material availability, and unforeseen issues can also impact the timeline.",
+        "@type": "Answer",
+        "description": "Renovation timelines vary by scope: cosmetic updates can take 2-4 weeks, while extensive remodels might require 6-12 weeks or more for major overhauls."
+      }
+    }
+  ],
+  "description": "Renovation timelines vary by scope: cosmetic updates can take 2-4 weeks, while extensive remodels might require 6-12 weeks or more for major overhauls."
+}

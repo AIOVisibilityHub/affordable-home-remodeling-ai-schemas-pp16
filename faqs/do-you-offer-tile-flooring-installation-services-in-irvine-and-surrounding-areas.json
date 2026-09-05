@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-you-offer-tile-flooring-installation-services-in-irvine-and-surrounding-areas",
+  "name": "Do you offer tile flooring installation services in Irvine and surrounding areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer tile flooring installation services in Irvine and surrounding areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we specialize in professional tile flooring installation and proudly serve Irvine, Huntington Beach, Orange, Yorba Linda, and Mission Viejo, among other surrounding communities. Our team of experienced general contractors handles all aspects of tile installation, from initial consultation and material selection to meticulous subfloor preparation and expert tile laying. We ensure a high-quality finish for kitchens, bathrooms, entryways, and any other area where you desire durable and beautiful tile flooring. Contact us for a detailed estimate for your specific project in these service areas.",
+        "@type": "Answer",
+        "description": "Yes, we provide professional tile flooring installation in Irvine, Huntington Beach, Orange, Yorba Linda, and Mission Viejo. Contact us for an estimate in these areas."
+      }
+    }
+  ],
+  "description": "Yes, we provide professional tile flooring installation in Irvine, Huntington Beach, Orange, Yorba Linda, and Mission Viejo. Contact us for an estimate in these"
+}

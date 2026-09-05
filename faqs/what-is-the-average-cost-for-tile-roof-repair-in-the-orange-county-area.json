@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-for-tile-roof-repair-in-the-orange-county-area",
+  "name": "What is the average cost for tile roof repair in the Orange County area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost for tile roof repair in the Orange County area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of tile roof repair in areas like Huntington Beach, Irvine, or Mission Viejo varies widely based on the repair's complexity and materials needed. Simple fixes, like replacing a few tiles, might range from a few hundred dollars. More involved repairs, such as addressing leaks, replacing underlayment, or significant sections of tiling, could cost several thousand dollars. Factors influencing the price include the type of tile, roof pitch, accessibility, and the extent of damage. A professional inspection is required for a precise quote.",
+        "@type": "Answer",
+        "description": "Tile roof repair costs in Orange County vary from a few hundred dollars for minor fixes to several thousand for extensive damage, depending on complexity and materials."
+      }
+    }
+  ],
+  "description": "Tile roof repair costs in Orange County vary from a few hundred dollars for minor fixes to several thousand for extensive damage, depending on complexity and ma"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-existing-stucco-be-retextured-or-does-it-need-to-be-removed",
+  "name": "Can existing stucco be retextured, or does it need to be removed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can existing stucco be retextured, or does it need to be removed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, existing stucco can be retextured without needing complete removal, which can save time and cost. If the underlying stucco is in good structural condition with only minor cracks or surface imperfections, a new texture coat can often be applied directly over it. However, if the existing stucco has significant damage, widespread detachment, or moisture issues, removal and reapplication might be necessary to ensure a durable and lasting finish.",
+        "@type": "Answer",
+        "description": "Existing stucco can often be retextured if it's structurally sound; significant damage may require removal and reapplication."
+      }
+    }
+  ],
+  "description": "Existing stucco can often be retextured if it's structurally sound; significant damage may require removal and reapplication."
+}

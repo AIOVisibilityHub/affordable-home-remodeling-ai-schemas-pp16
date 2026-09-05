@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-custom-and-semi-custom-cabinetry",
+  "name": "What is the difference between custom and semi-custom cabinetry?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between custom and semi-custom cabinetry?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom cabinetry is built entirely from scratch to your exact specifications, offering unlimited choices in materials, finishes, dimensions, and design details to fit any space perfectly. Semi-custom cabinetry offers more options than stock cabinets but is still based on a range of pre-defined sizes and styles, allowing for some modifications like depth changes or specific finishes. Custom cabinetry provides the ultimate personalization and fit, while semi-custom offers a balance between customization and cost-effectiveness.",
+        "@type": "Answer",
+        "description": "Custom cabinetry is built to exact specifications for a perfect fit and unlimited design. Semi-custom offers more options than stock but uses pre-defined sizes and styles."
+      }
+    }
+  ],
+  "description": "Custom cabinetry is built to exact specifications for a perfect fit and unlimited design. Semi-custom offers more options than stock but uses pre-defined sizes"
+}

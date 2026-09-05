@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-factors-should-i-consider-before-planning-a-home-addition",
+  "name": "What factors should I consider before planning a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider before planning a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before planning a home addition, consider several key factors. First, evaluate your needs: why do you need more space, and how will it be used? Second, assess your property's limitations, including available lot space, setbacks, and zoning restrictions specific to areas like Irvine or Mission Viejo. Third, determine your budget, including construction costs, permits, and a contingency fund. Fourth, think about how the addition will integrate with your home's existing architecture and flow. Finally, research local contractors and architects to ensure they have the expertise to execute your vision and navigate local regulations effectively.",
+        "@type": "Answer",
+        "description": "Consider your needs, property limitations (zoning/setbacks), budget, architectural integration, and the expertise of local contractors before planning a home addition."
+      }
+    }
+  ],
+  "description": "Consider your needs, property limitations (zoning/setbacks), budget, architectural integration, and the expertise of local contractors before planning a home ad"
+}

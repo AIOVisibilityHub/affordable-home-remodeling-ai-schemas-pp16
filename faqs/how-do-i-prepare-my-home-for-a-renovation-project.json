@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-prepare-my-home-for-a-renovation-project",
+  "name": "How do I prepare my home for a renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for a renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home for a renovation involves several steps to protect your belongings and facilitate the work. This includes clearing furniture and valuables from the work areas, disconnecting electronics, and securing pets. If possible, consider setting up a temporary living space for essential items. We will provide specific instructions tailored to your project, including recommendations for dust protection and access routes for our team and materials.",
+        "@type": "Answer",
+        "description": "Prepare by clearing furniture and valuables, disconnecting electronics, and securing pets. We will provide specific instructions for dust protection and access."
+      }
+    }
+  ],
+  "description": "Prepare by clearing furniture and valuables, disconnecting electronics, and securing pets. We will provide specific instructions for dust protection and access."
+}

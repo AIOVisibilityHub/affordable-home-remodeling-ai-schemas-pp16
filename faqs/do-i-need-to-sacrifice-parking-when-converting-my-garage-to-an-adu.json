@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-sacrifice-parking-when-converting-my-garage-to-an-adu",
+  "name": "Do I need to sacrifice parking when converting my garage to an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to sacrifice parking when converting my garage to an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cities within our service area, including Huntington Beach and Mission Viejo, regulations often require homeowners to provide replacement parking on their property when converting a garage into an ADU. This typically means creating a new parking space in the driveway or on a paved area of the lot. The specific requirements can vary by municipality, so it's essential to check local ordinances during the planning phase.",
+        "@type": "Answer",
+        "description": "Often, yes, you must provide replacement parking on your property when converting a garage to an ADU, as required by local city ordinances."
+      }
+    }
+  ],
+  "description": "Often, yes, you must provide replacement parking on your property when converting a garage to an ADU, as required by local city ordinances."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-remove-my-old-flooring-before-installing-new-laminate",
+  "name": "Do I need to remove my old flooring before installing new laminate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old flooring before installing new laminate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, it is advisable to remove old flooring before installing new laminate. While laminate can sometimes be installed over existing hard surfaces like vinyl or tile, it requires the underlying floor to be perfectly flat, clean, and structurally sound. Installing over old carpet or uneven surfaces is not recommended as it can compromise the laminate's stability, void warranties, and lead to premature wear. Removing the old flooring allows for proper subfloor inspection and preparation, ensuring a smooth, level, and durable base for your new laminate.",
+        "@type": "Answer",
+        "description": "Yes, removing old flooring is usually recommended before laminate installation to ensure a flat, stable subfloor and proper product performance."
+      }
+    }
+  ],
+  "description": "Yes, removing old flooring is usually recommended before laminate installation to ensure a flat, stable subfloor and proper product performance."
+}

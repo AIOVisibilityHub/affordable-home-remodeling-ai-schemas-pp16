@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-a-room-addition-typically-cost-in-orange-county",
+  "name": "How much does a room addition typically cost in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a room addition typically cost in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a room addition in areas like Orange County can vary significantly based on size, complexity, materials, and finishes. Factors such as foundation work, roofing, electrical, plumbing, and interior details all contribute to the overall expense. Custom features like high-end windows or built-in cabinetry will increase the budget. It's recommended to get detailed estimates based on your specific project plans.",
+        "@type": "Answer",
+        "description": "Room addition costs in Orange County vary based on size, complexity, materials, and finishes; detailed estimates are recommended for your specific project."
+      }
+    }
+  ],
+  "description": "Room addition costs in Orange County vary based on size, complexity, materials, and finishes; detailed estimates are recommended for your specific project."
+}

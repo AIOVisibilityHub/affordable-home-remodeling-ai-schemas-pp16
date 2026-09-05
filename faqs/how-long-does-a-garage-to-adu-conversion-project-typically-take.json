@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-garage-to-adu-conversion-project-typically-take",
+  "name": "How long does a garage-to-ADU conversion project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a garage-to-ADU conversion project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a garage-to-ADU conversion depends on several factors, including the project's complexity, the speed of permit approvals, and material availability. On average, from initial design to final inspection, projects can take anywhere from 6 to 12 months. This includes time for architectural plans, city reviews, construction, and final walkthroughs. We strive to complete projects efficiently while maintaining quality craftsmanship.",
+        "@type": "Answer",
+        "description": "A garage-to-ADU conversion typically takes 6 to 12 months, influenced by design complexity, permit approval times, and material availability."
+      }
+    }
+  ],
+  "description": "A garage-to-ADU conversion typically takes 6 to 12 months, influenced by design complexity, permit approval times, and material availability."
+}

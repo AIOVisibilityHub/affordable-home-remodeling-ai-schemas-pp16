@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-i-look-for-in-a-remodeling-contract",
+  "name": "What should I look for in a remodeling contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a remodeling contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive remodeling contract should clearly outline the scope of work, including all tasks, materials, and specifications. It must detail the payment schedule, often with milestones for progress payments, and include start and completion dates. Ensure it specifies who is responsible for obtaining permits and inspections. The contract should also address change orders, warranty information, dispute resolution, and proof of the contractor's licensing and insurance. Read it carefully and ask for clarification on any unclear terms before signing.",
+        "@type": "Answer",
+        "description": "A good remodeling contract details the scope of work, payment schedule, timeline, permit responsibilities, change order process, warranty, and proof of insurance and licensing."
+      }
+    }
+  ],
+  "description": "A good remodeling contract details the scope of work, payment schedule, timeline, permit responsibilities, change order process, warranty, and proof of insuranc"
+}

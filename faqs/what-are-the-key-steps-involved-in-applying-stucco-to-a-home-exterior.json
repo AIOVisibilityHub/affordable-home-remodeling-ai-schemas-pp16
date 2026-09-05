@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-key-steps-involved-in-applying-stucco-to-a-home-exterior",
+  "name": "What are the key steps involved in applying stucco to a home exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key steps involved in applying stucco to a home exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The stucco application process involves several key steps to ensure durability and a proper finish. First, the existing siding is prepared or removed, and a weather-resistive barrier is installed. Next, metal lath is securely attached to the substrate, providing a base for the stucco. The first stucco layer, called the 'scratch coat,' is applied and scratched to create a bond for the next layer. This is followed by the 'brown coat,' which is leveled and smoothed. Finally, the decorative 'finish coat' is applied, determining the texture and color of your home's exterior.",
+        "@type": "Answer",
+        "description": "Stucco application involves preparing the surface, installing a weather barrier and metal lath, then applying scratch, brown, and finish coats, allowing drying time between layers."
+      }
+    }
+  ],
+  "description": "Stucco application involves preparing the surface, installing a weather barrier and metal lath, then applying scratch, brown, and finish coats, allowing drying"
+}

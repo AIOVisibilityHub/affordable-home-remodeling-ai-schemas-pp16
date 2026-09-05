@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-stucco-damage-can-be-repaired",
+  "name": "What types of stucco damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of stucco damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common types of stucco damage can be repaired, including hairline cracks, spiderweb cracks, impact holes, chipping, and areas affected by moisture intrusion leading to soft spots or delamination. Even larger sections of missing stucco can be replaced. The repair method varies based on the type and severity of the damage, often involving patching, re-coating, or full section replacement to restore integrity.",
+        "@type": "Answer",
+        "description": "Most stucco damage, including cracks, chips, holes, and moisture-related issues, can be repaired through patching or re-coating."
+      }
+    }
+  ],
+  "description": "Most stucco damage, including cracks, chips, holes, and moisture-related issues, can be repaired through patching or re-coating."
+}

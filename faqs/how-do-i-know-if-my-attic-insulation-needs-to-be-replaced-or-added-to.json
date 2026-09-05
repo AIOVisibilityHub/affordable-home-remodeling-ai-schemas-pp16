@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-my-attic-insulation-needs-to-be-replaced-or-added-to",
+  "name": "How do I know if my attic insulation needs to be replaced or added to?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my attic insulation needs to be replaced or added to?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your attic insulation may need attention. If you notice uneven temperatures between rooms, high energy bills, or a constantly running HVAC system, your insulation might be insufficient. Drafts, especially near ceilings, and ice dams forming on your roof in winter are also indicators. A visual inspection can help; if the insulation is below or even with the top of your floor joists, or if it appears damp, moldy, or compacted, it's likely time for an upgrade. A professional assessment can determine the exact R-value and condition.",
+        "@type": "Answer",
+        "description": "Look for uneven room temperatures, high energy bills, drafts, or visible deterioration like compaction or mold in your attic insulation."
+      }
+    }
+  ],
+  "description": "Look for uneven room temperatures, high energy bills, drafts, or visible deterioration like compaction or mold in your attic insulation."
+}

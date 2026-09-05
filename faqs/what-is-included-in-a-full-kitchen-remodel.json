@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-included-in-a-full-kitchen-remodel",
+  "name": "What is included in a full kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a full kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A full kitchen remodel typically involves updating or replacing most major components of the space. This often includes new cabinetry, countertops, flooring, and appliances. It can also encompass electrical and plumbing updates, new lighting fixtures, backsplash installation, and fresh paint. Depending on the project's scope, it might also involve reconfiguring the kitchen layout, removing or adding walls, and custom design elements to enhance functionality and aesthetics. Our process starts with understanding your specific needs and designing a comprehensive plan.",
+        "@type": "Answer",
+        "description": "A full kitchen remodel usually includes new cabinets, countertops, flooring, appliances, lighting, and can involve layout changes or structural updates."
+      }
+    }
+  ],
+  "description": "A full kitchen remodel usually includes new cabinets, countertops, flooring, appliances, lighting, and can involve layout changes or structural updates."
+}

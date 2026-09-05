@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-carpet-fiber-for-my-home",
+  "name": "How do I choose the right carpet fiber for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right carpet fiber for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right carpet fiber depends on your lifestyle, budget, and desired durability. Nylon is known for its resilience and stain resistance, making it ideal for high-traffic areas. Polyester offers vibrant colors and a soft feel, often at a lower cost, suitable for moderate traffic. Wool is a natural, luxurious, and durable option but comes at a higher price point. Olefin is moisture-resistant and budget-friendly, often used in basements.",
+        "@type": "Answer",
+        "description": "Select carpet fiber based on durability, budget, and desired feel: nylon for high traffic, polyester for softness, wool for luxury, and olefin for moisture resistance."
+      }
+    }
+  ],
+  "description": "Select carpet fiber based on durability, budget, and desired feel: nylon for high traffic, polyester for softness, wool for luxury, and olefin for moisture resi"
+}

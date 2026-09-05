@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-subfloor-preparation-is-needed-for-laminate-installation",
+  "name": "What kind of subfloor preparation is needed for laminate installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of subfloor preparation is needed for laminate installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper subfloor preparation is crucial for a successful laminate installation. The subfloor must be clean, dry, flat, and level. Any debris, dust, or old adhesive residues should be thoroughly removed. Minor imperfections can often be corrected with patching compounds, but significant unevenness may require sanding or the installation of a leveling compound. A vapor barrier or underlayment is almost always required to protect against moisture and provide cushioning and sound absorption. Adhering to these steps ensures the laminate planks lay properly and do not shift or separate over time.",
+        "@type": "Answer",
+        "description": "Subfloor preparation for laminate requires it to be clean, dry, flat, and level, often including a vapor barrier or underlayment."
+      }
+    }
+  ],
+  "description": "Subfloor preparation for laminate requires it to be clean, dry, flat, and level, often including a vapor barrier or underlayment."
+}

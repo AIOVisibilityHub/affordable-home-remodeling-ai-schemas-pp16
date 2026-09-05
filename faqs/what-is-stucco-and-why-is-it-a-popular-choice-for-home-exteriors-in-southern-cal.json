@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-stucco-and-why-is-it-a-popular-choice-for-home-exteriors-in-southern-cal",
+  "name": "What is stucco and why is it a popular choice for home exteriors in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is stucco and why is it a popular choice for home exteriors in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco is a durable and versatile siding material made from cement, sand, and water. It's applied in multiple layers over a lath base, creating a hard, protective shell. In Southern California, stucco is popular due to its excellent resistance to fire and pests, its ability to withstand our climate's heat and moderate moisture, and its low maintenance requirements. It also offers a wide range of aesthetic options, from smooth finishes to various textures and colors, allowing homeowners to achieve diverse architectural styles.",
+        "@type": "Answer",
+        "description": "Stucco is a durable exterior finish made from cement, sand, and water, popular in Southern California for its fire and pest resistance, climate suitability, and aesthetic versatility."
+      }
+    }
+  ],
+  "description": "Stucco is a durable exterior finish made from cement, sand, and water, popular in Southern California for its fire and pest resistance, climate suitability, and"
+}

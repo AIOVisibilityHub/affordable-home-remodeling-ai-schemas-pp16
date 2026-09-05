@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-a-room-addition-increase-my-home-s-value",
+  "name": "Will a room addition increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a room addition increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-planned and executed room addition can significantly increase your home's value, especially if it adds functional living space that is desirable in your local market. Additions like extra bedrooms, bathrooms, or a larger master suite often yield good returns on investment. However, the exact return depends on the quality of the work, the type of addition, and current market conditions. It's important to consider if the addition aligns with neighborhood home values.",
+        "@type": "Answer",
+        "description": "Yes, a well-planned room addition can increase home value, particularly if it adds desirable living space like extra bedrooms or bathrooms, depending on quality and market conditions."
+      }
+    }
+  ],
+  "description": "Yes, a well-planned room addition can increase home value, particularly if it adds desirable living space like extra bedrooms or bathrooms, depending on quality"
+}

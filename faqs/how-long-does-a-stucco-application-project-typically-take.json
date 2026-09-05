@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-stucco-application-project-typically-take",
+  "name": "How long does a stucco application project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a stucco application project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a stucco application project varies based on the size and complexity of the home, weather conditions, and the number of layers applied. Generally, for an average-sized home, the process can take anywhere from one to three weeks. This includes preparation, lath installation, applying multiple stucco coats (scratch, brown, and finish), and allowing sufficient drying time between layers. Your contractor will provide a more precise timeline after assessing your specific property.",
+        "@type": "Answer",
+        "description": "A stucco application project typically takes 1-3 weeks, depending on the home's size, complexity, and weather conditions, allowing for multiple layers and drying time."
+      }
+    }
+  ],
+  "description": "A stucco application project typically takes 1-3 weeks, depending on the home's size, complexity, and weather conditions, allowing for multiple layers and dryin"
+}

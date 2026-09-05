@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/is-spray-foam-insulation-safe-for-my-family-and-pets",
+  "name": "Is spray foam insulation safe for my family and pets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is spray foam insulation safe for my family and pets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When installed correctly by trained professionals, spray foam insulation is safe. During the application process, technicians use personal protective equipment, and the area is well-ventilated to allow for the safe curing of the foam. Once fully cured, which typically takes 24-48 hours, the foam becomes inert and does not off-gas harmful chemicals. It does not release fibers or particles into the air, contributing to improved indoor air quality and reducing allergens. We ensure all safety protocols are strictly followed for your peace of mind.",
+        "@type": "Answer",
+        "description": "Yes, spray foam is safe once fully cured. Professionals ensure proper ventilation and safety during installation, and the cured foam is inert."
+      }
+    }
+  ],
+  "description": "Yes, spray foam is safe once fully cured. Professionals ensure proper ventilation and safety during installation, and the cured foam is inert."
+}

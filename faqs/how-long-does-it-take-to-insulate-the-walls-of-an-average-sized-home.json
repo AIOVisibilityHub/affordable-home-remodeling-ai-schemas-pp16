@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-insulate-the-walls-of-an-average-sized-home",
+  "name": "How long does it take to insulate the walls of an average-sized home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to insulate the walls of an average-sized home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for insulating the walls of an average-sized home typically ranges from one to three days, depending on the method and the home's specific characteristics. Blown-in insulation can often be completed relatively quickly, sometimes in a single day for smaller homes. Spray foam application might take longer due to curing times and the specialized equipment involved. Factors like the number of exterior walls, accessibility, and the presence of existing insulation that needs removal can also influence the project timeline.",
+        "@type": "Answer",
+        "description": "Insulating walls usually takes one to three days, depending on the insulation type, home size, and installation complexity."
+      }
+    }
+  ],
+  "description": "Insulating walls usually takes one to three days, depending on the insulation type, home size, and installation complexity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-common-kitchen-layout-options",
+  "name": "What are common kitchen layout options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common kitchen layout options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common kitchen layout options include the L-shape, U-shape, galley, G-shape, and single-wall kitchen. The L-shape is versatile for small and large spaces, offering an efficient work triangle. U-shaped kitchens provide ample counter space and storage, ideal for larger homes. Galley kitchens are compact and efficient, perfect for narrow spaces. G-shaped layouts add a peninsula for extra counter space. Single-wall kitchens are best for very small homes or open-concept living. The best layout depends on your home's structure and your lifestyle.",
+        "@type": "Answer",
+        "description": "Common kitchen layouts include L-shape, U-shape, galley, G-shape, and single-wall, each offering different benefits based on space and functional needs."
+      }
+    }
+  ],
+  "description": "Common kitchen layouts include L-shape, U-shape, galley, G-shape, and single-wall, each offering different benefits based on space and functional needs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-choosing-a-cool-roof-for-my-home",
+  "name": "What are the benefits of choosing a 'cool roof' for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of choosing a 'cool roof' for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cool roofs are designed to reflect more sunlight and absorb less heat than conventional roofs. This reflectivity significantly reduces the amount of heat transferred into your home, leading to lower attic temperatures and reduced air conditioning demands. Benefits include decreased energy bills, enhanced indoor comfort during hot months, and a longer roof lifespan due to less thermal stress. They also contribute to reducing the urban heat island effect, benefiting the local environment.",
+        "@type": "Answer",
+        "description": "Cool roofs reflect sunlight and absorb less heat, leading to lower energy bills, improved indoor comfort, extended roof lifespan, and reduced urban heat island effect."
+      }
+    }
+  ],
+  "description": "Cool roofs reflect sunlight and absorb less heat, leading to lower energy bills, improved indoor comfort, extended roof lifespan, and reduced urban heat island"
+}

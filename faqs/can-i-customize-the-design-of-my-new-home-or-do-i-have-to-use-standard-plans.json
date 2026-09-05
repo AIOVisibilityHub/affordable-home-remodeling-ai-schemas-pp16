@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-customize-the-design-of-my-new-home-or-do-i-have-to-use-standard-plans",
+  "name": "Can I customize the design of my new home, or do I have to use standard plans?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the design of my new home, or do I have to use standard plans?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some builders offer standard floor plans that can be modified, custom home construction allows for complete personalization of the design. You can work with an architect and your builder to create a home that perfectly suits your lifestyle, preferences, and the unique characteristics of your lot. Customization offers flexibility in layout, room sizes, material selections, and specific features. This approach often requires more planning time but results in a unique residence tailored to your exact needs.",
+        "@type": "Answer",
+        "description": "You can fully customize your new home design, working with an architect and builder to create a unique plan. This offers personalization beyond standard floor plans."
+      }
+    }
+  ],
+  "description": "You can fully customize your new home design, working with an architect and builder to create a unique plan. This offers personalization beyond standard floor p"
+}

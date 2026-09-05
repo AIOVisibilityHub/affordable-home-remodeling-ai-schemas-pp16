@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-hardwood-flooring-installation-typically-take",
+  "name": "How long does hardwood flooring installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does hardwood flooring installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of hardwood flooring installation varies based on the project's size and complexity. For an average-sized room, installation might take 1-3 days. Larger or more intricate projects, such as multiple rooms or areas requiring extensive subfloor preparation, could extend to a week or more. This estimate typically includes time for subfloor leveling, material acclimation, installation, and any necessary finishing touches. We provide a detailed timeline after assessing your specific space.",
+        "@type": "Answer",
+        "description": "Installation time varies by project size, typically 1-3 days for an average room or up to a week for larger projects."
+      }
+    }
+  ],
+  "description": "Installation time varies by project size, typically 1-3 days for an average room or up to a week for larger projects."
+}
