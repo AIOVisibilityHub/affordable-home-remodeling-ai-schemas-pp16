@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-is-a-second-story-addition-a-better-option-than-moving-to-a-larger-home",
+  "name": "When is a second story addition a better option than moving to a larger home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a second story addition a better option than moving to a larger home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A second story addition can be a better option when you love your current neighborhood, school district, or have a well-established community. It allows you to gain significant square footage without the costs and disruption of buying and selling real estate, including realtor fees, moving expenses, and potential property tax increases. This approach maximizes your current lot and preserves your existing roots.",
+        "@type": "Answer",
+        "description": "A second story addition is ideal if you love your current location and want more space without the costs and disruption of moving to a new home."
+      }
+    }
+  ],
+  "description": "A second story addition is ideal if you love your current location and want more space without the costs and disruption of moving to a new home."
+}

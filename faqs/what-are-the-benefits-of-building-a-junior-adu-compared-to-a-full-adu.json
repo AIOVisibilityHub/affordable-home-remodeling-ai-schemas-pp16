@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-building-a-junior-adu-compared-to-a-full-adu",
+  "name": "What are the benefits of building a Junior ADU compared to a full ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building a Junior ADU compared to a full ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Junior ADUs offer several distinct advantages over full ADUs, especially for homeowners looking for a simpler and more cost-effective solution. They are generally less expensive to build because they utilize existing space within the main home, reducing the need for new foundation work, extensive utility trenching, or separate structural builds. The permitting process can sometimes be less complex, and they often integrate more seamlessly into the existing property. JADUs are ideal for maximizing underutilized space and provide flexible living arrangements without the larger investment of a standalone unit.",
+        "@type": "Answer",
+        "description": "JADUs are generally more affordable and less complex to build than full ADUs, utilizing existing home space and offering simpler permitting and integration."
+      }
+    }
+  ],
+  "description": "JADUs are generally more affordable and less complex to build than full ADUs, utilizing existing home space and offering simpler permitting and integration."
+}

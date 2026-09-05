@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-questions-should-i-ask-a-roofing-contractor-before-hiring-them",
+  "name": "What questions should I ask a roofing contractor before hiring them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a roofing contractor before hiring them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before hiring a roofing contractor, ask about their licensing and insurance (worker's compensation and liability). Inquire about their experience with your specific roofing material and type of roof. Request references from previous clients and check online reviews. Understand their warranty policy for both materials and labor. Ask for a detailed, written estimate that breaks down all costs and outlines the project timeline. Discuss the cleanup process and how they handle unforeseen issues. Clarity on these points ensures a smoother project and a better outcome.",
+        "@type": "Answer",
+        "description": "Ask about licensing, insurance, experience, references, warranties, detailed estimates, cleanup process, and how they handle unforeseen issues."
+      }
+    }
+  ],
+  "description": "Ask about licensing, insurance, experience, references, warranties, detailed estimates, cleanup process, and how they handle unforeseen issues."
+}

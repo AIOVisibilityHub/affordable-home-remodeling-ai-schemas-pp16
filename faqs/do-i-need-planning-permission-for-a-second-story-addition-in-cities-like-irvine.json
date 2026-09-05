@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-planning-permission-for-a-second-story-addition-in-cities-like-irvine",
+  "name": "Do I need planning permission for a second story addition in cities like Irvine or Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need planning permission for a second story addition in cities like Irvine or Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a second story addition always requires comprehensive planning permission and building permits from your local city planning department, such as in Irvine or Huntington Beach. This ensures compliance with zoning regulations, building codes, and safety standards. The process typically involves submitting architectural plans for review and approval before any construction can begin. Our team assists with navigating these requirements.",
+        "@type": "Answer",
+        "description": "Yes, second story additions in cities like Irvine or Huntington Beach always require comprehensive planning permission and building permits to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Yes, second story additions in cities like Irvine or Huntington Beach always require comprehensive planning permission and building permits to ensure code compl"
+}

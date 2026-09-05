@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-exterior-house-painting-cost-in-orange-county",
+  "name": "How much does exterior house painting cost in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does exterior house painting cost in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior house painting in Orange County depends on several factors, such as the size and architectural complexity of your home, the condition of the existing surfaces, and the quality of paint chosen. Single-story homes are generally less expensive than multi-story homes. Extensive preparation work, like significant repairs or lead paint abatement, will also affect the final price. We provide detailed, written estimates after an on-site evaluation to ensure transparency and accuracy for your specific project.",
+        "@type": "Answer",
+        "description": "Exterior painting costs in Orange County vary based on home size, complexity, surface condition, and paint quality. A detailed estimate requires an on-site evaluation."
+      }
+    }
+  ],
+  "description": "Exterior painting costs in Orange County vary based on home size, complexity, surface condition, and paint quality. A detailed estimate requires an on-site eval"
+}

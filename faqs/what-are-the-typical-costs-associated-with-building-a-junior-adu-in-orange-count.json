@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-typical-costs-associated-with-building-a-junior-adu-in-orange-count",
+  "name": "What are the typical costs associated with building a Junior ADU in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with building a Junior ADU in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a Junior ADU in Orange County can vary significantly based on factors such as the existing home's layout, the extent of modifications needed, material choices, and local permit fees. Generally, JADUs are more affordable than full ADUs because they are created within the existing footprint of the home and often share utilities or plumbing. Expenses typically include design and architectural plans, demolition (if any), framing, plumbing and electrical updates, kitchen installation, and finishing materials. A detailed estimate requires an on-site assessment.",
+        "@type": "Answer",
+        "description": "JADU costs in Orange County vary, generally less than full ADUs as they utilize existing home space. Factors include modifications, materials, and permits."
+      }
+    }
+  ],
+  "description": "JADU costs in Orange County vary, generally less than full ADUs as they utilize existing home space. Factors include modifications, materials, and permits."
+}

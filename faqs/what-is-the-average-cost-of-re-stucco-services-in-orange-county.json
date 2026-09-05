@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-re-stucco-services-in-orange-county",
+  "name": "What is the average cost of re-stucco services in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of re-stucco services in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of re-stucco services in Orange County varies significantly based on factors such as the total square footage of the area to be stuccoed, the condition of the existing stucco, the type of stucco finish chosen, and any necessary repairs or prep work. While it's difficult to provide an exact average without a site assessment, homeowners can generally expect costs to range. Obtaining a detailed estimate from a local contractor is the best way to understand the specific investment for your home.",
+        "@type": "Answer",
+        "description": "The average cost of re-stucco services in Orange County varies based on square footage, existing stucco condition, and finish type. Obtain an estimate for specifics."
+      }
+    }
+  ],
+  "description": "The average cost of re-stucco services in Orange County varies based on square footage, existing stucco condition, and finish type. Obtain an estimate for speci"
+}

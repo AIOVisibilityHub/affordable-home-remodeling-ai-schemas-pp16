@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-i-need-a-new-roof-or-just-a-repair",
+  "name": "How do I know if I need a new roof or just a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a new roof or just a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if you need a full roof replacement or a repair depends on several factors. Look for signs like widespread missing or damaged shingles, significant granule loss, a sagging roof deck, or water stains on your interior ceilings. If your roof is over 20 years old and showing multiple signs of wear across different areas, a replacement is often more cost-effective and provides better long-term protection than repeated repairs. Smaller, isolated issues like a few missing shingles or a minor leak might be fixable with a targeted repair, but a professional inspection can provide a definitive assessment.",
+        "@type": "Answer",
+        "description": "Assess for widespread damage, age over 20 years, or significant granule loss. Minor, isolated issues might be repairable. A professional inspection offers clarity."
+      }
+    }
+  ],
+  "description": "Assess for widespread damage, age over 20 years, or significant granule loss. Minor, isolated issues might be repairable. A professional inspection offers clari"
+}

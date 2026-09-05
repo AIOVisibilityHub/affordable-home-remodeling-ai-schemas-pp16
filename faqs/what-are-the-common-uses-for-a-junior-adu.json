@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-common-uses-for-a-junior-adu",
+  "name": "What are the common uses for a Junior ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common uses for a Junior ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Junior ADUs are highly versatile and can serve various purposes. Many homeowners utilize them to provide housing for aging parents or adult children, allowing families to live together while maintaining privacy and independence. They are also popular for generating rental income, offering a more affordable housing option for tenants. Additionally, a JADU can function as a dedicated home office, a guest suite, or a private space for a live-in caregiver. Their smaller footprint and integration within the main home make them an accessible solution for expanding living options.",
+        "@type": "Answer",
+        "description": "Common uses for a JADU include housing for family members, rental income, a home office, or a guest suite, offering versatile living solutions."
+      }
+    }
+  ],
+  "description": "Common uses for a JADU include housing for family members, rental income, a home office, or a guest suite, offering versatile living solutions."
+}

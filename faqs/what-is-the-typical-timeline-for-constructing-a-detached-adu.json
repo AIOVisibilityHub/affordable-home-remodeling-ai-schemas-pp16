@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-constructing-a-detached-adu",
+  "name": "What is the typical timeline for constructing a detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing a detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a detached ADU generally ranges from 6 to 12 months, though this can fluctuate based on project complexity, local permitting processes, and contractor availability. This includes time for design, obtaining permits, site preparation, foundation work, framing, utility connections, and finishing the interior and exterior. Factors like custom features or unexpected site challenges can extend the duration.",
+        "@type": "Answer",
+        "description": "A typical detached ADU construction takes 6 to 12 months, including design, permitting, site work, and construction phases."
+      }
+    }
+  ],
+  "description": "A typical detached ADU construction takes 6 to 12 months, including design, permitting, site work, and construction phases."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-repaint-my-entire-house-after-stucco-repair",
+  "name": "Do I need to repaint my entire house after stucco repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to repaint my entire house after stucco repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to repaint your entire house after stucco repair depends on the repair's size, its visibility, and the age and condition of your existing paint. For small, inconspicuous repairs, spot painting or blending might suffice. However, if the repair is significant, or if your existing paint is faded or mismatched, a full repaint of the affected wall or even the entire house may be recommended to achieve a uniform appearance.",
+        "@type": "Answer",
+        "description": "A full repaint after stucco repair depends on the repair's size, visibility, and existing paint condition. Spot painting or a full repaint may be necessary."
+      }
+    }
+  ],
+  "description": "A full repaint after stucco repair depends on the repair's size, visibility, and existing paint condition. Spot painting or a full repaint may be necessary."
+}

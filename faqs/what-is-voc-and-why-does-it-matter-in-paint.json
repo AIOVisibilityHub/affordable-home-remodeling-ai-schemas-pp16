@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-voc-and-why-does-it-matter-in-paint",
+  "name": "What is VOC and why does it matter in paint?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is VOC and why does it matter in paint?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "VOC stands for Volatile Organic Compound. These are chemicals released into the air as paint dries, contributing to air pollution and potentially causing health issues like headaches, dizziness, or respiratory irritation. Low-VOC or Zero-VOC paints have significantly reduced levels of these compounds, making them a healthier and more environmentally friendly choice, especially for interior spaces where ventilation may be limited. We prioritize using high-quality paints, including low-VOC options.",
+        "@type": "Answer",
+        "description": "VOCs are chemicals in paint that can impact air quality and health. Low-VOC or Zero-VOC paints reduce these compounds, offering a healthier and eco-friendlier option."
+      }
+    }
+  ],
+  "description": "VOCs are chemicals in paint that can impact air quality and health. Low-VOC or Zero-VOC paints reduce these compounds, offering a healthier and eco-friendlier o"
+}

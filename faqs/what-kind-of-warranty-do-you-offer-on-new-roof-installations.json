@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-warranty-do-you-offer-on-new-roof-installations",
+  "name": "What kind of warranty do you offer on new roof installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty do you offer on new roof installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We offer comprehensive warranties on our new roof installations, typically covering both material defects and our workmanship. The specific duration and terms of the material warranty depend on the manufacturer and the type of roofing product chosen. Our workmanship warranty ensures that your roof is installed correctly and will perform as expected. We will provide full details on all applicable warranties during your consultation.",
+        "@type": "Answer",
+        "description": "We provide comprehensive warranties on new roof installations, covering both material defects and our workmanship. Details vary by product."
+      }
+    }
+  ],
+  "description": "We provide comprehensive warranties on new roof installations, covering both material defects and our workmanship. Details vary by product."
+}

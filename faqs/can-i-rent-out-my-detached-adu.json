@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-rent-out-my-detached-adu",
+  "name": "Can I rent out my detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I rent out my detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many areas, particularly in California, you can rent out your detached ADU. Recent state laws have made it easier for homeowners to build and rent ADUs, often prohibiting local jurisdictions from imposing owner-occupancy requirements. This makes ADUs a popular option for generating rental income. However, it's always advisable to check local city ordinances for any specific rental restrictions, although they are generally limited.",
+        "@type": "Answer",
+        "description": "Yes, you can typically rent out a detached ADU, as state laws often prevent local owner-occupancy requirements, but always check local city ordinances."
+      }
+    }
+  ],
+  "description": "Yes, you can typically rent out a detached ADU, as state laws often prevent local owner-occupancy requirements, but always check local city ordinances."
+}

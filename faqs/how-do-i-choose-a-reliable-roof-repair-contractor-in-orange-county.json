@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-reliable-roof-repair-contractor-in-orange-county",
+  "name": "How do I choose a reliable roof repair contractor in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable roof repair contractor in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor, look for licensed and insured professionals with a strong local reputation. Check online reviews and ask for references from previous clients. Ensure they provide a detailed, written estimate that clearly outlines the scope of work, materials, and warranty information. A reliable contractor should also be transparent about their process and able to answer all your questions thoroughly, demonstrating expertise in local roofing challenges.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with good local reviews, references, and clear written estimates. Ensure they demonstrate expertise in local roofing challenges."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with good local reviews, references, and clear written estimates. Ensure they demonstrate expertise in local roofing chall"
+}

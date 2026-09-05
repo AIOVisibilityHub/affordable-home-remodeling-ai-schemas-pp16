@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-my-home-needs-new-insulation",
+  "name": "How do I know if my home needs new insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home needs new insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your home may need new or additional insulation include high energy bills, inconsistent temperatures between rooms, drafts, and ice dams forming on the roof in colder weather. You might also notice your HVAC system running constantly to maintain comfort or feel that walls, ceilings, or floors are cold to the touch. A professional energy audit can accurately assess your current insulation levels and identify areas needing improvement, ensuring your home is properly sealed and insulated.",
+        "@type": "Answer",
+        "description": "Signs you need new insulation include high energy bills, drafts, inconsistent room temperatures, and an HVAC system that runs constantly."
+      }
+    }
+  ],
+  "description": "Signs you need new insulation include high energy bills, drafts, inconsistent room temperatures, and an HVAC system that runs constantly."
+}

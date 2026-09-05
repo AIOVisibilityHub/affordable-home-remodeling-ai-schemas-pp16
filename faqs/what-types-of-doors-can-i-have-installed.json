@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-doors-can-i-have-installed",
+  "name": "What types of doors can I have installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of doors can I have installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional door installation services typically cover a wide range of door types to suit various needs and aesthetics. This includes exterior doors like entry doors (steel, fiberglass, wood), patio doors (sliding, French, bifold), and storm doors, which offer additional protection. For interiors, options often include pre-hung doors, slab doors, bifold doors for closets, and pocket doors for space-saving solutions. The best choice depends on factors like security requirements, energy efficiency goals, design preferences, and the specific function of each doorway within your home.",
+        "@type": "Answer",
+        "description": "You can have various types of doors installed, including exterior options like entry and patio doors, and interior options such as pre-hung, slab, bifold, or pocket doors. The best choice depends on your specific needs for security, energy efficiency, and design."
+      }
+    }
+  ],
+  "description": "You can have various types of doors installed, including exterior options like entry and patio doors, and interior options such as pre-hung, slab, bifold, or po"
+}

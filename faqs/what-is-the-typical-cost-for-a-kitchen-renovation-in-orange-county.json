@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-for-a-kitchen-renovation-in-orange-county",
+  "name": "What is the typical cost for a kitchen renovation in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for a kitchen renovation in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a kitchen renovation in Orange County can vary widely, typically ranging from $25,000 for a minor update to $75,000 or more for a major overhaul with high-end finishes. Factors influencing the cost include the size of the kitchen, the quality of materials (e.g., custom cabinets vs. stock, granite vs. laminate countertops), the extent of layout changes, and appliance choices. Demolition, plumbing, electrical work, and permits also contribute to the overall budget. It's recommended to discuss your specific vision for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Kitchen renovation costs in Orange County generally range from $25,000 for minor updates to over $75,000 for major remodels, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Kitchen renovation costs in Orange County generally range from $25,000 for minor updates to over $75,000 for major remodels, depending on scope and materials."
+}

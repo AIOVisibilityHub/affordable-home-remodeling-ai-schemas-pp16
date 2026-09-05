@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-primary-suite-additions-impact-property-taxes",
+  "name": "How do primary suite additions impact property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do primary suite additions impact property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a primary suite to your home generally increases its assessed value, which can lead to higher property taxes. The extent of the increase depends on the size, quality of the addition, and local assessment policies. Property tax assessments are typically updated after significant home improvements like additions are completed. It's advisable to consult with your local tax assessor's office for specific information regarding the potential impact in your area.",
+        "@type": "Answer",
+        "description": "Primary suite additions typically increase your home's assessed value, which can lead to higher property taxes. Consult your local tax assessor for details."
+      }
+    }
+  ],
+  "description": "Primary suite additions typically increase your home's assessed value, which can lead to higher property taxes. Consult your local tax assessor for details."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-make-changes-to-the-design-during-custom-home-construction",
+  "name": "Can I make changes to the design during custom home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes to the design during custom home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible to make changes during custom home construction, it's generally advisable to finalize all design elements before breaking ground. Changes made once construction has started can lead to increased costs, project delays, and potential re-permitting issues. We work diligently during the design phase to ensure every detail aligns with your vision. If changes become absolutely necessary, we'll discuss the implications transparently, provide revised cost estimates, and adjust the schedule accordingly.",
+        "@type": "Answer",
+        "description": "Changes during custom home construction are possible but can lead to increased costs and delays. It's best to finalize designs before starting."
+      }
+    }
+  ],
+  "description": "Changes during custom home construction are possible but can lead to increased costs and delays. It's best to finalize designs before starting."
+}

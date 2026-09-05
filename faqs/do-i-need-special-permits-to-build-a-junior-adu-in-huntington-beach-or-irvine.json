@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-special-permits-to-build-a-junior-adu-in-huntington-beach-or-irvine",
+  "name": "Do I need special permits to build a Junior ADU in Huntington Beach or Irvine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special permits to build a Junior ADU in Huntington Beach or Irvine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building a Junior ADU in cities like Huntington Beach or Irvine, similar to other areas in Orange County, requires specific permits and adherence to local zoning ordinances. While state laws encourage ADU and JADU development, each city has its own process and requirements. You will need to submit detailed plans for review by the planning and building departments, ensuring compliance with building codes, health and safety standards, and specific JADU regulations. Working with a contractor experienced in local regulations can simplify the permit acquisition process.",
+        "@type": "Answer",
+        "description": "Yes, building a JADU in Huntington Beach or Irvine requires specific permits and adherence to local zoning and building codes, processed through city planning departments."
+      }
+    }
+  ],
+  "description": "Yes, building a JADU in Huntington Beach or Irvine requires specific permits and adherence to local zoning and building codes, processed through city planning d"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-i-expect-during-the-home-remodeling-process",
+  "name": "What should I expect during the home remodeling process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect during the home remodeling process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The remodeling process typically begins with initial consultation and design, followed by a detailed proposal and contract. Once approved, permits are secured, and a project schedule is established. Construction phases involve demolition, rough-ins (plumbing, electrical), inspections, installation of finishes (cabinets, flooring), and final walk-throughs. Throughout, expect regular communication from your contractor regarding progress and any necessary adjustments.",
+        "@type": "Answer",
+        "description": "Expect consultation, design, permitting, construction phases including demolition and installation, and regular communication throughout your remodel."
+      }
+    }
+  ],
+  "description": "Expect consultation, design, permitting, construction phases including demolition and installation, and regular communication throughout your remodel."
+}

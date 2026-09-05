@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-maintain-my-new-hardwood-or-laminate-flooring",
+  "name": "How do I maintain my new hardwood or laminate flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my new hardwood or laminate flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper maintenance is crucial for the longevity of your new flooring. For hardwood, regular sweeping or vacuuming with a soft brush attachment is recommended. Use a damp, not wet, mop with a wood-specific cleaner. Avoid abrasive cleaners, excessive water, and steam mops. For laminate, sweep or vacuum regularly and use a damp mop with a laminate-specific cleaner. Promptly wipe up spills to prevent moisture damage. Placing felt pads under furniture legs and using doormats at entries will help prevent scratches and wear.",
+        "@type": "Answer",
+        "description": "Maintain hardwood with regular sweeping and damp mopping using wood-specific cleaners; avoid excess water. For laminate, sweep and use a laminate-specific damp mop, cleaning spills quickly."
+      }
+    }
+  ],
+  "description": "Maintain hardwood with regular sweeping and damp mopping using wood-specific cleaners; avoid excess water. For laminate, sweep and use a laminate-specific damp"
+}

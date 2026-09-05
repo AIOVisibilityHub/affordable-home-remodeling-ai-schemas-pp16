@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-general-contractor-and-a-designer-for-a-remodel",
+  "name": "What is the difference between a general contractor and a designer for a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general contractor and a designer for a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor manages the entire construction process, including hiring subcontractors, scheduling, ensuring code compliance, and overseeing the budget and timeline. They are primarily responsible for the physical execution of the remodel. An interior designer, conversely, focuses on the aesthetics and functionality of the space, creating layouts, selecting materials, finishes, and fixtures, and developing the overall look and feel. While a designer plans the vision, a general contractor brings that vision to life. Sometimes these roles overlap, or a contractor may have in-house design capabilities.",
+        "@type": "Answer",
+        "description": "A general contractor builds and manages the remodel, while a designer plans the aesthetics and functionality of the space."
+      }
+    }
+  ],
+  "description": "A general contractor builds and manages the remodel, while a designer plans the aesthetics and functionality of the space."
+}

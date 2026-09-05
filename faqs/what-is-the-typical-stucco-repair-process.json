@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-stucco-repair-process",
+  "name": "What is the typical stucco repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical stucco repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The stucco repair process typically involves identifying the cause of the damage, removing compromised stucco, repairing any underlying issues like water damage or structural concerns, applying new stucco layers, and then matching the texture and color to the existing finish. For minor cracks, it might involve cleaning and patching. For extensive damage, a larger section may need replacement to ensure a seamless and durable repair.",
+        "@type": "Answer",
+        "description": "Stucco repair involves identifying damage, removing old material, repairing underlying issues, applying new stucco, and matching texture and color."
+      }
+    }
+  ],
+  "description": "Stucco repair involves identifying damage, removing old material, repairing underlying issues, applying new stucco, and matching texture and color."
+}

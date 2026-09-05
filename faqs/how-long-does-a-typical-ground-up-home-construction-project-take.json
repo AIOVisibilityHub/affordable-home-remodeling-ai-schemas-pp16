@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-ground-up-home-construction-project-take",
+  "name": "How long does a typical ground-up home construction project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical ground-up home construction project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for ground-up home construction can vary significantly based on the size, complexity, and specific design choices of the project, as well as permitting processes and weather conditions. Generally, a custom home can take anywhere from 10 to 18 months from breaking ground to completion. This includes phases like design and permitting (which can add several months), site preparation, foundation, framing, utilities, roofing, interior finishing, and final inspections. A clear project schedule is developed after the design is finalized.",
+        "@type": "Answer",
+        "description": "Ground-up home construction typically takes 10 to 18 months, depending on project complexity, design, and permitting."
+      }
+    }
+  ],
+  "description": "Ground-up home construction typically takes 10 to 18 months, depending on project complexity, design, and permitting."
+}

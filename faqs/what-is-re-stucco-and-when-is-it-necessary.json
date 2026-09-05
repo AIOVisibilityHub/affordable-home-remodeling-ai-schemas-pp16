@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-re-stucco-and-when-is-it-necessary",
+  "name": "What is re-stucco and when is it necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is re-stucco and when is it necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Re-stucco involves applying a new layer of stucco to the exterior of a building, often over existing stucco. It is necessary when the current stucco shows significant signs of wear, such as large cracks, crumbling, or extensive water damage. Beyond repairs, re-stucco can also be chosen for aesthetic upgrades, providing a fresh, updated look and improving curb appeal. It's a durable and weather-resistant finish, making it a popular choice for home exteriors in regions like Southern California.",
+        "@type": "Answer",
+        "description": "Re-stucco applies a new stucco layer to a building's exterior, necessary for extensive wear, damage, or aesthetic updates."
+      }
+    }
+  ],
+  "description": "Re-stucco applies a new stucco layer to a building's exterior, necessary for extensive wear, damage, or aesthetic updates."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-replace-my-sliding-glass-patio-door-with-french-doors",
+  "name": "Can I replace my sliding glass patio door with French doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my sliding glass patio door with French doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to replace a sliding glass patio door with French doors. This conversion can significantly enhance the aesthetic appeal and functionality of your living space. The process typically involves removing the existing sliding door unit and modifying the opening to accommodate the wider frame and swing of French doors. It may require some structural adjustments to the framing and header. Our team can assess your specific situation to determine feasibility and provide recommendations for a seamless transition.",
+        "@type": "Answer",
+        "description": "Yes, replacing a sliding glass patio door with French doors is possible and can improve aesthetics. It may require structural modifications to the opening."
+      }
+    }
+  ],
+  "description": "Yes, replacing a sliding glass patio door with French doors is possible and can improve aesthetics. It may require structural modifications to the opening."
+}

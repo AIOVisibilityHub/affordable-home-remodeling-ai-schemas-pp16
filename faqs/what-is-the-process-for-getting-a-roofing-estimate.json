@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-getting-a-roofing-estimate",
+  "name": "What is the process for getting a roofing estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting a roofing estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our roofing estimate process begins with a free, on-site consultation. A project manager will visit your property to assess the current condition of your roof, take measurements, and discuss your specific needs and preferences. We'll then provide a detailed proposal outlining material options, labor costs, and a project timeline. This ensures full transparency and helps you make an informed decision without any pressure.",
+        "@type": "Answer",
+        "description": "We start with a free on-site consultation to assess your roof and discuss needs. You'll then receive a detailed proposal."
+      }
+    }
+  ],
+  "description": "We start with a free on-site consultation to assess your roof and discuss needs. You'll then receive a detailed proposal."
+}

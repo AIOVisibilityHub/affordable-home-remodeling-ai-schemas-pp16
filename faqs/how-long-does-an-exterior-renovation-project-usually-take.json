@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-an-exterior-renovation-project-usually-take",
+  "name": "How long does an exterior renovation project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an exterior renovation project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior renovation project depends heavily on its complexity and scale. A simple exterior paint job might take a few days to a week, while a full siding replacement could take 2-4 weeks. Projects involving multiple elements like roofing, windows, and a new deck can extend to several weeks or even a few months. Factors such as weather conditions, material availability, and permit processing times can also influence the timeline. Your contractor can provide a more accurate schedule after assessing the project details.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope; painting takes days, siding weeks, and multi-element renovations can take months, depending on complexity and external factors."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope; painting takes days, siding weeks, and multi-element renovations can take months, depending on complexity and external factors"
+}

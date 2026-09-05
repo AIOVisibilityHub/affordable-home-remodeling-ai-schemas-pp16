@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-often-should-a-house-be-repainted-in-southern-california",
+  "name": "How often should a house be repainted in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should a house be repainted in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of exterior repainting for a home in Southern California can vary based on several factors, including climate exposure, previous paint quality, and the type of siding. Generally, a good quality paint job can last 5-10 years. Homes exposed to intense sun, sea spray, or significant weather fluctuations might need repainting sooner. Regular inspections for chipping, fading, or peeling can help determine the optimal time for a new coat, protecting your home's exterior and maintaining its appearance.",
+        "@type": "Answer",
+        "description": "In Southern California, exterior house paint typically lasts 5-10 years, depending on sun exposure, weather, and paint quality. Regular inspections help determine the best time to repaint."
+      }
+    }
+  ],
+  "description": "In Southern California, exterior house paint typically lasts 5-10 years, depending on sun exposure, weather, and paint quality. Regular inspections help determi"
+}

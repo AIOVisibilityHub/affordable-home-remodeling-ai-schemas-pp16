@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-getting-new-flooring-installed",
+  "name": "What is the process for getting new flooring installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting new flooring installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our flooring installation process typically begins with an initial consultation to discuss your needs, preferences, and budget. Next, we conduct an on-site assessment to measure the area, inspect the subfloor, and confirm material requirements. Following this, we provide a detailed quote. Once approved, we schedule the installation. The project involves removing old flooring, preparing the subfloor, installing the new material, and finally, a thorough clean-up and final inspection. We aim to keep you informed at every stage.",
+        "@type": "Answer",
+        "description": "The process includes consultation, on-site assessment, detailed quote, old flooring removal, subfloor prep, new material installation, and final clean-up."
+      }
+    }
+  ],
+  "description": "The process includes consultation, on-site assessment, detailed quote, old flooring removal, subfloor prep, new material installation, and final clean-up."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-partial-and-a-full-bathroom-remodel",
+  "name": "What is the difference between a partial and a full bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a partial and a full bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A partial bathroom remodel focuses on cosmetic updates without altering the room's layout or major structural elements. This might include repainting, replacing fixtures, or updating the vanity. A full bathroom remodel, on the other hand, involves a complete overhaul, often including demolition, changing the layout, relocating plumbing and electrical, and replacing all major components. Full remodels are more extensive, costly, and take longer but offer a completely new look and feel.",
+        "@type": "Answer",
+        "description": "A partial remodel updates cosmetics without layout changes, while a full remodel involves a complete overhaul, including demolition and layout changes."
+      }
+    }
+  ],
+  "description": "A partial remodel updates cosmetics without layout changes, while a full remodel involves a complete overhaul, including demolition and layout changes."
+}

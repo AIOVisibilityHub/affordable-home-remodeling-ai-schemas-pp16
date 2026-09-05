@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-adu-design-permitting-and-construction",
+  "name": "What is the typical timeline for ADU design, permitting, and construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for ADU design, permitting, and construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The complete ADU process, from initial design to final construction, can typically take 8 to 18 months. Design and architectural planning usually require 1-3 months. Permit acquisition from local jurisdictions like Huntington Beach or Irvine can take 2-6 months, depending on the city's review process and project complexity. Construction itself generally spans 4-8 months, influenced by the ADU's size, design, and any unforeseen site challenges.",
+        "@type": "Answer",
+        "description": "An ADU project typically takes 8-18 months, with 1-3 months for design, 2-6 months for permitting, and 4-8 months for construction."
+      }
+    }
+  ],
+  "description": "An ADU project typically takes 8-18 months, with 1-3 months for design, 2-6 months for permitting, and 4-8 months for construction."
+}

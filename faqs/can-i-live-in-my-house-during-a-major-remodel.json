@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-live-in-my-house-during-a-major-remodel",
+  "name": "Can I live in my house during a major remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my house during a major remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can remain in your home during a major remodel depends on the scope of work. For projects like a single bathroom or kitchen update, living in place is often feasible, albeit with some disruption. However, for whole-home renovations, additions, or projects involving significant structural work, plumbing, or electrical system overhauls, it may be safer and more comfortable to temporarily relocate. Your contractor can advise on the feasibility and potential impact to your daily life, helping you make an informed decision about temporary housing.",
+        "@type": "Answer",
+        "description": "Living in your home during a remodel depends on project scope; single room updates may be fine, but major renovations often require temporary relocation."
+      }
+    }
+  ],
+  "description": "Living in your home during a remodel depends on project scope; single room updates may be fine, but major renovations often require temporary relocation."
+}

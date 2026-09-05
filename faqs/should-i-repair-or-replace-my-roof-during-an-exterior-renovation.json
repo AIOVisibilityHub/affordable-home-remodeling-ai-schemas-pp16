@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/should-i-repair-or-replace-my-roof-during-an-exterior-renovation",
+  "name": "Should I repair or replace my roof during an exterior renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my roof during an exterior renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace your roof depends on its age, condition, and the extent of damage. If your roof is relatively new (under 10-15 years) and has isolated damage, repairs might suffice. However, if it's nearing the end of its lifespan (typically 20-30 years for asphalt shingles), has widespread damage, or exhibits signs of significant wear like curling or missing shingles, a full replacement is usually more cost-effective in the long run. A professional inspection can help determine the best course of action.",
+        "@type": "Answer",
+        "description": "Decide between roof repair or replacement based on its age, condition, and damage extent; repairs for minor issues on newer roofs, replacement for older roofs or widespread damage."
+      }
+    }
+  ],
+  "description": "Decide between roof repair or replacement based on its age, condition, and damage extent; repairs for minor issues on newer roofs, replacement for older roofs o"
+}

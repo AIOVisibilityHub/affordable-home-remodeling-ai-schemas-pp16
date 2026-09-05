@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-building-an-attached-adu-in-orange-county",
+  "name": "What is the process for building an attached ADU in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for building an attached ADU in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for building an attached ADU in Orange County typically begins with a consultation to assess your property and discuss your vision. This is followed by design and architectural planning, ensuring compliance with local zoning and building codes. Next, we handle permit submission and approval. Once permits are secured, construction begins, followed by inspections and final completion. The timeline can vary based on permit processing and project complexity.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permit acquisition, construction, and final inspections, ensuring compliance with Orange County regulations."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permit acquisition, construction, and final inspections, ensuring compliance with Orange County regulations."
+}

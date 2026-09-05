@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-site-considerations-are-important-when-planning-a-detached-adu",
+  "name": "What site considerations are important when planning a detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What site considerations are important when planning a detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several site considerations are vital when planning a detached ADU. You'll need sufficient space on your lot, adhering to setbacks from property lines and other structures as required by local zoning. Access for construction and utility connections (water, sewer, electricity, gas) are critical. Topography, existing trees, and potential impacts on drainage also need evaluation. A professional site assessment by a contractor or architect can identify challenges and opportunities.",
+        "@type": "Answer",
+        "description": "Key considerations include lot size, setbacks, utility access, topography, drainage, and impact on existing trees."
+      }
+    }
+  ],
+  "description": "Key considerations include lot size, setbacks, utility access, topography, drainage, and impact on existing trees."
+}

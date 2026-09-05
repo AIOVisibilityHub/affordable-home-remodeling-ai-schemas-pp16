@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-finance-ground-up-construction-with-a-standard-mortgage",
+  "name": "Can I finance ground-up construction with a standard mortgage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I finance ground-up construction with a standard mortgage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing ground-up construction typically requires a construction loan rather than a standard mortgage. A construction loan is a short-term, interest-only loan that provides funds in draws as different stages of the build are completed and inspected. Once construction is finished, the construction loan is usually converted into a permanent mortgage or refinanced into a traditional home loan. Lenders will assess your financial stability, the project plans, and the contractor's reputation before approving a construction loan.",
+        "@type": "Answer",
+        "description": "Ground-up construction requires a construction loan, which is a short-term loan converted to a standard mortgage upon completion."
+      }
+    }
+  ],
+  "description": "Ground-up construction requires a construction loan, which is a short-term loan converted to a standard mortgage upon completion."
+}

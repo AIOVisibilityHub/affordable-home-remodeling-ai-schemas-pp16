@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-do-i-need-for-a-home-remodel-in-huntington-beach",
+  "name": "What permits do I need for a home remodel in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits do I need for a home remodel in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most significant home remodeling projects in Huntington Beach require permits from the city's Building Department. This includes structural changes, electrical work, plumbing, and additions, and often even substantial interior reconfigurations. The specific permits needed depend on the scope of work. Your contractor can help identify and secure the necessary permits to ensure your project complies with local building codes and regulations. Proceeding without proper permits can lead to fines, project delays, or requirements to undo completed work.",
+        "@type": "Answer",
+        "description": "Most significant home remodels in Huntington Beach require permits for structural, electrical, and plumbing work. Your contractor can assist with securing these."
+      }
+    }
+  ],
+  "description": "Most significant home remodels in Huntington Beach require permits for structural, electrical, and plumbing work. Your contractor can assist with securing these"
+}

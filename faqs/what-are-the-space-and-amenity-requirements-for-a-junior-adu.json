@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-space-and-amenity-requirements-for-a-junior-adu",
+  "name": "What are the space and amenity requirements for a Junior ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the space and amenity requirements for a Junior ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Junior ADU must be located within the existing walls of a proposed or existing single-family dwelling and can be no larger than 500 square feet. It requires an efficiency kitchen, which must include a cooking appliance, a food preparation counter, and storage cabinets. A JADU must also have a separate exterior entrance from the main home. While it's common for a JADU to have its own bedroom and living area, it is permitted to share a bathroom with the primary residence, distinguishing it from a full ADU's self-sufficiency requirements.",
+        "@type": "Answer",
+        "description": "A JADU must be within an existing home, under 500 sq ft, have an efficiency kitchen, a separate entrance, and can share a bathroom with the main house."
+      }
+    }
+  ],
+  "description": "A JADU must be within an existing home, under 500 sq ft, have an efficiency kitchen, a separate entrance, and can share a bathroom with the main house."
+}

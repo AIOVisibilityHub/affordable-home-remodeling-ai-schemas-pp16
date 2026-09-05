@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-live-in-my-home-during-a-renovation",
+  "name": "Can I live in my home during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during a renovation depends entirely on the scope of the project. If the renovation is limited to one or two rooms, like a single bathroom or a bedroom, it might be feasible to remain in your home, although expect some disruption, noise, and dust. However, for whole-house renovations, major kitchen remodels, or projects involving significant utility shut-offs (water, electricity, gas), it is often recommended to arrange for temporary accommodation. Discuss logistics with your contractor to understand the impact on daily living.",
+        "@type": "Answer",
+        "description": "Staying home during renovation depends on the project's scope. Minor work might allow it, but major renovations, especially those affecting essential utilities, often require temporary relocation."
+      }
+    }
+  ],
+  "description": "Staying home during renovation depends on the project's scope. Minor work might allow it, but major renovations, especially those affecting essential utilities,"
+}

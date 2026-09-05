@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-lifespan-of-different-roofing-materials",
+  "name": "What is the typical lifespan of different roofing materials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of different roofing materials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a roof varies significantly based on the material. Asphalt shingle roofs, common in areas like Huntington Beach and Irvine, typically last 15-30 years. Metal roofs offer greater durability, often lasting 40-70 years. Tile roofs, including concrete and clay, can last 50 years or more, making them a long-term investment. Wood shake roofs usually last 20-40 years, while flat or low-slope roofs using TPO or PVC membranes have a lifespan of 15-30 years. Regular maintenance can help extend the life of any roofing material.",
+        "@type": "Answer",
+        "description": "Asphalt shingles last 15-30 years, metal 40-70, and tile 50+ years. Lifespan varies by material type. Regular maintenance helps extend roof life."
+      }
+    }
+  ],
+  "description": "Asphalt shingles last 15-30 years, metal 40-70, and tile 50+ years. Lifespan varies by material type. Regular maintenance helps extend roof life."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-is-ground-up-construction-a-better-option-than-extensive-remodeling",
+  "name": "When is ground-up construction a better option than extensive remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is ground-up construction a better option than extensive remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ground-up construction is often a better option when your existing home's layout, structural integrity, or foundation is severely compromised, making renovation impractical or excessively costly. It's also preferable when you desire a completely custom design that cannot be achieved within the confines of an existing structure, or if you want to maximize energy efficiency and incorporate smart home technology from the ground up. If your current property isn't meeting your needs and requires fundamental changes, building new can be more efficient and ultimately more cost-effective.",
+        "@type": "Answer",
+        "description": "Ground-up construction is better when an existing home has significant structural issues, or a completely custom, energy-efficient design is desired."
+      }
+    }
+  ],
+  "description": "Ground-up construction is better when an existing home has significant structural issues, or a completely custom, energy-efficient design is desired."
+}

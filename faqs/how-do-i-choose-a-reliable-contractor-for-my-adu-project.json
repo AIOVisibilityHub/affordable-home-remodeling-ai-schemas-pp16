@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-reliable-contractor-for-my-adu-project",
+  "name": "How do I choose a reliable contractor for my ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable contractor for my ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a reliable ADU contractor involves several steps. Look for contractors with specific experience in ADU construction and a strong portfolio of completed projects. Verify their licensing and insurance to ensure they are properly credentialed and protected. Check client references and read reviews to gauge their reputation and work quality. A good contractor will provide transparent quotes, clear communication, and a detailed project plan. Always get multiple bids and ensure all agreements are in writing.",
+        "@type": "Answer",
+        "description": "Choose an ADU contractor by checking their experience, license, insurance, references, and reviews. Ensure they provide clear quotes and communicate effectively."
+      }
+    }
+  ],
+  "description": "Choose an ADU contractor by checking their experience, license, insurance, references, and reviews. Ensure they provide clear quotes and communicate effectively"
+}

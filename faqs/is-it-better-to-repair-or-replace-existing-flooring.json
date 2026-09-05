@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/is-it-better-to-repair-or-replace-existing-flooring",
+  "name": "Is it better to repair or replace existing flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to repair or replace existing flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the extent of the damage, the age of the flooring, and your long-term goals. Minor issues like a few scratched hardwood planks or loose tiles can often be repaired cost-effectively. However, widespread damage, significant water damage, or outdated flooring that doesn't meet your aesthetic or functional needs usually warrants replacement. Replacing allows for a complete refresh, improved durability, and potentially higher home value. We can assess your current flooring and provide an honest recommendation.",
+        "@type": "Answer",
+        "description": "Repair minor damage, but replace if damage is widespread, due to water, or if you seek a complete aesthetic and functional upgrade. We can assess your specific situation."
+      }
+    }
+  ],
+  "description": "Repair minor damage, but replace if damage is widespread, due to water, or if you seek a complete aesthetic and functional upgrade. We can assess your specific"
+}

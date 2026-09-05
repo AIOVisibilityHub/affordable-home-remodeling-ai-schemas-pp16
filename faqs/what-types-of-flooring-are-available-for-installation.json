@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-flooring-are-available-for-installation",
+  "name": "What types of flooring are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of flooring are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We install a variety of flooring types, including hardwood, laminate, vinyl plank (LVP/LVT), tile (ceramic, porcelain, natural stone), and carpet. Each option offers different benefits in terms of durability, appearance, maintenance, and cost. Hardwood provides classic elegance, while LVP offers water resistance and versatility. Tile is excellent for high-moisture areas like bathrooms and kitchens, and carpet adds warmth and sound insulation. The best choice depends on your specific needs, budget, and the room's function.",
+        "@type": "Answer",
+        "description": "We offer installation for hardwood, laminate, vinyl, tile, and carpet. Each type provides unique benefits in terms of durability, appearance, and maintenance."
+      }
+    }
+  ],
+  "description": "We offer installation for hardwood, laminate, vinyl, tile, and carpet. Each type provides unique benefits in terms of durability, appearance, and maintenance."
+}

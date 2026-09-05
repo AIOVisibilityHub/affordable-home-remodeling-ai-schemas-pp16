@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-that-my-door-needs-to-be-replaced",
+  "name": "What are the signs that my door needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my door needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate that your door might need replacement. Visible damage such as cracks, rot, rust, or warping can compromise security and insulation. Drafts or air leaks around the door frame suggest poor sealing or insulation, leading to higher energy bills. Difficulty opening or closing the door, or issues with the lock mechanism, also point to potential problems. Additionally, if your door is outdated and no longer matches your home's aesthetic or security needs, replacement can enhance curb appeal and safety.",
+        "@type": "Answer",
+        "description": "Signs include visible damage like cracks or rot, drafts, difficulty operating, or an outdated appearance affecting security and aesthetics."
+      }
+    }
+  ],
+  "description": "Signs include visible damage like cracks or rot, drafts, difficulty operating, or an outdated appearance affecting security and aesthetics."
+}

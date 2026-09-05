@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-my-room-addition-project",
+  "name": "How do I choose the right contractor for my room addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my room addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor, look for experience with room additions in your area, valid licensing, and appropriate insurance. Request references from previous clients and review their portfolios. Discuss their communication style, project management approach, and how they handle unforeseen issues. Obtain detailed bids from multiple contractors to compare scope and pricing. A reputable contractor will provide clear contracts and be transparent about the entire process.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, valid licensing, insurance, strong references, clear communication, and detailed bids."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, valid licensing, insurance, strong references, clear communication, and detailed bids."
+}

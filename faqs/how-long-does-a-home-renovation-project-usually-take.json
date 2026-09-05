@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-home-renovation-project-usually-take",
+  "name": "How long does a home renovation project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a home renovation project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home renovation project depends heavily on its size and complexity. A small project, such as a bathroom refresh, might take 3-6 weeks. A complete kitchen remodel could extend from 6-12 weeks, while a multi-room or whole-home renovation can take 3-6 months or even longer. Permitting processes, material lead times, and unforeseen structural issues can also impact the timeline. Your contractor will provide a detailed schedule outlining key milestones.",
+        "@type": "Answer",
+        "description": "Renovation timelines vary by project size; a small bathroom might take 3-6 weeks, while a full kitchen could be 6-12 weeks, and whole-home remodels longer."
+      }
+    }
+  ],
+  "description": "Renovation timelines vary by project size; a small bathroom might take 3-6 weeks, while a full kitchen could be 6-12 weeks, and whole-home remodels longer."
+}

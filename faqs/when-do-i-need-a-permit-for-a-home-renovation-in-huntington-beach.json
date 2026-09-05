@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-do-i-need-a-permit-for-a-home-renovation-in-huntington-beach",
+  "name": "When do I need a permit for a home renovation in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a permit for a home renovation in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Huntington Beach, permits are generally required for any home renovation that involves structural changes, significant alterations to plumbing or electrical systems, or additions to your home's footprint. This includes projects like room additions, major kitchen or bathroom remodels, deck construction, and changes to load-bearing walls. Minor cosmetic updates like painting or replacing cabinets typically do not require a permit. Always check with your contractor or the City of Huntington Beach Building Department to confirm specific permit requirements for your project.",
+        "@type": "Answer",
+        "description": "Permits in Huntington Beach are needed for structural changes, significant plumbing/electrical alterations, or additions. Always verify with your contractor or the city's building department."
+      }
+    }
+  ],
+  "description": "Permits in Huntington Beach are needed for structural changes, significant plumbing/electrical alterations, or additions. Always verify with your contractor or"
+}

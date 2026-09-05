@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/is-insulation-removal-necessary-before-installing-new-insulation",
+  "name": "Is insulation removal necessary before installing new insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is insulation removal necessary before installing new insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Insulation removal is not always necessary, but it is recommended in certain situations. It's typically required if the existing insulation is old, damaged by moisture, mold, pests, or has lost its effectiveness due to compaction. Removing contaminated or ineffective insulation ensures a clean base for new materials and allows for proper air sealing and inspection of underlying structures. If your existing insulation is still in good condition, new insulation can often be installed on top of it.",
+        "@type": "Answer",
+        "description": "Insulation removal is necessary if existing insulation is damaged by moisture, mold, or pests. Otherwise, new insulation can often be installed over existing material."
+      }
+    }
+  ],
+  "description": "Insulation removal is necessary if existing insulation is damaged by moisture, mold, or pests. Otherwise, new insulation can often be installed over existing ma"
+}

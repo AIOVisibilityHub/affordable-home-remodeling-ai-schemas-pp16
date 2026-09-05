@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-range-for-a-home-renovation-in-orange-county",
+  "name": "What is the typical cost range for a home renovation in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a home renovation in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home renovation costs in Orange County can vary significantly based on the scope and complexity of the project. Minor renovations, like updating a single bathroom, might range from $15,000 to $30,000. Larger projects, such as a full kitchen remodel or a multi-room renovation, could start from $40,000 and go well over $100,000. Factors influencing cost include material choices, labor rates, structural changes, and the quality of finishes. Getting detailed estimates from contractors is essential for an accurate budget.",
+        "@type": "Answer",
+        "description": "Costs vary widely in Orange County, from $15,000 for minor updates to over $100,000 for major remodels, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Costs vary widely in Orange County, from $15,000 for minor updates to over $100,000 for major remodels, depending on scope and materials."
+}

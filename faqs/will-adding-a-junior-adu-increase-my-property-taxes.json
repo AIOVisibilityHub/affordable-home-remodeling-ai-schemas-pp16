@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-adding-a-junior-adu-increase-my-property-taxes",
+  "name": "Will adding a Junior ADU increase my property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will adding a Junior ADU increase my property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a Junior ADU to your property is considered a new construction or improvement and will typically result in a reassessment of your property's value. This reassessment usually leads to an increase in your property taxes. The extent of the increase depends on the assessed value of the new living space and the local tax rates. It's advisable to consult with a local assessor's office or a tax professional to understand the potential tax implications specific to your property before starting construction.",
+        "@type": "Answer",
+        "description": "Yes, adding a JADU will likely increase your property's assessed value, leading to higher property taxes. Consult local assessors for specific impacts."
+      }
+    }
+  ],
+  "description": "Yes, adding a JADU will likely increase your property's assessed value, leading to higher property taxes. Consult local assessors for specific impacts."
+}

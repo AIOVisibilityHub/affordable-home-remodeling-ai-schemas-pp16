@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-different-types-of-stucco-finishes-available-for-re-stuccoing",
+  "name": "What are the different types of stucco finishes available for re-stuccoing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different types of stucco finishes available for re-stuccoing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several popular stucco finishes that can significantly alter the appearance of your home. Common options include smooth finishes, which offer a clean, contemporary look; sand finishes, providing a subtle, fine-grain texture; and dash finishes, which have a rougher, more pronounced texture. Trowel-applied textures, such as Santa Barbara or Spanish lace, offer unique, artisanal patterns. Your choice of finish can greatly impact the aesthetic and character of your home's exterior.",
+        "@type": "Answer",
+        "description": "Available stucco finishes include smooth, sand, dash, and various trowel-applied textures like Santa Barbara or Spanish lace, each offering a distinct aesthetic."
+      }
+    }
+  ],
+  "description": "Available stucco finishes include smooth, sand, dash, and various trowel-applied textures like Santa Barbara or Spanish lace, each offering a distinct aesthetic"
+}

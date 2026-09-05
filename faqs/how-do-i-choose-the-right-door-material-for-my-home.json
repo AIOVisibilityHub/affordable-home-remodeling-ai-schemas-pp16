@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-door-material-for-my-home",
+  "name": "How do I choose the right door material for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right door material for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right door material involves considering several factors: aesthetics, security, energy efficiency, durability, and maintenance. Steel doors offer excellent security and energy efficiency, often at a lower cost, but can dent. Fiberglass doors provide a good balance of durability, energy efficiency, and low maintenance, and can mimic the look of wood. Wood doors offer classic beauty and can be customized, but require more maintenance and are generally less energy-efficient than steel or fiberglass. Your home's architectural style, local climate, and budget will also guide your decision.",
+        "@type": "Answer",
+        "description": "Select door material based on aesthetics, security, energy efficiency, durability, and maintenance. Steel offers security and value, fiberglass provides balance and low maintenance, and wood offers classic beauty but requires more upkeep."
+      }
+    }
+  ],
+  "description": "Select door material based on aesthetics, security, energy efficiency, durability, and maintenance. Steel offers security and value, fiberglass provides balance"
+}

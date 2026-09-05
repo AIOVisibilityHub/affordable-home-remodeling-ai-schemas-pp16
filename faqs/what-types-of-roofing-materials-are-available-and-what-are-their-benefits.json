@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-roofing-materials-are-available-and-what-are-their-benefits",
+  "name": "What types of roofing materials are available, and what are their benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roofing materials are available, and what are their benefits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common roofing materials include asphalt shingles, which are affordable and versatile, offering good protection for many years. Tile roofs, popular in California, provide excellent durability, energy efficiency, and a distinct aesthetic, though they are a heavier option. Metal roofing offers superior longevity, fire resistance, and can be energy-efficient. Each material has different lifespans, maintenance requirements, and aesthetic qualities to consider for your home's specific needs and local climate.",
+        "@type": "Answer",
+        "description": "Options include asphalt shingles (affordable), tile (durable, energy-efficient), and metal (long-lasting, fire-resistant), each with unique benefits."
+      }
+    }
+  ],
+  "description": "Options include asphalt shingles (affordable), tile (durable, energy-efficient), and metal (long-lasting, fire-resistant), each with unique benefits."
+}

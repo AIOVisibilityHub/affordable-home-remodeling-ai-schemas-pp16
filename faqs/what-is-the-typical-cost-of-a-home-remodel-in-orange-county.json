@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-of-a-home-remodel-in-orange-county",
+  "name": "What is the typical cost of a home remodel in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of a home remodel in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a home remodel in Orange County varies significantly based on the scope, materials chosen, and the specific areas being renovated. Minor cosmetic updates might range from $15,000 to $45,000, while a major kitchen or bathroom renovation could be $40,000 to $100,000+. Whole-home remodels often start at $150,000 and can exceed $500,000 for extensive projects. Factors like structural changes, premium finishes, and unexpected issues can influence the final price. It's best to discuss your vision with a contractor for a personalized estimate.",
+        "@type": "Answer",
+        "description": "Remodel costs in Orange County vary widely, from $15,000 for minor updates to over $150,000 for whole-home renovations, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Remodel costs in Orange County vary widely, from $15,000 for minor updates to over $150,000 for whole-home renovations, depending on scope and materials."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-included-in-a-typical-exterior-painting-service",
+  "name": "What is included in a typical exterior painting service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical exterior painting service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive exterior painting service usually includes several key steps to ensure a durable and high-quality finish. This typically starts with pressure washing and cleaning the exterior surfaces to remove dirt, mildew, and loose paint. Following cleaning, necessary prep work such as scraping loose paint, sanding, patching minor cracks or holes, and priming bare wood or problem areas is performed. The painting phase involves applying two coats of high-quality exterior paint. Finally, the service concludes with a thorough cleanup of the work area.",
+        "@type": "Answer",
+        "description": "A typical exterior painting service includes pressure washing, surface preparation like scraping and patching, applying two coats of paint, and a thorough cleanup."
+      }
+    }
+  ],
+  "description": "A typical exterior painting service includes pressure washing, surface preparation like scraping and patching, applying two coats of paint, and a thorough clean"
+}

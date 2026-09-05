@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-that-i-need-new-windows",
+  "name": "What are the signs that I need new windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that I need new windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several indicators suggest it might be time for new windows. These include noticeable drafts, difficulty opening or closing windows, condensation between glass panes, increased energy bills, visible damage like rot or cracks, and excessive outside noise filtering into your home. Older, single-pane windows are often less energy-efficient. Upgrading can improve comfort, reduce energy costs, and enhance your home's curb appeal.",
+        "@type": "Answer",
+        "description": "Signs you need new windows include drafts, difficulty operating, condensation, high energy bills, visible damage, and excessive outside noise."
+      }
+    }
+  ],
+  "description": "Signs you need new windows include drafts, difficulty operating, condensation, high energy bills, visible damage, and excessive outside noise."
+}

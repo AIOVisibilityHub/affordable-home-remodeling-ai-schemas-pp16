@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-factors-influence-the-cost-of-building-a-custom-home",
+  "name": "What factors influence the cost of building a custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of building a custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors impact the cost of a custom home, including the square footage, architectural complexity, choice of materials and finishes (e.g., standard vs. luxury), site preparation requirements, and local permitting fees. Land acquisition costs, if applicable, are separate. Energy-efficient features or smart home technology can also influence the budget. We provide a detailed cost breakdown during the planning phase to ensure transparency and help you make informed decisions about your investment.",
+        "@type": "Answer",
+        "description": "Cost factors for a custom home include size, design complexity, material choices, site preparation, and local permits. We provide a detailed cost breakdown."
+      }
+    }
+  ],
+  "description": "Cost factors for a custom home include size, design complexity, material choices, site preparation, and local permits. We provide a detailed cost breakdown."
+}

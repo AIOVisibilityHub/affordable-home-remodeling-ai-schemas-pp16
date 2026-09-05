@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-my-detached-adu-project",
+  "name": "How do I choose the right contractor for my detached ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my detached ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor is crucial for a successful detached ADU project. Look for licensed and insured general contractors with specific experience in ADU construction. Request references from previous clients and review their portfolios. Ensure they provide a detailed, transparent proposal outlining costs, timelines, and scope of work. Communication style and local knowledge of permitting processes are also important factors to consider for a smooth project experience.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with ADU experience, check references, review portfolios, and ensure they provide a detailed proposal."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with ADU experience, check references, review portfolios, and ensure they provide a detailed proposal."
+}

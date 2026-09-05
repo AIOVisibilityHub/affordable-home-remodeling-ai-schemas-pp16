@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-and-regulations-are-required-for-building-an-adu-in-orange-county-c",
+  "name": "What permits and regulations are required for building an ADU in Orange County cities like Irvine or Yorba Linda?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and regulations are required for building an ADU in Orange County cities like Irvine or Yorba Linda?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an ADU in Orange County cities such as Irvine or Yorba Linda requires compliance with both state ADU laws and specific local zoning ordinances. You will typically need building permits, and potentially separate permits for plumbing, electrical, and mechanical work. Regulations often cover setbacks, height limits, unit size, parking requirements, and design standards. It is essential to consult with your city's planning department to understand all applicable requirements before starting your project.",
+        "@type": "Answer",
+        "description": "ADU permits and regulations in Orange County cities like Irvine or Yorba Linda involve state laws and local zoning ordinances, covering building, utility, setback, and size requirements."
+      }
+    }
+  ],
+  "description": "ADU permits and regulations in Orange County cities like Irvine or Yorba Linda involve state laws and local zoning ordinances, covering building, utility, setba"
+}

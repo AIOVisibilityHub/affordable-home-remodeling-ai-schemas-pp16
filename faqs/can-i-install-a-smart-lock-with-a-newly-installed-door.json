@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-install-a-smart-lock-with-a-newly-installed-door",
+  "name": "Can I install a smart lock with a newly installed door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a smart lock with a newly installed door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, smart locks are generally compatible with newly installed doors, as long as the door meets standard preparation requirements for locksets. Most smart locks are designed to fit into standard boreholes for cylindrical locksets. When installing a new door, your contractor can ensure the door is prepped with the correct bore dimensions for your chosen smart lock, or they can bore the necessary holes during installation. It's advisable to inform your installer about your intention to use a smart lock beforehand to ensure seamless integration and proper functioning.",
+        "@type": "Answer",
+        "description": "Yes, smart locks are typically compatible with newly installed doors, provided the door has standard lockset preparations. Inform your installer about your smart lock choice early to ensure proper boreholes and seamless integration."
+      }
+    }
+  ],
+  "description": "Yes, smart locks are typically compatible with newly installed doors, provided the door has standard lockset preparations. Inform your installer about your smar"
+}

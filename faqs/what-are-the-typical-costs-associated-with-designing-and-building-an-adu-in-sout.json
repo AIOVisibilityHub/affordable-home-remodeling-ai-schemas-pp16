@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-typical-costs-associated-with-designing-and-building-an-adu-in-sout",
+  "name": "What are the typical costs associated with designing and building an ADU in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with designing and building an ADU in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADU costs in Southern California vary significantly based on size, complexity, materials, and site conditions. Expenses typically include design and architectural fees, permits, construction, and utility hookups. A basic detached ADU might start from $150,000 to $250,000, while more complex or larger units can exceed this. Consulting with a local contractor for a detailed estimate is recommended, as costs can fluctuate due to labor and material prices.",
+        "@type": "Answer",
+        "description": "ADU costs in Southern California typically range from $150,000 upwards, depending on size, design, and site specifics. This includes design, permits, and construction."
+      }
+    }
+  ],
+  "description": "ADU costs in Southern California typically range from $150,000 upwards, depending on size, design, and site specifics. This includes design, permits, and constr"
+}

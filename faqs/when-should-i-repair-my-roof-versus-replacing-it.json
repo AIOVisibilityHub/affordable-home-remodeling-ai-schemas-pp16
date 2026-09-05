@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-should-i-repair-my-roof-versus-replacing-it",
+  "name": "When should I repair my roof versus replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my roof versus replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the age of your roof, the extent of the damage, and the overall condition. If your roof is relatively new (under 15-20 years old) and the damage is localized (e.g., a few missing shingles or a small leak), a repair is often the more cost-effective solution. However, if your roof is nearing the end of its lifespan, has widespread damage, or multiple leaks, a full replacement might be a better long-term investment to prevent recurring issues.",
+        "@type": "Answer",
+        "description": "Repair when damage is localized and the roof is relatively new. Consider replacement if the roof is old, has widespread damage, or multiple recurring issues."
+      }
+    }
+  ],
+  "description": "Repair when damage is localized and the roof is relatively new. Consider replacement if the roof is old, has widespread damage, or multiple recurring issues."
+}

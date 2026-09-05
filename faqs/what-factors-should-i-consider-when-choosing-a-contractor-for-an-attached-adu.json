@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-factors-should-i-consider-when-choosing-a-contractor-for-an-attached-adu",
+  "name": "What factors should I consider when choosing a contractor for an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a contractor for an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your attached ADU, consider their experience with ADU projects specifically, as these have unique regulatory and design challenges. Look for contractors who are licensed, insured, and have a strong portfolio of completed work. Check their references and read reviews. Transparency in pricing, clear communication, and a strong understanding of local building codes in areas like Huntington Beach or Irvine are also crucial for a successful project.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with ADU-specific experience, good references, transparent pricing, and knowledge of local building codes."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with ADU-specific experience, good references, transparent pricing, and knowledge of local building codes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/does-roof-repair-come-with-a-warranty",
+  "name": "Does roof repair come with a warranty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does roof repair come with a warranty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Reputable contractors typically offer a warranty on their roof repair work. The length and coverage of the warranty can vary, but it usually covers the labor and materials used for the specific repair against defects. It's crucial to clarify the warranty details with your contractor before work begins, ensuring you understand what is covered and for how long. We provide clear warranty information to give you peace of mind regarding the quality of our repairs.",
+        "@type": "Answer",
+        "description": "Yes, reputable contractors usually offer a warranty on roof repair work, covering labor and materials against defects. Always confirm warranty details before starting the project."
+      }
+    }
+  ],
+  "description": "Yes, reputable contractors usually offer a warranty on roof repair work, covering labor and materials against defects. Always confirm warranty details before st"
+}

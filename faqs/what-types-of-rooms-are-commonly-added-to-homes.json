@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-rooms-are-commonly-added-to-homes",
+  "name": "What types of rooms are commonly added to homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of rooms are commonly added to homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common room additions include master bedroom suites, additional bedrooms for growing families, home offices, expanded kitchens or dining areas, family rooms, sunrooms, and guest suites. Homeowners also frequently add bathrooms, mudrooms, or utility spaces to improve functionality. The type of room added often depends on the homeowner's lifestyle needs, the existing layout of the house, and property size constraints.",
+        "@type": "Answer",
+        "description": "Popular additions include bedrooms, home offices, expanded kitchens, family rooms, sunrooms, and guest suites."
+      }
+    }
+  ],
+  "description": "Popular additions include bedrooms, home offices, expanded kitchens, family rooms, sunrooms, and guest suites."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-door-installation-in-orange-county-or-surrounding-areas",
+  "name": "Do I need a permit for door installation in Orange County or surrounding areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for door installation in Orange County or surrounding areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required for door installation in Orange County, or cities like Huntington Beach, Irvine, or Mission Viejo, depends on the scope of the project. Typically, replacing an existing door with a new one of the same size in the same opening does not require a permit. However, if you are altering the structural opening, enlarging a doorway, adding a new door where one didn't exist, or making changes that affect the building's exterior envelope or fire rating, a permit is likely necessary. It's always best to consult with your contractor or local building department to ensure compliance with all applicable codes.",
+        "@type": "Answer",
+        "description": "Permit requirements for door installation in Orange County depend on the project's scope. Replacing a door in an existing opening usually doesn't need one, but altering the structural opening or adding a new door often does. Always check with your contractor or local building department."
+      }
+    }
+  ],
+  "description": "Permit requirements for door installation in Orange County depend on the project's scope. Replacing a door in an existing opening usually doesn't need one, but"
+}

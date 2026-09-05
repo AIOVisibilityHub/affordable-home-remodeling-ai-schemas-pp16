@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-installation-process-for-a-new-front-entry-door",
+  "name": "What is the installation process for a new front entry door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for a new front entry door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process for a new front entry door typically begins with removing the old door and frame. The opening is then prepared, ensuring it is level, plumb, and properly sized for the new unit. The new pre-hung door unit, which includes the door slab and frame, is carefully positioned, shimmed, and secured into the rough opening. Professional installers ensure the door operates smoothly, latches correctly, and seals tightly against weather. Finally, the trim work is completed both inside and out, and any necessary weatherstripping or caulking is applied for energy efficiency and moisture protection.",
+        "@type": "Answer",
+        "description": "The process involves removing the old door and frame, preparing the opening, installing and securing the new pre-hung door unit, ensuring proper operation and sealing, and finishing with trim work and weatherproofing."
+      }
+    }
+  ],
+  "description": "The process involves removing the old door and frame, preparing the opening, installing and securing the new pre-hung door unit, ensuring proper operation and s"
+}

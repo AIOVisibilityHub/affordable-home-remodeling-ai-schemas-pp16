@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-does-an-adu-affect-property-taxes-and-home-insurance",
+  "name": "How does an ADU affect property taxes and home insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an ADU affect property taxes and home insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding an ADU will generally increase your property's assessed value, leading to a rise in property taxes. However, in California, the property tax increase is typically limited to the value added by the ADU, not a reassessment of the entire property. For home insurance, an ADU represents an additional structure on your property, so you will need to inform your insurance provider. Your policy will likely be updated to cover the new structure for perils like fire, theft, and liability, which may result in higher premiums.",
+        "@type": "Answer",
+        "description": "An ADU increases property value and taxes, but only for the added value. Home insurance premiums will likely rise as the ADU needs to be covered as an additional structure."
+      }
+    }
+  ],
+  "description": "An ADU increases property value and taxes, but only for the added value. Home insurance premiums will likely rise as the ADU needs to be covered as an additiona"
+}

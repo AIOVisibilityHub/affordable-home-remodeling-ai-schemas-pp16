@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-build-an-attached-adu",
+  "name": "How long does it take to build an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building an attached ADU can range from 8 to 18 months, or sometimes longer, depending on various factors. Key influences include the time for design and architectural plans, the duration of permit approval from local city departments, and the actual construction phase. Material availability, inspection schedules, and the complexity of your specific design also play a role. We work efficiently to keep projects on track.",
+        "@type": "Answer",
+        "description": "Building an attached ADU typically takes 8 to 18 months, influenced by design time, permit approvals, construction duration, and project complexity."
+      }
+    }
+  ],
+  "description": "Building an attached ADU typically takes 8 to 18 months, influenced by design time, permit approvals, construction duration, and project complexity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-it-cost-to-replace-an-exterior-door-in-orange-county",
+  "name": "How much does it cost to replace an exterior door in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace an exterior door in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior door replacement in Orange County varies widely based on several factors, including the type of door material (fiberglass, steel, wood), style (entry, patio, French), brand, and any necessary modifications to the existing frame. Installation complexity also plays a role. A basic steel entry door might be less expensive than a custom wood or high-end fiberglass door with decorative glass. We recommend scheduling a free in-home consultation to get an accurate estimate tailored to your specific choices and home requirements.",
+        "@type": "Answer",
+        "description": "Exterior door replacement costs in Orange County depend on material, style, brand, and installation complexity. A consultation provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Exterior door replacement costs in Orange County depend on material, style, brand, and installation complexity. A consultation provides an accurate estimate."
+}

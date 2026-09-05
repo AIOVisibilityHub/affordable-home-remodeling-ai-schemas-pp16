@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-cost-of-stucco-repair-in-orange-county",
+  "name": "What is the cost of stucco repair in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of stucco repair in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of stucco repair in Orange County varies depending on factors such as the severity and size of the damage, the type of stucco finish, accessibility, and whether underlying structural or moisture issues need to be addressed. Minor crack repairs might be less expensive, while extensive water damage remediation and stucco replacement will incur higher costs. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Stucco repair costs in Orange County depend on damage severity, stucco type, accessibility, and underlying issues. Estimates are provided after assessment."
+      }
+    }
+  ],
+  "description": "Stucco repair costs in Orange County depend on damage severity, stucco type, accessibility, and underlying issues. Estimates are provided after assessment."
+}

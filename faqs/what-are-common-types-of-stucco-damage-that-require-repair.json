@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-common-types-of-stucco-damage-that-require-repair",
+  "name": "What are common types of stucco damage that require repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common types of stucco damage that require repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of stucco damage include hairline cracks, spiderweb cracking, stress cracks (often larger and deeper), efflorescence (white mineral deposits), bulging or delamination (stucco separating from the wall), and spalling (crumbling or flaking). Water intrusion often underlies more severe damage, leading to rot in the substrate. Each type requires specific repair approaches.",
+        "@type": "Answer",
+        "description": "Common stucco damage includes various cracks, efflorescence, bulging, delamination, and spalling, often caused or worsened by water intrusion."
+      }
+    }
+  ],
+  "description": "Common stucco damage includes various cracks, efflorescence, bulging, delamination, and spalling, often caused or worsened by water intrusion."
+}

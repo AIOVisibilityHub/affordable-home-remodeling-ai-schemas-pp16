@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/are-there-any-rebates-or-incentives-for-insulation-upgrades-in-orange-county",
+  "name": "Are there any rebates or incentives for insulation upgrades in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any rebates or incentives for insulation upgrades in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, residents in Orange County and surrounding areas may be eligible for various energy efficiency rebates and incentives when upgrading their home insulation. These programs are often offered by utility companies, local municipalities, or state initiatives to encourage energy savings. Programs like the HERO Program or those from Southern California Edison and SoCalGas can provide financial assistance. We recommend checking with your specific utility provider or local government websites for the most current programs available.",
+        "@type": "Answer",
+        "description": "Yes, residents in Orange County may be eligible for utility company or state energy efficiency rebates and incentives for insulation upgrades."
+      }
+    }
+  ],
+  "description": "Yes, residents in Orange County may be eligible for utility company or state energy efficiency rebates and incentives for insulation upgrades."
+}

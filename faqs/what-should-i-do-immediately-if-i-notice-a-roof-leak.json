@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-i-do-immediately-if-i-notice-a-roof-leak",
+  "name": "What should I do immediately if I notice a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately if I notice a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you discover a roof leak, the first step is to contain the water indoors to minimize damage. Place buckets or towels under the leak. Try to locate the source of the leak, if possible, as this information can be helpful for the repair crew. Avoid going onto the roof yourself due to safety risks. Contact a professional roofing contractor as soon as possible to schedule an emergency inspection and repair to prevent further damage to your home's interior and structure.",
+        "@type": "Answer",
+        "description": "Immediately contain indoor water from the leak, then contact a professional roofing contractor for an emergency inspection and repair to prevent further damage."
+      }
+    }
+  ],
+  "description": "Immediately contain indoor water from the leak, then contact a professional roofing contractor for an emergency inspection and repair to prevent further damage."
+}

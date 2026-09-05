@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-window-materials-are-available-for-replacement",
+  "name": "What types of window materials are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of window materials are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several common materials are available, each with distinct benefits. Vinyl windows are popular for their affordability, energy efficiency, and low maintenance. Fiberglass windows offer superior durability, strength, and resistance to extreme temperatures, making them a long-lasting option. Aluminum windows are known for their slim frames and modern aesthetic, often chosen for contemporary designs. Wood windows provide natural insulation and a classic look but typically require more maintenance.",
+        "@type": "Answer",
+        "description": "Common window materials include vinyl for affordability and efficiency, fiberglass for durability, aluminum for modern aesthetics, and wood for classic looks."
+      }
+    }
+  ],
+  "description": "Common window materials include vinyl for affordability and efficiency, fiberglass for durability, aluminum for modern aesthetics, and wood for classic looks."
+}

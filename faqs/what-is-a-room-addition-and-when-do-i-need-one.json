@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-a-room-addition-and-when-do-i-need-one",
+  "name": "What is a room addition and when do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a room addition and when do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition expands your home's footprint by building new enclosed space, typically extending from an existing wall or as a second-story extension. You might need one if your family is growing, you require more functional space like a home office or guest room, or you want to enhance your property's value and livability. It's an alternative to moving or extensive interior renovations, providing dedicated new space tailored to your needs.",
+        "@type": "Answer",
+        "description": "A room addition expands your home's footprint to add new space when you need more room or want to increase property value."
+      }
+    }
+  ],
+  "description": "A room addition expands your home's footprint to add new space when you need more room or want to increase property value."
+}

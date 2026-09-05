@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-window-replacement-in-the-orange-county-area",
+  "name": "What is the average cost of window replacement in the Orange County area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of window replacement in the Orange County area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window replacement in Orange County varies widely based on several factors, including the number and size of windows, the material chosen (vinyl, fiberglass, aluminum, wood), glass options (e.g., Low-E, argon gas), and installation complexity. While specific prices require a personalized quote, homeowners can expect to invest based on their selections. It's advisable to get detailed estimates from several local contractors, such as those serving Huntington Beach or Irvine, to compare options and find the best value for your budget.",
+        "@type": "Answer",
+        "description": "Costs for window replacement in Orange County vary by window count, material, glass type, and installation complexity. Obtain personalized quotes from local contractors."
+      }
+    }
+  ],
+  "description": "Costs for window replacement in Orange County vary by window count, material, glass type, and installation complexity. Obtain personalized quotes from local con"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-i-consider-when-choosing-a-contractor-for-a-primary-suite-addition",
+  "name": "What should I consider when choosing a contractor for a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a contractor for a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your primary suite addition, look for experience in similar projects, proper licensing and insurance, and strong references. Evaluate their communication style, transparency in pricing, and their ability to adhere to schedules. A reputable contractor will provide a detailed proposal, clear contract, and be knowledgeable about local building codes. It's also beneficial to choose a contractor familiar with the specific challenges of home additions.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience in additions, proper licensing, good references, clear communication, and transparency in pricing."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience in additions, proper licensing, good references, clear communication, and transparency in pricing."
+}

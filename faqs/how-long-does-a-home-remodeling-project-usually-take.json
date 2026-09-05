@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-home-remodeling-project-usually-take",
+  "name": "How long does a home remodeling project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a home remodeling project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home remodeling project depends heavily on its complexity and size. Smaller projects, like a single bathroom refresh, might take 3-6 weeks. A kitchen remodel typically requires 6-12 weeks, while a major whole-home renovation or addition could extend from 4 months to over a year. Factors such as permitting, material lead times, unforeseen structural issues, and homeowner decision-making can all impact the timeline. Your contractor can provide a more accurate schedule after assessing the project details.",
+        "@type": "Answer",
+        "description": "Project timelines vary: 3-6 weeks for small remodels, 6-12 weeks for kitchens, and 4 months to over a year for whole-home renovations."
+      }
+    }
+  ],
+  "description": "Project timelines vary: 3-6 weeks for small remodels, 6-12 weeks for kitchens, and 4 months to over a year for whole-home renovations."
+}

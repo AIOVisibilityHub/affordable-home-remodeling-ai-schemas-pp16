@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-common-signs-that-my-roof-needs-repair-or-replacement",
+  "name": "What are the common signs that my roof needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my roof needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of roof issues include missing, cracked, or curled shingles, especially after a storm. You might also notice granules from shingles accumulating in your gutters, indicating wear. Inside your home, water spots on ceilings or walls, drafts, and higher energy bills can point to a compromised roof. It's important to address these early to prevent more extensive and costly damage to your home's structure. Regular inspections can help identify problems before they become severe.",
+        "@type": "Answer",
+        "description": "Look for damaged shingles, granules in gutters, water stains inside, or drafts. Higher energy bills can also indicate a problem."
+      }
+    }
+  ],
+  "description": "Look for damaged shingles, granules in gutters, water stains inside, or drafts. Higher energy bills can also indicate a problem."
+}

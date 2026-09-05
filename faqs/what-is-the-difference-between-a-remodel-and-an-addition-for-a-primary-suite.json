@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-remodel-and-an-addition-for-a-primary-suite",
+  "name": "What is the difference between a remodel and an addition for a primary suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a remodel and an addition for a primary suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A remodel typically involves updating or reconfiguring an existing primary suite within the current footprint of your home, without expanding the exterior walls. This could include bathroom renovations, closet reorganization, or cosmetic upgrades. An addition, however, means expanding the physical footprint of your home by building new space, creating a completely new or significantly larger primary suite. Additions require more extensive planning, permitting, and construction than remodels.",
+        "@type": "Answer",
+        "description": "A remodel updates an existing space, while an addition expands your home's physical footprint by building new space for a primary suite."
+      }
+    }
+  ],
+  "description": "A remodel updates an existing space, while an addition expands your home's physical footprint by building new space for a primary suite."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-re-stuccoing-a-house",
+  "name": "What is the process for re-stuccoing a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for re-stuccoing a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The re-stucco process typically begins with preparing the existing surface, which may involve cleaning, repairing minor cracks, or removing loose material. If necessary, a new moisture barrier and lath (wire mesh) are applied over the existing exterior. Next, multiple layers of stucco are applied: the scratch coat, followed by the brown coat to level the surface, and finally, the finish coat, which provides the desired texture and color. Each coat requires adequate drying time, ensuring durability and a quality finish.",
+        "@type": "Answer",
+        "description": "The re-stucco process involves surface preparation, applying a moisture barrier and lath if needed, then multiple stucco layers: scratch, brown, and finish coats, with drying time between each."
+      }
+    }
+  ],
+  "description": "The re-stucco process involves surface preparation, applying a moisture barrier and lath if needed, then multiple stucco layers: scratch, brown, and finish coat"
+}

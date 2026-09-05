@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-you-offer-warranties-on-flooring-installation-services",
+  "name": "Do you offer warranties on flooring installation services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer warranties on flooring installation services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we stand behind the quality of our workmanship. Our flooring installation services typically come with a warranty that covers the labor for a specified period, ensuring the installation meets industry standards and is free from defects related to our work. The specific terms and duration of the warranty will be clearly outlined in your project contract. Manufacturers also provide separate warranties for the flooring materials themselves, covering defects in the product. We're happy to discuss these details during your consultation.",
+        "@type": "Answer",
+        "description": "Yes, we offer a labor warranty on our flooring installation services to guarantee quality workmanship. Manufacturer warranties cover the flooring materials separately."
+      }
+    }
+  ],
+  "description": "Yes, we offer a labor warranty on our flooring installation services to guarantee quality workmanship. Manufacturer warranties cover the flooring materials sepa"
+}

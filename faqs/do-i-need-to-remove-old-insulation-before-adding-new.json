@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-remove-old-insulation-before-adding-new",
+  "name": "Do I need to remove old insulation before adding new?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove old insulation before adding new?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, it's not strictly necessary to remove old insulation, especially if it's in good condition and not compromised by moisture, pests, or mold. Often, new insulation can be added directly on top to increase the overall R-value. However, if the existing insulation is damaged, contaminated, or has settled significantly, removal is recommended to ensure the effectiveness and health benefits of the new material. Our assessment will determine the best approach for your specific situation.",
+        "@type": "Answer",
+        "description": "Not always; new insulation can often be added over old if it's in good condition. Removal is recommended if old insulation is damaged, contaminated, or settled."
+      }
+    }
+  ],
+  "description": "Not always; new insulation can often be added over old if it's in good condition. Removal is recommended if old insulation is damaged, contaminated, or settled."
+}

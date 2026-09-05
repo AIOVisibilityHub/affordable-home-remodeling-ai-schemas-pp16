@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-completing-a-primary-suite-addition",
+  "name": "What is the typical timeline for completing a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for completing a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a primary suite addition generally ranges from 4 to 8 months, but this can fluctuate. Key factors influencing duration include design finalization, permitting processes, material lead times, and the complexity of the construction itself. Unexpected site conditions or design changes during construction can also extend the project. A detailed project schedule will be provided after design and material selections are finalized.",
+        "@type": "Answer",
+        "description": "A primary suite addition typically takes 4-8 months, influenced by design, permitting, material availability, and construction complexity."
+      }
+    }
+  ],
+  "description": "A primary suite addition typically takes 4-8 months, influenced by design, permitting, material availability, and construction complexity."
+}

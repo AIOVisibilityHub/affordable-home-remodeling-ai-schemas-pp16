@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-my-stucco-needs-repair",
+  "name": "How do I know if my stucco needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my stucco needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider stucco repair if you notice visible cracks, bubbling, bulging, discoloration, or crumbling sections. Water stains below windows or at the base of walls can also signal moisture intrusion, which often requires immediate attention to prevent further damage. Small issues can escalate if left unaddressed, leading to more extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Look for cracks, bubbling, bulging, discoloration, crumbling, or water stains on your stucco."
+      }
+    }
+  ],
+  "description": "Look for cracks, bubbling, bulging, discoloration, crumbling, or water stains on your stucco."
+}

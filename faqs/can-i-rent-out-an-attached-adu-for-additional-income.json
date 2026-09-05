@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-rent-out-an-attached-adu-for-additional-income",
+  "name": "Can I rent out an attached ADU for additional income?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I rent out an attached ADU for additional income?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most areas, including those we serve, you can rent out an attached ADU. Many homeowners build ADUs specifically to generate rental income, which can help offset mortgage payments or provide a new revenue stream. It's important to understand local rental regulations, which can include rules about short-term versus long-term rentals. We can discuss general considerations, but recommend consulting with a real estate professional for specific rental market advice.",
+        "@type": "Answer",
+        "description": "Yes, attached ADUs can typically be rented out for income, but local rental regulations should be understood."
+      }
+    }
+  ],
+  "description": "Yes, attached ADUs can typically be rented out for income, but local rental regulations should be understood."
+}

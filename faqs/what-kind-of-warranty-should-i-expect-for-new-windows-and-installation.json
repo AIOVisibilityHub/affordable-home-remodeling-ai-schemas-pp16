@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-warranty-should-i-expect-for-new-windows-and-installation",
+  "name": "What kind of warranty should I expect for new windows and installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty should I expect for new windows and installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most reputable window manufacturers offer warranties on their products, typically covering defects in materials and workmanship for a period ranging from 10 years to a lifetime. These warranties often cover components like glass seals against fogging and frame integrity. Additionally, a professional contractor should provide a separate warranty on their installation labor, usually for one to five years. Always review both the manufacturer's product warranty and the contractor's labor warranty to understand coverage details and terms.",
+        "@type": "Answer",
+        "description": "Expect a manufacturer's warranty on the windows (10 years to lifetime) covering materials, and a separate contractor's warranty on the installation labor (1-5 years)."
+      }
+    }
+  ],
+  "description": "Expect a manufacturer's warranty on the windows (10 years to lifetime) covering materials, and a separate contractor's warranty on the installation labor (1-5 y"
+}

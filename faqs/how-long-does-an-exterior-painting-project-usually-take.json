@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-an-exterior-painting-project-usually-take",
+  "name": "How long does an exterior painting project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an exterior painting project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior painting project varies significantly based on factors like the size of your home, its architectural complexity, the extent of surface preparation required, and weather conditions. A typical single-story home might take 3-5 days, while larger or more intricate homes could take 1-2 weeks. We aim to work efficiently while maintaining high quality standards. During our initial consultation, we can provide a more precise timeline tailored to your specific project and keep you informed of progress.",
+        "@type": "Answer",
+        "description": "Exterior painting projects typically take 3-5 days for smaller homes and up to 1-2 weeks for larger, more complex ones, depending on prep work and weather."
+      }
+    }
+  ],
+  "description": "Exterior painting projects typically take 3-5 days for smaller homes and up to 1-2 weeks for larger, more complex ones, depending on prep work and weather."
+}

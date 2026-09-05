@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-payment-schedule-for-a-custom-home-build",
+  "name": "What is the typical payment schedule for a custom home build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical payment schedule for a custom home build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Payment schedules for custom home builds are typically structured in phases, tied to the completion of specific project milestones. An initial deposit is usually required upon contract signing. Subsequent payments, or draws, are then released as various stages of construction are completed, such as foundation pouring, framing, rough-ins for utilities, exterior enclosure, and interior finishes. The final payment is made upon successful completion and your final walk-through. This phased approach ensures you only pay for work that has been performed.",
+        "@type": "Answer",
+        "description": "Payment for custom home builds is typically phased, starting with a deposit, followed by draws at key construction milestones, and a final payment upon completion."
+      }
+    }
+  ],
+  "description": "Payment for custom home builds is typically phased, starting with a deposit, followed by draws at key construction milestones, and a final payment upon completi"
+}

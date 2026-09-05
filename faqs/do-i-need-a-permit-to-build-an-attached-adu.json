@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-to-build-an-attached-adu",
+  "name": "Do I need a permit to build an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to build an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. Building an attached ADU requires multiple permits from your local city or county planning and building departments. This includes permits for construction, plumbing, electrical, and sometimes environmental reviews. These permits ensure the ADU meets all safety, zoning, and building code requirements. Attempting to build without proper permits can result in significant fines, demolition orders, and difficulty selling your home in the future.",
+        "@type": "Answer",
+        "description": "Yes, permits are legally required for all aspects of attached ADU construction to ensure safety and compliance with local codes."
+      }
+    }
+  ],
+  "description": "Yes, permits are legally required for all aspects of attached ADU construction to ensure safety and compliance with local codes."
+}

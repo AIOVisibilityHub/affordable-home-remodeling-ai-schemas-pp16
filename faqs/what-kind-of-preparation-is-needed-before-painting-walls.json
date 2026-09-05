@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-preparation-is-needed-before-painting-walls",
+  "name": "What kind of preparation is needed before painting walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of preparation is needed before painting walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper wall preparation is crucial for a smooth, lasting paint finish. This typically includes cleaning surfaces to remove dirt and grime, patching any holes or cracks, sanding rough areas, and ensuring all surfaces are dry. Sometimes, priming is necessary, especially if there are significant color changes, stains, or new drywall. Thorough preparation prevents issues like peeling, blistering, and uneven finishes down the line.",
+        "@type": "Answer",
+        "description": "Preparation involves cleaning, patching holes/cracks, sanding, and ensuring surfaces are dry. Priming may be needed for color changes or new drywall."
+      }
+    }
+  ],
+  "description": "Preparation involves cleaning, patching holes/cracks, sanding, and ensuring surfaces are dry. Priming may be needed for color changes or new drywall."
+}

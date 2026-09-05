@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-range-for-new-flooring-installation",
+  "name": "What is the average cost range for new flooring installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost range for new flooring installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of new flooring installation varies widely based on the material chosen, the total area, and labor rates. Budget-friendly options like laminate or basic carpet might range from $3 to $7 per square foot. Mid-range options such as luxury vinyl plank (LVP) or engineered wood can cost $6 to $15 per square foot. Premium materials like natural stone tile or high-end hardwood can go upwards of $15 to $30+ per square foot. These figures typically include materials and professional installation. We provide a detailed, itemized quote after an on-site consultation.",
+        "@type": "Answer",
+        "description": "Flooring installation costs vary by material, area size, and labor, ranging from $3 to $30+ per square foot. We offer itemized quotes after consultation."
+      }
+    }
+  ],
+  "description": "Flooring installation costs vary by material, area size, and labor, ranging from $3 to $30+ per square foot. We offer itemized quotes after consultation."
+}

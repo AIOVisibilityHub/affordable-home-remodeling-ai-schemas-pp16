@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-re-stucco-help-improve-my-home-s-insulation-and-energy-efficiency",
+  "name": "Can re-stucco help improve my home's insulation and energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can re-stucco help improve my home's insulation and energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While traditional stucco itself offers some inherent insulation properties due to its mass, re-stuccoing can contribute to improved energy efficiency, particularly if combined with other measures. A new, properly applied stucco layer can seal minor cracks and gaps in your exterior, reducing air infiltration. For a more significant energy efficiency boost, some re-stucco projects incorporate an exterior insulation and finish system (EIFS) or a rainscreen system, which adds an insulating layer beneath the stucco. Discuss these options with your contractor.",
+        "@type": "Answer",
+        "description": "Re-stucco can improve energy efficiency by sealing gaps and reducing air infiltration. For more significant insulation, consider systems like EIFS or a rainscreen during the re-stucco process."
+      }
+    }
+  ],
+  "description": "Re-stucco can improve energy efficiency by sealing gaps and reducing air infiltration. For more significant insulation, consider systems like EIFS or a rainscre"
+}

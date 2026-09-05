@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-adding-a-second-story-to-my-home",
+  "name": "What is involved in adding a second story to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in adding a second story to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a second story typically involves structural evaluation of the existing foundation and walls to ensure they can support the additional weight. The process includes designing the new level, obtaining necessary permits, framing the new structure, installing roofing, siding, windows, and completing interior finishes like electrical, plumbing, insulation, and drywall. It often requires temporary relocation for the homeowners during significant construction phases.",
+        "@type": "Answer",
+        "description": "Adding a second story involves structural evaluation, design, permitting, framing, and extensive interior and exterior finishing, often requiring temporary relocation."
+      }
+    }
+  ],
+  "description": "Adding a second story involves structural evaluation, design, permitting, framing, and extensive interior and exterior finishing, often requiring temporary relo"
+}

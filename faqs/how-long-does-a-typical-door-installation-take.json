@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-door-installation-take",
+  "name": "How long does a typical door installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a door installation varies based on the type of door and the complexity of the project. A standard pre-hung interior door can often be installed within a few hours. Exterior doors, such as a new entry door or a basic sliding patio door, generally take a half to a full day, especially if frame adjustments are needed. More complex installations, like custom-sized doors, French doors, or significant structural modifications around the opening, could extend to one or two full days. Your installer can provide a more precise timeline after assessing the specific job.",
+        "@type": "Answer",
+        "description": "Installation time varies; a standard interior door might take a few hours, while exterior doors or complex custom installations could take a half to two days, depending on the project's complexity."
+      }
+    }
+  ],
+  "description": "Installation time varies; a standard interior door might take a few hours, while exterior doors or complex custom installations could take a half to two days, d"
+}

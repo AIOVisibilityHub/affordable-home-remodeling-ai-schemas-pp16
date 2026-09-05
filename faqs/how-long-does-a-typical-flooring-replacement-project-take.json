@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-flooring-replacement-project-take",
+  "name": "How long does a typical flooring replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical flooring replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a flooring replacement project varies depending on the type of flooring, the size of the area, and any necessary subfloor preparation. For a single room with basic carpet replacement, it might take one to two days. A larger project involving tile or hardwood throughout a home, including old flooring removal and subfloor leveling, could extend to a week or more. We provide a detailed timeline after assessing your specific project, ensuring minimal disruption to your daily routine.",
+        "@type": "Answer",
+        "description": "Project duration depends on flooring type, area size, and subfloor needs; a single room might take 1-2 days, while a whole house could take a week or more."
+      }
+    }
+  ],
+  "description": "Project duration depends on flooring type, area size, and subfloor needs; a single room might take 1-2 days, while a whole house could take a week or more."
+}

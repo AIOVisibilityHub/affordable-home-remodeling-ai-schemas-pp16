@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-remove-my-old-flooring-before-new-installation",
+  "name": "Do I need to remove my old flooring before new installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old flooring before new installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, existing flooring should be removed before installing new flooring. Removing the old material allows for proper subfloor inspection and preparation, which is crucial for the longevity and performance of your new floor. Installing over old flooring can lead to uneven surfaces, moisture trapping, and potential issues with height transitions or door clearances. There are exceptions, such as installing luxury vinyl plank (LVP) directly over some existing hard surfaces, but this requires professional assessment to ensure suitability and avoid future problems.",
+        "@type": "Answer",
+        "description": "Yes, generally old flooring must be removed for proper subfloor preparation, ensuring longevity and preventing issues with new installation. Some exceptions exist but require professional assessment."
+      }
+    }
+  ],
+  "description": "Yes, generally old flooring must be removed for proper subfloor preparation, ensuring longevity and preventing issues with new installation. Some exceptions exi"
+}

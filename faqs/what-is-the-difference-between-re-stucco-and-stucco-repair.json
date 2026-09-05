@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-re-stucco-and-stucco-repair",
+  "name": "What is the difference between re-stucco and stucco repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between re-stucco and stucco repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco repair typically addresses localized damage, such as small cracks, holes, or minor areas of deterioration, restoring the existing stucco's integrity in specific spots. Re-stucco, on the other hand, involves applying an entirely new layer of stucco over a significant portion or the entire exterior of a building. Re-stucco is chosen for widespread damage, a complete aesthetic overhaul, or when existing stucco is severely compromised, offering a uniform, fresh appearance rather than patch-up work.",
+        "@type": "Answer",
+        "description": "Stucco repair fixes localized damage, while re-stucco applies a new layer over a large area or entire exterior for widespread damage or a complete aesthetic change."
+      }
+    }
+  ],
+  "description": "Stucco repair fixes localized damage, while re-stucco applies a new layer over a large area or entire exterior for widespread damage or a complete aesthetic cha"
+}

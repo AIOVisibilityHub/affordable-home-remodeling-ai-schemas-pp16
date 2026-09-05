@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-window-installation-process",
+  "name": "What is the window installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the window installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical window installation process begins with an initial consultation and measurement. Once windows are ordered and arrive, the old windows are carefully removed. The opening is then prepared, ensuring it is clean, level, and sealed to prevent moisture intrusion. The new window is set, leveled, and secured. Finally, the window is insulated, sealed, and trimmed both inside and outside to ensure a weather-tight and aesthetically pleasing finish.",
+        "@type": "Answer",
+        "description": "The window installation process involves consultation, old window removal, opening preparation, new window setting and securing, then insulating, sealing, and trimming."
+      }
+    }
+  ],
+  "description": "The window installation process involves consultation, old window removal, opening preparation, new window setting and securing, then insulating, sealing, and t"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-causes-stucco-to-crack",
+  "name": "What causes stucco to crack?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes stucco to crack?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco cracks can result from various factors, including the natural settling of a home's foundation, seismic activity, poor installation practices, or extreme temperature fluctuations. Hairline cracks are common and often cosmetic, while larger cracks may indicate underlying structural issues or moisture intrusion. Understanding the cause helps determine the appropriate repair method and prevent recurrence.",
+        "@type": "Answer",
+        "description": "Stucco cracks are caused by foundation settling, seismic activity, improper installation, or temperature changes."
+      }
+    }
+  ],
+  "description": "Stucco cracks are caused by foundation settling, seismic activity, improper installation, or temperature changes."
+}

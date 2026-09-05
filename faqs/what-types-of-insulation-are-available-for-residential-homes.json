@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-insulation-are-available-for-residential-homes",
+  "name": "What types of insulation are available for residential homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of insulation are available for residential homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common residential insulation types include fiberglass batts and rolls, blown-in cellulose or fiberglass, spray foam (open-cell and closed-cell), and rigid foam boards. Fiberglass is cost-effective and widely used. Cellulose, often made from recycled paper, is a dense, eco-friendly option. Spray foam provides excellent air sealing and high R-values, while rigid foam boards are good for specific areas like basements or exterior walls. Each type has distinct properties regarding R-value, installation, and cost.",
+        "@type": "Answer",
+        "description": "Residential insulation options include fiberglass batts, blown-in cellulose or fiberglass, spray foam, and rigid foam boards. Each type offers different benefits and R-values."
+      }
+    }
+  ],
+  "description": "Residential insulation options include fiberglass batts, blown-in cellulose or fiberglass, spray foam, and rigid foam boards. Each type offers different benefit"
+}

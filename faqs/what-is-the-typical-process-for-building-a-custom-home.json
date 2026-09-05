@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-process-for-building-a-custom-home",
+  "name": "What is the typical process for building a custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for building a custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a custom home generally begins with an initial consultation to discuss your vision, needs, and budget. This is followed by site assessment and architectural design. Once designs are finalized, permits are secured, and construction commences. The process includes foundation pouring, framing, utility installations, exterior and interior finishes, and final inspections. Throughout, there's regular communication to ensure your project stays on track and meets your expectations. The final step involves a walk-through and handover of your new home.",
+        "@type": "Answer",
+        "description": "The process typically involves consultation, design, permitting, construction (foundation, framing, finishes), and final inspection before handover."
+      }
+    }
+  ],
+  "description": "The process typically involves consultation, design, permitting, construction (foundation, framing, finishes), and final inspection before handover."
+}

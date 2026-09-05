@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-maintenance-is-required-for-different-types-of-flooring",
+  "name": "What maintenance is required for different types of flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for different types of flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance varies significantly by flooring type. Hardwood requires regular sweeping or vacuuming and occasional cleaning with specific hardwood cleaners; avoid excessive moisture. Tile and luxury vinyl plank (LVP) are generally low-maintenance, requiring routine sweeping and damp mopping with mild cleansers. Carpet needs frequent vacuuming to remove dirt and occasional professional deep cleaning to maintain its appearance and prolong its life. Always refer to the manufacturer's guidelines for specific care instructions to ensure longevity and warranty compliance.",
+        "@type": "Answer",
+        "description": "Maintenance depends on flooring type: hardwood needs specific cleaners and minimal moisture; tile/LVP require sweeping and damp mopping; carpet needs frequent vacuuming and occasional deep cleaning."
+      }
+    }
+  ],
+  "description": "Maintenance depends on flooring type: hardwood needs specific cleaners and minimal moisture; tile/LVP require sweeping and damp mopping; carpet needs frequent v"
+}

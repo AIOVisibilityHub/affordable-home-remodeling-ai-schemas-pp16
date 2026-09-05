@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-it-cost-to-install-new-windows",
+  "name": "How much does it cost to install new windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install new windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing new windows varies significantly based on several factors. These include the type and style of windows chosen (e.g., vinyl, wood, fiberglass), the number of windows, their size, energy efficiency ratings (like Low-E glass), and the complexity of the installation. Additional costs can arise if structural modifications are needed. Obtaining a detailed quote from a local contractor after an on-site assessment is the best way to get an accurate estimate.",
+        "@type": "Answer",
+        "description": "Window installation costs vary based on window type, size, number, material, energy efficiency, and installation complexity."
+      }
+    }
+  ],
+  "description": "Window installation costs vary based on window type, size, number, material, energy efficiency, and installation complexity."
+}

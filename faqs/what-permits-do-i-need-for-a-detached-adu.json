@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-do-i-need-for-a-detached-adu",
+  "name": "What permits do I need for a detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits do I need for a detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a detached ADU requires various permits, primarily a building permit from your local city or county planning department. This permit ensures the structure complies with zoning ordinances, safety codes, and environmental regulations. Depending on your specific project and location, you may also need separate permits for electrical, plumbing, mechanical, and sometimes fire sprinklers. It's crucial to consult with your general contractor and local planning department early in the process.",
+        "@type": "Answer",
+        "description": "You will need a building permit, and potentially separate permits for electrical, plumbing, and mechanical systems, depending on local regulations."
+      }
+    }
+  ],
+  "description": "You will need a building permit, and potentially separate permits for electrical, plumbing, and mechanical systems, depending on local regulations."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-add-a-primary-suite-to-a-single-story-home",
+  "name": "Can I add a primary suite to a single-story home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a primary suite to a single-story home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can add a primary suite to a single-story home. This can be achieved through a ground-level extension, building out from an existing wall, or by converting and expanding an underutilized area like a garage, if feasible. Another option, depending on structural integrity and zoning, is to add a second story, creating a new primary suite level above the existing footprint. The best approach depends on your lot size, local regulations, and desired outcome.",
+        "@type": "Answer",
+        "description": "Yes, you can add a primary suite to a single-story home via a ground-level extension or, if suitable, a second-story addition."
+      }
+    }
+  ],
+  "description": "Yes, you can add a primary suite to a single-story home via a ground-level extension or, if suitable, a second-story addition."
+}

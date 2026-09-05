@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-general-contractor-for-my-ground-up-project",
+  "name": "How do I choose the right general contractor for my ground-up project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right general contractor for my ground-up project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right general contractor is crucial for a successful ground-up project. Look for contractors with extensive experience specifically in new home construction, not just remodeling. Verify their licensing and insurance, and check references from previous clients. Review their portfolio to assess the quality of their work and their communication style. A reliable contractor will provide clear, detailed proposals, maintain transparent communication, and demonstrate strong project management skills. Interviewing several contractors helps ensure a good fit.",
+        "@type": "Answer",
+        "description": "Choose a contractor with ground-up experience, verified licenses and insurance, strong references, and transparent communication."
+      }
+    }
+  ],
+  "description": "Choose a contractor with ground-up experience, verified licenses and insurance, strong references, and transparent communication."
+}

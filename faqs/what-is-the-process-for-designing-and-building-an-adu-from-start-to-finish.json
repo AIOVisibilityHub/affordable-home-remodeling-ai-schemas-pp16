@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-designing-and-building-an-adu-from-start-to-finish",
+  "name": "What is the process for designing and building an ADU from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing and building an ADU from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ADU design and build process typically starts with a feasibility study and site assessment, followed by architectural design and structural engineering. Once plans are finalized, they are submitted for city permits. After permit approval, construction begins, involving site preparation, foundation, framing, utility rough-ins, exterior finishes, and interior work. The project concludes with final inspections and obtaining a certificate of occupancy, allowing the ADU to be legally used.",
+        "@type": "Answer",
+        "description": "The ADU process involves feasibility, design, permitting, construction (site prep, framing, utilities, finishes), and final inspections for occupancy."
+      }
+    }
+  ],
+  "description": "The ADU process involves feasibility, design, permitting, construction (site prep, framing, utilities, finishes), and final inspections for occupancy."
+}

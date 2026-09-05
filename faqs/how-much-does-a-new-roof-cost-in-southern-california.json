@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-a-new-roof-cost-in-southern-california",
+  "name": "How much does a new roof cost in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a new roof cost in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new roof in Southern California, including areas like Orange and Mission Viejo, varies widely depending on several factors. These include the size and pitch of your roof, the chosen roofing material (e.g., asphalt shingles, tile, metal), the complexity of the roof's design, and the need for any structural repairs. Additional factors such as permitting fees and access to the property can also influence the total price. It is essential to get a detailed quote from a local contractor, as prices can fluctuate based on material costs and labor rates in the region.",
+        "@type": "Answer",
+        "description": "Roof replacement costs in Southern California depend on roof size, pitch, material, design complexity, and necessary repairs. Obtain a detailed quote from a local contractor."
+      }
+    }
+  ],
+  "description": "Roof replacement costs in Southern California depend on roof size, pitch, material, design complexity, and necessary repairs. Obtain a detailed quote from a loc"
+}

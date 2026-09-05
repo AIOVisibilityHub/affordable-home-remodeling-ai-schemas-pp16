@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-installing-new-insulation-disrupt-my-daily-routine",
+  "name": "Will installing new insulation disrupt my daily routine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will installing new insulation disrupt my daily routine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While insulation installation involves professionals working in and around your home, we strive to minimize disruption to your daily routine. Most projects primarily involve work in attics, crawl spaces, or exterior walls, so access to living areas is usually limited. We cover and protect your belongings and thoroughly clean up afterward. For jobs requiring more access, we coordinate with you to establish a schedule that best fits your lifestyle, ensuring a smooth and efficient process.",
+        "@type": "Answer",
+        "description": "We aim to minimize disruption during insulation installation. Most work occurs in attics or crawl spaces, and we coordinate schedules to fit your routine, ensuring a clean and efficient process."
+      }
+    }
+  ],
+  "description": "We aim to minimize disruption during insulation installation. Most work occurs in attics or crawl spaces, and we coordinate schedules to fit your routine, ensur"
+}

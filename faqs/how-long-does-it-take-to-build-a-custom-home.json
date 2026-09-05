@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-build-a-custom-home",
+  "name": "How long does it take to build a custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a custom home varies significantly based on factors such as the home's size, complexity of design, site conditions, permit approval times, and material availability. On average, a custom home can take anywhere from 10 to 18 months from initial design to move-in. This includes several months for design and permitting, followed by 6-12 months for construction. We provide a detailed project schedule early in the process so you have clear expectations.",
+        "@type": "Answer",
+        "description": "Custom home construction typically takes 10 to 18 months, depending on design complexity, size, site conditions, and permit approvals."
+      }
+    }
+  ],
+  "description": "Custom home construction typically takes 10 to 18 months, depending on design complexity, size, site conditions, and permit approvals."
+}

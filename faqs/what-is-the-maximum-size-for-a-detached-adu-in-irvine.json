@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-maximum-size-for-a-detached-adu-in-irvine",
+  "name": "What is the maximum size for a detached ADU in Irvine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the maximum size for a detached ADU in Irvine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Irvine, and generally across California, state law sets baseline standards for ADU sizes, typically allowing up to 1,200 square feet for a detached ADU, regardless of the primary dwelling's size. However, local ordinances can sometimes impose more restrictive standards or offer flexibility within state guidelines. It's essential to verify the specific maximum square footage and any other size-related restrictions, like height limits, with the City of Irvine's planning department to ensure compliance.",
+        "@type": "Answer",
+        "description": "In Irvine, a detached ADU can typically be up to 1,200 square feet, but always confirm specific size limits with the city's planning department."
+      }
+    }
+  ],
+  "description": "In Irvine, a detached ADU can typically be up to 1,200 square feet, but always confirm specific size limits with the city's planning department."
+}

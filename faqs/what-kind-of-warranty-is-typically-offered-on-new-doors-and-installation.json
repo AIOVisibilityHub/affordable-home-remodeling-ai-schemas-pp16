@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-warranty-is-typically-offered-on-new-doors-and-installation",
+  "name": "What kind of warranty is typically offered on new doors and installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty is typically offered on new doors and installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Warranties for new doors generally come in two parts: the manufacturer's warranty on the door itself and the contractor's warranty on the installation. Manufacturer warranties vary by brand and material, often covering defects in materials and workmanship for a period ranging from a few years to a lifetime. Our company provides a separate warranty on our installation services, ensuring the work is performed correctly and any issues arising from the installation are addressed promptly. Specific warranty details will be provided with your project proposal.",
+        "@type": "Answer",
+        "description": "New doors typically have a manufacturer's warranty covering defects and a contractor's warranty covering installation. Details vary and are provided with the proposal."
+      }
+    }
+  ],
+  "description": "New doors typically have a manufacturer's warranty covering defects and a contractor's warranty covering installation. Details vary and are provided with the pr"
+}

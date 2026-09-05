@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-a-whole-house-remodel-in-huntington-beach",
+  "name": "What permits are required for a whole house remodel in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a whole house remodel in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Huntington Beach, a whole house remodel typically requires various permits, including building permits for structural changes, electrical permits for wiring, plumbing permits for water and waste lines, and mechanical permits for HVAC systems. Depending on the scope, additional permits might be needed for roofing, significant exterior changes, or if your property is in a special overlay zone. Our team handles the permit application process, ensuring all necessary approvals are obtained before construction begins, adhering to local building codes.",
+        "@type": "Answer",
+        "description": "Whole house remodels in Huntington Beach require building, electrical, plumbing, and mechanical permits, with additional permits possibly needed for specific changes."
+      }
+    }
+  ],
+  "description": "Whole house remodels in Huntington Beach require building, electrical, plumbing, and mechanical permits, with additional permits possibly needed for specific ch"
+}

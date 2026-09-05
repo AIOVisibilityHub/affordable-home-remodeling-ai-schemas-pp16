@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-building-an-attached-adu",
+  "name": "What are the benefits of building an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an attached ADU offers several advantages. It can significantly increase property value and generate rental income, providing a steady revenue stream. For multi-generational families, it offers independent living for aging parents or adult children while keeping them close. Attached ADUs can also serve as a dedicated home office, a guest suite, or a private space for caregivers, enhancing the functionality and flexibility of your property.",
+        "@type": "Answer",
+        "description": "Benefits include increased property value, rental income potential, flexible living arrangements for family, or additional functional space like a home office."
+      }
+    }
+  ],
+  "description": "Benefits include increased property value, rental income potential, flexible living arrangements for family, or additional functional space like a home office."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-to-install-insulation-in-a-home",
+  "name": "What is the average cost to install insulation in a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install insulation in a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of insulation installation depends on several factors, including the type of insulation material, the total square footage to be insulated, the R-value desired, and the accessibility of the areas. For instance, blown-in insulation is generally less expensive per square foot than spray foam. Costs can also vary if old insulation needs to be removed. We offer free consultations to provide a precise estimate tailored to your home and specific insulation needs in areas like Orange and Yorba Linda.",
+        "@type": "Answer",
+        "description": "Insulation installation cost varies by material type, square footage, R-value, and accessibility. We provide free estimates tailored to your home's specific needs."
+      }
+    }
+  ],
+  "description": "Insulation installation cost varies by material type, square footage, R-value, and accessibility. We provide free estimates tailored to your home's specific nee"
+}

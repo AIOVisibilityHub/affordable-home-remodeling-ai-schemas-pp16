@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-professionals-match-existing-stucco-texture-and-color",
+  "name": "How do professionals match existing stucco texture and color?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do professionals match existing stucco texture and color?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professionals match existing stucco texture by analyzing the original finish (e.g., smooth, Santa Barbara, lace, dash) and applying new material in a way that replicates it. Color matching often involves using tinting agents or paints specifically designed for stucco, sometimes requiring a full coat over the repaired area and surrounding stucco to ensure uniformity, especially if the existing stucco has faded over time.",
+        "@type": "Answer",
+        "description": "Professionals match stucco texture by replicating the original finish and use tinting or painting for color, often blending with surrounding areas."
+      }
+    }
+  ],
+  "description": "Professionals match stucco texture by replicating the original finish and use tinting or painting for color, often blending with surrounding areas."
+}

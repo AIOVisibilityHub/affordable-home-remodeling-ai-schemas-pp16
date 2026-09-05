@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-rent-out-a-junior-adu",
+  "name": "Can I rent out a Junior ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I rent out a Junior ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Junior ADUs are generally permitted to be rented out. This provides homeowners with an excellent opportunity for additional income, which can help offset mortgage payments or other expenses. However, specific rental regulations, such as minimum lease terms or tenant requirements, can vary by city. It's important to understand your local ordinances regarding rental properties, including any registration requirements or landlord-tenant laws. Always ensure your rental agreement complies with local housing regulations.",
+        "@type": "Answer",
+        "description": "Yes, JADUs can be rented out for additional income, but check local city ordinances for specific rental regulations and landlord-tenant laws."
+      }
+    }
+  ],
+  "description": "Yes, JADUs can be rented out for additional income, but check local city ordinances for specific rental regulations and landlord-tenant laws."
+}

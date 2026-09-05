@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-be-home-during-the-exterior-painting-process",
+  "name": "Do I need to be home during the exterior painting process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the exterior painting process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically do not need to be home for the entire duration of the exterior painting process once the initial consultation and color selection are complete. Our team handles all aspects of surface preparation and painting. However, it's helpful if you are available by phone for any questions that might arise, or for a final walkthrough upon completion to ensure your satisfaction. Access to exterior water and power outlets is usually all that is required for our team to work efficiently.",
+        "@type": "Answer",
+        "description": "You generally do not need to be home during exterior painting, but availability for questions and a final walkthrough is helpful. We only need access to water and power."
+      }
+    }
+  ],
+  "description": "You generally do not need to be home during exterior painting, but availability for questions and a final walkthrough is helpful. We only need access to water a"
+}
