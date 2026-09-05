@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-move-all-my-furniture-before-flooring-replacement",
+  "name": "Do I need to move all my furniture before flooring replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move all my furniture before flooring replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is generally necessary to remove all furniture from the areas where flooring will be replaced. This allows our installers full access to the subfloor and ensures a smooth, efficient, and high-quality installation. While we can assist with some heavier items, it's best to discuss specific arrangements during your consultation. Clearing the room beforehand helps to protect your belongings and speeds up the installation process. We recommend disconnecting electronics and packing away delicate items to prevent damage.",
+        "@type": "Answer",
+        "description": "Yes, all furniture should be removed from areas undergoing flooring replacement to allow installers full access and ensure a high-quality, efficient installation. Discuss specific needs during consultation."
+      }
+    }
+  ],
+  "description": "Yes, all furniture should be removed from areas undergoing flooring replacement to allow installers full access and ensure a high-quality, efficient installatio"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-door-installation",
+  "name": "What is the average cost of door installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of door installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of door installation depends on several factors: the type of door (e.g., standard interior vs. custom exterior), the material (e.g., wood, fiberglass, steel), any necessary structural modifications, and the removal of the old door. Labor costs are also a significant component. We provide a detailed, itemized quote after an on-site assessment to ensure transparency and accuracy. This allows us to account for all specific requirements of your project, providing a clear understanding of the total investment.",
+        "@type": "Answer",
+        "description": "Door installation costs vary widely based on door type, material, necessary structural modifications, and labor. We provide detailed, itemized quotes after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Door installation costs vary widely based on door type, material, necessary structural modifications, and labor. We provide detailed, itemized quotes after an o"
+}

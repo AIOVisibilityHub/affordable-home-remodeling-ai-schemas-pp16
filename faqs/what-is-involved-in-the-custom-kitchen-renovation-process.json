@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-the-custom-kitchen-renovation-process",
+  "name": "What is involved in the custom kitchen renovation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the custom kitchen renovation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The custom kitchen renovation process typically begins with an initial consultation to discuss your vision, needs, and budget. This is followed by design planning, where layouts, materials, and finishes are selected. Once approved, we handle permitting and then move to demolition. New plumbing, electrical, and structural work are completed next, followed by cabinet installation, countertop fabrication, appliance placement, and final finishing touches like backsplash and painting. Throughout the project, we maintain clear communication and manage all aspects to ensure a smooth, efficient renovation.",
+        "@type": "Answer",
+        "description": "The process includes consultation, design, permitting, demolition, rough-ins, installation of cabinets, countertops, appliances, and final finishes."
+      }
+    }
+  ],
+  "description": "The process includes consultation, design, permitting, demolition, rough-ins, installation of cabinets, countertops, appliances, and final finishes."
+}

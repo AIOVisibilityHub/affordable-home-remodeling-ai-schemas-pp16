@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-door-replacement",
+  "name": "Do I need a permit for door replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for door replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, replacing an existing door with a new one of the same size and type does not require a permit. However, if the project involves altering the structural opening, changing the size or location of a door, or if it impacts an exterior wall and involves significant structural work, a building permit may be necessary. For homes in areas like Huntington Beach or Irvine, specific local regulations can apply. We can advise you on permit requirements during the consultation and assist with the application process if needed.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for direct door replacements but may be required if structural openings are altered or the door's size/location changes, or for significant exterior work. We can advise on local requirements."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for direct door replacements but may be required if structural openings are altered or the door's size/location changes, or for s"
+}

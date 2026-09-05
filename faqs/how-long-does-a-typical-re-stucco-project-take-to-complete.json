@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-re-stucco-project-take-to-complete",
+  "name": "How long does a typical re-stucco project take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical re-stucco project take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a re-stucco project varies depending on several factors, including the size of your home, the complexity of the existing surface, and weather conditions. A typical residential re-stucco project for an average-sized home can take anywhere from one to three weeks from start to finish. This timeframe includes preparation, application of multiple stucco coats, and curing time between layers. Your contractor will provide a more precise timeline after assessing your specific property.",
+        "@type": "Answer",
+        "description": "A typical re-stucco project for a residential home usually takes one to three weeks, depending on the home's size, existing surface, and weather conditions."
+      }
+    }
+  ],
+  "description": "A typical re-stucco project for a residential home usually takes one to three weeks, depending on the home's size, existing surface, and weather conditions."
+}

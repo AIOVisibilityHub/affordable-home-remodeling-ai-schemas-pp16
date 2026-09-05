@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-roof-repair-take",
+  "name": "How long does a typical roof repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof repair depends entirely on the scope of the damage. Small repairs, such as replacing a few damaged shingles or sealing a minor leak, might be completed within a few hours to one day. More extensive repairs involving larger sections of the roof, flashing replacement, or structural fixes could take several days. We prioritize efficient and thorough work to minimize disruption to your home while ensuring lasting quality.",
+        "@type": "Answer",
+        "description": "Small roof repairs can take a few hours to one day, while more extensive repairs may require several days to complete."
+      }
+    }
+  ],
+  "description": "Small roof repairs can take a few hours to one day, while more extensive repairs may require several days to complete."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-getting-my-roof-repaired",
+  "name": "What is the process for getting my roof repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting my roof repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process usually starts with a detailed inspection of your roof to assess the damage and determine the best course of action. Following the inspection, we provide a transparent estimate outlining the necessary repairs and associated costs. Once approved, our team schedules the work at your convenience. We prepare the site, execute the repairs using quality materials, and conduct a final cleanup and inspection to ensure the job meets our high standards and your satisfaction.",
+        "@type": "Answer",
+        "description": "The repair process involves an inspection, a detailed estimate, scheduling the work, professional execution of repairs, and a final cleanup and inspection."
+      }
+    }
+  ],
+  "description": "The repair process involves an inspection, a detailed estimate, scheduling the work, professional execution of repairs, and a final cleanup and inspection."
+}

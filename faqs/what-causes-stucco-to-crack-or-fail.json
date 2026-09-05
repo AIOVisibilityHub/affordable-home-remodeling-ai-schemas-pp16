@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-causes-stucco-to-crack-or-fail",
+  "name": "What causes stucco to crack or fail?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes stucco to crack or fail?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco can crack or fail for several reasons, including foundation movement, seismic activity, improper installation, or moisture intrusion. Extreme temperature fluctuations can cause expansion and contraction, leading to stress cracks. Poor flashing around windows and doors or inadequate drainage can allow water to penetrate, causing stucco to delaminate, crumble, or foster mold growth. Age and lack of maintenance also contribute to stucco deterioration over time.",
+        "@type": "Answer",
+        "description": "Stucco cracks can be caused by foundation movement, temperature changes, improper installation, and water intrusion, leading to deterioration."
+      }
+    }
+  ],
+  "description": "Stucco cracks can be caused by foundation movement, temperature changes, improper installation, and water intrusion, leading to deterioration."
+}

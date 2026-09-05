@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-make-changes-to-the-design-during-new-home-construction",
+  "name": "Can I make changes to the design during new home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes to the design during new home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible to make changes during new home construction, it's generally best to finalize all design elements before breaking ground. Changes made after construction has started, often called change orders, can significantly impact the project's timeline and budget. They may require re-drawing plans, re-ordering materials, and re-doing completed work. We work closely with you during the design phase to minimize the need for changes later on, but we can accommodate necessary adjustments with clear communication about their potential implications.",
+        "@type": "Answer",
+        "description": "Changes during construction are possible but can impact timeline and budget; it's best to finalize designs beforehand to minimize costly alterations."
+      }
+    }
+  ],
+  "description": "Changes during construction are possible but can impact timeline and budget; it's best to finalize designs beforehand to minimize costly alterations."
+}

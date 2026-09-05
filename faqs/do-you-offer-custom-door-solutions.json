@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-you-offer-custom-door-solutions",
+  "name": "Do you offer custom door solutions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer custom door solutions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer custom door solutions for unique architectural requirements or specific design preferences. This can include doors with non-standard dimensions, unique panel configurations, specialized glass inserts, or custom finishes. Custom doors are ideal for older homes with unconventional openings or for homeowners looking to create a distinctive aesthetic. We work closely with you to design and source a door that perfectly fits your vision and your home's character, ensuring a seamless integration.",
+        "@type": "Answer",
+        "description": "Yes, we provide custom door solutions for unique sizes, designs, or finishes, ideal for specific architectural requirements or homeowners seeking a distinctive look."
+      }
+    }
+  ],
+  "description": "Yes, we provide custom door solutions for unique sizes, designs, or finishes, ideal for specific architectural requirements or homeowners seeking a distinctive"
+}

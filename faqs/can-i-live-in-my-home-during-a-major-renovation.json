@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-live-in-my-home-during-a-major-renovation",
+  "name": "Can I live in my home during a major renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a major renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can remain in your home during a major renovation depends on the scope and nature of the project. If the renovation impacts essential facilities like the kitchen or bathrooms, or if there are significant structural changes, living on-site might be challenging or unsafe. For smaller projects or those confined to specific areas, it may be feasible to stay, provided adequate dust control and safety measures are in place. We will discuss the feasibility and potential impact on your daily life during the planning phase.",
+        "@type": "Answer",
+        "description": "Living in your home during a major renovation depends on the project's scope. It may be challenging or unsafe if essential facilities are affected."
+      }
+    }
+  ],
+  "description": "Living in your home during a major renovation depends on the project's scope. It may be challenging or unsafe if essential facilities are affected."
+}

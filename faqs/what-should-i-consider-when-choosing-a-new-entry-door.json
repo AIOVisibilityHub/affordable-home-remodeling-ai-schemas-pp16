@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-i-consider-when-choosing-a-new-entry-door",
+  "name": "What should I consider when choosing a new entry door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing a new entry door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a new entry door, consider materials like steel for security and durability, fiberglass for energy efficiency and low maintenance, or wood for classic aesthetics. Evaluate its R-value or U-factor for insulation performance. Style should complement your home's architecture, including panel design, glass inserts, and hardware finishes. Security features such as multi-point locks and strong frames are also important. We recommend balancing aesthetics, security, energy efficiency, and budget to find the best fit for your home.",
+        "@type": "Answer",
+        "description": "Consider material (steel, fiberglass, wood), energy efficiency (R-value/U-factor), style, and security features when choosing an entry door to balance aesthetics, performance, and budget."
+      }
+    }
+  ],
+  "description": "Consider material (steel, fiberglass, wood), energy efficiency (R-value/U-factor), style, and security features when choosing an entry door to balance aesthetic"
+}

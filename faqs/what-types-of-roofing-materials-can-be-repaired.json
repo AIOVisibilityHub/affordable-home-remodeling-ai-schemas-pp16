@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-roofing-materials-can-be-repaired",
+  "name": "What types of roofing materials can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roofing materials can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common roofing materials can be repaired. This includes asphalt shingles, which are prevalent in our service areas, as well as tile roofs (clay or concrete), metal roofs, and even flat or low-slope roofing systems like modified bitumen or TPO. The repair method and materials used will vary based on the specific type of roof. Our team is experienced in working with a wide range of materials to ensure appropriate and effective repairs.",
+        "@type": "Answer",
+        "description": "Most common roofing materials, including asphalt shingles, tile, metal, and flat roofs, can be repaired using specific methods for each type."
+      }
+    }
+  ],
+  "description": "Most common roofing materials, including asphalt shingles, tile, metal, and flat roofs, can be repaired using specific methods for each type."
+}

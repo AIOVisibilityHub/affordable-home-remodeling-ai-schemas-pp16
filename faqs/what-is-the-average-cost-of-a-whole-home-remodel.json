@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-a-whole-home-remodel",
+  "name": "What is the average cost of a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a whole-home remodel is highly variable, influenced by factors such as the size of your home, the extent of the changes, material selections, and local labor rates. Minor cosmetic updates will be less expensive than significant structural alterations or high-end finishes. Generally, costs can range from $100,000 for moderate renovations to upwards of $500,000 for luxury, large-scale projects. We provide detailed estimates after an initial consultation to align with your specific budget and project goals.",
+        "@type": "Answer",
+        "description": "The average cost of a whole-home remodel varies widely, from around $100,000 for moderate updates to over $500,000 for luxury projects, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "The average cost of a whole-home remodel varies widely, from around $100,000 for moderate updates to over $500,000 for luxury projects, depending on scope and m"
+}

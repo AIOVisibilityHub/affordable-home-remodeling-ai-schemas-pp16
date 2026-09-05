@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-an-exterior-renovation-in-orange-county",
+  "name": "What is the average cost of an exterior renovation in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of an exterior renovation in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an exterior renovation in Orange County can range significantly, from a few thousand dollars for minor repairs or painting to tens of thousands for comprehensive overhauls involving roofing, siding, and window replacements. Key factors include the size of your home, the materials chosen (e.g., premium stucco versus standard vinyl siding), the complexity of the design, and local labor rates. We provide detailed, transparent quotes after a thorough on-site evaluation to ensure accuracy.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on project scope, home size, material choices, and design complexity. Minor work can be thousands, while major renovations can be tens of thousands. We provide detailed quotes after an evaluation."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on project scope, home size, material choices, and design complexity. Minor work can be thousands, while major renovations can be tens o"
+}

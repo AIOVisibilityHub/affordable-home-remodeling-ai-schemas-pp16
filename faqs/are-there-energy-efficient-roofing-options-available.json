@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/are-there-energy-efficient-roofing-options-available",
+  "name": "Are there energy-efficient roofing options available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there energy-efficient roofing options available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are several energy-efficient roofing options that can help reduce your home's cooling costs, especially important in Southern California. 'Cool roofs' use reflective materials or special coatings to reflect more sunlight and absorb less heat than traditional roofs. Options include light-colored asphalt shingles, reflective metal roofing, and specific types of tile. These materials can keep your attic and home cooler, leading to lower energy consumption. We can discuss suitable cool roof options for your property in cities like Anaheim or Tustin.",
+        "@type": "Answer",
+        "description": "Yes, energy-efficient 'cool roofs' use reflective materials like light-colored shingles, metal, or specific tiles to reduce heat absorption and lower cooling costs."
+      }
+    }
+  ],
+  "description": "Yes, energy-efficient 'cool roofs' use reflective materials like light-colored shingles, metal, or specific tiles to reduce heat absorption and lower cooling co"
+}

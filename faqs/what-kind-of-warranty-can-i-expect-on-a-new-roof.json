@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-warranty-can-i-expect-on-a-new-roof",
+  "name": "What kind of warranty can I expect on a new roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty can I expect on a new roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New roof installations typically come with two types of warranties: a manufacturer's warranty on the roofing materials and a contractor's warranty on the workmanship. Manufacturer warranties often range from 20 years to lifetime, depending on the material. Workmanship warranties vary by contractor but commonly last from 5 to 10 years. Always clarify the specifics of both warranties before starting your project to understand your coverage.",
+        "@type": "Answer",
+        "description": "Expect a manufacturer's warranty on materials (20 years to lifetime) and a contractor's warranty on workmanship (typically 5-10 years)."
+      }
+    }
+  ],
+  "description": "Expect a manufacturer's warranty on materials (20 years to lifetime) and a contractor's warranty on workmanship (typically 5-10 years)."
+}

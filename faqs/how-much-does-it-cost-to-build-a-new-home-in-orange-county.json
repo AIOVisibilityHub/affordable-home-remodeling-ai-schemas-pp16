@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-it-cost-to-build-a-new-home-in-orange-county",
+  "name": "How much does it cost to build a new home in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a new home in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a new home in Orange County varies widely depending on numerous factors, including the home's size, architectural style, quality of materials, site preparation requirements, and chosen finishes. Land costs are also a significant component. For an accurate estimate, we recommend a personalized consultation where we can discuss your specific vision, lot conditions, and desired specifications. This allows us to provide a detailed and realistic budget tailored to your project.",
+        "@type": "Answer",
+        "description": "New home construction costs in Orange County depend on size, materials, site conditions, and finishes. A personalized consultation is needed for an accurate estimate."
+      }
+    }
+  ],
+  "description": "New home construction costs in Orange County depend on size, materials, site conditions, and finishes. A personalized consultation is needed for an accurate est"
+}

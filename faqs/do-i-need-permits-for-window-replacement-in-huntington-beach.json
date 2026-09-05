@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-window-replacement-in-huntington-beach",
+  "name": "Do I need permits for window replacement in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for window replacement in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For window replacement in Huntington Beach, permits are typically required if you are altering the size or structural opening of the window. If you are simply replacing existing windows with new ones of the same size within the existing frame (an 'insert' replacement), a permit may not be necessary. However, it's always advisable to verify specific requirements with the City of Huntington Beach Building Department or consult with your contractor before starting any project.",
+        "@type": "Answer",
+        "description": "Permits are usually required for window replacement in Huntington Beach if altering window size or structural opening. Verify with the Building Department or your contractor."
+      }
+    }
+  ],
+  "description": "Permits are usually required for window replacement in Huntington Beach if altering window size or structural opening. Verify with the Building Department or yo"
+}

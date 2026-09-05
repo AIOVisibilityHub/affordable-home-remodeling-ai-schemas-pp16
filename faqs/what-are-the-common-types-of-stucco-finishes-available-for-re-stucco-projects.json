@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-common-types-of-stucco-finishes-available-for-re-stucco-projects",
+  "name": "What are the common types of stucco finishes available for re-stucco projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of stucco finishes available for re-stucco projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several common stucco finishes that can be applied during a re-stucco project, each offering a distinct appearance. These include traditional smooth finishes, which provide a clean and classic look, and various textured finishes like sand float, dash, and worm finishes. Sand float offers a subtle, grainy texture, while dash finishes are rougher with a more pronounced texture. Worm finishes feature grooves that create a unique linear pattern. The choice depends on your desired aesthetic and the architectural style of your home.",
+        "@type": "Answer",
+        "description": "Common stucco finishes include smooth, sand float, dash, and worm finishes, each offering a distinct texture and appearance for your home's exterior."
+      }
+    }
+  ],
+  "description": "Common stucco finishes include smooth, sand float, dash, and worm finishes, each offering a distinct texture and appearance for your home's exterior."
+}

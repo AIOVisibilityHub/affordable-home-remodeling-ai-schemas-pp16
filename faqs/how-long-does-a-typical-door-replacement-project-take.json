@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-door-replacement-project-take",
+  "name": "How long does a typical door replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a door replacement project varies depending on the type of door and the complexity of the installation. A standard pre-hung exterior door replacement can often be completed within a single day. However, custom doors, alterations to the door frame, or unexpected structural issues can extend the timeline. Interior door replacements are generally quicker, sometimes taking only a few hours per door. Our team will provide a more precise estimate after assessing your specific project requirements during the initial consultation.",
+        "@type": "Answer",
+        "description": "Most standard door replacements take one day, but custom doors or frame alterations can extend the timeline. Interior doors are usually quicker."
+      }
+    }
+  ],
+  "description": "Most standard door replacements take one day, but custom doors or frame alterations can extend the timeline. Interior doors are usually quicker."
+}

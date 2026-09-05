@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-expected-cost-for-re-stucco-services-in-areas-like-huntington-beach",
+  "name": "What is the expected cost for re-stucco services in areas like Huntington Beach or Irvine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the expected cost for re-stucco services in areas like Huntington Beach or Irvine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of re-stucco services in areas like Huntington Beach or Irvine can vary significantly based on several factors. These include the total square footage of the area to be re-stuccoed, the condition of the existing stucco, the chosen stucco type and finish, and any necessary repairs to the underlying substrate. Accessibility of the work area and the need for scaffolding can also influence the price. Obtaining a detailed estimate from a local contractor is the best way to understand the specific costs for your project.",
+        "@type": "Answer",
+        "description": "Re-stucco costs in areas like Huntington Beach or Irvine depend on square footage, stucco type, existing condition, and necessary repairs. A detailed estimate from a local contractor is recommended."
+      }
+    }
+  ],
+  "description": "Re-stucco costs in areas like Huntington Beach or Irvine depend on square footage, stucco type, existing condition, and necessary repairs. A detailed estimate f"
+}

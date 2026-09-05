@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-flooring-can-be-installed-in-my-home",
+  "name": "What types of flooring can be installed in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of flooring can be installed in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We offer installation for a variety of flooring materials to suit different needs and aesthetics. This includes hardwood (solid and engineered), laminate, luxury vinyl plank (LVP), tile (ceramic, porcelain, natural stone), and carpet. Each type has unique characteristics regarding durability, maintenance, and appearance. For instance, LVP is popular for its water resistance and versatility, while hardwood offers classic appeal. We can help you understand the pros and cons of each option to determine the best fit for your home and lifestyle in areas like Huntington Beach or Irvine.",
+        "@type": "Answer",
+        "description": "We install hardwood, laminate, luxury vinyl plank (LVP), tile, and carpet, each offering different benefits for your home."
+      }
+    }
+  ],
+  "description": "We install hardwood, laminate, luxury vinyl plank (LVP), tile, and carpet, each offering different benefits for your home."
+}

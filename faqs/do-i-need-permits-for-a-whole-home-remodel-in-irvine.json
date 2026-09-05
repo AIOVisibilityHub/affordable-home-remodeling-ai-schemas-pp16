@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-a-whole-home-remodel-in-irvine",
+  "name": "Do I need permits for a whole-home remodel in Irvine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a whole-home remodel in Irvine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for most whole-home remodels in Irvine, you will need various permits from the city's building department. This is particularly true if your project involves structural changes, significant plumbing or electrical work, or expanding the footprint of your home. Permits ensure that your renovation complies with local building codes, safety standards, and zoning regulations. Our team can help you navigate the permitting process and ensure all necessary approvals are secured before construction begins.",
+        "@type": "Answer",
+        "description": "Yes, most whole-home remodels in Irvine require permits, especially for structural, plumbing, or electrical work, to ensure compliance with local building codes."
+      }
+    }
+  ],
+  "description": "Yes, most whole-home remodels in Irvine require permits, especially for structural, plumbing, or electrical work, to ensure compliance with local building codes"
+}

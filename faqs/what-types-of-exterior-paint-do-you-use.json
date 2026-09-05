@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-exterior-paint-do-you-use",
+  "name": "What types of exterior paint do you use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of exterior paint do you use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily use high-quality, durable exterior paints from reputable brands known for their longevity and performance in Southern California's climate. Our selection includes 100% acrylic latex paints, which are favored for their flexibility, resistance to fading, cracking, and peeling, and excellent adhesion. We can also discuss specialized options like elastomeric coatings for stucco or low-VOC (Volatile Organic Compound) paints for environmentally conscious projects. The best paint choice will depend on your home's specific needs and desired finish.",
+        "@type": "Answer",
+        "description": "We use high-quality, durable 100% acrylic latex paints from reputable brands, suitable for Southern California's climate. Specialized options are also available."
+      }
+    }
+  ],
+  "description": "We use high-quality, durable 100% acrylic latex paints from reputable brands, suitable for Southern California's climate. Specialized options are also available"
+}

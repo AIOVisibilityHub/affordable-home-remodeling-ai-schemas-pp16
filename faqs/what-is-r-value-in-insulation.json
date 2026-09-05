@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-r-value-in-insulation",
+  "name": "What is R-value in insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is R-value in insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "R-value is a measure of thermal resistance, indicating how well an insulation material resists the conductive flow of heat. A higher R-value means greater insulating power. The ideal R-value for your home depends on your climate zone, the specific area being insulated (e.g., attic, walls, floor), and the insulation material. Local building codes also specify minimum R-values for different parts of a home.",
+        "@type": "Answer",
+        "description": "R-value measures insulation's resistance to heat flow; a higher number means better insulation. Required R-values vary by climate and location."
+      }
+    }
+  ],
+  "description": "R-value measures insulation's resistance to heat flow; a higher number means better insulation. Required R-values vary by climate and location."
+}

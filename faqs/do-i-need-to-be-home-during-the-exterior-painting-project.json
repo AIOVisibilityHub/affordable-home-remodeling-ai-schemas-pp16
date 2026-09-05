@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-be-home-during-the-exterior-painting-project",
+  "name": "Do I need to be home during the exterior painting project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the exterior painting project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary for you to be present every moment of the exterior painting project, we do recommend being available at the start to discuss any final details and at the end for the final walk-through and inspection. Our team is professional and respectful of your property. We ensure clear communication throughout the process, providing updates on progress. We will coordinate access to your property as needed, even if you are away, ensuring minimal disruption to your daily routine.",
+        "@type": "Answer",
+        "description": "You don't need to be home constantly, but availability at the start and for the final walk-through is recommended. We ensure clear communication throughout."
+      }
+    }
+  ],
+  "description": "You don't need to be home constantly, but availability at the start and for the final walk-through is recommended. We ensure clear communication throughout."
+}

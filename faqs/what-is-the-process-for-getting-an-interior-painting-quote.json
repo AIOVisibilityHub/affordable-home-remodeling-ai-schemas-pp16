@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-getting-an-interior-painting-quote",
+  "name": "What is the process for getting an interior painting quote?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting an interior painting quote?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for obtaining an interior painting quote begins when you contact us to schedule a free, no-obligation consultation. During this visit, one of our project managers will assess the areas you wish to have painted, discuss your vision, help with color selection if needed, and evaluate any necessary surface preparation or repairs. We will then provide you with a detailed, transparent estimate outlining the scope of work, materials, and total cost. This ensures you have a clear understanding before any work begins.",
+        "@type": "Answer",
+        "description": "To get a quote, schedule a free consultation. We'll assess your project, discuss your needs, and provide a detailed estimate."
+      }
+    }
+  ],
+  "description": "To get a quote, schedule a free consultation. We'll assess your project, discuss your needs, and provide a detailed estimate."
+}

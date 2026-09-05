@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-insulation-are-available-for-homes",
+  "name": "What types of insulation are available for homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of insulation are available for homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of home insulation include fiberglass, mineral wool, cellulose, and spray foam. Each type offers different R-values, installation methods, and cost considerations. Fiberglass is a popular, cost-effective option, while cellulose is often made from recycled materials. Spray foam provides an excellent air seal and high R-value, but typically has a higher upfront cost. The best choice depends on your home's structure, budget, and specific insulation needs.",
+        "@type": "Answer",
+        "description": "Common types include fiberglass, mineral wool, cellulose, and spray foam, each with different R-values and installation methods."
+      }
+    }
+  ],
+  "description": "Common types include fiberglass, mineral wool, cellulose, and spray foam, each with different R-values and installation methods."
+}

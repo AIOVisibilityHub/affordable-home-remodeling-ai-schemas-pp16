@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-whole-home-remodel-take",
+  "name": "How long does a typical whole-home remodel take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical whole-home remodel take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a whole-home remodel varies significantly based on the project's complexity and scope. A smaller remodel might take 3-6 months, while a more extensive renovation involving structural changes, multiple room reconfigurations, or additions could extend to 8-12 months or even longer. Factors like permitting processes, material lead times, and the decision-making speed of the homeowner also influence the timeline. We establish a realistic project schedule upfront and provide regular updates on progress.",
+        "@type": "Answer",
+        "description": "A typical whole-home remodel can take anywhere from 3 months for smaller projects to over 12 months for extensive renovations, depending on scope and complexity."
+      }
+    }
+  ],
+  "description": "A typical whole-home remodel can take anywhere from 3 months for smaller projects to over 12 months for extensive renovations, depending on scope and complexity"
+}

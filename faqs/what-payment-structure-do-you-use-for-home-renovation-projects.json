@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-payment-structure-do-you-use-for-home-renovation-projects",
+  "name": "What payment structure do you use for home renovation projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What payment structure do you use for home renovation projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our payment structure typically involves an initial deposit, followed by progress payments scheduled at key milestones throughout the renovation. The initial deposit secures your project on our schedule and covers initial material procurement. Subsequent payments are tied to the completion of specific stages, such as demolition, rough-in inspections, cabinet installation, and final completion. This milestone-based approach ensures that payments align with work performed and keeps the project on track. All payment terms are clearly outlined in your contract.",
+        "@type": "Answer",
+        "description": "Our payment structure includes an initial deposit and progress payments tied to project milestones, ensuring payments align with completed work."
+      }
+    }
+  ],
+  "description": "Our payment structure includes an initial deposit and progress payments tied to project milestones, ensuring payments align with completed work."
+}

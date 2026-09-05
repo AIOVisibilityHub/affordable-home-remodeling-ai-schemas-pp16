@@ -1,0 +1,171 @@
+{
+  "name": "How to Plan Your Door Installation Project",
+  "step": [
+    {
+      "name": "Step 1: Assess Your Needs and Desires. Start by thinking about why you want a new door. Is it for better insulation, enhanced security, updated aesthetics, or improved functionality like a new patio door? Consider the style that complements your home's architecture. Do you prefer traditional, modern, or something in between? Thinking about these points upfront will help narrow down your options.",
+      "text": "Step 1: Assess Your Needs and Desires. Start by thinking about why you want a new door. Is it for better insulation, enhanced security, updated aesthetics, or improved functionality like a new patio door? Consider the style that complements your home's architecture. Do you prefer traditional, modern, or something in between? Thinking about these points upfront will help narrow down your options.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Research Door Types and Materials. Explore different materials like wood, fiberglass, or steel, each offering unique benefits in terms of durability, maintenance, and insulation. Look into features like Energy Star certification, Low-E glass, and Argon gas, especially if energy savings are a priority. Our website showcases various types and styles that we install, tailored to different home aesthetics.",
+      "text": "Step 2: Research Door Types and Materials. Explore different materials like wood, fiberglass, or steel, each offering unique benefits in terms of durability, maintenance, and insulation. Look into features like Energy Star certification, Low-E glass, and Argon gas, especially if energy savings are a priority. Our website showcases various types and styles that we install, tailored to different home aesthetics.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Measure and Verify Opening Dimensions. Accurate measurements are crucial for a successful installation. While our professionals will always take final measurements, having approximate dimensions helps in the initial selection process. This includes height, width, and jamb depth. Incorrect measurements can lead to delays and additional costs, so it’s best left to certified pros.",
+      "text": "Step 3: Measure and Verify Opening Dimensions. Accurate measurements are crucial for a successful installation. While our professionals will always take final measurements, having approximate dimensions helps in the initial selection process. This includes height, width, and jamb depth. Incorrect measurements can lead to delays and additional costs, so it’s best left to certified pros.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Consult with a Professional. Don't go it alone! Reach out to experienced professionals like us at Affordable Home Remodeling. We offer free, no-obligation consultations where our team can help you select the ideal windows or doors. We’ll discuss your preferences, inspect your current setup, and provide expert recommendations that suit your home and budget. This step helps clarify options, potential challenges, and ensures you make an informed decision.",
+      "text": "Step 4: Consult with a Professional. Don't go it alone! Reach out to experienced professionals like us at Affordable Home Remodeling. We offer free, no-obligation consultations where our team can help you select the ideal windows or doors. We’ll discuss your preferences, inspect your current setup, and provide expert recommendations that suit your home and budget. This step helps clarify options, potential challenges, and ensures you make an informed decision.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Review Estimates and Contracts. Once you have a clear idea of your chosen door and the scope of work, get a detailed estimate. Ensure it includes the cost of the door, installation, removal and disposal of the old door, and any necessary trim work. Our company prides itself on transparent pricing and clear contracts. Review everything carefully before signing, and don't hesitate to ask questions about timelines, warranties, and payment schedules.",
+      "text": "Step 5: Review Estimates and Contracts. Once you have a clear idea of your chosen door and the scope of work, get a detailed estimate. Ensure it includes the cost of the door, installation, removal and disposal of the old door, and any necessary trim work. Our company prides itself on transparent pricing and clear contracts. Review everything carefully before signing, and don't hesitate to ask questions about timelines, warranties, and payment schedules.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Prepare Your Home for Installation. Before installation day, clear the area around the door, both inside and out. Remove any furniture, wall hangings, or window treatments that might obstruct the installers. Protecting your floors and belongings with drop cloths is also a good idea. Our certified and licensed professionals will handle the installation itself, ensuring top-quality results using the latest technologies.",
+      "text": "Step 6: Prepare Your Home for Installation. Before installation day, clear the area around the door, both inside and out. Remove any furniture, wall hangings, or window treatments that might obstruct the installers. Protecting your floors and belongings with drop cloths is also a good idea. Our certified and licensed professionals will handle the installation itself, ensuring top-quality results using the latest technologies.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Assess Your Needs and Desires. Start by thinking about why you want a new door. Is it for better insulation, enhanced security, updated aesthetics, or improved functionality like a new patio d"
+}

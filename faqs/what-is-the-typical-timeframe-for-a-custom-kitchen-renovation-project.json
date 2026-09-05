@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeframe-for-a-custom-kitchen-renovation-project",
+  "name": "What is the typical timeframe for a custom kitchen renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for a custom kitchen renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a custom kitchen renovation varies based on its complexity and scope. Smaller renovations might take 4-8 weeks, while extensive remodels involving structural changes, custom cabinetry, or reconfiguring plumbing and electrical can extend to 10-16 weeks or more. This timeline includes design, material selection, demolition, and installation. Unexpected issues, such as unforeseen structural elements or material delays, can sometimes impact the schedule. Our team provides a detailed project timeline upfront, keeping you informed at every stage of the process.",
+        "@type": "Answer",
+        "description": "Most custom kitchen renovations take 4-16 weeks, depending on the project's complexity and scope."
+      }
+    }
+  ],
+  "description": "Most custom kitchen renovations take 4-16 weeks, depending on the project's complexity and scope."
+}

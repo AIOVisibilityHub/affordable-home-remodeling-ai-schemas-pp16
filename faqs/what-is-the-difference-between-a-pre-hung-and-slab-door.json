@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-pre-hung-and-slab-door",
+  "name": "What is the difference between a pre-hung and slab door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a pre-hung and slab door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-hung door comes pre-assembled in its own frame, complete with hinges and sometimes a pre-drilled bore for hardware. It is ideal for new construction or when replacing an entire door frame, simplifying the installation process. A slab door, on the other hand, is just the door panel itself, without a frame, hinges, or hardware. Slab doors are suitable for replacing an existing door within an intact frame, requiring precise measurements and hardware installation on-site. Choosing between them depends on the condition of your existing frame and the scope of the project.",
+        "@type": "Answer",
+        "description": "A pre-hung door includes the frame and hardware, ideal for new installations or full frame replacements. A slab door is just the panel, used for replacing a door within an existing frame."
+      }
+    }
+  ],
+  "description": "A pre-hung door includes the frame and hardware, ideal for new installations or full frame replacements. A slab door is just the panel, used for replacing a doo"
+}

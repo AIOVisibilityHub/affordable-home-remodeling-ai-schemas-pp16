@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-of-a-bathroom-remodel-in-orange-county",
+  "name": "What is the typical cost of a bathroom remodel in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of a bathroom remodel in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom remodel in Orange County varies significantly based on factors like size, desired finishes, and structural changes. A minor renovation might range from $15,000 to $25,000, focusing on cosmetic updates like new paint, fixtures, and possibly a vanity. A mid-range remodel, which could include replacing the tub, toilet, and vanity, and some tile work, typically falls between $30,000 and $50,000. High-end remodels involving custom cabinetry, luxury materials, and reconfiguring the layout can exceed $70,000. We provide detailed estimates after an initial consultation.",
+        "@type": "Answer",
+        "description": "Bathroom remodel costs in Orange County vary widely, from $15,000 for minor updates to over $70,000 for luxury renovations, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Bathroom remodel costs in Orange County vary widely, from $15,000 for minor updates to over $70,000 for luxury renovations, depending on scope and materials."
+}

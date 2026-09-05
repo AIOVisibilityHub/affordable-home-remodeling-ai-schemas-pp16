@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-common-signs-that-my-stucco-needs-repair",
+  "name": "What are the common signs that my stucco needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my stucco needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that stucco needs repair include cracks, crumbling, discoloration, and water stains. Hairline cracks might be cosmetic, but larger cracks (wider than a credit card), bulging, or soft spots often indicate underlying damage such as water intrusion or structural issues. Discoloration can point to mold growth or efflorescence. Addressing these signs early can prevent more extensive and costly repairs later.",
+        "@type": "Answer",
+        "description": "Common signs of stucco damage include cracks, crumbling, discoloration, and water stains. Larger cracks or soft spots often indicate more serious issues."
+      }
+    }
+  ],
+  "description": "Common signs of stucco damage include cracks, crumbling, discoloration, and water stains. Larger cracks or soft spots often indicate more serious issues."
+}

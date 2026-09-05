@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-prepare-my-home-for-a-roof-replacement",
+  "name": "How do I prepare my home for a roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for a roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a roof replacement, ensure clear access around your home for our crew and equipment. Remove any delicate items or decor from exterior walls and patio areas. Consider moving vehicles away from the house to avoid debris. Inside, secure or cover fragile items on shelves or walls, as vibrations during installation can cause them to shift or fall. We will guide you through specific preparations closer to your project start date to ensure a smooth and safe process.",
+        "@type": "Answer",
+        "description": "Clear access around your home, remove delicate outdoor items, park vehicles away, and secure fragile indoor items to prepare for roof work."
+      }
+    }
+  ],
+  "description": "Clear access around your home, remove delicate outdoor items, park vehicles away, and secure fragile indoor items to prepare for roof work."
+}

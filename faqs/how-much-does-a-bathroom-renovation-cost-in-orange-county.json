@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-a-bathroom-renovation-cost-in-orange-county",
+  "name": "How much does a bathroom renovation cost in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a bathroom renovation cost in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom renovation in Orange County can vary significantly based on its size, the quality of materials selected, and the extent of structural changes. A small powder room update might start around $8,000-$15,000, while a mid-range master bathroom remodel could range from $20,000 to $40,000 or more. High-end custom bathrooms with luxury finishes, reconfigured layouts, or extensive plumbing adjustments can exceed $50,000. We provide detailed estimates after an initial consultation to understand your specific needs.",
+        "@type": "Answer",
+        "description": "Bathroom renovation costs in Orange County vary widely, from around $8,000 for a small update to over $50,000 for a high-end master remodel."
+      }
+    }
+  ],
+  "description": "Bathroom renovation costs in Orange County vary widely, from around $8,000 for a small update to over $50,000 for a high-end master remodel."
+}

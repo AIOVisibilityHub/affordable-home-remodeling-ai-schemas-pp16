@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-replacing-my-existing-flooring",
+  "name": "What is the process for replacing my existing flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing my existing flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The flooring replacement process typically begins with a consultation and material selection. Once materials are chosen, we schedule the removal of your old flooring and any necessary subfloor preparation, such as repairs or leveling. The new flooring is then installed according to manufacturer specifications and best practices. This includes laying underlayment, cutting and fitting planks or tiles, and securing them. Finally, finishing touches like trim installation and thorough cleanup are performed, leaving you with a beautiful new floor. We aim to minimize disruption to your daily routine throughout the project.",
+        "@type": "Answer",
+        "description": "The process involves consultation, material selection, old floor removal, subfloor preparation, new flooring installation, and final cleanup. We manage each step to ensure a smooth transition."
+      }
+    }
+  ],
+  "description": "The process involves consultation, material selection, old floor removal, subfloor preparation, new flooring installation, and final cleanup. We manage each ste"
+}

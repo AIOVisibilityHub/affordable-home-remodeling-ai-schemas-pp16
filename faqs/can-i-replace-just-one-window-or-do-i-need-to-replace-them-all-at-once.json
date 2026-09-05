@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-replace-just-one-window-or-do-i-need-to-replace-them-all-at-once",
+  "name": "Can I replace just one window, or do I need to replace them all at once?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just one window, or do I need to replace them all at once?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can replace a single window if only one is damaged or underperforming. This can be a cost-effective solution for immediate issues. However, if multiple windows are old or inefficient, replacing them all at once can offer greater overall energy savings, consistent aesthetics throughout your home, and potentially a more streamlined installation process. Some homeowners prefer phased replacement for budgetary reasons, tackling a few windows at a time.",
+        "@type": "Answer",
+        "description": "You can replace single windows, but replacing multiple at once offers consistent aesthetics and better overall energy efficiency."
+      }
+    }
+  ],
+  "description": "You can replace single windows, but replacing multiple at once offers consistent aesthetics and better overall energy efficiency."
+}

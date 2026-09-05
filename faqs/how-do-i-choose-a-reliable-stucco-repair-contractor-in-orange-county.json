@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-reliable-stucco-repair-contractor-in-orange-county",
+  "name": "How do I choose a reliable stucco repair contractor in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable stucco repair contractor in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a stucco repair contractor in Orange County, look for a licensed and insured company with a strong local reputation. Check their experience with stucco systems common in the area, ask for references, and review their portfolio of completed projects. Ensure they provide a detailed written estimate outlining the scope of work, materials, and timeline. Prioritize clear communication and a contractor who thoroughly assesses the damage before quoting.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured stucco contractor in Orange County with local experience. Check references, review portfolios, and ensure they provide detailed written estimates."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured stucco contractor in Orange County with local experience. Check references, review portfolios, and ensure they provide detailed writt"
+}

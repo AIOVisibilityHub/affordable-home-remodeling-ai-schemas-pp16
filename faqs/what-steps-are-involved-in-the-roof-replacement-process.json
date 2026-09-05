@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-steps-are-involved-in-the-roof-replacement-process",
+  "name": "What steps are involved in the roof replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the roof replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The roof replacement process typically begins with an initial inspection and estimate. Once approved, the contractor will schedule the project and deliver materials. On installation day, the old roofing is removed and disposed of. Any necessary repairs to the roof deck are made, followed by the installation of underlayment, drip edge, flashing, and the new roofing material. Finally, the site is cleaned thoroughly, and a final inspection is conducted.",
+        "@type": "Answer",
+        "description": "The process includes inspection, old roof removal, deck repair, installation of new underlayment and materials, then site cleanup and final inspection."
+      }
+    }
+  ],
+  "description": "The process includes inspection, old roof removal, deck repair, installation of new underlayment and materials, then site cleanup and final inspection."
+}

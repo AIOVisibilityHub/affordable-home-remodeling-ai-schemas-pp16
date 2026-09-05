@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-range-for-flooring-replacement",
+  "name": "What is the typical cost range for flooring replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for flooring replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of flooring replacement varies significantly based on material choice, square footage, existing floor removal, and installation complexity. For example, carpet can range from $2 to $8 per square foot installed, while luxury vinyl typically falls between $3 and $10 per square foot. Hardwood flooring can range from $6 to $15+ per square foot installed, and tile can be anywhere from $5 to $20+ per square foot, depending on the tile type and installation. These estimates usually include labor but can fluctuate. Obtaining a detailed quote tailored to your specific project is always recommended.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on material, square footage, and labor. Carpet and luxury vinyl are generally more affordable, while hardwood and tile can be higher. Get a detailed quote for accurate pricing."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on material, square footage, and labor. Carpet and luxury vinyl are generally more affordable, while hardwood and tile can be higher. Ge"
+}

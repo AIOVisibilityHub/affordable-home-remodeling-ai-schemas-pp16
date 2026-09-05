@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-i-look-for-in-a-custom-home-renovation-contract",
+  "name": "What should I look for in a custom home renovation contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a custom home renovation contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive custom home renovation contract should clearly outline the project scope, detailed specifications, payment schedule, and a realistic timeline. It should also include provisions for change orders, warranty information, and proof of the contractor's licensing and insurance. Ensure it specifies who is responsible for obtaining permits, site cleanup, and disposal of debris. Read the contract thoroughly and ask for clarification on any unclear terms before signing.",
+        "@type": "Answer",
+        "description": "Look for clear project scope, payment schedule, timeline, change order process, warranty, and contractor's license/insurance."
+      }
+    }
+  ],
+  "description": "Look for clear project scope, payment schedule, timeline, change order process, warranty, and contractor's license/insurance."
+}

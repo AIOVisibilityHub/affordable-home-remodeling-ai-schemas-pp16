@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-home-additions-are-most-common-in-southern-california",
+  "name": "What types of home additions are most common in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of home additions are most common in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common home additions in Southern California often include expanding living spaces like family rooms or master suites, adding extra bedrooms or bathrooms, and constructing accessory dwelling units (ADUs). ADUs are popular for their versatility, serving as rental income, guest houses, or multi-generational living solutions. Many homeowners also choose to extend kitchens or create dedicated home office spaces to accommodate evolving lifestyle needs. The specific type of addition can vary based on lot size, zoning regulations, and the homeowner's goals for increased space, functionality, or property value.",
+        "@type": "Answer",
+        "description": "Popular home additions in Southern California include family room expansions, master suites, extra bedrooms/bathrooms, and accessory dwelling units (ADUs)."
+      }
+    }
+  ],
+  "description": "Popular home additions in Southern California include family room expansions, master suites, extra bedrooms/bathrooms, and accessory dwelling units (ADUs)."
+}

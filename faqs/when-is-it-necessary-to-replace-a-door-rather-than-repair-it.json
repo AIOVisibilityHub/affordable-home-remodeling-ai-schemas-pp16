@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-is-it-necessary-to-replace-a-door-rather-than-repair-it",
+  "name": "When is it necessary to replace a door rather than repair it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it necessary to replace a door rather than repair it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacement is often necessary when a door shows significant structural damage, such as rot, severe warping, or large cracks that compromise its integrity or security. If the door's frame is damaged beyond repair, or if continuous drafts lead to high energy bills despite attempts to seal it, a full replacement is usually more cost-effective in the long run. Additionally, if you seek a significant upgrade in security, energy efficiency, or aesthetics that a repair cannot achieve, replacement is the appropriate choice.",
+        "@type": "Answer",
+        "description": "Replace a door if it has significant structural damage (rot, warping), a severely damaged frame, persistent drafts, or when seeking major upgrades in security, energy efficiency, or aesthetics."
+      }
+    }
+  ],
+  "description": "Replace a door if it has significant structural damage (rot, warping), a severely damaged frame, persistent drafts, or when seeking major upgrades in security,"
+}

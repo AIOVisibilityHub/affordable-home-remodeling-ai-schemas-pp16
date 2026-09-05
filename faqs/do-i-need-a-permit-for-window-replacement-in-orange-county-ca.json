@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-window-replacement-in-orange-county-ca",
+  "name": "Do I need a permit for window replacement in Orange County, CA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for window replacement in Orange County, CA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required for window replacement in Orange County often depends on the scope of the project and specific city regulations. Generally, if the window opening is being enlarged, altered structurally, or if the window is being installed in a new location, a permit is likely needed. Simple like-for-like replacements within existing frames might not require one. It is advisable to consult with your general contractor, who can verify local building codes and permitting requirements for your specific project and city, such as Irvine or Yorba Linda.",
+        "@type": "Answer",
+        "description": "Permit needs vary by project scope and city regulations in Orange County; structural changes usually require one. Consult your contractor."
+      }
+    }
+  ],
+  "description": "Permit needs vary by project scope and city regulations in Orange County; structural changes usually require one. Consult your contractor."
+}

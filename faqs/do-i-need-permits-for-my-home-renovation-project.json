@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-my-home-renovation-project",
+  "name": "Do I need permits for my home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for my home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many home renovation projects require permits, especially those involving structural changes, electrical work, plumbing modifications, or significant additions. The specific requirements depend on your city or county building codes. Projects like changing window sizes, adding or moving walls, or altering the roofline typically need permits. Minor cosmetic updates, such as painting or replacing flooring, usually do not. We can help assess your project's permit needs and assist with the application process to ensure compliance.",
+        "@type": "Answer",
+        "description": "Most home renovation projects involving structural, electrical, or plumbing changes require permits, depending on local building codes. We can help with this process."
+      }
+    }
+  ],
+  "description": "Most home renovation projects involving structural, electrical, or plumbing changes require permits, depending on local building codes. We can help with this pr"
+}

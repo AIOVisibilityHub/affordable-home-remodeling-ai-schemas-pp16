@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-you-repair-wall-imperfections-before-painting",
+  "name": "Can you repair wall imperfections before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you repair wall imperfections before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. As part of our comprehensive interior painting service, we routinely handle minor wall imperfections. This includes patching small holes from nails, repairing minor cracks, sanding uneven surfaces, and addressing other blemishes to ensure a smooth and pristine canvas for your new paint. For more extensive damage, such as large drywall repairs, we will assess the situation during our consultation and discuss the best course of action, which may involve additional repair services before painting commences.",
+        "@type": "Answer",
+        "description": "Yes, we repair minor wall imperfections like small holes, cracks, and uneven surfaces as part of our painting preparation."
+      }
+    }
+  ],
+  "description": "Yes, we repair minor wall imperfections like small holes, cracks, and uneven surfaces as part of our painting preparation."
+}

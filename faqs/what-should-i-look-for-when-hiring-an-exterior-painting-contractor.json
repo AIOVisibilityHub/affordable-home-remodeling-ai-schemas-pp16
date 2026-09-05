@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-i-look-for-when-hiring-an-exterior-painting-contractor",
+  "name": "What should I look for when hiring an exterior painting contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when hiring an exterior painting contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When hiring an exterior painting contractor, look for experience, proper licensing and insurance, and a strong portfolio of past work. Reputable contractors should provide a detailed, written estimate that outlines all costs, materials, and the scope of work. Check for positive customer reviews and references to gauge their reliability and quality of service. A good contractor will also communicate clearly, answer your questions thoroughly, and stand behind their work with a warranty. We are licensed, insured, and committed to transparency.",
+        "@type": "Answer",
+        "description": "Look for licensed, insured, and experienced contractors with good references, detailed estimates, and warranties when hiring for exterior painting."
+      }
+    }
+  ],
+  "description": "Look for licensed, insured, and experienced contractors with good references, detailed estimates, and warranties when hiring for exterior painting."
+}

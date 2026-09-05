@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-roof-replacement-instead-of-repair",
+  "name": "When should I consider roof replacement instead of repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider roof replacement instead of repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider roof replacement if your roof is nearing the end of its expected lifespan (typically 20-25 years for asphalt shingles), if it has widespread damage across multiple sections, or if repairs are consistently needed. If the cost of repairs exceeds 25-30% of the cost of a new roof, replacement often provides better long-term value and peace of mind. A full assessment can help determine the most cost-effective and durable solution for your home.",
+        "@type": "Answer",
+        "description": "Consider replacement if your roof is old, has widespread damage, or if repair costs approach 25-30% of a new roof."
+      }
+    }
+  ],
+  "description": "Consider replacement if your roof is old, has widespread damage, or if repair costs approach 25-30% of a new roof."
+}

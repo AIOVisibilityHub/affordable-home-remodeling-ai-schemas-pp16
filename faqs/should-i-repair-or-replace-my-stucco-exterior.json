@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/should-i-repair-or-replace-my-stucco-exterior",
+  "name": "Should I repair or replace my stucco exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my stucco exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repairing and replacing stucco depends on the extent and nature of the damage. If only localized cracks or small sections are affected, repair is often the more cost-effective solution. However, if there's widespread cracking, significant water damage, extensive delamination, or structural issues, a full replacement might be necessary. A professional assessment can determine the most durable and economical long-term solution for your home.",
+        "@type": "Answer",
+        "description": "Repair minor stucco damage; replace if there is widespread cracking, significant water damage, or structural issues. A professional assessment helps determine the best course."
+      }
+    }
+  ],
+  "description": "Repair minor stucco damage; replace if there is widespread cracking, significant water damage, or structural issues. A professional assessment helps determine t"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-low-e-glass-and-why-is-it-important-for-windows",
+  "name": "What is Low-E glass, and why is it important for windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is Low-E glass, and why is it important for windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Low-E (low-emissivity) glass has a microscopic, transparent coating that reflects heat. This coating helps keep heat inside your home during cooler months and reflects it away during warmer months, reducing the amount of heat transfer through the window. It significantly improves a window's energy efficiency, helping to lower heating and cooling costs and making your home more comfortable year-round. It also helps block harmful UV rays, protecting your furnishings from fading.",
+        "@type": "Answer",
+        "description": "Low-E glass has a coating that reflects heat, improving energy efficiency by reducing heat transfer and blocking UV rays."
+      }
+    }
+  ],
+  "description": "Low-E glass has a coating that reflects heat, improving energy efficiency by reducing heat transfer and blocking UV rays."
+}

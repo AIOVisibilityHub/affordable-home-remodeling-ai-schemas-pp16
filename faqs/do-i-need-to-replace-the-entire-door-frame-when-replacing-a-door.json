@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-replace-the-entire-door-frame-when-replacing-a-door",
+  "name": "Do I need to replace the entire door frame when replacing a door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace the entire door frame when replacing a door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not always. If your existing door frame is in good structural condition, free from rot, damage, or significant warping, and plumb, you may only need to replace the door slab itself. This is often the case for interior doors or when upgrading a pre-hung unit with a similar size. However, for exterior doors, or if the frame shows signs of wear, damage, or is not square, replacing the entire pre-hung unit (door and frame) is often recommended. This ensures proper fit, sealing, and long-term performance.",
+        "@type": "Answer",
+        "description": "You may only need to replace the door slab if the frame is in good condition. Replacing the entire pre-hung unit is recommended if the frame is damaged or worn."
+      }
+    }
+  ],
+  "description": "You may only need to replace the door slab if the frame is in good condition. Replacing the entire pre-hung unit is recommended if the frame is damaged or worn."
+}

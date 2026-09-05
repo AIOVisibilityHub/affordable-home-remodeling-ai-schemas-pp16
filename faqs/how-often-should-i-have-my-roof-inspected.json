@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-often-should-i-have-my-roof-inspected",
+  "name": "How often should I have my roof inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my roof inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to have your roof inspected at least once a year, ideally in the spring or fall. Regular inspections help identify minor issues before they escalate into major problems, extending your roof's lifespan. After severe weather events, such as heavy winds or hail, a prompt inspection is also advisable to check for any hidden damage. Proactive maintenance saves money in the long run.",
+        "@type": "Answer",
+        "description": "Annual roof inspections are recommended, typically in spring or fall, and after severe weather."
+      }
+    }
+  ],
+  "description": "Annual roof inspections are recommended, typically in spring or fall, and after severe weather."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-replacing-an-exterior-entry-door",
+  "name": "What is the process for replacing an exterior entry door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing an exterior entry door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a consultation and measurement to choose the right door. Once ordered, installation involves removing the old door and frame (if necessary). The new pre-hung door unit is then carefully installed, ensuring it is plumb and level. The gaps around the frame are insulated and sealed to prevent drafts. Finally, trim is installed, and hardware is fitted. We perform a final inspection to ensure proper operation and a clean finish.",
+        "@type": "Answer",
+        "description": "The process involves consultation, measurement, removal of the old door/frame, installation of the new unit, insulation, trim, hardware fitting, and a final inspection."
+      }
+    }
+  ],
+  "description": "The process involves consultation, measurement, removal of the old door/frame, installation of the new unit, insulation, trim, hardware fitting, and a final ins"
+}

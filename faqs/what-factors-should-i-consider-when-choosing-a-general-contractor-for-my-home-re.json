@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-factors-should-i-consider-when-choosing-a-general-contractor-for-my-home-re",
+  "name": "What factors should I consider when choosing a general contractor for my home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a general contractor for my home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a general contractor, consider their experience with similar projects, their licensing and insurance, and their communication style. Look for a contractor with a strong portfolio, positive client references, and a clear understanding of your vision. It's also important to ensure they are properly licensed by the Contractors State License Board (CSLB) and carry adequate liability insurance and workers' compensation. A good contractor will provide a detailed proposal, a clear contract, and maintain open communication throughout the project.",
+        "@type": "Answer",
+        "description": "When choosing a contractor, consider their experience, licensing, insurance, portfolio, references, and communication style. Ensure they understand your project vision."
+      }
+    }
+  ],
+  "description": "When choosing a contractor, consider their experience, licensing, insurance, portfolio, references, and communication style. Ensure they understand your project"
+}

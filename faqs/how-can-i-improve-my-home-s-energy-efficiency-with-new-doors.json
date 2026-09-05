@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-can-i-improve-my-home-s-energy-efficiency-with-new-doors",
+  "name": "How can I improve my home's energy efficiency with new doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I improve my home's energy efficiency with new doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To improve your home's energy efficiency with new doors, look for models with features designed to reduce heat transfer and air leakage. Options with a high R-value or U-factor indicate better insulation properties. Double-pane or triple-pane glass with low-emissivity (Low-E) coatings in patio or entry doors significantly reduces heat gain and loss. Also, ensure the door has robust weatherstripping and a good seal around the perimeter to prevent drafts. Proper installation by a professional is crucial, as even the most energy-efficient door will perform poorly if not sealed correctly into the opening.",
+        "@type": "Answer",
+        "description": "Improve energy efficiency by choosing doors with high R-values, low U-factors, and Low-E glass, especially for patio or entry doors. Ensure robust weatherstripping and professional installation for optimal sealing against drafts."
+      }
+    }
+  ],
+  "description": "Improve energy efficiency by choosing doors with high R-values, low U-factors, and Low-E glass, especially for patio or entry doors. Ensure robust weatherstripp"
+}

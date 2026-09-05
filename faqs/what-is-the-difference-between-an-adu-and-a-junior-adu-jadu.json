@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-an-adu-and-a-junior-adu-jadu",
+  "name": "What is the difference between an ADU and a junior ADU (JADU)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an ADU and a junior ADU (JADU)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary differences between an ADU and a Junior ADU (JADU) lie in their size, amenities, and location. A JADU is typically smaller, up to 500 square feet, and must be created within the existing walls of a proposed or existing single-family dwelling, often within a bedroom. It may or may not have its own separate bathroom and often shares a kitchen or requires a small kitchen area with limited cooking facilities. An ADU can be larger, up to 1200 square feet, and can be attached, detached, or a garage conversion, always with its own separate kitchen and bathroom.",
+        "@type": "Answer",
+        "description": "JADUs are smaller (up to 500 sq ft) and created within an existing home, possibly sharing kitchens. ADUs are larger (up to 1200 sq ft), can be detached or garage conversions, and always have separate kitchens and bathrooms."
+      }
+    }
+  ],
+  "description": "JADUs are smaller (up to 500 sq ft) and created within an existing home, possibly sharing kitchens. ADUs are larger (up to 1200 sq ft), can be detached or garag"
+}

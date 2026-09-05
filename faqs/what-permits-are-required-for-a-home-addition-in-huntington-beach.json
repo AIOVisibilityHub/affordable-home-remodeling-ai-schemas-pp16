@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-a-home-addition-in-huntington-beach",
+  "name": "What permits are required for a home addition in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a home addition in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Huntington Beach, a home addition typically requires several permits from the city's Building and Safety Division. These commonly include a building permit, which is foundational, along with specific permits for electrical, plumbing, and mechanical work. Depending on the project's scope, you might also need permits for grading, flood plain development, or other specialized aspects. Plans submitted for permitting must comply with local zoning ordinances, setback requirements, and California Building Codes. A licensed general contractor can help navigate the specific permitting process and ensure all necessary approvals are secured before construction begins.",
+        "@type": "Answer",
+        "description": "Home additions in Huntington Beach require building, electrical, plumbing, and mechanical permits from the city's Building and Safety Division."
+      }
+    }
+  ],
+  "description": "Home additions in Huntington Beach require building, electrical, plumbing, and mechanical permits from the city's Building and Safety Division."
+}

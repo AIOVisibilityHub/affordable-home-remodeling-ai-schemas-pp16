@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-an-adu-and-what-are-the-benefits-of-converting-a-garage",
+  "name": "What is an ADU and what are the benefits of converting a garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ADU and what are the benefits of converting a garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot. Converting your garage into an ADU can provide numerous benefits. It can serve as a rental unit for additional income, a dedicated space for family members, or a private home office. This type of conversion maximizes your property's potential without needing to build a completely new structure, often offering a more cost-effective way to add living space compared to traditional home additions. It can also increase your property value and flexibility.",
+        "@type": "Answer",
+        "description": "An ADU is a secondary housing unit on a property. Converting a garage to an ADU can provide rental income, extra living space, or increase property value."
+      }
+    }
+  ],
+  "description": "An ADU is a secondary housing unit on a property. Converting a garage to an ADU can provide rental income, extra living space, or increase property value."
+}

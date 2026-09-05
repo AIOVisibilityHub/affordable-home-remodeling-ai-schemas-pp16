@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-an-architect-for-a-home-addition-or-can-i-use-a-general-contractor-dir",
+  "name": "Do I need an architect for a home addition, or can I use a general contractor directly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect for a home addition, or can I use a general contractor directly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most significant home additions, an architect is highly recommended. An architect designs the addition, ensures structural integrity, adheres to building codes, and creates detailed plans required for permits. While a general contractor oversees the construction, they typically rely on architect-prepared plans for complex projects. For very minor additions or interior modifications, a skilled general contractor might offer design-build services or work with a draftsperson. However, for additions that change the home's footprint or structural elements, an architect's expertise is crucial for a safe and successful outcome.",
+        "@type": "Answer",
+        "description": "An architect is generally recommended for complex home additions to ensure structural integrity and code compliance, while a general contractor manages construction."
+      }
+    }
+  ],
+  "description": "An architect is generally recommended for complex home additions to ensure structural integrity and code compliance, while a general contractor manages construc"
+}

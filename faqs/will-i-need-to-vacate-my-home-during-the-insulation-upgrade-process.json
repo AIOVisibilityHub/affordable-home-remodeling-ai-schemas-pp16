@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-i-need-to-vacate-my-home-during-the-insulation-upgrade-process",
+  "name": "Will I need to vacate my home during the insulation upgrade process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I need to vacate my home during the insulation upgrade process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most insulation upgrades, particularly with fiberglass or cellulose, it's generally not necessary to vacate your home. Our team takes precautions to seal off work areas and minimize dust and disruption. However, if spray foam insulation is being installed, it is highly recommended that occupants and pets vacate the premises for at least 24-48 hours. This allows for proper ventilation and curing of the foam, ensuring no exposure to fumes during the initial off-gassing period. We will advise you clearly on any necessary arrangements before work begins.",
+        "@type": "Answer",
+        "description": "Typically, you won't need to vacate for fiberglass or cellulose. For spray foam, it's recommended to leave for 24-48 hours due to fumes."
+      }
+    }
+  ],
+  "description": "Typically, you won't need to vacate for fiberglass or cellulose. For spray foam, it's recommended to leave for 24-48 hours due to fumes."
+}

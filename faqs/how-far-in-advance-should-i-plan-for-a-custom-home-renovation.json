@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-far-in-advance-should-i-plan-for-a-custom-home-renovation",
+  "name": "How far in advance should I plan for a custom home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How far in advance should I plan for a custom home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to begin planning for a custom home renovation several months in advance, especially for larger projects. This allows ample time for design development, material selection, contractor bidding, and securing necessary permits. Depending on the project's complexity and local permitting office backlogs, these preparatory stages can take anywhere from 2 to 6 months or more. Early planning helps ensure a smoother process and better outcomes.",
+        "@type": "Answer",
+        "description": "Start planning several months in advance to allow for design, material selection, bidding, and permit acquisition."
+      }
+    }
+  ],
+  "description": "Start planning several months in advance to allow for design, material selection, bidding, and permit acquisition."
+}

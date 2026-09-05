@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-a-roof-replacement-in-orange-county",
+  "name": "What is the average cost of a roof replacement in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a roof replacement in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof replacement in Orange County varies significantly based on factors like roof size, pitch, material choice (e.g., asphalt shingles, tile, metal), and the need for structural repairs or old roof removal. For a precise estimate, we conduct a thorough on-site inspection to assess your specific needs and provide a detailed quote. While we can't give an average without specifics, we ensure transparent pricing for all projects in areas like Irvine and Huntington Beach.",
+        "@type": "Answer",
+        "description": "Roof replacement costs in Orange County depend on roof size, materials, and necessary repairs. A precise quote requires an on-site inspection."
+      }
+    }
+  ],
+  "description": "Roof replacement costs in Orange County depend on roof size, materials, and necessary repairs. A precise quote requires an on-site inspection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-a-custom-kitchen-renovation-cost-in-orange-county",
+  "name": "How much does a custom kitchen renovation cost in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a custom kitchen renovation cost in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom kitchen renovation in Orange County can range significantly, typically from $30,000 to over $100,000, depending on several factors. These include the size of your kitchen, the quality of materials chosen (e.g., custom cabinetry, high-end appliances, premium countertops), the extent of layout changes, and any structural modifications. A basic refresh with new cabinets and countertops will be at the lower end, while a complete custom redesign with luxury finishes will be at the higher end. We provide detailed, transparent quotes after an initial consultation.",
+        "@type": "Answer",
+        "description": "Custom kitchen renovation costs in Orange County generally range from $30,000 to $100,000+, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Custom kitchen renovation costs in Orange County generally range from $30,000 to $100,000+, depending on scope and materials."
+}

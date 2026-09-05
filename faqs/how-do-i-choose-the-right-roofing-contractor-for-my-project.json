@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-roofing-contractor-for-my-project",
+  "name": "How do I choose the right roofing contractor for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right roofing contractor for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a roofing contractor, prioritize those with proven experience, proper licensing, and comprehensive insurance. Look for companies with strong local reputations, positive customer reviews, and a portfolio of completed projects. Ask for references and verify their credentials. A reliable contractor will offer a clear, written contract, transparent pricing, and a strong warranty for both materials and labor. Our company meets these criteria, ensuring peace of mind for your roofing investment.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, proper licensing, insurance, and good local reviews. Ensure they offer clear contracts, transparent pricing, and robust warranties."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, proper licensing, insurance, and good local reviews. Ensure they offer clear contracts, transparent pricing, and robust war"
+}

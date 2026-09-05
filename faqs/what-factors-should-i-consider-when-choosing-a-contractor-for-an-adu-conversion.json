@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-factors-should-i-consider-when-choosing-a-contractor-for-an-adu-conversion",
+  "name": "What factors should I consider when choosing a contractor for an ADU conversion in cities like Irvine or Yorba Linda?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a contractor for an ADU conversion in cities like Irvine or Yorba Linda?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for an ADU conversion in areas like Irvine or Yorba Linda, consider their experience with similar projects and their familiarity with local permitting requirements. Look for a licensed and insured contractor with a strong portfolio and positive client references. Ask about their communication style, project management approach, and how they handle potential delays or unexpected issues. A reliable contractor will provide a detailed proposal, transparent pricing, and a clear timeline for the project.",
+        "@type": "Answer",
+        "description": "When choosing a contractor, prioritize experience with ADU conversions, local permitting knowledge, licensing, insurance, and clear communication."
+      }
+    }
+  ],
+  "description": "When choosing a contractor, prioritize experience with ADU conversions, local permitting knowledge, licensing, insurance, and clear communication."
+}

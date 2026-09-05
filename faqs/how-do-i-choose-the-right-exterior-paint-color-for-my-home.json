@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-exterior-paint-color-for-my-home",
+  "name": "How do I choose the right exterior paint color for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right exterior paint color for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right exterior paint color involves considering several elements. Look at your home's architectural style and existing fixed elements like roofing, stonework, or brick. Consider your neighborhood's aesthetic and local HOA guidelines. Natural light exposure throughout the day can also alter how colors appear. We can provide color consultation and samples to help you visualize options on your home before making a final decision.",
+        "@type": "Answer",
+        "description": "Consider your home's architecture, fixed elements, neighborhood, and natural light. We offer color consultation and samples to help you choose."
+      }
+    }
+  ],
+  "description": "Consider your home's architecture, fixed elements, neighborhood, and natural light. We offer color consultation and samples to help you choose."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-design-considerations-are-important-for-a-garage-adu-conversion",
+  "name": "What design considerations are important for a garage ADU conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for a garage ADU conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key design considerations for a garage ADU conversion include maximizing natural light and ventilation, efficient use of space, and integrating essential amenities. Thoughtful planning for kitchen and bathroom layouts is crucial, along with ensuring proper insulation, heating, and cooling for year-round comfort. Consider the entrance and privacy for both the main home and the ADU, as well as any outdoor space such as a small patio. The design should also comply with all local building codes and accessibility standards.",
+        "@type": "Answer",
+        "description": "Important design considerations include maximizing light and space, efficient kitchen/bathroom layouts, proper insulation, and ensuring privacy and code compliance."
+      }
+    }
+  ],
+  "description": "Important design considerations include maximizing light and space, efficient kitchen/bathroom layouts, proper insulation, and ensuring privacy and code complia"
+}

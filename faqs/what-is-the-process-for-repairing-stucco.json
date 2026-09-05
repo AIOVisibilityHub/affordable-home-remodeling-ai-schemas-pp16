@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-repairing-stucco",
+  "name": "What is the process for repairing stucco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing stucco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The stucco repair process typically involves assessing the damage, preparing the area by cleaning and removing loose material, and then applying new stucco layers. For minor cracks, a sealant or patching compound is used. For larger areas, a new base coat is applied, followed by a finish coat to match the existing texture and color. Proper curing time between layers is crucial. The final step often includes painting or sealing to ensure a seamless blend with your home's exterior.",
+        "@type": "Answer",
+        "description": "Stucco repair involves damage assessment, surface preparation, applying new stucco layers (base and finish coats), and proper curing to match the existing exterior."
+      }
+    }
+  ],
+  "description": "Stucco repair involves damage assessment, surface preparation, applying new stucco layers (base and finish coats), and proper curing to match the existing exter"
+}

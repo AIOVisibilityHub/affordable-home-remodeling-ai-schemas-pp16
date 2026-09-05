@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-included-in-a-new-home-construction-warranty",
+  "name": "What is included in a new home construction warranty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a new home construction warranty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New home construction warranties typically cover various components and systems for different periods. For example, workmanship and materials might be covered for one year, while major systems like plumbing, electrical, and HVAC could be covered for two years. Structural elements, such as the foundation and framing, often have a longer warranty, sometimes up to ten years. The specifics of the warranty will be clearly outlined in your construction contract, providing peace of mind for your investment.",
+        "@type": "Answer",
+        "description": "New home warranties usually cover workmanship and materials for one year, major systems for two years, and structural elements for up to ten years, as outlined in the contract."
+      }
+    }
+  ],
+  "description": "New home warranties usually cover workmanship and materials for one year, major systems for two years, and structural elements for up to ten years, as outlined"
+}

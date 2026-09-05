@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-s-the-difference-between-a-whole-home-remodel-and-a-home-addition",
+  "name": "What's the difference between a whole-home remodel and a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a whole-home remodel and a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-home remodel primarily focuses on updating and reconfiguring existing spaces within your home's current footprint. This can involve changing layouts, upgrading finishes, and updating systems like plumbing and electrical. A home addition, on the other hand, involves expanding the physical size of your house by adding new square footage, such as an extra room, a second story, or an expanded living area. While a remodel improves existing space, an addition creates entirely new space, often leading to more extensive structural work and higher costs.",
+        "@type": "Answer",
+        "description": "A whole-home remodel updates existing spaces, while a home addition expands your home's physical size by adding new square footage."
+      }
+    }
+  ],
+  "description": "A whole-home remodel updates existing spaces, while a home addition expands your home's physical size by adding new square footage."
+}

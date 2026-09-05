@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-a-kitchen-renovation-project",
+  "name": "What is the typical timeline for a kitchen renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a kitchen renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a kitchen renovation varies depending on the scope of work, material selections, and any unforeseen structural issues. Generally, a complete kitchen remodel can take anywhere from 6 to 12 weeks from demolition to final installation. This includes planning, material ordering, demolition, rough-ins for plumbing and electrical, cabinet installation, countertop fabrication and installation, flooring, and final finishes. Custom cabinetry or unique material choices can extend this timeframe. We work to provide a detailed schedule upfront to manage expectations.",
+        "@type": "Answer",
+        "description": "A kitchen renovation typically takes 6 to 12 weeks, depending on the project's scope and material choices."
+      }
+    }
+  ],
+  "description": "A kitchen renovation typically takes 6 to 12 weeks, depending on the project's scope and material choices."
+}

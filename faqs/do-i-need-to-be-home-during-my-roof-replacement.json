@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-be-home-during-my-roof-replacement",
+  "name": "Do I need to be home during my roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during my roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary for you to be home throughout the entire roof replacement process, it can be beneficial to be present during key stages. This allows you to address any questions that may arise, make minor decisions quickly, and ensure the work aligns with your expectations. Many homeowners choose to be available by phone or check in periodically, especially during the initial setup and final inspection.",
+        "@type": "Answer",
+        "description": "You don't need to be home constantly, but being available for questions and inspections is helpful."
+      }
+    }
+  ],
+  "description": "You don't need to be home constantly, but being available for questions and inspections is helpful."
+}

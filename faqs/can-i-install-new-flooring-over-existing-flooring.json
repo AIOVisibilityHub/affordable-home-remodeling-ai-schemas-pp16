@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-install-new-flooring-over-existing-flooring",
+  "name": "Can I install new flooring over existing flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install new flooring over existing flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In some cases, new flooring can be installed over existing flooring, which can save on demolition costs and time. For instance, new luxury vinyl plank (LVP) can often be installed over existing sheet vinyl, tile, or even well-secured wood floors if the subfloor is stable, clean, and level. However, installing over carpet or significantly damaged/uneven existing floors is generally not recommended as it can lead to instability, unevenness, and potential issues with the new flooring's longevity. Our team will assess your specific situation to determine feasibility.",
+        "@type": "Answer",
+        "description": "Sometimes, new flooring can be installed over existing, stable, and level surfaces like old vinyl or tile. We assess feasibility based on your current floor condition."
+      }
+    }
+  ],
+  "description": "Sometimes, new flooring can be installed over existing, stable, and level surfaces like old vinyl or tile. We assess feasibility based on your current floor con"
+}

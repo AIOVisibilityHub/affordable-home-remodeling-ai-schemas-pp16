@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-replacing-my-home-s-windows",
+  "name": "When should I consider replacing my home's windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my home's windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your windows if you notice drafts, condensation between glass panes, difficulty opening or closing them, or if your energy bills are unusually high. Visible signs of wear like warped frames, rotting wood, or cracked glass are also indicators. Additionally, if your windows are older single-pane units, upgrading can significantly improve your home's energy efficiency, comfort, and curb appeal.",
+        "@type": "Answer",
+        "description": "Consider replacing windows if you experience drafts, condensation, difficulty operating them, high energy bills, or see visible damage like warped frames or rot."
+      }
+    }
+  ],
+  "description": "Consider replacing windows if you experience drafts, condensation, difficulty operating them, high energy bills, or see visible damage like warped frames or rot"
+}

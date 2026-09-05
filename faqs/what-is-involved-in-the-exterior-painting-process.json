@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-the-exterior-painting-process",
+  "name": "What is involved in the exterior painting process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the exterior painting process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our exterior painting process typically begins with a thorough power wash to clean all surfaces, followed by scraping loose paint and sanding rough areas. We then repair any stucco damage, wood rot, or cracks, and apply primer where needed to ensure proper paint adhesion and a uniform finish. Next, two coats of high-quality exterior paint are applied. Finally, we conduct a detailed inspection with the homeowner to ensure complete satisfaction. We protect landscaping, windows, and other unpainted surfaces throughout the project.",
+        "@type": "Answer",
+        "description": "The process includes power washing, surface prep (scraping, sanding, repairs, priming), applying two coats of paint, and a final inspection."
+      }
+    }
+  ],
+  "description": "The process includes power washing, surface prep (scraping, sanding, repairs, priming), applying two coats of paint, and a final inspection."
+}

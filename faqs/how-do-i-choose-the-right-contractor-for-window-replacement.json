@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-window-replacement",
+  "name": "How do I choose the right contractor for window replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for window replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for window replacement, look for experience, proper licensing, and insurance. Check for positive customer reviews and request references. A reliable contractor should offer a detailed, written estimate, explain product options clearly, and provide transparent timelines. Ensure they understand local building codes and can manage any necessary permits. Open communication and a clear warranty on both products and labor are also key indicators of a trustworthy professional.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, proper licensing, good reviews, and a clear, written estimate, ensuring they understand local codes and warranties."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, proper licensing, good reviews, and a clear, written estimate, ensuring they understand local codes and warranties."
+}

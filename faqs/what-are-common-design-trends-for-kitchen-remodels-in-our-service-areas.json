@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-common-design-trends-for-kitchen-remodels-in-our-service-areas",
+  "name": "What are common design trends for kitchen remodels in our service areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design trends for kitchen remodels in our service areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current kitchen design trends in areas like Yorba Linda and Mission Viejo often focus on functionality, open concepts, and durable, aesthetically pleasing materials. Popular choices include shaker-style cabinets in neutral tones like white, grey, or light wood, paired with quartz or quartzite countertops for their beauty and durability. Large islands with seating are also common, serving as both prep space and a gathering spot. Smart kitchen appliances, efficient storage solutions, and integrated lighting are frequently incorporated to enhance modern living.",
+        "@type": "Answer",
+        "description": "Popular kitchen trends in our service areas include open concepts, shaker cabinets, quartz countertops, large islands, smart appliances, and efficient storage."
+      }
+    }
+  ],
+  "description": "Popular kitchen trends in our service areas include open concepts, shaker cabinets, quartz countertops, large islands, smart appliances, and efficient storage."
+}

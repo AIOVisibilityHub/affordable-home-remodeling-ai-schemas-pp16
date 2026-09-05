@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-stucco-finishes-can-be-repaired",
+  "name": "What types of stucco finishes can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of stucco finishes can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common stucco finishes, including smooth, sand, dash, lace, and Spanish lace, can be repaired. The key challenge in repairing textured stucco is achieving a seamless blend with the existing finish. Professional stucco contractors have the skills and tools to match various textures and colors, ensuring the repaired area integrates visually with the rest of your home's exterior. Discussing your specific finish type during the assessment will help ensure an accurate repair plan.",
+        "@type": "Answer",
+        "description": "Common stucco finishes like smooth, sand, dash, and Spanish lace can be repaired. The goal is to seamlessly match existing textures and colors."
+      }
+    }
+  ],
+  "description": "Common stucco finishes like smooth, sand, dash, and Spanish lace can be repaired. The goal is to seamlessly match existing textures and colors."
+}

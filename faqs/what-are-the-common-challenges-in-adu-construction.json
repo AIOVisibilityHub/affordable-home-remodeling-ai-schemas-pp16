@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-common-challenges-in-adu-construction",
+  "name": "What are the common challenges in ADU construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges in ADU construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in ADU construction include navigating complex local permitting and zoning regulations, managing unexpected site conditions like soil issues or utility placements, and ensuring accurate budgeting. Material and labor shortages can also impact timelines and costs. Design challenges may arise in optimizing small spaces or integrating the ADU aesthetically with the existing property. A skilled general contractor can anticipate and mitigate many of these issues through thorough planning and proactive problem-solving.",
+        "@type": "Answer",
+        "description": "Challenges include navigating permits, unexpected site conditions, budget management, material shortages, and optimizing small living spaces."
+      }
+    }
+  ],
+  "description": "Challenges include navigating permits, unexpected site conditions, budget management, material shortages, and optimizing small living spaces."
+}

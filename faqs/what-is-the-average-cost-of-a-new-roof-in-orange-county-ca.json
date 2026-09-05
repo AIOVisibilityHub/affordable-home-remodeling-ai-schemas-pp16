@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-a-new-roof-in-orange-county-ca",
+  "name": "What is the average cost of a new roof in Orange County, CA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a new roof in Orange County, CA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new roof in Orange County, CA, varies significantly based on material choice, roof size, pitch, and accessibility. Asphalt shingles are typically the most budget-friendly option, while tile, metal, or flat roofs can be more expensive. It's best to obtain a detailed estimate tailored to your specific home and chosen materials. Factors like old roof removal and structural repairs can also influence the final price.",
+        "@type": "Answer",
+        "description": "Roof replacement costs in Orange County vary based on material, size, and complexity. Asphalt shingles are generally most affordable."
+      }
+    }
+  ],
+  "description": "Roof replacement costs in Orange County vary based on material, size, and complexity. Asphalt shingles are generally most affordable."
+}

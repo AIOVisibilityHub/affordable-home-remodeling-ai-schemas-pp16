@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-new-flooring-installation",
+  "name": "What is the average cost of new flooring installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of new flooring installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of new flooring installation varies widely based on the material chosen, the total square footage, and the complexity of the installation. For example, luxury vinyl plank might range from $4-$7 per square foot installed, while solid hardwood or high-end tile could be $8-$15+ per square foot. These figures typically include materials and labor. We provide a comprehensive, no-obligation quote after an on-site evaluation, detailing all costs involved for your specific project in Orange, Yorba Linda, or surrounding areas.",
+        "@type": "Answer",
+        "description": "Costs vary based on material, square footage, and complexity; LVP might be $4-$7/sq ft, while hardwood or high-end tile could be $8-$15+/sq ft installed."
+      }
+    }
+  ],
+  "description": "Costs vary based on material, square footage, and complexity; LVP might be $4-$7/sq ft, while hardwood or high-end tile could be $8-$15+/sq ft installed."
+}

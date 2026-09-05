@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-window-materials-are-available",
+  "name": "What types of window materials are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of window materials are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Window frames are commonly made from vinyl, wood, fiberglass, or aluminum. Vinyl windows are popular for their affordability, energy efficiency, and low maintenance. Wood offers a classic aesthetic and good insulation but requires more upkeep. Fiberglass is durable, stable, and energy-efficient, resisting warping and rotting. Aluminum is strong and slender, often used in contemporary designs, but can be less insulating than other materials. Each material has distinct advantages regarding cost, appearance, and performance.",
+        "@type": "Answer",
+        "description": "Common materials include vinyl, wood, fiberglass, and aluminum, each offering different benefits in terms of cost, aesthetics, and performance."
+      }
+    }
+  ],
+  "description": "Common materials include vinyl, wood, fiberglass, and aluminum, each offering different benefits in terms of cost, aesthetics, and performance."
+}

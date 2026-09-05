@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-to-install-insulation",
+  "name": "What is the average cost to install insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of insulation installation varies widely based on the type of insulation chosen, the size of the area to be insulated, the R-value desired, and labor rates. Factors such as removal of old insulation or structural modifications can also affect the final price. For a precise estimate, it's best to schedule an on-site consultation, where a contractor can assess your specific needs and provide a detailed quote.",
+        "@type": "Answer",
+        "description": "Cost depends on insulation type, area size, desired R-value, and labor. A professional consultation provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Cost depends on insulation type, area size, desired R-value, and labor. A professional consultation provides an accurate estimate."
+}

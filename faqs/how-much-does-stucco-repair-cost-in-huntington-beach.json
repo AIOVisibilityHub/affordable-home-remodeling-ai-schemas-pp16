@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-stucco-repair-cost-in-huntington-beach",
+  "name": "How much does stucco repair cost in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does stucco repair cost in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of stucco repair in Huntington Beach varies significantly based on the extent of the damage, the type of stucco, and the complexity of the repair. Minor repairs for small cracks might cost a few hundred dollars, while more extensive damage involving water remediation or large sections of re-stucco can range from several thousand dollars or more. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Stucco repair costs in Huntington Beach vary greatly depending on the damage extent, stucco type, and repair complexity. Minor repairs are less, while extensive damage costs more."
+      }
+    }
+  ],
+  "description": "Stucco repair costs in Huntington Beach vary greatly depending on the damage extent, stucco type, and repair complexity. Minor repairs are less, while extensive"
+}

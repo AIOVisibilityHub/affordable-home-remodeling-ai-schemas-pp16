@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-warranty-or-guarantee-should-a-contractor-offer-for-a-kitchen-remod",
+  "name": "What kind of warranty or guarantee should a contractor offer for a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee should a contractor offer for a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A reputable contractor should offer a warranty for their workmanship on a kitchen remodel, typically covering a period of one to five years. This warranty ensures that if any issues arise due to faulty installation or construction, the contractor will rectify them at no additional cost. Beyond labor, many products and materials used in a kitchen remodel, such as appliances, cabinets, and countertops, come with separate manufacturer warranties. Always clarify the terms and duration of both the contractor's workmanship warranty and any product warranties before starting your project.",
+        "@type": "Answer",
+        "description": "A reputable contractor should offer a workmanship warranty, typically 1-5 years, covering faulty installation. Products also often carry separate manufacturer warranties."
+      }
+    }
+  ],
+  "description": "A reputable contractor should offer a workmanship warranty, typically 1-5 years, covering faulty installation. Products also often carry separate manufacturer w"
+}

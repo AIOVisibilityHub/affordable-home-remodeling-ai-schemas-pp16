@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-converting-a-garage-into-an-adu",
+  "name": "What is the process for converting a garage into an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for converting a garage into an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a feasibility study and design, where an architect or designer creates plans compliant with local zoning codes. Next, these plans are submitted to the city for permitting, which can take several weeks or months. Once permits are approved, construction begins, involving demolition, framing, utility installation (plumbing, electrical), insulation, drywall, flooring, and finishing touches. Final inspections by the city are required before occupancy. A reputable general contractor manages all these stages.",
+        "@type": "Answer",
+        "description": "The process involves design, obtaining city permits, construction including utility installation and finishing, followed by final inspections."
+      }
+    }
+  ],
+  "description": "The process involves design, obtaining city permits, construction including utility installation and finishing, followed by final inspections."
+}

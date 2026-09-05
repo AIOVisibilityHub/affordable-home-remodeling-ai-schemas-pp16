@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-replacing-an-exterior-door",
+  "name": "What is the average cost of replacing an exterior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of replacing an exterior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of replacing an exterior door varies widely based on several factors, including the material (e.g., fiberglass, steel, wood), style, size, hardware, and any custom features. A basic steel or fiberglass entry door might start from around $800-$1,500 installed, while high-end custom wood doors with intricate designs could range from $3,000 to over $10,000. These figures include labor, but specific costs are best determined with a detailed quote after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Exterior door replacement costs vary from $800 to over $10,000, depending on material, style, size, and custom features."
+      }
+    }
+  ],
+  "description": "Exterior door replacement costs vary from $800 to over $10,000, depending on material, style, size, and custom features."
+}

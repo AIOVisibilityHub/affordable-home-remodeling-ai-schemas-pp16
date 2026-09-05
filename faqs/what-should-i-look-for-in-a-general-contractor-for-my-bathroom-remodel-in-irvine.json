@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-i-look-for-in-a-general-contractor-for-my-bathroom-remodel-in-irvine",
+  "name": "What should I look for in a general contractor for my bathroom remodel in Irvine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a general contractor for my bathroom remodel in Irvine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a general contractor for your bathroom remodel in Irvine, look for one with a strong local reputation, proven experience specifically in bathroom remodels, and proper licensing and insurance. Check their portfolio for projects similar to yours and read client testimonials. A reliable contractor will offer transparent pricing, provide a detailed contract, and communicate clearly throughout the project. We pride ourselves on our professionalism and commitment to client satisfaction in the Irvine area, ensuring a smooth and high-quality remodeling experience.",
+        "@type": "Answer",
+        "description": "Look for a general contractor in Irvine with local reputation, experience in bathroom remodels, proper licensing, insurance, transparent pricing, and clear communication."
+      }
+    }
+  ],
+  "description": "Look for a general contractor in Irvine with local reputation, experience in bathroom remodels, proper licensing, insurance, transparent pricing, and clear comm"
+}

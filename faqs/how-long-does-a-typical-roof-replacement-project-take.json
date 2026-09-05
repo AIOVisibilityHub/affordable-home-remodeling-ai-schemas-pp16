@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-roof-replacement-project-take",
+  "name": "How long does a typical roof replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof replacement project varies depending on the size and complexity of your roof, the materials chosen, and weather conditions. For an average-sized residential home, a replacement typically takes between three to seven days. This estimate includes removing the old roof, making any necessary repairs to the decking, and installing the new roofing system. Our team works efficiently to minimize disruption while ensuring quality craftsmanship.",
+        "@type": "Answer",
+        "description": "Most residential roof replacements take 3-7 days, depending on roof size, materials, and weather conditions."
+      }
+    }
+  ],
+  "description": "Most residential roof replacements take 3-7 days, depending on roof size, materials, and weather conditions."
+}

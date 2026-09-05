@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-move-out-of-my-house-during-a-kitchen-renovation",
+  "name": "Do I need to move out of my house during a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out of my house during a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For many kitchen renovations, moving out is not strictly necessary, especially for smaller projects that don't disrupt essential living areas for extended periods. However, for extensive custom renovations involving major demolition, reconfiguring utilities, or prolonged periods without a functioning kitchen, some homeowners choose to temporarily relocate. This can minimize disruption, dust, and noise. We work with you to understand your preferences and plan the project to minimize inconvenience, ensuring safety and cleanliness throughout the duration.",
+        "@type": "Answer",
+        "description": "Moving out is often not required for kitchen renovations, but can be beneficial for extensive projects to minimize disruption and inconvenience."
+      }
+    }
+  ],
+  "description": "Moving out is often not required for kitchen renovations, but can be beneficial for extensive projects to minimize disruption and inconvenience."
+}

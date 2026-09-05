@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-common-types-of-windows-available-for-home-installation",
+  "name": "What are the common types of windows available for home installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of windows available for home installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common window types include double-hung, casement, sliding, picture, and bay or bow windows. Double-hung windows are popular for their classic look and ventilation options. Casement windows offer excellent energy efficiency and unobstructed views when open. Sliding windows operate horizontally and are a good choice for wider openings. Picture windows are stationary and designed to maximize natural light and views. Bay and bow windows extend outward, creating additional space and a distinctive aesthetic for your home.",
+        "@type": "Answer",
+        "description": "Common window types are double-hung, casement, sliding, picture, and bay/bow windows, each offering distinct features for ventilation, light, and aesthetics."
+      }
+    }
+  ],
+  "description": "Common window types are double-hung, casement, sliding, picture, and bay/bow windows, each offering distinct features for ventilation, light, and aesthetics."
+}

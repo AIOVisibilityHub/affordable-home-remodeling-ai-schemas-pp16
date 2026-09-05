@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-first-steps-to-take-when-planning-to-build-a-new-home",
+  "name": "What are the first steps to take when planning to build a new home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to take when planning to build a new home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial steps for new home construction involve defining your budget, securing financing, and identifying a suitable lot if you don't already own one. Next, it's crucial to select a reputable general contractor and work with an architect or designer to create a custom home plan that meets your needs and local zoning regulations. Permitting applications follow, which can be a lengthy process. Our team can guide you through each of these critical early stages to ensure a smooth start.",
+        "@type": "Answer",
+        "description": "First steps include budgeting, financing, lot selection, choosing a contractor, and designing your home plan before applying for permits."
+      }
+    }
+  ],
+  "description": "First steps include budgeting, financing, lot selection, choosing a contractor, and designing your home plan before applying for permits."
+}

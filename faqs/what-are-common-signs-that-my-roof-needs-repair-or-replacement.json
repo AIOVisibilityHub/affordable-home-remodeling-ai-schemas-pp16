@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-common-signs-that-my-roof-needs-repair-or-replacement",
+  "name": "What are common signs that my roof needs repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my roof needs repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs your roof needs attention include missing, cracked, or curled shingles, dark stains or moss growth, granules in your gutters, and leaks or water stains on your ceilings. A sagging roof deck or a noticeable increase in your energy bills can also indicate underlying issues. Promptly addressing these signs can prevent more extensive and costly damage to your home's structure and interior.",
+        "@type": "Answer",
+        "description": "Common signs include damaged shingles, leaks, water stains, sagging, or granules in gutters."
+      }
+    }
+  ],
+  "description": "Common signs include damaged shingles, leaks, water stains, sagging, or granules in gutters."
+}

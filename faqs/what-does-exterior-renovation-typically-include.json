@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-does-exterior-renovation-typically-include",
+  "name": "What does exterior renovation typically include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does exterior renovation typically include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior renovation enhances a home's curb appeal and functionality. Common projects include repainting, siding replacement (e.g., stucco, fiber cement, vinyl), roof repair or replacement, window and door upgrades, and adding or redesigning outdoor living spaces like decks, patios, or pergolas. Landscaping improvements, such as hardscaping or new planting, are also frequently part of a comprehensive exterior overhaul. The scope depends on the home's condition, the homeowner's goals, and budget.",
+        "@type": "Answer",
+        "description": "Exterior renovation commonly involves repainting, siding, roofing, window/door upgrades, and outdoor living space improvements. The specific projects depend on your home's needs and your goals."
+      }
+    }
+  ],
+  "description": "Exterior renovation commonly involves repainting, siding, roofing, window/door upgrades, and outdoor living space improvements. The specific projects depend on"
+}

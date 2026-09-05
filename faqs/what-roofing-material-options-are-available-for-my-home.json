@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-roofing-material-options-are-available-for-my-home",
+  "name": "What roofing material options are available for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What roofing material options are available for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is a wide variety of roofing materials, each with its own benefits and aesthetic. Common options include asphalt shingles, which are popular for their affordability and versatility; tile roofs, known for their durability and Mediterranean aesthetic suitable for many California homes; and metal roofing, offering excellent longevity and energy efficiency. Other options include wood shakes or synthetic materials. We can help you choose the best material to suit your home's style, budget, and local climate in areas like Mission Viejo or Yorba Linda.",
+        "@type": "Answer",
+        "description": "Common roofing materials include asphalt shingles, tile, and metal, each offering different aesthetics, durability, and cost benefits."
+      }
+    }
+  ],
+  "description": "Common roofing materials include asphalt shingles, tile, and metal, each offering different aesthetics, durability, and cost benefits."
+}

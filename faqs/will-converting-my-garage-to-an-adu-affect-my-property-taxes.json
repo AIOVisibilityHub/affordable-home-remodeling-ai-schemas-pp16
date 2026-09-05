@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-converting-my-garage-to-an-adu-affect-my-property-taxes",
+  "name": "Will converting my garage to an ADU affect my property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will converting my garage to an ADU affect my property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting your garage into an ADU will likely affect your property taxes. Adding livable square footage and increasing the overall value of your property typically leads to a reassessment by the county assessor's office. The exact increase will depend on the appraised value of the newly added improvements. It's advisable to consult with your local county assessor's office or a tax professional to understand the potential tax implications for your specific property before starting the project.",
+        "@type": "Answer",
+        "description": "Yes, converting your garage to an ADU will likely affect your property taxes due to increased property value and a reassessment."
+      }
+    }
+  ],
+  "description": "Yes, converting your garage to an ADU will likely affect your property taxes due to increased property value and a reassessment."
+}

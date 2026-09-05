@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-is-it-better-to-repair-existing-stucco-versus-opting-for-a-full-re-stucco",
+  "name": "When is it better to repair existing stucco versus opting for a full re-stucco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to repair existing stucco versus opting for a full re-stucco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between stucco repair and a full re-stucco depends on the extent and nature of the damage. Minor issues like small cracks, isolated blemishes, or localized discoloration can often be addressed with repairs. However, if your stucco has widespread cracking, significant water damage, extensive delamination, or if you desire a complete change in color or texture, a full re-stucco is generally the more effective and durable solution. A professional assessment can help determine the most cost-effective and long-lasting approach for your specific situation.",
+        "@type": "Answer",
+        "description": "Repair minor stucco issues like small cracks or blemishes, but opt for full re-stucco if there's widespread cracking, extensive water damage, or if you want a complete aesthetic change."
+      }
+    }
+  ],
+  "description": "Repair minor stucco issues like small cracks or blemishes, but opt for full re-stucco if there's widespread cracking, extensive water damage, or if you want a c"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-you-manage-dust-and-debris-during-a-renovation",
+  "name": "How do you manage dust and debris during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you manage dust and debris during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Managing dust and debris is a priority to minimize disruption to your home. We use several techniques, including sealing off the work area with plastic sheeting and zippered dust barriers. High-efficiency particulate air (HEPA) filters and vacuums are employed to capture airborne dust. We also protect flooring and surfaces outside the immediate work zone with drop cloths and specialized coverings. Daily clean-up at the end of each workday helps maintain a tidy and safe environment. For larger projects, we may utilize external dust extraction systems.",
+        "@type": "Answer",
+        "description": "We manage dust and debris using plastic barriers, HEPA filters, protective coverings, and daily clean-up to minimize disruption."
+      }
+    }
+  ],
+  "description": "We manage dust and debris using plastic barriers, HEPA filters, protective coverings, and daily clean-up to minimize disruption."
+}

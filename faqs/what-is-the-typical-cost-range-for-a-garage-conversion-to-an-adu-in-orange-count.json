@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-range-for-a-garage-conversion-to-an-adu-in-orange-count",
+  "name": "What is the typical cost range for a garage conversion to an ADU in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a garage conversion to an ADU in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of converting a garage to an ADU in Orange County can vary significantly based on factors like the size of the garage, the chosen finishes, plumbing and electrical requirements, and the complexity of the design. Basic conversions might start around $50,000, while more elaborate projects with higher-end finishes, new bathrooms, and kitchens could exceed $100,000. It's essential to get a detailed estimate based on your specific project scope. This estimate would typically include design, permits, and construction.",
+        "@type": "Answer",
+        "description": "Costs for a garage to ADU conversion in Orange County vary, typically ranging from $50,000 for basic projects to over $100,000 for more complex ones, depending on size and finishes."
+      }
+    }
+  ],
+  "description": "Costs for a garage to ADU conversion in Orange County vary, typically ranging from $50,000 for basic projects to over $100,000 for more complex ones, depending"
+}

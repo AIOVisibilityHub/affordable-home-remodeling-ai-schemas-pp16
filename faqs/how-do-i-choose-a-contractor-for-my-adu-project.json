@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-contractor-for-my-adu-project",
+  "name": "How do I choose a contractor for my ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for my ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for your ADU project, look for experience specifically with ADU construction in your local area, such as Huntington Beach or Irvine. Verify their licensing and insurance. Request references from previous clients and review their portfolio of work. A reliable contractor will provide a detailed proposal, clear communication, and transparency regarding costs and timelines. Obtain multiple bids and ask questions about their process, warranties, and how they handle unforeseen challenges.",
+        "@type": "Answer",
+        "description": "Choose a contractor with ADU experience, verify licensing and insurance, check references, and ensure clear communication and detailed proposals."
+      }
+    }
+  ],
+  "description": "Choose a contractor with ADU experience, verify licensing and insurance, check references, and ensure clear communication and detailed proposals."
+}

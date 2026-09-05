@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-roof-repair-and-roof-replacement",
+  "name": "What is the difference between roof repair and roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between roof repair and roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roof repair involves fixing specific damaged sections of your existing roof, such as replacing a few missing shingles or addressing a small leak. This is suitable for localized issues and when the overall integrity of your roof is still strong. Roof replacement, on the other hand, involves removing the entire old roofing system down to the decking and installing a completely new one. This is recommended when a roof has widespread damage, is nearing the end of its lifespan, or has significant structural issues that repairs cannot adequately address.",
+        "@type": "Answer",
+        "description": "Roof repair fixes specific damage, while replacement involves installing an entirely new roofing system. Replacement is for widespread damage or end-of-life roofs."
+      }
+    }
+  ],
+  "description": "Roof repair fixes specific damage, while replacement involves installing an entirely new roofing system. Replacement is for widespread damage or end-of-life roo"
+}

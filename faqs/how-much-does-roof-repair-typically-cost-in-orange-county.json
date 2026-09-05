@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-roof-repair-typically-cost-in-orange-county",
+  "name": "How much does roof repair typically cost in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does roof repair typically cost in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of roof repair varies significantly based on the extent of the damage, the type of roofing material, and the accessibility of the affected area. Minor repairs, like replacing a few shingles, could be a few hundred dollars. More extensive damage involving structural elements or larger sections of the roof can run into thousands. We provide a detailed estimate after a thorough inspection to ensure transparency and accuracy for our clients in Orange County.",
+        "@type": "Answer",
+        "description": "Roof repair costs vary widely based on damage extent, materials, and accessibility. Minor repairs are less, while extensive damage is more."
+      }
+    }
+  ],
+  "description": "Roof repair costs vary widely based on damage extent, materials, and accessibility. Minor repairs are less, while extensive damage is more."
+}

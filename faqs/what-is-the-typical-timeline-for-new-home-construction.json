@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-new-home-construction",
+  "name": "What is the typical timeline for new home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for new home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for new home construction varies based on factors such as home size, complexity, permits, and weather. Generally, a custom home can take anywhere from 8 to 18 months from groundbreaking to move-in. This includes phases like foundation pouring, framing, rough-ins for electrical and plumbing, drywall installation, finishing work, and final inspections. Delays can occur due to unforeseen site conditions or material availability, so flexibility is key.",
+        "@type": "Answer",
+        "description": "New home construction typically takes 8 to 18 months, depending on size, complexity, and permits. This includes various construction phases and inspections."
+      }
+    }
+  ],
+  "description": "New home construction typically takes 8 to 18 months, depending on size, complexity, and permits. This includes various construction phases and inspections."
+}

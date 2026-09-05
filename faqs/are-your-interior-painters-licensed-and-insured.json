@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/are-your-interior-painters-licensed-and-insured",
+  "name": "Are your interior painters licensed and insured?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are your interior painters licensed and insured?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, all our interior painters are experienced professionals who are fully licensed and insured. This provides peace of mind, knowing that your home and our team are protected throughout the painting project. Our commitment to proper licensing and insurance reflects our dedication to professionalism, safety, and delivering high-quality results. We maintain all necessary certifications and adhere to industry best practices to ensure a secure and efficient painting service for every client.",
+        "@type": "Answer",
+        "description": "Yes, all our interior painters are fully licensed and insured, ensuring professionalism and protection throughout your project."
+      }
+    }
+  ],
+  "description": "Yes, all our interior painters are fully licensed and insured, ensuring professionalism and protection throughout your project."
+}

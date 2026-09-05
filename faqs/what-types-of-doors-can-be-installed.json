@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-doors-can-be-installed",
+  "name": "What types of doors can be installed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of doors can be installed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We install a variety of exterior and interior doors to meet different needs and aesthetic preferences. Exterior options include entry doors (fiberglass, steel, wood), patio doors (sliding, French, bi-fold), and security doors. Interior doors encompass closet doors (bi-fold, bypass, swing), passage doors, and custom solutions. Materials range from solid wood and hollow core to glass panels and composites, each offering distinct benefits in terms of insulation, security, and design. Our team can help you select the best type for your home's style and functional requirements.",
+        "@type": "Answer",
+        "description": "We install a variety of exterior and interior doors, including entry, patio, security, and closet doors, made from materials like wood, steel, fiberglass, and composites."
+      }
+    }
+  ],
+  "description": "We install a variety of exterior and interior doors, including entry, patio, security, and closet doors, made from materials like wood, steel, fiberglass, and c"
+}

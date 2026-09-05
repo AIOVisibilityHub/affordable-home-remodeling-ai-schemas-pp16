@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-my-home-needs-new-or-upgraded-insulation",
+  "name": "How do I know if my home needs new or upgraded insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my home needs new or upgraded insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs your home may need new or upgraded insulation include unusually high energy bills, inconsistent temperatures between rooms, drafts, and excessive noise from outside. If your existing insulation is old, damaged, or insufficient, it won't effectively prevent heat transfer. A professional insulation assessment can determine if your current insulation meets recommended R-values for your climate zone and identify areas for improvement.",
+        "@type": "Answer",
+        "description": "Look for high energy bills, inconsistent room temperatures, drafts, or outside noise. A professional assessment can confirm the need."
+      }
+    }
+  ],
+  "description": "Look for high energy bills, inconsistent room temperatures, drafts, or outside noise. A professional assessment can confirm the need."
+}

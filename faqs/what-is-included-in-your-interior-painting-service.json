@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-included-in-your-interior-painting-service",
+  "name": "What is included in your interior painting service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in your interior painting service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our interior painting service typically includes a thorough preparation of the painting area, which involves moving furniture, covering floors and fixtures, patching minor wall imperfections, and priming as needed. We then apply high-quality paint to walls, ceilings, and trim, ensuring clean lines and even coverage. After painting, we conduct a final inspection with you to ensure satisfaction, and then clean up the work area, returning furniture to its original placement. We aim to minimize disruption to your home during the process.",
+        "@type": "Answer",
+        "description": "Our interior painting service includes surface preparation, application of high-quality paint to walls, ceilings, and trim, a final inspection, and complete cleanup."
+      }
+    }
+  ],
+  "description": "Our interior painting service includes surface preparation, application of high-quality paint to walls, ceilings, and trim, a final inspection, and complete cle"
+}

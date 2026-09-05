@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-important-is-energy-efficiency-in-new-home-construction",
+  "name": "How important is energy efficiency in new home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How important is energy efficiency in new home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Energy efficiency is highly important in new home construction, offering long-term benefits for homeowners and the environment. Incorporating energy-efficient design, insulation, windows, and HVAC systems can significantly reduce utility bills and enhance indoor comfort. It also contributes to a smaller carbon footprint and can increase the resale value of your home. We can discuss various options, from basic energy-saving features to advanced green building practices, to meet your goals and budget.",
+        "@type": "Answer",
+        "description": "Energy efficiency in new homes is crucial for reducing utility costs, improving comfort, lowering environmental impact, and increasing resale value."
+      }
+    }
+  ],
+  "description": "Energy efficiency in new homes is crucial for reducing utility costs, improving comfort, lowering environmental impact, and increasing resale value."
+}

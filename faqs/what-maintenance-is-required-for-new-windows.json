@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-maintenance-is-required-for-new-windows",
+  "name": "What maintenance is required for new windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for new windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern windows, especially vinyl and fiberglass, typically require minimal maintenance. This includes regular cleaning of the glass and frames with mild soap and water to remove dirt and grime. It's also advisable to periodically check weatherstripping and seals for any signs of wear or damage to ensure continued energy efficiency. Lubricating moving parts like hinges and locks on casement or sliding windows can help maintain smooth operation.",
+        "@type": "Answer",
+        "description": "New windows require minimal maintenance, mainly regular cleaning of glass and frames. Periodically check seals and lubricate moving parts for smooth operation."
+      }
+    }
+  ],
+  "description": "New windows require minimal maintenance, mainly regular cleaning of glass and frames. Periodically check seals and lubricate moving parts for smooth operation."
+}

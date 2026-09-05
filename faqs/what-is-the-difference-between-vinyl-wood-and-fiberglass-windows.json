@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-vinyl-wood-and-fiberglass-windows",
+  "name": "What is the difference between vinyl, wood, and fiberglass windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between vinyl, wood, and fiberglass windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Vinyl windows are a popular, cost-effective option known for low maintenance and good insulation. Wood windows offer a classic aesthetic and excellent insulation but require more maintenance to prevent rot or warping. Fiberglass windows are highly durable, stable, and energy-efficient, resisting expansion and contraction, making them a premium choice that can mimic the look of wood without the high maintenance.",
+        "@type": "Answer",
+        "description": "Vinyl windows are affordable and low-maintenance; wood offers classic aesthetics but requires upkeep; fiberglass is durable, stable, and energy-efficient."
+      }
+    }
+  ],
+  "description": "Vinyl windows are affordable and low-maintenance; wood offers classic aesthetics but requires upkeep; fiberglass is durable, stable, and energy-efficient."
+}

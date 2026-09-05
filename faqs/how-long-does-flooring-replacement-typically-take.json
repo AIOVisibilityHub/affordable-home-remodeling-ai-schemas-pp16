@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-flooring-replacement-typically-take",
+  "name": "How long does flooring replacement typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does flooring replacement typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a flooring replacement project depends on several factors, including the type of flooring, the size of the area, and the complexity of the installation. For a standard room, carpet removal and installation might take one to two days. Luxury vinyl or laminate installation can range from two to five days for an average home. Hardwood or tile installation, especially if it involves complex patterns, subfloor preparation, or curing times for adhesives, can take anywhere from three days to over a week. Our team will provide a clear timeline after assessing your specific project scope.",
+        "@type": "Answer",
+        "description": "Project duration varies by flooring type and area size. Carpet or LVP can take a few days, while hardwood or tile may require a week or more due to installation complexity and drying times."
+      }
+    }
+  ],
+  "description": "Project duration varies by flooring type and area size. Carpet or LVP can take a few days, while hardwood or tile may require a week or more due to installation"
+}

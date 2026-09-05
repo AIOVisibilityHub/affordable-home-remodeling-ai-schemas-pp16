@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-rent-out-my-garage-adu-for-short-term-rentals-in-huntington-beach",
+  "name": "Can I rent out my garage ADU for short-term rentals in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I rent out my garage ADU for short-term rentals in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regulations for short-term rentals (STRs) of ADUs, including garage conversions, vary significantly by city. In Huntington Beach, specific ordinances govern STRs, including registration requirements, density limits, and zoning restrictions. While ADUs can be rented long-term, their use for short-term rentals might be restricted or require specific permits and compliance with city-specific rules. It is crucial to check the latest short-term rental ordinance for Huntington Beach to understand if and how your ADU can be used for STRs.",
+        "@type": "Answer",
+        "description": "Short-term rental rules for ADUs vary by city. In Huntington Beach, specific ordinances govern STRs, so check local regulations for your ADU."
+      }
+    }
+  ],
+  "description": "Short-term rental rules for ADUs vary by city. In Huntington Beach, specific ordinances govern STRs, so check local regulations for your ADU."
+}

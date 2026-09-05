@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-interior-painting-typically-take-for-a-standard-room",
+  "name": "How long does interior painting typically take for a standard room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does interior painting typically take for a standard room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of interior painting for a standard room depends on several factors, including the room's size, the current condition of the walls, the number of coats required, and whether specialized treatments like accent walls are involved. On average, a single standard-sized room (e.g., bedroom, living room) can take anywhere from one to three days. This includes time for preparation, painting, and drying between coats. We provide a more precise timeline after assessing your specific project during the initial consultation.",
+        "@type": "Answer",
+        "description": "Interior painting for a standard room typically takes one to three days, depending on factors like room size, wall condition, and number of coats."
+      }
+    }
+  ],
+  "description": "Interior painting for a standard room typically takes one to three days, depending on factors like room size, wall condition, and number of coats."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-bathroom-remodel-usually-take",
+  "name": "How long does a bathroom remodel usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom remodel usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom remodel varies based on the project's complexity and scope. A minor cosmetic update might take 1-2 weeks, while a complete gut and remodel, especially one involving layout changes or structural work, could take 3-6 weeks or even longer. Factors like material availability, permit processing (if required), and unexpected issues can also influence the timeline. We provide a detailed project schedule upfront, keeping you informed every step of the way.",
+        "@type": "Answer",
+        "description": "Bathroom remodels typically take 1-6 weeks depending on complexity, from minor updates to full gut renovations."
+      }
+    }
+  ],
+  "description": "Bathroom remodels typically take 1-6 weeks depending on complexity, from minor updates to full gut renovations."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-that-my-windows-need-to-be-replaced",
+  "name": "What are the signs that my windows need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my windows need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your windows may need replacement include noticeable drafts, difficulty opening or closing, condensation between glass panes, or increased energy bills. If your windows are old, warped, or show visible damage like rot or rust, their structural integrity and insulation might be compromised. Replacing them can improve your home's energy efficiency, comfort, and curb appeal.",
+        "@type": "Answer",
+        "description": "Look for drafts, difficulty operating, condensation between panes, or rising energy bills. Visible damage like rot or warping also indicates a need for replacement."
+      }
+    }
+  ],
+  "description": "Look for drafts, difficulty operating, condensation between panes, or rising energy bills. Visible damage like rot or warping also indicates a need for replacem"
+}

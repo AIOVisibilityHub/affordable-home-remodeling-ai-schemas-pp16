@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-size-limitations-for-adus-in-cities-like-irvine-or-huntington-beach",
+  "name": "What are the size limitations for ADUs in cities like Irvine or Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the size limitations for ADUs in cities like Irvine or Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Size limitations for ADUs are primarily governed by state law and local ordinances. In Irvine and Huntington Beach, state law generally allows for a detached ADU of up to 1,200 square feet, regardless of the primary dwelling's size, and attached ADUs can be up to 50% of the existing main home’s size or 1,200 square feet, whichever is less. There are also minimum size requirements. Garage conversions are typically limited by the existing garage footprint. Specific setbacks and lot coverage rules also apply, which a local contractor can detail.",
+        "@type": "Answer",
+        "description": "ADU size limits are set by state and local laws, generally allowing up to 1,200 sq ft for detached units and up to 50% of the main home's size for attached units, with specific local setbacks."
+      }
+    }
+  ],
+  "description": "ADU size limits are set by state and local laws, generally allowing up to 1,200 sq ft for detached units and up to 50% of the main home's size for attached unit"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-warranty-is-typically-offered-for-custom-home-renovations",
+  "name": "What kind of warranty is typically offered for custom home renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty is typically offered for custom home renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Reputable general contractors typically offer a warranty on their workmanship for a specified period after project completion. This warranty covers defects in materials or installation errors related to the work performed by the contractor and their subcontractors. The duration and specifics of the warranty can vary, but generally range from one to five years. Material manufacturers also provide their own warranties for the products used. All warranty details are outlined in your contract.",
+        "@type": "Answer",
+        "description": "Contractors usually offer a workmanship warranty (1-5 years) covering defects; material manufacturers also provide their own warranties."
+      }
+    }
+  ],
+  "description": "Contractors usually offer a workmanship warranty (1-5 years) covering defects; material manufacturers also provide their own warranties."
+}

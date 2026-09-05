@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-warranty-do-you-offer-on-your-home-renovation-work",
+  "name": "What warranty do you offer on your home renovation work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What warranty do you offer on your home renovation work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We stand behind the quality of our workmanship and offer a comprehensive warranty on all our renovation projects. Typically, our warranty covers craftsmanship and installation for a specified period, often one to two years, from the project's completion date. This covers any defects arising from our work. Manufacturer warranties apply separately to specific products and materials used. We provide detailed warranty information in your contract, ensuring clarity and peace of mind regarding our commitment to quality.",
+        "@type": "Answer",
+        "description": "We offer a comprehensive warranty on our workmanship and installation, typically for one to two years, covering defects from our work."
+      }
+    }
+  ],
+  "description": "We offer a comprehensive warranty on our workmanship and installation, typically for one to two years, covering defects from our work."
+}

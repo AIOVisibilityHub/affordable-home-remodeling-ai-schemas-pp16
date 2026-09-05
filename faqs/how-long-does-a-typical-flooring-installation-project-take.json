@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-flooring-installation-project-take",
+  "name": "How long does a typical flooring installation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical flooring installation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a flooring installation project varies significantly based on the material, the size of the area, and any necessary subfloor preparation. For example, a small room with laminate might take 1-2 days, while a large area with complex tile work or hardwood requiring acclimation could take a week or more. We provide a detailed timeline after assessing your specific project. This estimate will cover preparation, installation, and any finishing work to ensure minimal disruption.",
+        "@type": "Answer",
+        "description": "Project duration depends on material and area size; a small room might take 1-2 days, while larger or more complex projects can take a week or more."
+      }
+    }
+  ],
+  "description": "Project duration depends on material and area size; a small room might take 1-2 days, while larger or more complex projects can take a week or more."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-door-installation-typically-take",
+  "name": "How long does door installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does door installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of door installation varies based on the type of door and complexity of the project. A standard pre-hung interior door replacement might take a few hours, while a new exterior entry door installation, especially one requiring frame adjustments or structural modifications, could take a full day. Projects involving multiple doors or custom framing will naturally require more time. We provide an estimated timeline during the initial consultation, ensuring you are aware of the schedule before work begins.",
+        "@type": "Answer",
+        "description": "Installation time varies: a standard interior door might take a few hours, while an exterior door or custom project could take a full day or longer."
+      }
+    }
+  ],
+  "description": "Installation time varies: a standard interior door might take a few hours, while an exterior door or custom project could take a full day or longer."
+}

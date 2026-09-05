@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/are-there-any-rebates-or-incentives-for-insulation-upgrades-in-california",
+  "name": "Are there any rebates or incentives for insulation upgrades in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any rebates or incentives for insulation upgrades in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners in California may be eligible for energy efficiency rebates or incentives when upgrading their insulation. Programs like those offered by utility companies (e.g., Southern California Edison, SoCalGas) or statewide initiatives can provide financial assistance. These often require using licensed contractors and specific R-value improvements. Eligibility criteria and available incentives can change, so we recommend checking current programs. Our team can help guide you on potential opportunities relevant to your location, such as Yorba Linda or Orange, and advise on documentation needed for applications.",
+        "@type": "Answer",
+        "description": "California homeowners may find rebates or incentives from utility companies or state programs for insulation upgrades; eligibility varies."
+      }
+    }
+  ],
+  "description": "California homeowners may find rebates or incentives from utility companies or state programs for insulation upgrades; eligibility varies."
+}

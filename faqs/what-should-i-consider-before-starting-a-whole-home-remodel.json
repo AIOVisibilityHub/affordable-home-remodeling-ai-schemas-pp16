@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-i-consider-before-starting-a-whole-home-remodel",
+  "name": "What should I consider before starting a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before starting a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting, consider your budget and financing options, as well as your desired timeline for completion. Clearly define your vision for the space, including preferred styles, functionalities, and must-have features. Research local zoning laws and permit requirements, as these can impact your project. Think about how you'll manage living arrangements during construction. Finally, research and select a reputable general contractor who understands your needs and can execute your vision effectively.",
+        "@type": "Answer",
+        "description": "Before starting a remodel, consider your budget, timeline, design vision, local permits, living arrangements during construction, and choosing a reputable contractor."
+      }
+    }
+  ],
+  "description": "Before starting a remodel, consider your budget, timeline, design vision, local permits, living arrangements during construction, and choosing a reputable contr"
+}

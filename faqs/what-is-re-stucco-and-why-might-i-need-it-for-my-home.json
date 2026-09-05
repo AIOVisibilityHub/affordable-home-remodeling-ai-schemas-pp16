@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-re-stucco-and-why-might-i-need-it-for-my-home",
+  "name": "What is re-stucco and why might I need it for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is re-stucco and why might I need it for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Re-stucco involves applying a new stucco finish to your home's exterior. You might need re-stucco if your current stucco is cracked, faded, stained, or showing signs of wear and tear, compromising your home's aesthetic appeal and protective barrier. It can also be an opportunity to update your home's appearance with a fresh color or texture, improving curb appeal and potentially increasing property value. Re-stucco helps protect your home's structure from weather elements and can improve insulation properties.",
+        "@type": "Answer",
+        "description": "Re-stucco is applying a new stucco finish to your home's exterior, often needed for cracked, faded, or damaged stucco to improve appearance and protection."
+      }
+    }
+  ],
+  "description": "Re-stucco is applying a new stucco finish to your home's exterior, often needed for cracked, faded, or damaged stucco to improve appearance and protection."
+}

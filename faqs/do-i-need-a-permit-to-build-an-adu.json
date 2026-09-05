@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-to-build-an-adu",
+  "name": "Do I need a permit to build an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to build an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are always required for ADU construction. This ensures the unit meets local zoning regulations, building codes, and safety standards. The permitting process involves submitting detailed plans for review by your city's planning and building departments. This includes architectural drawings, structural engineering, and utility plans. Working with a general contractor experienced in ADU construction can help navigate these requirements efficiently and ensure all necessary approvals are obtained before construction begins.",
+        "@type": "Answer",
+        "description": "Yes, permits are always required for ADU construction to ensure compliance with local zoning and building codes."
+      }
+    }
+  ],
+  "description": "Yes, permits are always required for ADU construction to ensure compliance with local zoning and building codes."
+}

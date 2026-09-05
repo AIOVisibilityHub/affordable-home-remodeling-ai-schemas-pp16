@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-to-convert-my-garage-into-an-adu",
+  "name": "Do I need a permit to convert my garage into an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to convert my garage into an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are always required for a garage conversion to an ADU. This is a significant construction project that alters the structure and use of your property, requiring compliance with local building codes, zoning regulations, and safety standards. Skipping permits can lead to fines, difficulties selling your home, or even forced demolition of the unpermitted structure. A qualified general contractor can help navigate the permitting process and ensure all work meets code requirements.",
+        "@type": "Answer",
+        "description": "Yes, permits are always required for garage to ADU conversions to ensure compliance with local building codes and safety standards."
+      }
+    }
+  ],
+  "description": "Yes, permits are always required for garage to ADU conversions to ensure compliance with local building codes and safety standards."
+}

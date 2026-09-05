@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-factors-influence-the-cost-of-a-custom-home-renovation",
+  "name": "What factors influence the cost of a custom home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a custom home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several key factors influence the cost of a custom home renovation. These include the size and scope of the project, the quality and type of materials selected (e.g., standard vs. high-end finishes), the complexity of design changes, and any necessary structural modifications. Labor costs, permit fees, and potential unforeseen issues (like discovering outdated electrical or plumbing) also contribute to the overall budget. A detailed estimate is provided after design finalization.",
+        "@type": "Answer",
+        "description": "Cost is influenced by project size, material choices, design complexity, labor, permits, and potential unforeseen issues."
+      }
+    }
+  ],
+  "description": "Cost is influenced by project size, material choices, design complexity, labor, permits, and potential unforeseen issues."
+}

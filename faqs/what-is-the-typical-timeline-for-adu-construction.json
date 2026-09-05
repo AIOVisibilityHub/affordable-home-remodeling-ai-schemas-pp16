@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-adu-construction",
+  "name": "What is the typical timeline for ADU construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for ADU construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for ADU construction typically involves several phases. Design and permitting can take 3 to 6 months, depending on local planning department workloads and the complexity of the design. Actual construction usually ranges from 4 to 8 months, again varying with the ADU's size, type, and specific site conditions. Overall, homeowners can expect a total project duration from initial design to final completion of about 7 to 14 months. Unexpected site conditions or material delays can extend these estimates.",
+        "@type": "Answer",
+        "description": "Total ADU construction typically takes 7 to 14 months, including 3-6 months for design and permits, and 4-8 months for construction."
+      }
+    }
+  ],
+  "description": "Total ADU construction typically takes 7 to 14 months, including 3-6 months for design and permits, and 4-8 months for construction."
+}

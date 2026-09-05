@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-roofing-materials-are-available-for-residential-homes",
+  "name": "What types of roofing materials are available for residential homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roofing materials are available for residential homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Residential roofing offers a range of materials, each with distinct benefits. Asphalt shingles are popular for their affordability and versatility. Tile roofs, including clay and concrete, offer durability and a distinctive aesthetic. Metal roofing provides longevity and energy efficiency. Other options include wood shakes, slate, and various flat roofing systems for low-slope areas. Your choice depends on budget, climate, and desired appearance.",
+        "@type": "Answer",
+        "description": "Common materials include asphalt shingles, tile, metal, and wood shakes, each offering different benefits."
+      }
+    }
+  ],
+  "description": "Common materials include asphalt shingles, tile, metal, and wood shakes, each offering different benefits."
+}

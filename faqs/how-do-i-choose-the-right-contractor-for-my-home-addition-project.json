@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-my-home-addition-project",
+  "name": "How do I choose the right contractor for my home addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my home addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for a home addition involves several steps. Start by requesting bids from multiple licensed and insured contractors. Review their portfolios, focusing on similar projects they have completed. Check references from past clients and verify their licenses with the Contractors State License Board (CSLB). Ensure they are familiar with local building codes and permitting processes in your area, such as Irvine or Yorba Linda. A reputable contractor will provide a detailed contract, clear communication, and a realistic project timeline and budget. Trust and clear communication are paramount.",
+        "@type": "Answer",
+        "description": "Choose a contractor by reviewing licenses, insurance, portfolios, references, and ensuring they have local experience and provide detailed contracts and clear communication."
+      }
+    }
+  ],
+  "description": "Choose a contractor by reviewing licenses, insurance, portfolios, references, and ensuring they have local experience and provide detailed contracts and clear c"
+}

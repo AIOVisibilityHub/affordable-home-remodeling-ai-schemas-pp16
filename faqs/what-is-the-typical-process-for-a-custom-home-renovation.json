@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-process-for-a-custom-home-renovation",
+  "name": "What is the typical process for a custom home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a custom home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical custom home renovation begins with an initial consultation to discuss your vision, needs, and budget. This is followed by design development, where plans and material selections are finalized. Once designs are approved, permits are secured. Construction then commences, involving demolition, framing, plumbing, electrical, and finishing work. Regular communication and site visits keep you informed throughout. The project concludes with a final walkthrough to ensure all aspects meet your satisfaction and quality standards.",
+        "@type": "Answer",
+        "description": "The process includes consultation, design, permitting, construction, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "The process includes consultation, design, permitting, construction, and a final walkthrough."
+}

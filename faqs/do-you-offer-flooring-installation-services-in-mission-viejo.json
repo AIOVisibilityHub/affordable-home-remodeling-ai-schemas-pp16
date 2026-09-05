@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-you-offer-flooring-installation-services-in-mission-viejo",
+  "name": "Do you offer flooring installation services in Mission Viejo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer flooring installation services in Mission Viejo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we proudly offer comprehensive flooring installation services throughout Mission Viejo, as well as Huntington Beach, Irvine, Orange, and Yorba Linda. Our team is familiar with the local area and committed to providing high-quality craftsmanship and customer service. Whether you're looking for new hardwood, tile, or LVP for a home renovation or a commercial project, we are equipped to handle your needs. Contact us to schedule a free consultation for your Mission Viejo property.",
+        "@type": "Answer",
+        "description": "Yes, we offer flooring installation services in Mission Viejo, along with Huntington Beach, Irvine, Orange, and Yorba Linda. Contact us for a consultation."
+      }
+    }
+  ],
+  "description": "Yes, we offer flooring installation services in Mission Viejo, along with Huntington Beach, Irvine, Orange, and Yorba Linda. Contact us for a consultation."
+}

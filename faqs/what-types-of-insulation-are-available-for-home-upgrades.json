@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-insulation-are-available-for-home-upgrades",
+  "name": "What types of insulation are available for home upgrades?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of insulation are available for home upgrades?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several types of insulation are commonly used for home upgrades, each with unique properties. Blown-in fiberglass or cellulose is popular for attics and wall cavities due to its excellent coverage and R-value. Spray foam insulation offers superior air sealing and high R-value, ideal for hard-to-reach areas. Rigid foam boards are often used for exterior walls, basements, or cathedral ceilings. Our team can help you choose the best material based on your home's structure, existing insulation, and budget, ensuring optimal performance for your specific needs.",
+        "@type": "Answer",
+        "description": "Common types include blown-in fiberglass/cellulose, spray foam, and rigid foam boards. Each type offers different benefits for various applications."
+      }
+    }
+  ],
+  "description": "Common types include blown-in fiberglass/cellulose, spray foam, and rigid foam boards. Each type offers different benefits for various applications."
+}

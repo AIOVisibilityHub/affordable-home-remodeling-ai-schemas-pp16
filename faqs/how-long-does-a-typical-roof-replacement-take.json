@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-roof-replacement-take",
+  "name": "How long does a typical roof replacement take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof replacement take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof replacement project varies depending on several factors, including the size and complexity of your roof, the type of roofing materials chosen, and weather conditions. For an average-sized home, a complete asphalt shingle roof replacement typically takes 1 to 3 days. More complex projects or those involving different materials like tile or metal may take longer. We always aim to complete projects efficiently while maintaining high quality standards.",
+        "@type": "Answer",
+        "description": "Most roof replacements take 1 to 3 days for an average home, depending on roof size, complexity, materials, and weather."
+      }
+    }
+  ],
+  "description": "Most roof replacements take 1 to 3 days for an average home, depending on roof size, complexity, materials, and weather."
+}

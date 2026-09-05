@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-materials-are-available-for-exterior-doors-and-which-is-best",
+  "name": "What materials are available for exterior doors, and which is best?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are available for exterior doors, and which is best?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common exterior door materials include steel, fiberglass, and wood. Steel doors are durable, secure, and energy-efficient, offering good value. Fiberglass doors are low-maintenance, resistant to dents and rot, and can mimic the look of wood. Wood doors provide a classic aesthetic and can be customized, but require more maintenance and are generally more expensive. The 'best' material depends on your priorities regarding budget, security, insulation, aesthetic preference, and maintenance requirements.",
+        "@type": "Answer",
+        "description": "Steel offers durability and security, fiberglass provides low maintenance and energy efficiency, while wood offers classic aesthetics and customization. The best choice depends on your needs."
+      }
+    }
+  ],
+  "description": "Steel offers durability and security, fiberglass provides low maintenance and energy efficiency, while wood offers classic aesthetics and customization. The bes"
+}

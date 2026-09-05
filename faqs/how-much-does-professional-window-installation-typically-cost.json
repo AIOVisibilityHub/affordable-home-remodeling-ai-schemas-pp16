@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-professional-window-installation-typically-cost",
+  "name": "How much does professional window installation typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does professional window installation typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional window installation varies widely based on several factors, including the type and material of the windows (e.g., vinyl, wood, fiberglass), their size, the number of windows being replaced, and the complexity of the installation. For example, custom-sized or specialty windows like bay or casement can be more expensive than standard double-hung vinyl windows. Labor costs also contribute, which can differ based on your location and the specific installation requirements. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Window installation costs depend on window type, material, size, number of windows, and installation complexity. Custom or specialty windows typically cost more."
+      }
+    }
+  ],
+  "description": "Window installation costs depend on window type, material, size, number of windows, and installation complexity. Custom or specialty windows typically cost more"
+}

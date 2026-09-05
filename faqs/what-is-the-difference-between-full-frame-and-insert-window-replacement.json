@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-full-frame-and-insert-window-replacement",
+  "name": "What is the difference between full-frame and insert window replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between full-frame and insert window replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Full-frame replacement involves removing the entire old window, including the frame, sash, and exterior trim, down to the rough opening. This allows for inspection of the wall cavity, repair of any rot, and installation of a brand-new window unit. Insert replacement, also known as 'pocket' replacement, involves installing a new window frame directly into the existing, structurally sound frame. Insert replacement is generally quicker and less disruptive but doesn't allow for structural repairs or changes to the window opening size.",
+        "@type": "Answer",
+        "description": "Full-frame replacement involves removing the entire old window and frame, while insert replacement installs a new window into the existing frame, saving time but limiting structural access."
+      }
+    }
+  ],
+  "description": "Full-frame replacement involves removing the entire old window and frame, while insert replacement installs a new window into the existing frame, saving time bu"
+}
