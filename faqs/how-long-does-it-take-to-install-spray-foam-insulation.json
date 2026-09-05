@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-install-spray-foam-insulation",
+  "name": "How long does it take to install spray foam insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install spray foam insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for spray foam insulation varies based on the size of the area being insulated, its accessibility, and the complexity of the job. For an average-sized home's attic or walls, the application itself might take one to two days. However, this doesn't include prep work or the necessary curing time, which requires occupants to be away from the property, usually for 24-48 hours. A detailed estimate specific to your project can be provided after an assessment.",
+        "@type": "Answer",
+        "description": "Installation typically takes 1-2 days for an average home, plus a 24-48 hour curing period when occupants must vacate the property."
+      }
+    }
+  ],
+  "description": "Installation typically takes 1-2 days for an average home, plus a 24-48 hour curing period when occupants must vacate the property."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-replace-a-front-door",
+  "name": "How long does it take to replace a front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The actual installation of a new front door can often be completed within a single day, typically taking 4 to 8 hours for a standard replacement. However, the overall process, from initial consultation and material selection to manufacturing and delivery, can take several weeks, depending on the door's customization and supplier lead times. We work to minimize disruption and communicate timelines clearly.",
+        "@type": "Answer",
+        "description": "Installation often takes 4-8 hours. The overall process, including selection and delivery, can take several weeks."
+      }
+    }
+  ],
+  "description": "Installation often takes 4-8 hours. The overall process, including selection and delivery, can take several weeks."
+}

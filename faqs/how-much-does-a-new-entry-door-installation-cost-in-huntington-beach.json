@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-a-new-entry-door-installation-cost-in-huntington-beach",
+  "name": "How much does a new entry door installation cost in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a new entry door installation cost in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new entry door installation in Huntington Beach varies widely based on several factors, including the door material, style, brand, and any necessary modifications to the existing frame or opening. A basic steel door might be on the lower end, while a custom-designed fiberglass or solid wood door with decorative glass can be significantly more expensive. Installation labor costs also depend on the complexity of the job. For an accurate estimate tailored to your home in Huntington Beach, we recommend scheduling a free consultation. This allows us to assess your specific needs and provide a detailed quote.",
+        "@type": "Answer",
+        "description": "Entry door installation costs in Huntington Beach depend on material, style, brand, and frame modifications. A consultation provides a custom quote."
+      }
+    }
+  ],
+  "description": "Entry door installation costs in Huntington Beach depend on material, style, brand, and frame modifications. A consultation provides a custom quote."
+}

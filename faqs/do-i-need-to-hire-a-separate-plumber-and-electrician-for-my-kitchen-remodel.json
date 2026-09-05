@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-hire-a-separate-plumber-and-electrician-for-my-kitchen-remodel",
+  "name": "Do I need to hire a separate plumber and electrician for my kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire a separate plumber and electrician for my kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, when you work with a general contractor for a kitchen remodel, you do not need to hire separate plumbers or electricians. As a full-service contractor, we manage all necessary trades, including licensed plumbers and electricians, who are part of our team or trusted subcontractors. This ensures a seamless project, proper coordination, and compliance with local building codes. We handle all scheduling and oversight so you have a single point of contact for the entire project, simplifying the remodeling experience.",
+        "@type": "Answer",
+        "description": "No, a general contractor typically manages all necessary trades like plumbers and electricians, providing a single point of contact for your remodel."
+      }
+    }
+  ],
+  "description": "No, a general contractor typically manages all necessary trades like plumbers and electricians, providing a single point of contact for your remodel."
+}

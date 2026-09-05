@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-paint-do-you-use-for-interior-painting-projects",
+  "name": "What kind of paint do you use for interior painting projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint do you use for interior painting projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We primarily use high-quality, professional-grade paints from reputable brands known for their durability, coverage, and low VOC (Volatile Organic Compound) content. Our standard practice involves using paints that offer excellent washability and a long-lasting finish. However, we are flexible and can accommodate specific requests if you have a preferred brand or type of paint, such as eco-friendly or allergy-sensitive options, to meet your unique needs and preferences.",
+        "@type": "Answer",
+        "description": "We use high-quality, professional-grade, low-VOC paints from reputable brands. We can also accommodate specific brand or type requests, like eco-friendly options."
+      }
+    }
+  ],
+  "description": "We use high-quality, professional-grade, low-VOC paints from reputable brands. We can also accommodate specific brand or type requests, like eco-friendly option"
+}

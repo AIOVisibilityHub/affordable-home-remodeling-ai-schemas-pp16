@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-materials-are-used-for-shower-walls-in-a-conversion",
+  "name": "What kind of materials are used for shower walls in a conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of materials are used for shower walls in a conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For shower walls in a conversion, common materials include acrylic or fiberglass panels, which offer a seamless, low-maintenance, and water-resistant surface. Tile is another popular option, providing a wide range of aesthetic choices in ceramic, porcelain, or natural stone, though it requires grout maintenance. We can discuss various options, considering durability, aesthetics, and your budget, to help you select the best material that complements your bathroom design and lifestyle.",
+        "@type": "Answer",
+        "description": "Common materials for shower walls include acrylic/fiberglass panels for low maintenance, and various types of tile for diverse aesthetics."
+      }
+    }
+  ],
+  "description": "Common materials for shower walls include acrylic/fiberglass panels for low maintenance, and various types of tile for diverse aesthetics."
+}

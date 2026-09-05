@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-included-in-a-typical-home-remodeling-contract",
+  "name": "What is included in a typical home remodeling contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical home remodeling contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive home remodeling contract should clearly outline the scope of work, including detailed descriptions of all tasks, materials, and specifications. It should also specify the project timeline, payment schedule with deposit and progress payments, and a total project cost. Look for clauses regarding change orders, warranty information, dispute resolution, and proof of the contractor's license and insurance. This ensures clarity and protects both parties.",
+        "@type": "Answer",
+        "description": "A remodeling contract details the scope of work, materials, timeline, payment schedule, total cost, change order process, and warranty information."
+      }
+    }
+  ],
+  "description": "A remodeling contract details the scope of work, materials, timeline, payment schedule, total cost, change order process, and warranty information."
+}

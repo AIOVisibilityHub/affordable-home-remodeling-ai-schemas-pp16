@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/are-walk-in-showers-safe-for-seniors-or-people-with-mobility-issues",
+  "name": "Are walk-in showers safe for seniors or people with mobility issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are walk-in showers safe for seniors or people with mobility issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Walk-in showers are highly beneficial for seniors and individuals with mobility issues due to their barrier-free or low-curb entry, significantly reducing the risk of falls associated with stepping over a high tub edge. They can be further enhanced with safety features such as non-slip flooring, grab bars, and built-in or portable bench seats. This design promotes independence and ease of use, making the bathroom a safer and more accessible space for everyone. We specialize in designing accessible bathroom solutions.",
+        "@type": "Answer",
+        "description": "Yes, walk-in showers enhance safety for seniors and those with mobility issues by eliminating high entry barriers. Features like non-slip floors and grab bars add further security."
+      }
+    }
+  ],
+  "description": "Yes, walk-in showers enhance safety for seniors and those with mobility issues by eliminating high entry barriers. Features like non-slip floors and grab bars a"
+}

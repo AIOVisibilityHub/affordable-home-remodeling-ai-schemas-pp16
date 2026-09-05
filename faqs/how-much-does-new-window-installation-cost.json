@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-new-window-installation-cost",
+  "name": "How much does new window installation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does new window installation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of new window installation varies significantly based on factors like window type, frame material, size, energy efficiency features, and the number of windows. Installation complexity also plays a role. We provide detailed estimates after an on-site consultation to assess your specific needs and recommend options that fit your budget and home. This ensures transparency and accuracy for your project.",
+        "@type": "Answer",
+        "description": "New window installation costs vary based on window type, material, size, and installation complexity. We provide detailed estimates after an on-site consultation."
+      }
+    }
+  ],
+  "description": "New window installation costs vary based on window type, material, size, and installation complexity. We provide detailed estimates after an on-site consultatio"
+}

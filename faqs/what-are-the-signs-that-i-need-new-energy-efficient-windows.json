@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-that-i-need-new-energy-efficient-windows",
+  "name": "What are the signs that I need new energy-efficient windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that I need new energy-efficient windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several indicators suggest it might be time to replace your windows with more energy-efficient models. Common signs include noticeable drafts around windows, difficulty opening or closing them, condensation between glass panes, and peeling paint or warped frames. Additionally, if your energy bills for heating or cooling are unusually high, or if some rooms in your home are consistently colder or warmer than others, old inefficient windows could be a major contributing factor. Upgrading can address these issues and improve your home's comfort and energy performance.",
+        "@type": "Answer",
+        "description": "Signs you need new energy-efficient windows include drafts, condensation between panes, difficulty operating, high energy bills, and inconsistent room temperatures."
+      }
+    }
+  ],
+  "description": "Signs you need new energy-efficient windows include drafts, condensation between panes, difficulty operating, high energy bills, and inconsistent room temperatu"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-process-for-cabinet-painting",
+  "name": "What is the typical process for cabinet painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for cabinet painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our cabinet painting process involves several key steps to ensure a durable and aesthetically pleasing finish. First, we carefully remove cabinet doors and drawers, then thoroughly clean and degrease all surfaces. Next, we prepare the surfaces by sanding and applying a high-quality primer to ensure proper adhesion. After priming, we apply multiple coats of a professional-grade paint, specifically designed for cabinetry, with light sanding between coats for smoothness. Finally, we reassemble and reinstall all cabinets, ensuring proper alignment and function, leaving your kitchen refreshed.",
+        "@type": "Answer",
+        "description": "The cabinet painting process includes removal, cleaning, sanding, priming, multiple paint coats, and reinstallation for a lasting finish."
+      }
+    }
+  ],
+  "description": "The cabinet painting process includes removal, cleaning, sanding, priming, multiple paint coats, and reinstallation for a lasting finish."
+}

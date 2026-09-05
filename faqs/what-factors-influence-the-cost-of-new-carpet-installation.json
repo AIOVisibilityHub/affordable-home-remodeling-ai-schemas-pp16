@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-factors-influence-the-cost-of-new-carpet-installation",
+  "name": "What factors influence the cost of new carpet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of new carpet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The total cost of carpet installation is influenced by several factors. These include the quality and type of carpet chosen, the square footage of the area, and any required subfloor repairs or preparation. Additional costs might involve old carpet removal and disposal, moving furniture, and stair installation. We provide detailed estimates tailored to your specific project.",
+        "@type": "Answer",
+        "description": "Carpet installation costs depend on carpet type, area size, subfloor preparation, old carpet removal, and labor for stairs or furniture moving."
+      }
+    }
+  ],
+  "description": "Carpet installation costs depend on carpet type, area size, subfloor preparation, old carpet removal, and labor for stairs or furniture moving."
+}

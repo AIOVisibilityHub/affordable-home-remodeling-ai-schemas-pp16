@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-underlayment-and-why-is-it-important-for-tile-roof-repair",
+  "name": "What is 'underlayment' and why is it important for tile roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'underlayment' and why is it important for tile roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Underlayment is a crucial waterproof or water-resistant barrier installed directly onto the roof deck, beneath the tiles. It acts as a secondary layer of protection against water intrusion, especially if a tile is broken or dislodged. During tile roof repair, inspecting and often replacing damaged sections of underlayment is vital. A compromised underlayment means that even perfectly installed tiles may not prevent leaks, making its condition a key factor in a watertight roof system.",
+        "@type": "Answer",
+        "description": "Underlayment is the waterproof layer beneath tiles; it's critical for preventing leaks, especially when tiles are damaged."
+      }
+    }
+  ],
+  "description": "Underlayment is the waterproof layer beneath tiles; it's critical for preventing leaks, especially when tiles are damaged."
+}

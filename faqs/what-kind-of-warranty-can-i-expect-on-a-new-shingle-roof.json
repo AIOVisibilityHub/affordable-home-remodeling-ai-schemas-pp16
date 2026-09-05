@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-warranty-can-i-expect-on-a-new-shingle-roof",
+  "name": "What kind of warranty can I expect on a new shingle roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty can I expect on a new shingle roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new shingle roof typically comes with two types of warranties: a manufacturer's warranty for the roofing materials and a contractor's warranty for the installation workmanship. Manufacturer warranties often range from 20 years to lifetime, covering defects in the shingles. Contractor warranties usually cover labor for a shorter period, often 5 to 10 years. It's important to understand the terms and conditions of both warranties before committing to a project.",
+        "@type": "Answer",
+        "description": "Expect a manufacturer's warranty for materials (20 years to lifetime) and a contractor's warranty for workmanship (5-10 years)."
+      }
+    }
+  ],
+  "description": "Expect a manufacturer's warranty for materials (20 years to lifetime) and a contractor's warranty for workmanship (5-10 years)."
+}

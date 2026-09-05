@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-live-in-my-home-during-a-kitchen-renovation",
+  "name": "Can I live in my home during a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many homeowners do live in their homes during a kitchen renovation, but it requires careful planning and patience. Expect disruption, noise, dust, and limited access to your kitchen area. Your contractor should help set up a temporary kitchen space with essential appliances like a microwave and a mini-fridge. It's important to discuss the work schedule and communication plan with your contractor to minimize inconvenience. For very extensive remodels, some homeowners opt for temporary accommodation.",
+        "@type": "Answer",
+        "description": "Yes, you can often live in your home during a kitchen renovation, but expect disruption and plan for a temporary kitchen setup."
+      }
+    }
+  ],
+  "description": "Yes, you can often live in your home during a kitchen renovation, but expect disruption and plan for a temporary kitchen setup."
+}

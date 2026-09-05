@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-attic-insulation-are-available",
+  "name": "What types of attic insulation are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of attic insulation are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several types of attic insulation are commonly used. Fiberglass batt insulation comes in pre-cut panels or rolls and is a popular choice for its cost-effectiveness. Blown-in fiberglass or cellulose insulation is excellent for filling irregular spaces and achieving a seamless thermal barrier. Spray foam insulation offers superior air sealing and a high R-value per inch but is typically a more premium option. The best choice for your home in areas like Yorba Linda depends on your attic's structure, existing insulation, and budget.",
+        "@type": "Answer",
+        "description": "Common types include fiberglass batts, blown-in fiberglass or cellulose, and spray foam. Each offers different benefits in terms of cost and performance."
+      }
+    }
+  ],
+  "description": "Common types include fiberglass batts, blown-in fiberglass or cellulose, and spray foam. Each offers different benefits in terms of cost and performance."
+}

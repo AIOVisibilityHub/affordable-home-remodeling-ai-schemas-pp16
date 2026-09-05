@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-my-windows-need-to-be-replaced",
+  "name": "How do I know if my windows need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my windows need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that indicate your windows might need replacement include drafts, difficulty opening or closing them, condensation between glass panes, increased energy bills, and visible damage like rotting frames or cracked glass. Older single-pane windows are generally less energy-efficient and may warrant an upgrade. Replacing windows can improve comfort, reduce noise, and enhance your home's curb appeal and value.",
+        "@type": "Answer",
+        "description": "Look for drafts, condensation between panes, difficulty operating, or rising energy bills. These signs often indicate windows should be replaced."
+      }
+    }
+  ],
+  "description": "Look for drafts, condensation between panes, difficulty operating, or rising energy bills. These signs often indicate windows should be replaced."
+}

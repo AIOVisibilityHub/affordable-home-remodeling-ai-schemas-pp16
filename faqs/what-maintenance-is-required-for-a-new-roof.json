@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-maintenance-is-required-for-a-new-roof",
+  "name": "What maintenance is required for a new roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a new roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even new roofs benefit from periodic maintenance to maximize their lifespan. This typically involves annual inspections to check for any loose or damaged shingles, clear gutters and downspouts of debris, and trim overhanging branches. Promptly addressing any minor issues, such as small leaks or damaged flashing, can prevent more significant problems. Regular cleaning of moss or algae growth, especially in damp areas, can also help maintain your roof's integrity and appearance.",
+        "@type": "Answer",
+        "description": "New roofs require annual inspections to check for damage, clear gutters, and trim branches. Promptly address minor issues to extend roof life."
+      }
+    }
+  ],
+  "description": "New roofs require annual inspections to check for damage, clear gutters, and trim branches. Promptly address minor issues to extend roof life."
+}

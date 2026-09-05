@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-tile-are-best-for-flooring",
+  "name": "What types of tile are best for flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of tile are best for flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common tile types for flooring include ceramic, porcelain, natural stone (like marble, granite, or travertine), and luxury vinyl tile (LVT). Ceramic and porcelain are durable, water-resistant, and available in many styles, suitable for kitchens, bathrooms, and high-traffic areas. Natural stone offers a unique, luxurious look but requires more maintenance and can be more expensive. LVT provides a wood or stone aesthetic with greater resilience and comfort underfoot.",
+        "@type": "Answer",
+        "description": "Popular tile types for flooring are ceramic, porcelain, natural stone, and luxury vinyl tile (LVT). Each offers different aesthetics, durability, and maintenance requirements suitable for various spaces."
+      }
+    }
+  ],
+  "description": "Popular tile types for flooring are ceramic, porcelain, natural stone, and luxury vinyl tile (LVT). Each offers different aesthetics, durability, and maintenanc"
+}

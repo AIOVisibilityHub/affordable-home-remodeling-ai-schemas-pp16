@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-paint-kitchen-cabinets",
+  "name": "How long does it take to paint kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to paint kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a cabinet painting project varies based on the size of your kitchen, the number of cabinets, and the complexity of the desired finish. On average, most kitchen cabinet painting projects in areas like Huntington Beach or Irvine take approximately 3 to 7 business days from start to finish. This timeframe accounts for the necessary prep work, drying times between coats, and careful reinstallation. We aim to minimize disruption while ensuring a high-quality, lasting result.",
+        "@type": "Answer",
+        "description": "Cabinet painting typically takes 3 to 7 business days, depending on kitchen size and complexity, to allow for prep, painting, and drying."
+      }
+    }
+  ],
+  "description": "Cabinet painting typically takes 3 to 7 business days, depending on kitchen size and complexity, to allow for prep, painting, and drying."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-s-the-difference-between-vinyl-wood-and-aluminum-window-frames",
+  "name": "What's the difference between vinyl, wood, and aluminum window frames?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between vinyl, wood, and aluminum window frames?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Vinyl windows are low-maintenance, energy-efficient, and generally the most affordable. Wood windows offer classic aesthetics and excellent insulation but require more maintenance and are typically more expensive. Aluminum frames are durable and slender, ideal for modern designs, but offer less insulation than vinyl or wood and can be prone to condensation.",
+        "@type": "Answer",
+        "description": "Vinyl is affordable and energy-efficient. Wood offers classic style and insulation but requires maintenance. Aluminum is durable and modern but less insulating."
+      }
+    }
+  ],
+  "description": "Vinyl is affordable and energy-efficient. Wood offers classic style and insulation but requires maintenance. Aluminum is durable and modern but less insulating."
+}

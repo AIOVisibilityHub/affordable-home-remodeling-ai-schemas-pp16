@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-replacing-old-windows-with-new-ones",
+  "name": "What is the process for replacing old windows with new ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing old windows with new ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation and measurement, followed by ordering custom windows. Once the windows arrive, our team carefully removes the old windows, prepares the openings, and installs the new units, ensuring proper sealing and insulation. We then finish the trim work, clean up the site, and conduct a final inspection with you to ensure satisfaction.",
+        "@type": "Answer",
+        "description": "The window replacement process involves consultation, measurement, custom ordering, removal of old windows, installation of new ones, and a final inspection."
+      }
+    }
+  ],
+  "description": "The window replacement process involves consultation, measurement, custom ordering, removal of old windows, installation of new ones, and a final inspection."
+}

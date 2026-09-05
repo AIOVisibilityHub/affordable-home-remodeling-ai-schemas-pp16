@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-replacing-my-front-door",
+  "name": "What are the benefits of replacing my front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of replacing my front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing your front door can offer several advantages, including improved energy efficiency due to better insulation and sealing, enhanced home security from modern locking systems and durable materials, and a significant boost to your home's curb appeal. A new door can also increase natural light if it includes glass panels and reduce noise transfer from outside. Over time, these benefits can contribute to increased property value and a more comfortable living environment.",
+        "@type": "Answer",
+        "description": "Benefits include improved energy efficiency, enhanced security, better curb appeal, and increased home value."
+      }
+    }
+  ],
+  "description": "Benefits include improved energy efficiency, enhanced security, better curb appeal, and increased home value."
+}

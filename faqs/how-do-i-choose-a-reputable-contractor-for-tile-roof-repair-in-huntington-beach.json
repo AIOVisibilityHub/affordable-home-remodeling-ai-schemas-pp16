@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-reputable-contractor-for-tile-roof-repair-in-huntington-beach",
+  "name": "How do I choose a reputable contractor for tile roof repair in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable contractor for tile roof repair in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for tile roof repair in Huntington Beach, look for companies with specific experience in tile roofing. Check their licensing, insurance, and local references or reviews to verify their reputation. Request detailed written estimates that outline the scope of work, materials, and warranty information. A reputable contractor will also provide a thorough inspection and clear communication about the repair process and expected timeline for your specific property.",
+        "@type": "Answer",
+        "description": "Choose a contractor with tile roofing experience, proper licensing, insurance, strong local references, and clear, written estimates."
+      }
+    }
+  ],
+  "description": "Choose a contractor with tile roofing experience, proper licensing, insurance, strong local references, and clear, written estimates."
+}

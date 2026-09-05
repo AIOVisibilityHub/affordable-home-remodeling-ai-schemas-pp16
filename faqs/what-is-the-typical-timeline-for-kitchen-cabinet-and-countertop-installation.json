@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-kitchen-cabinet-and-countertop-installation",
+  "name": "What is the typical timeline for kitchen cabinet and countertop installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for kitchen cabinet and countertop installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for kitchen cabinet and countertop installation typically ranges from 3 to 8 weeks, but can vary. Custom cabinet orders take the longest, often 4-6 weeks for manufacturing alone. Once cabinets are installed, countertop templates are usually made, followed by fabrication and installation, which can take an additional 1-2 weeks. Factors like material availability, complexity of the design, and contractor scheduling can influence the overall duration. We provide a detailed project schedule at the start of every remodel.",
+        "@type": "Answer",
+        "description": "Installation typically takes 3 to 8 weeks, depending on cabinet type (custom vs. stock) and countertop material lead times."
+      }
+    }
+  ],
+  "description": "Installation typically takes 3 to 8 weeks, depending on cabinet type (custom vs. stock) and countertop material lead times."
+}

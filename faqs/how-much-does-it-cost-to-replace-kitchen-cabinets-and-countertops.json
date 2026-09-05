@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-it-cost-to-replace-kitchen-cabinets-and-countertops",
+  "name": "How much does it cost to replace kitchen cabinets and countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace kitchen cabinets and countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace kitchen cabinets and countertops varies significantly based on material selection, kitchen size, and labor. Custom cabinets can be much more expensive than semi-custom or stock options. Similarly, high-end countertop materials like exotic granite or premium quartz will cost more than laminate or basic solid surface. Installation complexity also plays a role. A general estimate for a full kitchen remodel involving both can range from $15,000 to $50,000 or more, depending on your choices. We provide detailed, itemized quotes after an initial consultation.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on materials, kitchen size, and labor. Estimates can range from $15,000 to over $50,000 for a full replacement."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on materials, kitchen size, and labor. Estimates can range from $15,000 to over $50,000 for a full replacement."
+}

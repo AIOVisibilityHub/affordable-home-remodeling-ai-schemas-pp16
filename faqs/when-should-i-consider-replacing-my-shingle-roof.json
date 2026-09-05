@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-replacing-my-shingle-roof",
+  "name": "When should I consider replacing my shingle roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my shingle roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your shingle roof when it shows signs of significant wear, such as widespread curling, cracking, missing shingles, or granules in your gutters. Other indicators include persistent leaks, moss or algae growth, and if your roof is nearing its typical lifespan of 20-25 years for asphalt shingles. A professional inspection can accurately determine if a replacement is necessary or if repairs are sufficient.",
+        "@type": "Answer",
+        "description": "Consider replacement for widespread damage like curling, cracking, missing shingles, persistent leaks, or if your roof is over 20 years old."
+      }
+    }
+  ],
+  "description": "Consider replacement for widespread damage like curling, cracking, missing shingles, persistent leaks, or if your roof is over 20 years old."
+}

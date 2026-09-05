@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-be-included-in-a-home-remodeling-contract",
+  "name": "What should be included in a home remodeling contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should be included in a home remodeling contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive home remodeling contract should clearly outline the project scope, detailed specifications for materials and finishes, the total cost, and a clear payment schedule. It should also include a project timeline with start and completion dates, provisions for change orders, and details about warranties. Essential clauses cover liability insurance, permits, dispute resolution, and cleanup procedures. Reviewing the contract thoroughly and ensuring all your expectations are documented is critical before signing.",
+        "@type": "Answer",
+        "description": "A contract should include project scope, costs, payment schedule, timeline, materials, warranties, and clauses for change orders and insurance."
+      }
+    }
+  ],
+  "description": "A contract should include project scope, costs, payment schedule, timeline, materials, warranties, and clauses for change orders and insurance."
+}

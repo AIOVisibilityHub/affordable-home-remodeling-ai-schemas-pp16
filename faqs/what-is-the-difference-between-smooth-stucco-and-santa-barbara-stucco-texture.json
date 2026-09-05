@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-smooth-stucco-and-santa-barbara-stucco-texture",
+  "name": "What is the difference between smooth stucco and Santa Barbara stucco texture?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between smooth stucco and Santa Barbara stucco texture?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Smooth stucco provides a uniform, flat surface with minimal variations, offering a modern and clean aesthetic. Santa Barbara stucco, also known as skip trowel, features a more organic, hand-troweled look with subtle imperfections and varying depths, giving it a classic, old-world charm. While smooth stucco aims for consistency, Santa Barbara celebrates texture and artisanal craftsmanship. Both offer distinct visual appeals, suitable for different architectural styles. The choice often comes down to the homeowner's desired architectural style and preference for either sleekness or character.",
+        "@type": "Answer",
+        "description": "Smooth stucco is uniform and flat, while Santa Barbara stucco has an organic, hand-troweled look with subtle imperfections for a classic appeal."
+      }
+    }
+  ],
+  "description": "Smooth stucco is uniform and flat, while Santa Barbara stucco has an organic, hand-troweled look with subtle imperfections for a classic appeal."
+}

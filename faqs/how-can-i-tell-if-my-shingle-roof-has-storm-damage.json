@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-can-i-tell-if-my-shingle-roof-has-storm-damage",
+  "name": "How can I tell if my shingle roof has storm damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if my shingle roof has storm damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of storm damage on a shingle roof can include missing, cracked, or bruised shingles, often caused by hail or strong winds. Look for granule loss, which may appear as bald spots on shingles or granules accumulating in gutters. Other indicators are bent or dented flashing, damaged gutters, or leaks inside your home after a storm. It's advisable to have a professional inspection if you suspect storm damage, as some signs may not be visible from the ground.",
+        "@type": "Answer",
+        "description": "Look for missing, cracked, or bruised shingles, granule loss, bent flashing, or new leaks after a storm to identify damage."
+      }
+    }
+  ],
+  "description": "Look for missing, cracked, or bruised shingles, granule loss, bent flashing, or new leaks after a storm to identify damage."
+}

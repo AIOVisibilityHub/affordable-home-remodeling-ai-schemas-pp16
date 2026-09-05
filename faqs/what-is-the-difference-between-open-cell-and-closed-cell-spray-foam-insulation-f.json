@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-open-cell-and-closed-cell-spray-foam-insulation-f",
+  "name": "What is the difference between open-cell and closed-cell spray foam insulation for walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between open-cell and closed-cell spray foam insulation for walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Open-cell and closed-cell spray foam are two distinct types of insulation. Open-cell foam is softer and more flexible, with a lower R-value per inch, and primarily functions as an air barrier. It's often more affordable and can allow moisture to pass through. Closed-cell foam is denser, more rigid, and has a higher R-value per inch, acting as both an air and vapor barrier. It also adds structural integrity to walls. The choice depends on specific needs for R-value, moisture control, and structural support.",
+        "@type": "Answer",
+        "description": "Open-cell foam is softer, lower R-value, and an air barrier. Closed-cell foam is denser, higher R-value, and acts as an air and vapor barrier, offering structural support."
+      }
+    }
+  ],
+  "description": "Open-cell foam is softer, lower R-value, and an air barrier. Closed-cell foam is denser, higher R-value, and acts as an air and vapor barrier, offering structur"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-granite-and-quartz-countertops",
+  "name": "What is the difference between granite and quartz countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between granite and quartz countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Granite and quartz are both popular countertop materials but differ significantly. Granite is a natural stone, quarried from the earth, and each slab is unique in pattern and color. It's highly durable and heat-resistant but is porous and requires periodic sealing to prevent stains. Quartz, on the other hand, is an engineered stone made from ground quartz crystals (about 90-95%) mixed with resins and pigments. It's non-porous, highly resistant to stains and scratches, and doesn't require sealing. Quartz offers more consistent patterns and a wider range of colors than natural granite.",
+        "@type": "Answer",
+        "description": "Granite is a natural, porous stone requiring sealing. Quartz is an engineered, non-porous material that is highly stain-resistant and doesn't require sealing."
+      }
+    }
+  ],
+  "description": "Granite is a natural, porous stone requiring sealing. Quartz is an engineered, non-porous material that is highly stain-resistant and doesn't require sealing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-installation-process-for-energy-efficient-windows",
+  "name": "What is the installation process for energy-efficient windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for energy-efficient windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our window installation process typically begins with a free in-home consultation to discuss your needs and provide a detailed estimate. Once you approve the project, we'll schedule a convenient installation date. On installation day, our team carefully removes your old windows and prepares the openings. New energy-efficient windows are then precisely fitted, leveled, and sealed to ensure maximum performance and weather resistance. We use high-quality flashing and insulation to prevent air and water leaks. Finally, we clean up the work area thoroughly and conduct a final walkthrough with you to ensure your satisfaction.",
+        "@type": "Answer",
+        "description": "The process involves consultation, old window removal, new window fitting and sealing, and a final walkthrough to ensure proper installation and satisfaction."
+      }
+    }
+  ],
+  "description": "The process involves consultation, old window removal, new window fitting and sealing, and a final walkthrough to ensure proper installation and satisfaction."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-a-walk-in-shower",
+  "name": "What is a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower is a shower enclosure that typically has no curb or a very low one, allowing for easy entry and exit without stepping over a barrier. They often feature a frameless glass design or an open concept, creating a spacious and modern feel in the bathroom. The design can incorporate various styles, from minimalist to luxurious, and can be customized with features like bench seats, multiple shower heads, and specialized tile work. It’s a popular choice for both aesthetic appeal and enhanced accessibility.",
+        "@type": "Answer",
+        "description": "A walk-in shower is a barrier-free or low-curb shower design, offering easy access and a modern aesthetic. They are customizable and can enhance accessibility in a bathroom."
+      }
+    }
+  ],
+  "description": "A walk-in shower is a barrier-free or low-curb shower design, offering easy access and a modern aesthetic. They are customizable and can enhance accessibility i"
+}

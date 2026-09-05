@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-laminate-flooring-be-installed-over-existing-tile-or-concrete",
+  "name": "Can laminate flooring be installed over existing tile or concrete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can laminate flooring be installed over existing tile or concrete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, laminate flooring can often be installed over existing tile or concrete, provided the surface is clean, dry, level, and structurally sound. For concrete, a moisture barrier is usually required to prevent moisture migration. If the existing tile has significant grout lines or unevenness, a self-leveling compound may be needed to create a smooth surface, which is crucial for proper laminate installation and preventing future issues. Proper subfloor preparation is key to ensuring the longevity and performance of your new laminate floor.",
+        "@type": "Answer",
+        "description": "Yes, laminate can be installed over existing tile or concrete if the surface is clean, dry, level, and structurally sound. A moisture barrier is often needed for concrete."
+      }
+    }
+  ],
+  "description": "Yes, laminate can be installed over existing tile or concrete if the surface is clean, dry, level, and structurally sound. A moisture barrier is often needed fo"
+}

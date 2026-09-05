@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-spray-foam-insulation-and-how-does-it-work",
+  "name": "What is spray foam insulation and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is spray foam insulation and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Spray foam insulation is a type of insulation applied as a liquid that expands and hardens into an insulating layer. It creates an airtight seal, filling cracks and crevices, which significantly reduces air leakage in and out of your home. This barrier helps maintain consistent indoor temperatures, reducing the workload on your HVAC system and potentially lowering energy bills. It's an effective solution for attics, walls, crawl spaces, and rim joists, providing both thermal resistance and a moisture barrier.",
+        "@type": "Answer",
+        "description": "Spray foam insulation is a liquid applied product that expands to create an airtight, insulating barrier, reducing air leakage and improving energy efficiency."
+      }
+    }
+  ],
+  "description": "Spray foam insulation is a liquid applied product that expands to create an airtight, insulating barrier, reducing air leakage and improving energy efficiency."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-i-look-for-in-a-contractor-s-insurance-and-licensing",
+  "name": "What should I look for in a contractor's insurance and licensing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a contractor's insurance and licensing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When evaluating a contractor, ensure they hold a valid state license for general contracting, which confirms they meet professional standards. Crucially, they should carry both general liability insurance and workers' compensation insurance. General liability protects you from damages to your property or injuries to third parties during the project. Workers' compensation covers injuries to the contractor's employees, preventing you from being held liable. Always ask for proof of current coverage and verify it with the issuing insurance companies.",
+        "@type": "Answer",
+        "description": "Look for a contractor with a valid state license, general liability insurance to cover property damage or injuries, and workers' compensation insurance for their employees."
+      }
+    }
+  ],
+  "description": "Look for a contractor with a valid state license, general liability insurance to cover property damage or injuries, and workers' compensation insurance for thei"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-open-cell-and-closed-cell-spray-foam",
+  "name": "What is the difference between open-cell and closed-cell spray foam?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between open-cell and closed-cell spray foam?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Open-cell spray foam is a less dense, more flexible material with a spongy texture, allowing air to fill its open cells. It's effective for sound dampening and fills cavities well, but has a lower R-value per inch and is vapor-permeable. Closed-cell spray foam is much denser and more rigid, with its cells completely closed. It offers a higher R-value per inch, acts as a vapor barrier, and can add structural integrity. The choice depends on the application, climate, and desired R-value and moisture control.",
+        "@type": "Answer",
+        "description": "Open-cell foam is less dense, flexible, good for sound, with a lower R-value. Closed-cell foam is denser, rigid, provides higher R-value, and acts as a vapor barrier."
+      }
+    }
+  ],
+  "description": "Open-cell foam is less dense, flexible, good for sound, with a lower R-value. Closed-cell foam is denser, rigid, provides higher R-value, and acts as a vapor ba"
+}

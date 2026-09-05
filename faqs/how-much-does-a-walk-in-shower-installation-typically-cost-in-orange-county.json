@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-a-walk-in-shower-installation-typically-cost-in-orange-county",
+  "name": "How much does a walk-in shower installation typically cost in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a walk-in shower installation typically cost in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a walk-in shower installation in Orange County varies significantly based on several factors. These include the size of the shower, the type of materials chosen for tiling and fixtures, whether a complete bathroom remodel is needed, and any structural modifications. Simple conversions from existing tubs can start lower, while custom designs with high-end materials, intricate tile work, or relocation of plumbing lines will be higher. We provide detailed, transparent quotes after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Costs for walk-in shower installation in Orange County vary based on size, materials, and complexity. A full assessment provides an accurate quote."
+      }
+    }
+  ],
+  "description": "Costs for walk-in shower installation in Orange County vary based on size, materials, and complexity. A full assessment provides an accurate quote."
+}

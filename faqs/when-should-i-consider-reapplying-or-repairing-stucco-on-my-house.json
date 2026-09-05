@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-reapplying-or-repairing-stucco-on-my-house",
+  "name": "When should I consider reapplying or repairing stucco on my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider reapplying or repairing stucco on my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider reapplying or repairing stucco if you notice significant cracks, crumbling, discolored patches, or areas where the stucco is detaching from the wall. Minor hairline cracks can often be patched, but extensive damage or widespread moisture intrusion issues usually indicate a need for more substantial repair or a complete reapplication. Addressing these issues promptly is important to prevent further water damage to your home's structure. Regular inspection can help identify problems early.",
+        "@type": "Answer",
+        "description": "Reapply or repair stucco if you see significant cracks, crumbling, discoloration, or detachment to prevent water damage and maintain your home's exterior."
+      }
+    }
+  ],
+  "description": "Reapply or repair stucco if you see significant cracks, crumbling, discoloration, or detachment to prevent water damage and maintain your home's exterior."
+}

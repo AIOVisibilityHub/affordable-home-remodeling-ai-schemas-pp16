@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-move-out-during-my-home-renovation",
+  "name": "Do I need to move out during my home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out during my home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to move out during a home renovation depends on the scope and invasiveness of the project. For extensive remodels, such as whole-house renovations, major kitchen or bathroom overhauls that impact essential utilities, or projects creating significant dust and noise, temporarily relocating might be advisable for comfort and safety. For smaller projects like a single room refresh, staying in your home is often feasible.",
+        "@type": "Answer",
+        "description": "Moving out during a renovation depends on the project's scope and impact on essential utilities; smaller projects often allow you to stay."
+      }
+    }
+  ],
+  "description": "Moving out during a renovation depends on the project's scope and impact on essential utilities; smaller projects often allow you to stay."
+}

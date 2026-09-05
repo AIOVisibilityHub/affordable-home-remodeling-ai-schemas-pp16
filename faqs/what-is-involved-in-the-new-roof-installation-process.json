@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-the-new-roof-installation-process",
+  "name": "What is involved in the new roof installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the new roof installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The new roof installation process typically begins with protecting your property and removing the old roofing materials down to the deck. Next, any necessary repairs to the roof deck are made. Then, a waterproof underlayment is installed, followed by flashing around chimneys and vents. Finally, the new roofing material is applied according to manufacturer specifications. Our team ensures proper cleanup and disposal of all debris once the installation is complete.",
+        "@type": "Answer",
+        "description": "The process includes old roof removal, deck repair, underlayment installation, flashing, new material application, and site cleanup."
+      }
+    }
+  ],
+  "description": "The process includes old roof removal, deck repair, underlayment installation, flashing, new material application, and site cleanup."
+}

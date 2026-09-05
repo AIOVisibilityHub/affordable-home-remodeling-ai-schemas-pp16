@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-carpet-installation-process",
+  "name": "What is the carpet installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the carpet installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The carpet installation process typically begins with preparing the subfloor, which may involve cleaning, repairing, or leveling. Next, tack strips are installed around the room's perimeter, and padding is laid down and secured. The new carpet is then unrolled, cut to size, stretched tight, and secured onto the tack strips. Finally, seams are sealed, and edges are trimmed for a finished look. We ensure a precise and efficient installation.",
+        "@type": "Answer",
+        "description": "Carpet installation involves subfloor preparation, installing tack strips and padding, laying and stretching the carpet, then trimming and finishing."
+      }
+    }
+  ],
+  "description": "Carpet installation involves subfloor preparation, installing tack strips and padding, laying and stretching the carpet, then trimming and finishing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-install-a-new-roof-over-my-existing-one",
+  "name": "Can I install a new roof over my existing one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a new roof over my existing one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a new roof over an existing one, known as a 'layover' or 're-cover,' is sometimes permissible but often not recommended. This method can save on tear-off costs but may void warranties, add excessive weight to your structure, and hide underlying damage. Local building codes often limit this practice, usually allowing only one re-cover over original shingles. A full tear-off and replacement generally ensures better long-term performance and allows for proper inspection of the roof deck.",
+        "@type": "Answer",
+        "description": "While sometimes allowed, installing a new roof over an old one is generally not recommended as it can hide damage, void warranties, and add weight. A full tear-off is usually best."
+      }
+    }
+  ],
+  "description": "While sometimes allowed, installing a new roof over an old one is generally not recommended as it can hide damage, void warranties, and add weight. A full tear-"
+}

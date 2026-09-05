@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-steps-are-involved-in-preparing-a-house-for-exterior-painting",
+  "name": "What steps are involved in preparing a house for exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in preparing a house for exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper preparation is crucial for a lasting paint job. Our process typically includes power washing to remove dirt and mildew, scraping loose or peeling paint, sanding rough areas, and repairing minor cracks or holes in stucco or wood. We also caulk gaps around windows and trim, and prime any bare wood or patched areas. This meticulous preparation ensures optimal adhesion and a smooth, durable finish that protects your home effectively.",
+        "@type": "Answer",
+        "description": "Preparation involves power washing, scraping loose paint, sanding, repairing cracks, caulking, and priming to ensure a smooth and lasting finish."
+      }
+    }
+  ],
+  "description": "Preparation involves power washing, scraping loose paint, sanding, repairing cracks, caulking, and priming to ensure a smooth and lasting finish."
+}

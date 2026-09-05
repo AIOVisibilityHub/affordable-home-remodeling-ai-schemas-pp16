@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-you-offer-carpet-installation-services-in-huntington-beach-and-irvine",
+  "name": "Do you offer carpet installation services in Huntington Beach and Irvine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer carpet installation services in Huntington Beach and Irvine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we proudly offer comprehensive carpet installation services in Huntington Beach, Irvine, and surrounding areas. Our local team understands the specific needs and styles popular in these communities. We handle everything from material selection to professional installation, ensuring a seamless and satisfactory experience for homeowners in these cities.",
+        "@type": "Answer",
+        "description": "Yes, we provide full carpet installation services in Huntington Beach, Irvine, and neighboring communities, tailored to local homeowner needs."
+      }
+    }
+  ],
+  "description": "Yes, we provide full carpet installation services in Huntington Beach, Irvine, and neighboring communities, tailored to local homeowner needs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-my-tub-to-shower-conversion",
+  "name": "How do I choose the right contractor for my tub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my tub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your tub-to-shower conversion, look for a general contractor with specific experience in bathroom remodeling and conversions. Check their portfolio, read customer reviews, and ensure they are licensed and insured in California. A reputable contractor will provide a clear, detailed estimate, explain the process thoroughly, and be transparent about timelines and materials. Choose someone who communicates well and understands your vision for the project.",
+        "@type": "Answer",
+        "description": "Choose a licensed and insured contractor with bathroom remodeling experience, good reviews, clear estimates, and strong communication skills."
+      }
+    }
+  ],
+  "description": "Choose a licensed and insured contractor with bathroom remodeling experience, good reviews, clear estimates, and strong communication skills."
+}

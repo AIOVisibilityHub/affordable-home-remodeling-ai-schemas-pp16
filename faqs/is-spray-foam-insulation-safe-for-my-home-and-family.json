@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/is-spray-foam-insulation-safe-for-my-home-and-family",
+  "name": "Is spray foam insulation safe for my home and family?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is spray foam insulation safe for my home and family?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When properly installed by certified professionals, spray foam insulation is safe. During the application process, the area must be cleared, and occupants should remain out of the home for a specified period, typically 24-48 hours, to allow for the curing process and proper ventilation. Once cured, spray foam is inert and does not off-gas harmful chemicals. Choosing an experienced contractor ensures correct application, adherence to safety protocols, and effective ventilation, mitigating any potential risks.",
+        "@type": "Answer",
+        "description": "When installed correctly by professionals and properly cured, spray foam insulation is safe. Occupants must vacate during application and for a specified period afterwards."
+      }
+    }
+  ],
+  "description": "When installed correctly by professionals and properly cured, spray foam insulation is safe. Occupants must vacate during application and for a specified period"
+}

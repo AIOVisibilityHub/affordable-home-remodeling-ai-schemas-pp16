@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-factors-influence-the-cost-of-tile-roof-repair",
+  "name": "What factors influence the cost of tile roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of tile roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of tile roof repair, including the type of tiles (e.g., clay, concrete, terracotta), the extent of the damage, and the accessibility of the affected area. The need for underlayment replacement, flashing repair, or structural work also impacts the price. Material costs for matching existing tiles and labor rates for skilled roofers in the Orange County area are also key components of the overall cost.",
+        "@type": "Answer",
+        "description": "Cost factors include tile type, damage extent, accessibility, need for underlayment or flashing repair, and local labor rates."
+      }
+    }
+  ],
+  "description": "Cost factors include tile type, damage extent, accessibility, need for underlayment or flashing repair, and local labor rates."
+}

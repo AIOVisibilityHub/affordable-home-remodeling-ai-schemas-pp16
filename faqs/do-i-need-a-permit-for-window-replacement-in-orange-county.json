@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-window-replacement-in-orange-county",
+  "name": "Do I need a permit for window replacement in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for window replacement in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building codes and permit requirements for window replacement can vary by city and specific project details within Orange County, California. Minor replacements often don't require a permit, especially if the opening size isn't changed. However, for significant structural alterations or new openings, a permit is typically necessary. We can help clarify specific requirements for your location and project.",
+        "@type": "Answer",
+        "description": "Permit requirements vary in Orange County based on the city and project scope; minor replacements may not need one, but structural changes usually do."
+      }
+    }
+  ],
+  "description": "Permit requirements vary in Orange County based on the city and project scope; minor replacements may not need one, but structural changes usually do."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-new-attic-insulation-help-with-indoor-air-quality",
+  "name": "Will new attic insulation help with indoor air quality?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will new attic insulation help with indoor air quality?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the primary function of attic insulation is thermal regulation, it can indirectly contribute to better indoor air quality. By properly sealing air leaks in the attic floor before insulating, fewer outdoor pollutants, allergens, and dust can infiltrate your living spaces through gaps and cracks. This air sealing, combined with a good ventilation strategy, helps prevent moisture issues that could lead to mold or mildew growth, which directly impacts indoor air quality. It's a key part of creating a healthier home environment.",
+        "@type": "Answer",
+        "description": "New attic insulation, especially with proper air sealing, can indirectly improve indoor air quality by reducing infiltration of outdoor pollutants and preventing moisture issues."
+      }
+    }
+  ],
+  "description": "New attic insulation, especially with proper air sealing, can indirectly improve indoor air quality by reducing infiltration of outdoor pollutants and preventin"
+}

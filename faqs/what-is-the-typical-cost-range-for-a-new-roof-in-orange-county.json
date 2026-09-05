@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-range-for-a-new-roof-in-orange-county",
+  "name": "What is the typical cost range for a new roof in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a new roof in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new roof in Orange County varies significantly depending on material choice, roof size, pitch, and accessibility. Asphalt shingle roofs generally fall into a lower price range, while metal or tile roofs are a higher investment but offer greater longevity. Additional costs may arise from old roof removal, necessary structural repairs, or upgraded underlayment. We provide detailed, transparent quotes after a thorough on-site assessment to give you an accurate estimate.",
+        "@type": "Answer",
+        "description": "New roof costs in Orange County depend on material, size, and complexity. Asphalt shingles are more affordable, while metal or tile are higher but last longer. We provide detailed quotes after inspection."
+      }
+    }
+  ],
+  "description": "New roof costs in Orange County depend on material, size, and complexity. Asphalt shingles are more affordable, while metal or tile are higher but last longer."
+}

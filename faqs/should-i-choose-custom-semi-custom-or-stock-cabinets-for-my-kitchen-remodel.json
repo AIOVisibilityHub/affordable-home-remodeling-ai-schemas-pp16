@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/should-i-choose-custom-semi-custom-or-stock-cabinets-for-my-kitchen-remodel",
+  "name": "Should I choose custom, semi-custom, or stock cabinets for my kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose custom, semi-custom, or stock cabinets for my kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between custom, semi-custom, and stock cabinets depends on your budget, design flexibility needs, and timeline. Stock cabinets are the most affordable and readily available, but offer limited sizes and styles. Semi-custom cabinets provide more options in terms of sizes, finishes, and accessories, allowing for a more tailored look without the full custom price. Custom cabinets offer limitless design possibilities, precise fit for unique spaces, and specialized features, but are the most expensive and have the longest lead times. We can help you weigh these options based on your specific project goals.",
+        "@type": "Answer",
+        "description": "Stock cabinets are affordable with limited options. Semi-custom offer more choices at a mid-range price. Custom provides ultimate flexibility but is the most expensive."
+      }
+    }
+  ],
+  "description": "Stock cabinets are affordable with limited options. Semi-custom offer more choices at a mid-range price. Custom provides ultimate flexibility but is the most ex"
+}

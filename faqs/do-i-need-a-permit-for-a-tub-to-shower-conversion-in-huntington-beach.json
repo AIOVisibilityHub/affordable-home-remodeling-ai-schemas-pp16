@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-a-tub-to-shower-conversion-in-huntington-beach",
+  "name": "Do I need a permit for a tub-to-shower conversion in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a tub-to-shower conversion in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in Huntington Beach and most other Orange County cities, a permit is typically required for a tub-to-shower conversion, especially if it involves altering plumbing lines or structural changes. Securing the necessary permits ensures that the work complies with local building codes and safety regulations. Our team handles the permit application process for you, ensuring all work is done legally and to code, giving you peace of mind throughout the project.",
+        "@type": "Answer",
+        "description": "Yes, a permit is generally required in Huntington Beach for tub-to-shower conversions, especially with plumbing alterations. We handle the permit process."
+      }
+    }
+  ],
+  "description": "Yes, a permit is generally required in Huntington Beach for tub-to-shower conversions, especially with plumbing alterations. We handle the permit process."
+}

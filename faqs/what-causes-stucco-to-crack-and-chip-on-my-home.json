@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-causes-stucco-to-crack-and-chip-on-my-home",
+  "name": "What causes stucco to crack and chip on my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes stucco to crack and chip on my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco cracking and chipping are commonly caused by a variety of factors. Minor hairline cracks often result from normal house settling or temperature fluctuations. More significant cracks can indicate moisture intrusion, improper installation, or structural movement within the building. Impact damage, prolonged exposure to extreme weather, or an inadequate substrate can also lead to stucco deterioration over time. Identifying the underlying cause is crucial for selecting the most effective repair method.",
+        "@type": "Answer",
+        "description": "Stucco cracks and chips are often due to house settling, temperature changes, moisture intrusion, improper installation, or impact damage. Understanding the cause helps determine the correct repair."
+      }
+    }
+  ],
+  "description": "Stucco cracks and chips are often due to house settling, temperature changes, moisture intrusion, improper installation, or impact damage. Understanding the cau"
+}

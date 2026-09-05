@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-convert-my-tub-into-a-walk-in-shower",
+  "name": "Can I convert my tub into a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my tub into a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting your tub into a walk-in shower is a common and popular request. This often involves replacing the tub with a low-threshold or curbless shower pan, which provides easier access and a sleek, modern look. We can design and install a walk-in shower that fits within your existing tub footprint or expand it if space allows. This upgrade significantly enhances accessibility and the contemporary feel of your bathroom.",
+        "@type": "Answer",
+        "description": "Yes, you can convert your tub into a walk-in shower, often with a low-threshold or curbless pan for easier access and a modern aesthetic."
+      }
+    }
+  ],
+  "description": "Yes, you can convert your tub into a walk-in shower, often with a low-threshold or curbless pan for easier access and a modern aesthetic."
+}

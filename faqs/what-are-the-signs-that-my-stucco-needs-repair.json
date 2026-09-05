@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-that-my-stucco-needs-repair",
+  "name": "What are the signs that my stucco needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my stucco needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key signs that your stucco needs repair include visible cracks, chipping, flaking, or crumbling areas. Discoloration, staining, or efflorescence (white powdery residue) can indicate moisture intrusion. Bulging or soft spots when pressed may suggest delamination or trapped moisture. If you notice mold or mildew growth on the stucco, especially near windows or doors, it's a strong indicator of water damage. Any of these signs warrant an inspection to prevent further deterioration and potential structural issues.",
+        "@type": "Answer",
+        "description": "Signs of stucco damage include cracks, chipping, flaking, discoloration, or efflorescence. Bulging or soft spots and mold growth also indicate a need for professional inspection and repair."
+      }
+    }
+  ],
+  "description": "Signs of stucco damage include cracks, chipping, flaking, discoloration, or efflorescence. Bulging or soft spots and mold growth also indicate a need for profes"
+}

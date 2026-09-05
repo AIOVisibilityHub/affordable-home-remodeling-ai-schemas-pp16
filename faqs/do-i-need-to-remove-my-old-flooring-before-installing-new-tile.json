@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-remove-my-old-flooring-before-installing-new-tile",
+  "name": "Do I need to remove my old flooring before installing new tile?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old flooring before installing new tile?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, existing flooring should be removed before new tile installation. This ensures a stable, flat subfloor for optimal tile adhesion and prevents issues like unevenness, cracking, or moisture problems. Installing new tile over old flooring can also raise the floor height, affecting doorways and transitions. Your contractor will assess the subfloor to determine if removal is necessary and prepare it properly for the new tile.",
+        "@type": "Answer",
+        "description": "Typically, old flooring should be removed to ensure a stable, flat subfloor for new tile. This prevents issues and ensures proper adhesion."
+      }
+    }
+  ],
+  "description": "Typically, old flooring should be removed to ensure a stable, flat subfloor for new tile. This prevents issues and ensures proper adhesion."
+}

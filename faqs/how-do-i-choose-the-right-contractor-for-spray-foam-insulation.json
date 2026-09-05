@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-spray-foam-insulation",
+  "name": "How do I choose the right contractor for spray foam insulation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for spray foam insulation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for spray foam insulation, prioritize experience and certifications. Look for contractors who specialize in spray foam and can demonstrate a deep understanding of proper application techniques, safety protocols, and building science. Verify they are licensed and insured. Ask for references and review examples of their previous work. A reputable contractor will provide a thorough inspection, explain the different types of foam, recommend the best solution for your home, and offer a clear, detailed estimate.",
+        "@type": "Answer",
+        "description": "Choose a contractor with specialized experience, proper certifications, licensing, and insurance. Ask for references and ensure they provide a detailed assessment and estimate for your home."
+      }
+    }
+  ],
+  "description": "Choose a contractor with specialized experience, proper certifications, licensing, and insurance. Ask for references and ensure they provide a detailed assessme"
+}

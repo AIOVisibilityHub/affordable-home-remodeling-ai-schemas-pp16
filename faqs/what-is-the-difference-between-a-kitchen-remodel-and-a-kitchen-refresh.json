@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-kitchen-remodel-and-a-kitchen-refresh",
+  "name": "What is the difference between a kitchen remodel and a kitchen refresh?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a kitchen remodel and a kitchen refresh?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen refresh typically involves cosmetic updates without changing the layout or major structures. This might include repainting cabinets, replacing hardware, updating light fixtures, or installing a new backsplash. It's a more budget-friendly option for a quick aesthetic uplift. A kitchen remodel, on the other hand, is a more extensive project that often involves changing the kitchen's layout, replacing all cabinets and countertops, upgrading appliances, and potentially relocating plumbing or electrical lines. Remodels offer a complete transformation and usually involve a larger investment.",
+        "@type": "Answer",
+        "description": "A kitchen refresh involves cosmetic updates without major structural changes, while a kitchen remodel is an extensive project that often changes the layout and replaces major components."
+      }
+    }
+  ],
+  "description": "A kitchen refresh involves cosmetic updates without major structural changes, while a kitchen remodel is an extensive project that often changes the layout and"
+}

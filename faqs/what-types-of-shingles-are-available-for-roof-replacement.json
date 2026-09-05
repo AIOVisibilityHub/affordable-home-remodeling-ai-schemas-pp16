@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-shingles-are-available-for-roof-replacement",
+  "name": "What types of shingles are available for roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of shingles are available for roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several types of shingles available for roof replacement, with asphalt shingles being the most common. These come in 3-tab, dimensional (architectural), and luxury styles, offering varying aesthetics and durability. Other options include wood shingles or shakes, metal shingles, and synthetic shingles, each with distinct advantages in terms of appearance, lifespan, and cost. Your choice depends on your budget, desired aesthetic, and local building codes.",
+        "@type": "Answer",
+        "description": "Common shingle types include asphalt (3-tab, dimensional, luxury), wood, metal, and synthetic, each offering different looks and durability."
+      }
+    }
+  ],
+  "description": "Common shingle types include asphalt (3-tab, dimensional, luxury), wood, metal, and synthetic, each offering different looks and durability."
+}

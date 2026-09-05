@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-per-square-foot-for-stucco-application-in-orange-county",
+  "name": "What is the average cost per square foot for stucco application in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost per square foot for stucco application in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of stucco application in Orange County, including areas like Yorba Linda and Mission Viejo, can vary significantly. Factors influencing the price include the type of stucco system (e.g., traditional three-coat, synthetic, or one-coat), the condition of the existing substrate, labor costs, and the complexity of the home's design. On average, you might expect to pay between $7 to $15 per square foot for materials and installation. It's best to obtain a detailed estimate tailored to your specific project for an accurate cost assessment.",
+        "@type": "Answer",
+        "description": "Average stucco application costs in Orange County range from $7 to $15 per square foot, varying by system type, substrate condition, labor, and home design."
+      }
+    }
+  ],
+  "description": "Average stucco application costs in Orange County range from $7 to $15 per square foot, varying by system type, substrate condition, labor, and home design."
+}

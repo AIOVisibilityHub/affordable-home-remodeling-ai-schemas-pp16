@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-energy-efficient-windows",
+  "name": "What are energy-efficient windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are energy-efficient windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Energy-efficient windows are designed to minimize heat transfer through the window glass and frame, helping to maintain comfortable indoor temperatures year-round. They typically feature multiple panes of glass (double or triple-pane), low-emissivity (Low-E) coatings, and inert gas fills like argon or krypton between the panes. These components work together to reduce heat loss in winter and heat gain in summer, leading to lower energy consumption for heating and cooling your home. The frame materials, such as vinyl, fiberglass, or wood, also contribute to the overall thermal performance.",
+        "@type": "Answer",
+        "description": "Energy-efficient windows minimize heat transfer using multiple panes, Low-E coatings, and gas fills to improve insulation and reduce energy bills."
+      }
+    }
+  ],
+  "description": "Energy-efficient windows minimize heat transfer using multiple panes, Low-E coatings, and gas fills to improve insulation and reduce energy bills."
+}

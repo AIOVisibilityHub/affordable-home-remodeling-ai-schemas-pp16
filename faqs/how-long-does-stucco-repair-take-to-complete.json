@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-stucco-repair-take-to-complete",
+  "name": "How long does stucco repair take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does stucco repair take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of stucco repair depends on the scope of the project. Small repairs, such as filling minor cracks, might take a few hours to a day. More extensive repairs involving larger patches, re-stuccoing sections, or addressing water damage can take several days to over a week. This timeline includes preparation, application of multiple coats (base and finish), and crucial drying/curing times between each layer. Weather conditions, particularly temperature and humidity, can also influence drying times and overall project length.",
+        "@type": "Answer",
+        "description": "Stucco repair duration varies: a few hours for minor cracks, several days to over a week for extensive damage. The process includes prep, multiple coat applications, and drying time, influenced by weather."
+      }
+    }
+  ],
+  "description": "Stucco repair duration varies: a few hours for minor cracks, several days to over a week for extensive damage. The process includes prep, multiple coat applicat"
+}

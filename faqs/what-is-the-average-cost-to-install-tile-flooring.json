@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-to-install-tile-flooring",
+  "name": "What is the average cost to install tile flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install tile flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of tile flooring installation varies widely based on factors such as the type of tile chosen, the area's square footage, subfloor preparation needed, and labor rates. Budget-friendly ceramic tiles might cost less per square foot installed, while intricate natural stone or complex patterns will be more expensive. It's best to get a detailed quote that includes materials, labor, and any necessary subfloor work for an accurate estimate specific to your project.",
+        "@type": "Answer",
+        "description": "Installation costs vary depending on tile type, area size, and subfloor preparation. Expect a range, with porcelain and ceramic generally more affordable than natural stone."
+      }
+    }
+  ],
+  "description": "Installation costs vary depending on tile type, area size, and subfloor preparation. Expect a range, with porcelain and ceramic generally more affordable than n"
+}

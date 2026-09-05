@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-kitchen-renovation-project-usually-take",
+  "name": "How long does a kitchen renovation project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen renovation project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen renovation project varies depending on its complexity and scale. A minor update, such as painting and replacing fixtures, might take 2-4 weeks. A mid-range renovation, involving new cabinets, countertops, and appliances, typically takes 6-10 weeks from demolition to completion. Extensive remodels that include layout changes, wall removal, or custom features can extend to 10-16 weeks or longer. Factors like material delivery times and unforeseen issues can also impact the timeline.",
+        "@type": "Answer",
+        "description": "Kitchen renovations typically take 2-16 weeks, depending on the project's complexity and scope, from minor updates to extensive remodels."
+      }
+    }
+  ],
+  "description": "Kitchen renovations typically take 2-16 weeks, depending on the project's complexity and scope, from minor updates to extensive remodels."
+}

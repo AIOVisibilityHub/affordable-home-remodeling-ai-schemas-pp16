@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-materials-are-available-for-front-doors",
+  "name": "What types of materials are available for front doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are available for front doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for front doors include steel, fiberglass, and wood. Steel doors are known for their durability, security, and energy efficiency, often being the most economical choice. Fiberglass doors offer excellent resistance to dents and rot, good insulation, and can mimic the look of wood. Wood doors provide a classic aesthetic and can be customized extensively but require more maintenance and are generally higher in cost.",
+        "@type": "Answer",
+        "description": "Front doors commonly come in steel, fiberglass, and wood, each offering different benefits regarding durability, security, and aesthetics."
+      }
+    }
+  ],
+  "description": "Front doors commonly come in steel, fiberglass, and wood, each offering different benefits regarding durability, security, and aesthetics."
+}

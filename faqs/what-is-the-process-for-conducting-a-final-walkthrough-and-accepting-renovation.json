@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-conducting-a-final-walkthrough-and-accepting-renovation",
+  "name": "What is the process for conducting a final walkthrough and accepting renovation work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for conducting a final walkthrough and accepting renovation work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The final walkthrough is your opportunity to inspect all completed renovation work with your general contractor. Check for any defects, incomplete tasks, or deviations from the agreed-upon plans. Test all new installations, such as appliances, electrical outlets, and plumbing fixtures, to ensure they function correctly. Document any issues with photos and notes. A punch list of items needing correction should be created. Final payment should typically be withheld until all punch list items are satisfactorily completed and addressed by the contractor.",
+        "@type": "Answer",
+        "description": "During the final walkthrough, inspect all work, test installations, and document any issues. Create a punch list for corrections, withholding final payment until completed."
+      }
+    }
+  ],
+  "description": "During the final walkthrough, inspect all work, test installations, and document any issues. Create a punch list for corrections, withholding final payment unti"
+}

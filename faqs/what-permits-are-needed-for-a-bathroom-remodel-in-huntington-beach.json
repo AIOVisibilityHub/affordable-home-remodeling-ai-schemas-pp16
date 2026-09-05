@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-needed-for-a-bathroom-remodel-in-huntington-beach",
+  "name": "What permits are needed for a bathroom remodel in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a bathroom remodel in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Huntington Beach, permits are typically required for bathroom remodels that involve structural changes, significant plumbing alterations, or electrical work. Cosmetic updates like painting or replacing a vanity usually do not require permits. However, relocating fixtures, moving walls, or installing a new shower pan will likely necessitate plumbing, electrical, and/or building permits. It is crucial to verify specific requirements with the City of Huntington Beach's building department or consult with your contractor, who can assist in navigating the permitting process to ensure compliance.",
+        "@type": "Answer",
+        "description": "Permits in Huntington Beach are generally needed for structural changes, significant plumbing, or electrical work in a bathroom remodel. Cosmetic changes usually don't require them. Your contractor can help navigate the process."
+      }
+    }
+  ],
+  "description": "Permits in Huntington Beach are generally needed for structural changes, significant plumbing, or electrical work in a bathroom remodel. Cosmetic changes usuall"
+}

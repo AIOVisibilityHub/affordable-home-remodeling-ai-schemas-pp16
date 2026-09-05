@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-paint-do-you-use-for-cabinets",
+  "name": "What kind of paint do you use for cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint do you use for cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For cabinet painting, we use durable, high-quality paints specifically formulated for cabinetry. These professional-grade products are typically either acrylic-urethane or alkyd-urethane blends, known for their excellent adhesion, resistance to chipping, and smooth, hard finish. Unlike standard wall paints, cabinet-specific paints offer superior durability and can withstand the daily wear and tear of a kitchen environment. We select paints that provide both an attractive appearance and long-lasting performance.",
+        "@type": "Answer",
+        "description": "We use durable, professional-grade acrylic-urethane or alkyd-urethane paints specifically formulated for cabinetry to ensure a hard, chip-resistant finish."
+      }
+    }
+  ],
+  "description": "We use durable, professional-grade acrylic-urethane or alkyd-urethane paints specifically formulated for cabinetry to ensure a hard, chip-resistant finish."
+}

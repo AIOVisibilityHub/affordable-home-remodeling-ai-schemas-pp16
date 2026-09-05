@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-colors-are-popular-for-kitchen-cabinets",
+  "name": "What colors are popular for kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What colors are popular for kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Popular colors for kitchen cabinets often include classic whites and off-whites, which offer a bright, timeless, and versatile look. Grays and greiges (a blend of gray and beige) are also highly sought after for their modern and sophisticated appeal. Additionally, deep blues, greens, and even black are becoming increasingly popular for statement islands or lower cabinets, adding a touch of drama and elegance. Ultimately, the best color complements your home's overall aesthetic and personal style.",
+        "@type": "Answer",
+        "description": "Popular cabinet colors include classic whites, off-whites, grays, and greiges. Deep blues, greens, and black are also trending for modern looks, depending on personal style."
+      }
+    }
+  ],
+  "description": "Popular cabinet colors include classic whites, off-whites, grays, and greiges. Deep blues, greens, and black are also trending for modern looks, depending on pe"
+}

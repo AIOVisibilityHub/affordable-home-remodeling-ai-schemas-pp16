@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-most-common-roofing-materials-for-new-installations",
+  "name": "What are the most common roofing materials for new installations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most common roofing materials for new installations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common roofing materials include asphalt shingles, which are affordable and versatile. Metal roofing offers superior durability and longevity, often lasting 40-70 years. Tile roofs, such as clay or concrete, provide excellent weather resistance and a distinct aesthetic, popular in Southern California. Wood shakes and synthetic materials are also available, each with unique benefits regarding appearance, cost, and lifespan. The best material depends on your budget, desired look, and local climate considerations.",
+        "@type": "Answer",
+        "description": "Asphalt shingles, metal, and tile (clay/concrete) are common. Each offers different benefits in terms of cost, durability, and appearance."
+      }
+    }
+  ],
+  "description": "Asphalt shingles, metal, and tile (clay/concrete) are common. Each offers different benefits in terms of cost, durability, and appearance."
+}

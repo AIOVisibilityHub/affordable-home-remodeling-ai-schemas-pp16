@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-you-offer-design-services-as-part-of-the-remodeling-process",
+  "name": "Do you offer design services as part of the remodeling process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer design services as part of the remodeling process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer design assistance to help bring your vision to life for your home remodeling project. Our team can work with you to refine your ideas, create functional layouts, select materials, and choose finishes that match your aesthetic and budget. Whether you have a clear plan or need guidance from scratch, we collaborate with you to develop a cohesive design plan before construction begins. This integrated approach ensures that the design is practical and achievable within the project's parameters.",
+        "@type": "Answer",
+        "description": "Yes, we offer design services to help clients with layouts, material selection, and overall aesthetic planning to bring their remodeling vision to life."
+      }
+    }
+  ],
+  "description": "Yes, we offer design services to help clients with layouts, material selection, and overall aesthetic planning to bring their remodeling vision to life."
+}

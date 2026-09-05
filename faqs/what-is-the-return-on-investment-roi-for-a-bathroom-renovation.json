@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-return-on-investment-roi-for-a-bathroom-renovation",
+  "name": "What is the return on investment (ROI) for a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the return on investment (ROI) for a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom renovation can offer a strong return on investment, particularly for mid-range remodels. While ROI varies based on location, market conditions, and the extent of the renovation, homeowners typically recoup a significant portion of their investment, often ranging from 60% to 70% or more, when selling their home. Updates that enhance functionality, aesthetics, and energy efficiency are particularly appealing to potential buyers. A modern, well-maintained bathroom can also increase a home's overall appeal and market value, making it an attractive upgrade.",
+        "@type": "Answer",
+        "description": "Bathroom renovations typically offer a strong return on investment, often recouping 60-70% or more of the cost upon resale, especially for mid-range remodels that enhance functionality and appeal."
+      }
+    }
+  ],
+  "description": "Bathroom renovations typically offer a strong return on investment, often recouping 60-70% or more of the cost upon resale, especially for mid-range remodels th"
+}

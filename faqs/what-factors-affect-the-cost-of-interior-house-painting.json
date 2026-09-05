@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-factors-affect-the-cost-of-interior-house-painting",
+  "name": "What factors affect the cost of interior house painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the cost of interior house painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of interior house painting. These include the total square footage to be painted, the height of the ceilings, the condition of the existing surfaces (requiring more prep like patching or sanding), the type and quality of paint chosen, and the number of colors used. Projects involving intricate trim work, multiple coats, or extensive repairs will also increase the overall cost. We provide detailed, transparent estimates tailored to your specific project.",
+        "@type": "Answer",
+        "description": "Cost factors include square footage, ceiling height, surface condition, paint quality, and complexity like trim work or multiple colors. Estimates are tailored to each project."
+      }
+    }
+  ],
+  "description": "Cost factors include square footage, ceiling height, surface condition, paint quality, and complexity like trim work or multiple colors. Estimates are tailored"
+}

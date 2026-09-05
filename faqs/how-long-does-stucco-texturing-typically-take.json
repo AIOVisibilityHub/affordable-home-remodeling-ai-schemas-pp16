@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-stucco-texturing-typically-take",
+  "name": "How long does stucco texturing typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does stucco texturing typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of stucco texturing depends on the size of the area, the complexity of the texture, and weather conditions. For a typical residential project, the texturing phase usually takes a few days to a week after the base coats have been applied and cured. This timeline includes preparation, application, and initial drying. Larger or more intricate projects may require more time. Your contractor can provide a more precise estimate after assessing your specific home.",
+        "@type": "Answer",
+        "description": "Stucco texturing typically takes a few days to a week for a residential project, depending on size, texture complexity, and weather."
+      }
+    }
+  ],
+  "description": "Stucco texturing typically takes a few days to a week for a residential project, depending on size, texture complexity, and weather."
+}

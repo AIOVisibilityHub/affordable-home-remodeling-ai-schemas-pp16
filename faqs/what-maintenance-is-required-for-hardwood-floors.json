@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-maintenance-is-required-for-hardwood-floors",
+  "name": "What maintenance is required for hardwood floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for hardwood floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining hardwood floors involves regular cleaning and protective measures to preserve their beauty and longevity. Daily or weekly care includes sweeping, vacuuming with a soft brush attachment, or dust mopping to remove dirt and grit. Use cleaning products specifically designed for hardwood floors, avoiding harsh chemicals or excessive water. Placing rugs in high-traffic areas and using furniture pads can prevent scratches. Periodic professional cleaning and re-finishing, when necessary, will keep your floors looking new.",
+        "@type": "Answer",
+        "description": "Maintain hardwood floors with regular sweeping, vacuuming, and specific cleaning products. Use rugs and furniture pads to prevent scratches."
+      }
+    }
+  ],
+  "description": "Maintain hardwood floors with regular sweeping, vacuuming, and specific cleaning products. Use rugs and furniture pads to prevent scratches."
+}

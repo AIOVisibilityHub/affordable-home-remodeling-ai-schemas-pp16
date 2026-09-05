@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-type-of-hardwood-for-my-home",
+  "name": "How do I choose the right type of hardwood for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of hardwood for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right hardwood involves considering several factors: traffic levels, desired aesthetic, and your budget. For high-traffic areas, durable woods like oak or maple are excellent choices. Consider the grain, color, and finish to match your home's style. Engineered hardwood is a good option for basements or areas with higher moisture. We recommend visiting our showroom or discussing your lifestyle with our experts to find the perfect hardwood that meets your functional and aesthetic needs.",
+        "@type": "Answer",
+        "description": "Consider traffic, aesthetic, and budget. Durable woods like oak suit high-traffic areas, and engineered wood is best for higher moisture rooms."
+      }
+    }
+  ],
+  "description": "Consider traffic, aesthetic, and budget. Durable woods like oak suit high-traffic areas, and engineered wood is best for higher moisture rooms."
+}

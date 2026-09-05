@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-install-a-new-roof-over-my-old-one",
+  "name": "Can I install a new roof over my old one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a new roof over my old one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In some cases, a new layer of shingles can be installed over an existing layer, but it's generally not recommended. This is known as a 're-roof.' While it can be a less expensive option initially, it adds significant weight to your roof structure, can mask underlying issues like rotting decking, and may void manufacturer warranties. Most building codes allow a maximum of two layers. A complete tear-off and replacement is almost always the better long-term solution, ensuring a solid foundation and proper inspection of the roof deck.",
+        "@type": "Answer",
+        "description": "Installing a new roof over an old one (re-roofing) is sometimes possible but generally not recommended due to added weight, potential hidden damage, and warranty issues. A full tear-off is usually better."
+      }
+    }
+  ],
+  "description": "Installing a new roof over an old one (re-roofing) is sometimes possible but generally not recommended due to added weight, potential hidden damage, and warrant"
+}

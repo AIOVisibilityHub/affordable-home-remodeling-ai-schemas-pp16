@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-a-new-front-door-improve-my-home-s-energy-efficiency",
+  "name": "Will a new front door improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a new front door improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a new front door can significantly improve your home's energy efficiency, especially if your current door is old, poorly insulated, or has air leaks. Modern doors, particularly those made of steel or fiberglass, often feature advanced insulation cores and weatherstripping to prevent heat loss in winter and heat gain in summer. Proper installation is crucial to ensure a tight seal and maximize energy savings, contributing to lower utility bills.",
+        "@type": "Answer",
+        "description": "A new, well-insulated front door with proper weatherstripping can significantly improve energy efficiency and reduce utility bills."
+      }
+    }
+  ],
+  "description": "A new, well-insulated front door with proper weatherstripping can significantly improve energy efficiency and reduce utility bills."
+}

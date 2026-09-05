@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-replacing-my-front-door",
+  "name": "When should I consider replacing my front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your front door if you notice signs of wear like cracks, rot, rust, or warping, which can compromise security and insulation. Drafts or difficulty operating the door (sticking, squeaking) also indicate potential issues. Furthermore, if you're looking to improve your home's energy efficiency, enhance its curb appeal, or boost security with newer technology, a replacement can be a worthwhile investment.",
+        "@type": "Answer",
+        "description": "Consider replacement if your door shows signs of damage, drafts, or if you want to improve security, efficiency, or curb appeal."
+      }
+    }
+  ],
+  "description": "Consider replacement if your door shows signs of damage, drafts, or if you want to improve security, efficiency, or curb appeal."
+}

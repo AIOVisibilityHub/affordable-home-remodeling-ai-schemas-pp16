@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-cabinet-painting-cost-in-the-orange-county-area",
+  "name": "How much does cabinet painting cost in the Orange County area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does cabinet painting cost in the Orange County area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of cabinet painting in the Orange County area, including cities like Orange, Yorba Linda, and Mission Viejo, varies based on several factors. These include the number of doors and drawer fronts, the complexity of the cabinet design, the current condition of the cabinets, and the type of finish desired. Generally, cabinet painting is a more affordable option than full cabinet replacement. We provide detailed, personalized estimates after an on-site consultation to accurately assess your specific project needs.",
+        "@type": "Answer",
+        "description": "Cabinet painting costs in Orange County depend on the number of cabinets, design complexity, and finish type. We offer personalized estimates after consultation."
+      }
+    }
+  ],
+  "description": "Cabinet painting costs in Orange County depend on the number of cabinets, design complexity, and finish type. We offer personalized estimates after consultation"
+}

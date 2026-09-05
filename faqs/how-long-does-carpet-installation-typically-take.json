@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-carpet-installation-typically-take",
+  "name": "How long does carpet installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does carpet installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of carpet installation depends on the size of the area, the type of carpet, and any necessary subfloor preparation. For an average-sized room, installation can often be completed in a single day. Larger projects or those requiring significant subfloor work may take longer. Our team will provide a more precise timeline after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Carpet installation for an average room typically takes one day, but larger projects may require more time depending on the scope."
+      }
+    }
+  ],
+  "description": "Carpet installation for an average room typically takes one day, but larger projects may require more time depending on the scope."
+}

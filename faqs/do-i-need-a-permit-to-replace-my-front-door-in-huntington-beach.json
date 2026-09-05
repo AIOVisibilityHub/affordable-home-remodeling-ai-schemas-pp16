@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-to-replace-my-front-door-in-huntington-beach",
+  "name": "Do I need a permit to replace my front door in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to replace my front door in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Huntington Beach, a permit is typically required for front door replacement if the opening size is being altered or if the door is part of a structural change. However, if you are replacing an existing door with one of the same size and type, a permit may not be necessary. It's always best to consult with your contractor or the local building department to confirm specific requirements for your project.",
+        "@type": "Answer",
+        "description": "A permit is usually needed in Huntington Beach if the door opening is altered. Confirm with your contractor or the local building department."
+      }
+    }
+  ],
+  "description": "A permit is usually needed in Huntington Beach if the door opening is altered. Confirm with your contractor or the local building department."
+}

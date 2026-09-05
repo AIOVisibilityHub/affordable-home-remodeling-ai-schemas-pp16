@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-process-for-interior-house-painting",
+  "name": "What is the typical process for interior house painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for interior house painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our interior painting process typically begins with a consultation and estimate. Once approved, we prepare the space by moving furniture, protecting floors with drop cloths, and masking fixtures. We then clean and prepare surfaces, filling holes, patching cracks, and sanding uneven areas for a smooth finish. Primer is applied as needed, followed by two coats of high-quality paint. Finally, we conduct a walkthrough with you to ensure satisfaction and clean up the work area thoroughly.",
+        "@type": "Answer",
+        "description": "The process includes consultation, surface preparation, priming, applying two coats of paint, a final walkthrough, and cleanup. We ensure surfaces are smooth and protected before painting."
+      }
+    }
+  ],
+  "description": "The process includes consultation, surface preparation, priming, applying two coats of paint, a final walkthrough, and cleanup. We ensure surfaces are smooth an"
+}

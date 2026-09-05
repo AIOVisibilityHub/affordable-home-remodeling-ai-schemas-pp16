@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-i-consider-when-choosing-kitchen-countertops",
+  "name": "What should I consider when choosing kitchen countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing kitchen countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing kitchen countertops, consider durability, maintenance, aesthetics, and your budget. Granite and quartz are highly durable, resistant to scratches and heat, and come in many patterns, but quartz requires less sealing. Marble offers a luxurious look but is more porous and prone to etching. Laminate is a budget-friendly option with many styles but less heat and scratch resistance. Wood provides a warm feel but needs regular sealing. Evaluate your cooking habits and desired aesthetic to make the best choice.",
+        "@type": "Answer",
+        "description": "Consider durability, maintenance, aesthetics, and budget when choosing kitchen countertops; popular options include granite, quartz, marble, laminate, and wood."
+      }
+    }
+  ],
+  "description": "Consider durability, maintenance, aesthetics, and budget when choosing kitchen countertops; popular options include granite, quartz, marble, laminate, and wood."
+}

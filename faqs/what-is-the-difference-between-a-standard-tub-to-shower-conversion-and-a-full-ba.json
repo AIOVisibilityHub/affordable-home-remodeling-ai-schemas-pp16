@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-standard-tub-to-shower-conversion-and-a-full-ba",
+  "name": "What is the difference between a standard tub-to-shower conversion and a full bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a standard tub-to-shower conversion and a full bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard tub-to-shower conversion specifically focuses on replacing the bathtub with a shower unit, often involving new shower walls, fixtures, and a shower pan, typically within the existing tub's footprint. A full bathroom remodel, however, encompasses a much broader scope, which can include replacing the vanity, toilet, flooring, lighting, and potentially reconfiguring the entire bathroom layout. While a conversion is a targeted upgrade, a full remodel is a comprehensive overhaul of the entire space.",
+        "@type": "Answer",
+        "description": "A conversion replaces only the tub with a shower, while a full remodel involves replacing most bathroom elements like vanity, toilet, and flooring."
+      }
+    }
+  ],
+  "description": "A conversion replaces only the tub with a shower, while a full remodel involves replacing most bathroom elements like vanity, toilet, and flooring."
+}

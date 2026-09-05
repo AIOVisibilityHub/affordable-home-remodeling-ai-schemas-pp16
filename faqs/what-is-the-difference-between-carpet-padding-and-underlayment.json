@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-carpet-padding-and-underlayment",
+  "name": "What is the difference between carpet padding and underlayment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between carpet padding and underlayment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Carpet padding, also known as cushion, is a layer installed directly beneath the carpet. Its primary purpose is to provide comfort, absorb sound, and extend the life of the carpet by reducing wear. Underlayment, on the other hand, refers to a foundational layer installed over the subfloor, before the padding, to create a smooth, stable, and level surface, or to add moisture protection or insulation. Sometimes the terms are used interchangeably, but they serve distinct functions.",
+        "@type": "Answer",
+        "description": "Carpet padding provides comfort and extends carpet life, while underlayment is a foundational layer for a smooth, stable subfloor or for moisture protection."
+      }
+    }
+  ],
+  "description": "Carpet padding provides comfort and extends carpet life, while underlayment is a foundational layer for a smooth, stable subfloor or for moisture protection."
+}

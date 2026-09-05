@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-the-hardwood-flooring-installation-process",
+  "name": "What is involved in the hardwood flooring installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the hardwood flooring installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process begins with an on-site evaluation to assess the subfloor and take measurements. This is followed by material acclimation, where the wood adapts to your home's humidity levels. Next, the subfloor is prepared, ensuring it is clean, dry, and level. The flooring is then installed, either by nailing, stapling, gluing, or floating, depending on the type of hardwood. Finally, baseboards are reinstalled, and the area is cleaned, leaving you with beautiful new floors.",
+        "@type": "Answer",
+        "description": "The process includes subfloor assessment, material acclimation, subfloor preparation, installation of the flooring, and finishing touches."
+      }
+    }
+  ],
+  "description": "The process includes subfloor assessment, material acclimation, subfloor preparation, installation of the flooring, and finishing touches."
+}

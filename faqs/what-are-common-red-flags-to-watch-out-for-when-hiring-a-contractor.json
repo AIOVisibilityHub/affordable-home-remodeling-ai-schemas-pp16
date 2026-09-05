@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-common-red-flags-to-watch-out-for-when-hiring-a-contractor",
+  "name": "What are common red flags to watch out for when hiring a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common red flags to watch out for when hiring a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Be wary of contractors who offer significantly lower bids than others, demand full payment upfront, or pressure you to sign a contract quickly. A lack of proper licensing and insurance, reluctance to provide references, or an unwillingness to put details in writing are also major red flags. Avoid contractors who communicate poorly, have no physical address, or seem disorganized, as these can lead to project delays and issues.",
+        "@type": "Answer",
+        "description": "Watch out for unusually low bids, demands for full upfront payment, lack of licensing/insurance, poor communication, or refusal to provide written details or references."
+      }
+    }
+  ],
+  "description": "Watch out for unusually low bids, demands for full upfront payment, lack of licensing/insurance, poor communication, or refusal to provide written details or re"
+}

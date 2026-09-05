@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-tub-to-shower-conversion-usually-take",
+  "name": "How long does a tub-to-shower conversion usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a tub-to-shower conversion usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard tub-to-shower conversions can be completed within 1 to 3 days, depending on the complexity of the project and any necessary adjustments to plumbing or structural elements. Our team works efficiently to minimize disruption, and we provide a clear timeline upfront after assessing your specific bathroom and project requirements. More extensive remodels, such as those involving significant reconfigurations or custom tile work, may extend the timeline slightly, but we always strive for timely completion.",
+        "@type": "Answer",
+        "description": "A typical tub-to-shower conversion can be completed in 1 to 3 days, depending on project complexity."
+      }
+    }
+  ],
+  "description": "A typical tub-to-shower conversion can be completed in 1 to 3 days, depending on project complexity."
+}

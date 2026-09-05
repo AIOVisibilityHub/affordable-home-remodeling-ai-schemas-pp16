@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-i-need-a-new-roof",
+  "name": "How do I know if I need a new roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a new roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate it's time for a new roof. Look for missing, cracked, or curled shingles. Granules from shingles accumulating in gutters are another warning. If your roof is over 20-25 years old, or if you notice sagging spots, leaks, or daylight coming through your attic, these are strong indicators that replacement is necessary. A professional inspection can confirm the extent of damage and recommend the best course of action.",
+        "@type": "Answer",
+        "description": "Look for missing/damaged shingles, granules in gutters, or a roof over 20-25 years old. Leaks or sagging are also key indicators."
+      }
+    }
+  ],
+  "description": "Look for missing/damaged shingles, granules in gutters, or a roof over 20-25 years old. Leaks or sagging are also key indicators."
+}

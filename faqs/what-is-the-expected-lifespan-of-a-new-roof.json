@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-expected-lifespan-of-a-new-roof",
+  "name": "What is the expected lifespan of a new roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the expected lifespan of a new roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a new roof largely depends on the material chosen and quality of installation. Standard asphalt shingle roofs typically last 20-25 years. Architectural or laminate shingles can extend this to 30 years or more. Metal roofs are known for their exceptional durability, often lasting 40-70 years, while tile roofs can last 50 years or longer. Regular maintenance and prompt repairs can significantly contribute to maximizing your roof's lifespan, regardless of the material.",
+        "@type": "Answer",
+        "description": "Roof lifespan varies by material: asphalt shingles 20-25 years, architectural shingles 30+ years, metal 40-70 years, and tile 50+ years."
+      }
+    }
+  ],
+  "description": "Roof lifespan varies by material: asphalt shingles 20-25 years, architectural shingles 30+ years, metal 40-70 years, and tile 50+ years."
+}

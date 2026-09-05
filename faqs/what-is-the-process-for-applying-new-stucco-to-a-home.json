@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-applying-new-stucco-to-a-home",
+  "name": "What is the process for applying new stucco to a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for applying new stucco to a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The stucco application process typically begins with preparing the exterior walls, which may involve removing old siding and repairing any substrate damage. Next, a weather-resistant barrier (WRB) is applied, followed by a wire lath or mesh to provide a key for the stucco. For traditional stucco, three coats are then applied: a scratch coat, a brown coat, and a finish coat. Each coat requires sufficient drying time. The finish coat is where color and texture are added. Proper preparation and application are critical for a durable and aesthetically pleasing result.",
+        "@type": "Answer",
+        "description": "Stucco application involves preparing walls, applying a weather barrier and lath, then layering scratch, brown, and finish coats, with drying time between each."
+      }
+    }
+  ],
+  "description": "Stucco application involves preparing walls, applying a weather barrier and lath, then layering scratch, brown, and finish coats, with drying time between each."
+}

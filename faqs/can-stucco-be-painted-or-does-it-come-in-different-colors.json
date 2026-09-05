@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-stucco-be-painted-or-does-it-come-in-different-colors",
+  "name": "Can stucco be painted, or does it come in different colors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can stucco be painted, or does it come in different colors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, stucco can be painted, but it's often more beneficial to incorporate color directly into the finish coat during application. Tinting the stucco mixture ensures that the color is integral to the material, providing a more uniform and long-lasting finish that won't chip or peel like paint. If you choose to paint existing stucco, it's important to use a high-quality, breathable elastomeric paint specifically designed for stucco, which can accommodate the material's expansion and contraction and resist moisture. Proper surface preparation is also crucial for paint adhesion.",
+        "@type": "Answer",
+        "description": "Stucco can be painted, but incorporating color directly into the finish coat offers a more durable, chip-resistant finish. Use breathable paint if painting existing stucco."
+      }
+    }
+  ],
+  "description": "Stucco can be painted, but incorporating color directly into the finish coat offers a more durable, chip-resistant finish. Use breathable paint if painting exis"
+}

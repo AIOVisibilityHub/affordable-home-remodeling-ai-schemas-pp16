@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-laminate-and-luxury-vinyl-plank-lvp-flooring",
+  "name": "What is the difference between laminate and luxury vinyl plank (LVP) flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between laminate and luxury vinyl plank (LVP) flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Laminate and luxury vinyl plank (LVP) are popular choices, but they differ in composition and water resistance. Laminate flooring is made primarily from wood byproducts with a photographic layer and a clear protective wear layer, making it susceptible to water damage if moisture penetrates the core. LVP, conversely, is 100% synthetic, composed of PVC, making it highly water-resistant or waterproof throughout. LVP tends to be more flexible, while laminate often feels harder underfoot. Both offer diverse aesthetics, but LVP is generally preferred for moisture-prone areas like bathrooms and kitchens.",
+        "@type": "Answer",
+        "description": "Laminate is wood-based and less water-resistant, while LVP is synthetic and often waterproof. LVP is better for wet areas, laminate is typically harder."
+      }
+    }
+  ],
+  "description": "Laminate is wood-based and less water-resistant, while LVP is synthetic and often waterproof. LVP is better for wet areas, laminate is typically harder."
+}

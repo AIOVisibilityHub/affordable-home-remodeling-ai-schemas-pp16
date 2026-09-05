@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-range-for-exterior-house-painting",
+  "name": "What is the typical cost range for exterior house painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for exterior house painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior house painting can vary significantly based on factors such as the size of your home, the type of siding, the paint chosen, and the amount of preparation needed. Generally, prices in Southern California can range from a few thousand dollars for a smaller home to upwards of ten thousand for larger, more complex projects. A detailed estimate from a contractor will provide an accurate price based on your specific property and desired scope of work, including repairs and specific finishes.",
+        "@type": "Answer",
+        "description": "Exterior painting costs vary widely, typically ranging from a few thousand to over ten thousand dollars, based on house size, materials, and prep work."
+      }
+    }
+  ],
+  "description": "Exterior painting costs vary widely, typically ranging from a few thousand to over ten thousand dollars, based on house size, materials, and prep work."
+}

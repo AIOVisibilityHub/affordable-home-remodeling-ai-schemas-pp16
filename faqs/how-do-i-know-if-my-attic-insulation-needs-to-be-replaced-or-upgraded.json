@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-my-attic-insulation-needs-to-be-replaced-or-upgraded",
+  "name": "How do I know if my attic insulation needs to be replaced or upgraded?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my attic insulation needs to be replaced or upgraded?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your attic insulation needs attention include noticeable drafts, uneven temperatures between rooms, unusually high energy bills, and ice dams on your roof during colder weather (though less common in Orange County). Visually inspecting your attic can also reveal issues; if the insulation is compressed, damp, moldy, or if you can easily see the tops of your ceiling joists, it's likely time for an upgrade. A professional evaluation can confirm the current R-value and recommend suitable improvements.",
+        "@type": "Answer",
+        "description": "Look for high energy bills, uneven room temperatures, drafts, or visible signs like compressed or moldy insulation. A professional can assess its R-value."
+      }
+    }
+  ],
+  "description": "Look for high energy bills, uneven room temperatures, drafts, or visible signs like compressed or moldy insulation. A professional can assess its R-value."
+}

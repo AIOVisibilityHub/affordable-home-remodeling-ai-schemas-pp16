@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-cabinet-painting-and-refinishing",
+  "name": "What is the difference between cabinet painting and refinishing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between cabinet painting and refinishing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cabinet painting involves applying a new coat of paint over your existing cabinet surfaces, typically after thorough cleaning, sanding, and priming. It changes the color and updates the look without altering the underlying wood grain, unless a completely opaque finish is desired. Cabinet refinishing, on the other hand, can encompass a broader range of techniques, including stripping the old finish, staining, or clear coating to either restore the original wood appearance or change its tone while still allowing the wood grain to show through. Both options aim to refresh your cabinets, but painting offers a solid color change while refinishing often preserves or enhances the wood's natural beauty.",
+        "@type": "Answer",
+        "description": "Cabinet painting applies a new solid color over existing surfaces, while refinishing can strip and re-stain or clear coat to restore or change the wood's tone, often preserving the grain."
+      }
+    }
+  ],
+  "description": "Cabinet painting applies a new solid color over existing surfaces, while refinishing can strip and re-stain or clear coat to restore or change the wood's tone,"
+}

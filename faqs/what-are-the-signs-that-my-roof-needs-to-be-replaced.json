@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-that-my-roof-needs-to-be-replaced",
+  "name": "What are the signs that my roof needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my roof needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your roof may need replacement include missing, cracked, or curled shingles, significant shingle granule loss, dark streaks or moss growth, and water stains on your ceilings or walls. An aging roof (typically over 20-25 years for asphalt shingles) is also a strong sign. Regular inspections can help identify these issues early, preventing more extensive and costly damage to your home's structure. If you notice any of these problems, it's best to consult a professional for a thorough assessment.",
+        "@type": "Answer",
+        "description": "Signs include missing or damaged shingles, granule loss, moss growth, and interior water stains. An aging roof (over 20-25 years) also suggests replacement is due."
+      }
+    }
+  ],
+  "description": "Signs include missing or damaged shingles, granule loss, moss growth, and interior water stains. An aging roof (over 20-25 years) also suggests replacement is d"
+}

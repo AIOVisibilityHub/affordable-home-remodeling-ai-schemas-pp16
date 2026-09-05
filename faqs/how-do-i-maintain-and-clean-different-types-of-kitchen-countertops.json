@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-maintain-and-clean-different-types-of-kitchen-countertops",
+  "name": "How do I maintain and clean different types of kitchen countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain and clean different types of kitchen countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance varies by countertop material. Granite and quartz are relatively low-maintenance; clean with mild soap and water, avoiding abrasive cleaners. Granite requires periodic sealing (every 1-3 years) to prevent staining. Marble needs gentle, pH-neutral cleaners and prompt spill cleanup to avoid etching, and regular sealing is crucial. Laminate is easy to clean with mild soap and water, but avoid hot pans directly on the surface and harsh chemicals. Always check manufacturer recommendations for specific cleaning instructions to preserve your countertops' finish.",
+        "@type": "Answer",
+        "description": "Use mild soap and water for most. Granite and marble need sealing; marble requires gentle, pH-neutral cleaners. Avoid harsh chemicals and hot pans on laminate."
+      }
+    }
+  ],
+  "description": "Use mild soap and water for most. Granite and marble need sealing; marble requires gentle, pH-neutral cleaners. Avoid harsh chemicals and hot pans on laminate."
+}

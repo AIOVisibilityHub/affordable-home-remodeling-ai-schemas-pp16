@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-included-in-your-new-window-installation-service",
+  "name": "What is included in your new window installation service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in your new window installation service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our comprehensive new window installation service includes a thorough consultation, precise measurements, assistance with selecting the best window products, professional removal of old windows, expert installation of new windows, proper sealing and insulation, interior and exterior trim finishing, complete site cleanup, and a final walk-through to ensure your satisfaction.",
+        "@type": "Answer",
+        "description": "Our service includes consultation, measurements, window selection, removal of old windows, expert installation, sealing, trim finishing, cleanup, and a final inspection."
+      }
+    }
+  ],
+  "description": "Our service includes consultation, measurements, window selection, removal of old windows, expert installation, sealing, trim finishing, cleanup, and a final in"
+}

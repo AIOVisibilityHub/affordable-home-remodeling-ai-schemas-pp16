@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-maintenance-does-stucco-require",
+  "name": "What kind of maintenance does stucco require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does stucco require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco is relatively low-maintenance, but periodic care can extend its lifespan and appearance. Regular cleaning with a garden hose and a mild detergent can remove dirt, mildew, and algae. It's important to avoid high-pressure washing, which can damage the stucco surface. Inspect your stucco periodically for any cracks, especially around windows and doors, and address them promptly with appropriate sealants or patches to prevent water intrusion. Ensuring proper drainage away from the foundation also helps maintain stucco integrity. Prompt repairs of small issues can prevent larger, more costly problems.",
+        "@type": "Answer",
+        "description": "Stucco requires low maintenance: regular cleaning with a hose and mild detergent, periodic inspection for cracks, and prompt repairs to prevent water damage."
+      }
+    }
+  ],
+  "description": "Stucco requires low maintenance: regular cleaning with a hose and mild detergent, periodic inspection for cracks, and prompt repairs to prevent water damage."
+}

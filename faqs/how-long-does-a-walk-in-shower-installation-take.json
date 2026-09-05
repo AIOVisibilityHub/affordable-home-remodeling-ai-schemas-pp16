@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-walk-in-shower-installation-take",
+  "name": "How long does a walk-in shower installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a walk-in shower installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a walk-in shower installation depends on the project's complexity and whether it's part of a larger bathroom remodel. A straightforward replacement of an existing shower or tub can often be completed within 3-5 days. However, projects involving extensive tile work, custom designs, significant plumbing alterations, or structural changes may take 1-2 weeks or more. We aim to minimize disruption and provide a clear timeline upfront.",
+        "@type": "Answer",
+        "description": "Installation time varies: 3-5 days for simple replacements, 1-2 weeks or more for complex projects with extensive modifications. We provide a clear timeline."
+      }
+    }
+  ],
+  "description": "Installation time varies: 3-5 days for simple replacements, 1-2 weeks or more for complex projects with extensive modifications. We provide a clear timeline."
+}

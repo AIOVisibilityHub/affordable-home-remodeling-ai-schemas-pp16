@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-a-tub-to-shower-conversion",
+  "name": "What is involved in a tub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a tub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion transforms your existing bathtub space into a modern, functional shower. This typically involves removing the old tub, and often includes replacing wall surrounds, installing a new shower base or pan, shower fixtures, and potentially new plumbing. We focus on maximizing space and updating the aesthetic, ensuring a seamless integration with your current bathroom design. The process is designed to be efficient, minimizing disruption to your home while delivering a significant upgrade to your bathroom's utility and appearance.",
+        "@type": "Answer",
+        "description": "A tub-to-shower conversion involves removing the old tub and installing a new shower base, walls, and fixtures in its place."
+      }
+    }
+  ],
+  "description": "A tub-to-shower conversion involves removing the old tub and installing a new shower base, walls, and fixtures in its place."
+}

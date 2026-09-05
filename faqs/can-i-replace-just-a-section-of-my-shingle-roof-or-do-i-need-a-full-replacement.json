@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-replace-just-a-section-of-my-shingle-roof-or-do-i-need-a-full-replacement",
+  "name": "Can I replace just a section of my shingle roof, or do I need a full replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace just a section of my shingle roof, or do I need a full replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can replace just a section or need a full replacement depends on the extent and nature of the damage. If damage is isolated to a small area due to a recent event like a storm, and your existing shingles are still available and in good condition, a repair or partial replacement might be feasible. However, if there's widespread damage, signs of age across the entire roof, or if matching shingles are unavailable, a full replacement is usually the more cost-effective and long-term solution.",
+        "@type": "Answer",
+        "description": "Partial replacement is possible for isolated damage, but widespread aging or unmatched shingles usually necessitate a full roof replacement."
+      }
+    }
+  ],
+  "description": "Partial replacement is possible for isolated damage, but widespread aging or unmatched shingles usually necessitate a full roof replacement."
+}

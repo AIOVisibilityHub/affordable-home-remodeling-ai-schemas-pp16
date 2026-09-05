@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-materials-are-best-for-walk-in-showers",
+  "name": "What types of materials are best for walk-in showers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are best for walk-in showers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For walk-in showers, durable and waterproof materials are essential. Popular choices for walls include ceramic, porcelain, and natural stone tiles due to their longevity and aesthetic versatility. For the shower pan, pre-fabricated acrylic or custom tiled pans with proper waterproofing are common. Glass enclosures are typically tempered safety glass, ranging from framed to frameless options. Fixtures like showerheads, valves, and drains come in various finishes, with brass or stainless steel components being highly durable. We help you select materials that fit your style and budget.",
+        "@type": "Answer",
+        "description": "Best materials include ceramic, porcelain, or natural stone tiles for walls, waterproof pans, and tempered safety glass for enclosures. Durable fixtures are also key."
+      }
+    }
+  ],
+  "description": "Best materials include ceramic, porcelain, or natural stone tiles for walls, waterproof pans, and tempered safety glass for enclosures. Durable fixtures are als"
+}

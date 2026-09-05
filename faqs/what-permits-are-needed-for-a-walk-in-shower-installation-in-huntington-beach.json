@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-needed-for-a-walk-in-shower-installation-in-huntington-beach",
+  "name": "What permits are needed for a walk-in shower installation in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a walk-in shower installation in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For walk-in shower installations in Huntington Beach, permits are typically required if the project involves altering existing plumbing lines, making structural changes to walls, or modifying the drainage system. Minor cosmetic updates that don't involve these elements might not require a permit. However, it's always best practice to consult with your contractor or the City of Huntington Beach Building Department to confirm specific requirements. Our team handles all necessary permit applications to ensure compliance with local codes.",
+        "@type": "Answer",
+        "description": "Permits are usually required in Huntington Beach for walk-in shower installations involving plumbing or structural changes. Our team manages permit applications for compliance."
+      }
+    }
+  ],
+  "description": "Permits are usually required in Huntington Beach for walk-in shower installations involving plumbing or structural changes. Our team manages permit applications"
+}

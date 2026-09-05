@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-a-tub-to-shower-conversion-increase-my-home-s-value",
+  "name": "Will a tub-to-shower conversion increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a tub-to-shower conversion increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While specific returns can vary, a tub-to-shower conversion generally contributes positively to your home's value, especially if it updates an outdated bathroom or improves accessibility. Modernizing a bathroom is often a strong selling point for potential buyers. If your home has multiple bathrooms, converting one tub to a shower can appeal to a broader range of buyers looking for both a tub and a dedicated shower. It's considered a valuable update by many real estate professionals.",
+        "@type": "Answer",
+        "description": "A tub-to-shower conversion can increase home value by modernizing the bathroom and improving accessibility, appealing to more potential buyers."
+      }
+    }
+  ],
+  "description": "A tub-to-shower conversion can increase home value by modernizing the bathroom and improving accessibility, appealing to more potential buyers."
+}

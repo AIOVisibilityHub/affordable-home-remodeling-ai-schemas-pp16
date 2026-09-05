@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-does-an-investment-property-renovation-impact-property-taxes-in-orange-count",
+  "name": "How does an investment property renovation impact property taxes in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an investment property renovation impact property taxes in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovations that increase the market value or change the utility of your investment property may lead to a reassessment of its property taxes in Orange County. Minor cosmetic updates typically have little impact. However, significant improvements like additions, major remodels, or upgrades to higher-quality materials can trigger a reassessment, potentially increasing your tax liability. It's advisable to consult with a local tax professional or the Orange County Assessor's office to understand the potential tax implications of your specific renovation plans.",
+        "@type": "Answer",
+        "description": "Significant renovations that increase property value or utility can trigger a property tax reassessment in Orange County. Consult a local tax professional for specific impacts."
+      }
+    }
+  ],
+  "description": "Significant renovations that increase property value or utility can trigger a property tax reassessment in Orange County. Consult a local tax professional for s"
+}

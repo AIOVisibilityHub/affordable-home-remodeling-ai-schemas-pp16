@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-hardwood-flooring-be-installed-over-concrete",
+  "name": "Can hardwood flooring be installed over concrete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can hardwood flooring be installed over concrete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing hardwood flooring over concrete is possible but requires specific considerations, especially for solid hardwood. Engineered hardwood is generally a better choice for concrete subfloors due to its dimensional stability and resistance to moisture. A moisture barrier is always essential to prevent moisture from the concrete seeping into the wood. Proper subfloor preparation, including leveling and ensuring the concrete is completely dry, is crucial for a successful and lasting installation.",
+        "@type": "Answer",
+        "description": "Yes, hardwood can be installed over concrete, but engineered hardwood is often preferred with a necessary moisture barrier."
+      }
+    }
+  ],
+  "description": "Yes, hardwood can be installed over concrete, but engineered hardwood is often preferred with a necessary moisture barrier."
+}

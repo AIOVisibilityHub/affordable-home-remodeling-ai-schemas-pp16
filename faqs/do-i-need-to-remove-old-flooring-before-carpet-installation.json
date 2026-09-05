@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-remove-old-flooring-before-carpet-installation",
+  "name": "Do I need to remove old flooring before carpet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove old flooring before carpet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's often preferable to remove old flooring for the best installation outcome, it's not always strictly necessary. If the existing flooring is structurally sound, clean, and level, new carpet can sometimes be installed over it, especially if it's an existing carpet or resilient flooring. However, removing old flooring ensures a proper foundation and can prevent future issues like unevenness or odors. We can assess your specific situation.",
+        "@type": "Answer",
+        "description": "Removing old flooring is often recommended for the best carpet installation outcome, though it's not always required if the existing floor is sound."
+      }
+    }
+  ],
+  "description": "Removing old flooring is often recommended for the best carpet installation outcome, though it's not always required if the existing floor is sound."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/should-i-replace-or-refinish-my-existing-bathtub-during-a-renovation",
+  "name": "Should I replace or refinish my existing bathtub during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace or refinish my existing bathtub during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to replace or refinish your bathtub depends on its current condition, material, and your budget. Refinishing is a more cost-effective option for tubs that are structurally sound but have cosmetic flaws like stains, chips, or dullness. It involves applying a new coating that can extend the tub's life and improve its appearance. Replacing the tub is necessary if it has significant damage, leaks, or if you want a different size, shape, or material, such as switching from a standard tub to a freestanding model or a walk-in shower. A professional assessment can help determine the best approach.",
+        "@type": "Answer",
+        "description": "Refinish your bathtub if it's structurally sound with cosmetic flaws; replace it if there's significant damage, leaks, or if you desire a different size, shape, or material."
+      }
+    }
+  ],
+  "description": "Refinish your bathtub if it's structurally sound with cosmetic flaws; replace it if there's significant damage, leaks, or if you desire a different size, shape,"
+}

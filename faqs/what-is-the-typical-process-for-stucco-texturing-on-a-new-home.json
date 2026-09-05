@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-process-for-stucco-texturing-on-a-new-home",
+  "name": "What is the typical process for stucco texturing on a new home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for stucco texturing on a new home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The stucco texturing process on a new home begins after the framing, sheathing, and weather-resistant barrier are installed. First, a metal lath is attached, followed by a scratch coat, which provides a key for subsequent layers. Next, a brown coat is applied to create an even, flat surface. After these layers cure, the final finish coat is applied using specific tools and techniques to achieve the desired texture. Each layer requires proper drying time before the next is applied, ensuring a durable and attractive finish.",
+        "@type": "Answer",
+        "description": "The stucco texturing process on a new home involves installing lath, applying scratch and brown coats, allowing them to cure, then applying the final textured finish coat."
+      }
+    }
+  ],
+  "description": "The stucco texturing process on a new home involves installing lath, applying scratch and brown coats, allowing them to cure, then applying the final textured f"
+}

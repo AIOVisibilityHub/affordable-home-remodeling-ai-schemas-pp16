@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-attic-insulation-cost-in-orange-county",
+  "name": "How much does attic insulation cost in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does attic insulation cost in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of attic insulation in Orange County, including areas like Newport Beach and Laguna Niguel, varies widely based on several factors. These include the size of your attic, the type of insulation chosen (e.g., fiberglass, cellulose, spray foam), the desired R-value, and whether old insulation needs to be removed. Basic upgrades can range from a few hundred dollars to several thousand for more extensive projects or premium materials. We offer free consultations to provide a detailed and accurate estimate tailored to your home's specific needs.",
+        "@type": "Answer",
+        "description": "Attic insulation costs in Orange County vary based on attic size, insulation type, R-value, and removal needs. We provide free, detailed estimates."
+      }
+    }
+  ],
+  "description": "Attic insulation costs in Orange County vary based on attic size, insulation type, R-value, and removal needs. We provide free, detailed estimates."
+}

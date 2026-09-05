@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-replacing-an-old-shingle-roof",
+  "name": "What are the benefits of replacing an old shingle roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of replacing an old shingle roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing an old shingle roof offers several key benefits. It enhances your home's curb appeal and increases its market value. A new roof provides superior protection against weather elements, preventing leaks and water damage. Modern shingles often come with improved energy efficiency, potentially lowering heating and cooling costs. Furthermore, a new roof gives you peace of mind with a fresh warranty and a longer lifespan, reducing future maintenance concerns.",
+        "@type": "Answer",
+        "description": "Benefits include improved curb appeal, better weather protection, potential energy savings, increased home value, and peace of mind."
+      }
+    }
+  ],
+  "description": "Benefits include improved curb appeal, better weather protection, potential energy savings, increased home value, and peace of mind."
+}

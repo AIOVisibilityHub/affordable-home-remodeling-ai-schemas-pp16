@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-a-low-e-coating-and-why-is-it-important-for-energy-efficient-windows",
+  "name": "What is a Low-E coating and why is it important for energy-efficient windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a Low-E coating and why is it important for energy-efficient windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Low-E (low-emissivity) coating is a microscopically thin, transparent metallic layer applied to one or more surfaces of a window pane. This coating works by reflecting radiant heat, which helps keep your home warmer in the winter by reflecting indoor heat back inside, and cooler in the summer by reflecting outdoor heat away. It also helps block harmful ultraviolet (UV) rays, which can fade furniture and flooring, without significantly reducing the amount of visible light entering your home. Low-E coatings are a critical component for maximizing the energy performance of modern windows.",
+        "@type": "Answer",
+        "description": "Low-E coating is a thin metallic layer on glass that reflects radiant heat, keeping homes warmer in winter and cooler in summer, while blocking UV rays."
+      }
+    }
+  ],
+  "description": "Low-E coating is a thin metallic layer on glass that reflects radiant heat, keeping homes warmer in winter and cooler in summer, while blocking UV rays."
+}

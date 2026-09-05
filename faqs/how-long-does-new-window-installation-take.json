@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-new-window-installation-take",
+  "name": "How long does new window installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does new window installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of new window installation depends on the number of windows, their size, and the complexity of the project. A typical residential project with 10-15 windows might take 1-3 days to complete. Larger projects with custom windows or structural modifications will naturally require more time. We prioritize efficient work while maintaining high quality standards.",
+        "@type": "Answer",
+        "description": "New window installation typically takes 1-3 days for a standard residential project, depending on the number and type of windows."
+      }
+    }
+  ],
+  "description": "New window installation typically takes 1-3 days for a standard residential project, depending on the number and type of windows."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-a-new-roof-installation-in-huntington-beach",
+  "name": "Do I need a permit for a new roof installation in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a new roof installation in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a permit is generally required for new roof installations in Huntington Beach and most other municipalities. This ensures that the work complies with local building codes and safety standards. Our company handles all necessary permit applications and inspections as part of our service, ensuring your new roof meets all regulatory requirements and passes inspection. This protects your investment and ensures compliance.",
+        "@type": "Answer",
+        "description": "Yes, a permit is usually required for new roof installations in Huntington Beach to ensure code compliance. We handle all permit applications."
+      }
+    }
+  ],
+  "description": "Yes, a permit is usually required for new roof installations in Huntington Beach to ensure code compliance. We handle all permit applications."
+}

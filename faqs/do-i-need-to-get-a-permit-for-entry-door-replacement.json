@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-get-a-permit-for-entry-door-replacement",
+  "name": "Do I need to get a permit for entry door replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to get a permit for entry door replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most standard entry door replacements, where the new door fits into the existing opening without structural modifications, a permit is typically not required. However, if the project involves altering the size of the door opening, changing the structural integrity of the wall, or converting a window into a door opening, then a building permit from your local municipality in areas like Orange or Irvine would likely be necessary. We can help you determine if your specific project requires a permit during our initial assessment and guide you through the process if one is needed.",
+        "@type": "Answer",
+        "description": "Most standard entry door replacements don't require a permit unless structural changes or opening size alterations are involved. We can help assess your specific project."
+      }
+    }
+  ],
+  "description": "Most standard entry door replacements don't require a permit unless structural changes or opening size alterations are involved. We can help assess your specifi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-warranty-comes-with-a-new-entry-door-installation",
+  "name": "What kind of warranty comes with a new entry door installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty comes with a new entry door installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The warranty for a new entry door installation typically consists of two main parts: the manufacturer's warranty on the door product itself and our installation warranty. Manufacturer warranties vary by brand and material, often covering defects in materials and workmanship for a period of 10 years to a lifetime. Our installation warranty covers the quality of our labor, ensuring that the door is installed correctly and functions as intended. We will provide detailed information on both the product and installation warranties during your consultation, ensuring you understand the coverage for your investment.",
+        "@type": "Answer",
+        "description": "A new entry door installation typically includes a manufacturer's warranty on the door product and an installation warranty covering our labor. Details are provided during consultation."
+      }
+    }
+  ],
+  "description": "A new entry door installation typically includes a manufacturer's warranty on the door product and an installation warranty covering our labor. Details are prov"
+}

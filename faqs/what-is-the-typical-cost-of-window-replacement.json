@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-of-window-replacement",
+  "name": "What is the typical cost of window replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of window replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window replacement varies significantly based on factors such as window type, material (vinyl, wood, fiberglass), size, energy efficiency features, and installation complexity. Custom shapes or large windows will be more expensive. Labor costs also depend on the number of windows and specific site conditions. It is best to get a detailed quote for an accurate estimate based on your home's needs.",
+        "@type": "Answer",
+        "description": "Window replacement costs depend on window type, material, size, energy efficiency features, and installation complexity. Obtain a detailed quote for accuracy."
+      }
+    }
+  ],
+  "description": "Window replacement costs depend on window type, material, size, energy efficiency features, and installation complexity. Obtain a detailed quote for accuracy."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-spray-foam-insulation-help-with-noise-reduction-in-my-home",
+  "name": "Will spray foam insulation help with noise reduction in my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will spray foam insulation help with noise reduction in my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, spray foam insulation can significantly help with noise reduction. Both open-cell and closed-cell spray foams create an effective air seal, which is crucial for blocking sound transmission. Open-cell foam, in particular, has a softer, more absorbent texture that can be very effective at dampening airborne sounds, making it a good choice for interior walls or between floors. By filling all gaps and voids, spray foam reduces flanking paths for sound, contributing to a quieter and more peaceful indoor environment.",
+        "@type": "Answer",
+        "description": "Yes, spray foam insulation helps with noise reduction by creating an airtight seal and dampening sound transmission, especially open-cell foam which absorbs airborne noise."
+      }
+    }
+  ],
+  "description": "Yes, spray foam insulation helps with noise reduction by creating an airtight seal and dampening sound transmission, especially open-cell foam which absorbs air"
+}

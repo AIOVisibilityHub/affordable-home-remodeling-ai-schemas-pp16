@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-stucco-and-what-are-its-main-benefits-for-home-exteriors",
+  "name": "What is stucco and what are its main benefits for home exteriors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is stucco and what are its main benefits for home exteriors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco is a durable and versatile exterior finish made from cement, sand, lime, and water. It's applied in layers over a lath base, creating a hard, seamless surface. Its main benefits include excellent fire resistance, energy efficiency due to its insulating properties, and long-term durability against weather and pests. Stucco also offers a wide range of aesthetic options, allowing for various textures and colors to complement different architectural styles, making it a popular choice for homes in areas like Huntington Beach and Irvine.",
+        "@type": "Answer",
+        "description": "Stucco is a durable exterior finish made from cement, sand, and lime, offering fire resistance, energy efficiency, and a customizable appearance for homes."
+      }
+    }
+  ],
+  "description": "Stucco is a durable exterior finish made from cement, sand, and lime, offering fire resistance, energy efficiency, and a customizable appearance for homes."
+}

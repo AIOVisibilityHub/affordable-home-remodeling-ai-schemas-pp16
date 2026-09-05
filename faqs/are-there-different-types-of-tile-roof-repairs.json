@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/are-there-different-types-of-tile-roof-repairs",
+  "name": "Are there different types of tile roof repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of tile roof repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, tile roof repairs can range from simple to complex. Common types include replacing individual broken or missing tiles, repairing or resealing flashing around chimneys and vents, addressing issues with the roof's underlayment, and structural repairs to the deck if water damage has occurred. We also handle repairs related to moss or algae removal and resealing porous tiles to extend their lifespan and prevent future problems.",
+        "@type": "Answer",
+        "description": "Repairs vary from replacing individual tiles to fixing flashing, underlayment issues, or structural damage, and moss removal."
+      }
+    }
+  ],
+  "description": "Repairs vary from replacing individual tiles to fixing flashing, underlayment issues, or structural damage, and moss removal."
+}

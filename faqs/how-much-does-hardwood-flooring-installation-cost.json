@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-hardwood-flooring-installation-cost",
+  "name": "How much does hardwood flooring installation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does hardwood flooring installation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of hardwood flooring installation varies significantly based on factors such as the type of wood, the total square footage, subfloor preparation needs, and labor rates. Exotic wood species or intricate patterns will generally cost more than standard options. While we can't provide a precise figure without a consultation, you can expect an investment that reflects the quality of materials and professional installation. We offer free, no-obligation estimates to give you an accurate understanding of the project cost for your home.",
+        "@type": "Answer",
+        "description": "Cost depends on wood type, square footage, and subfloor prep. We provide free, no-obligation estimates after a consultation."
+      }
+    }
+  ],
+  "description": "Cost depends on wood type, square footage, and subfloor prep. We provide free, no-obligation estimates after a consultation."
+}

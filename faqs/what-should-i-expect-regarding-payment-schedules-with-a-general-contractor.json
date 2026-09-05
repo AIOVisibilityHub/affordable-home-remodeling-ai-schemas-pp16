@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-i-expect-regarding-payment-schedules-with-a-general-contractor",
+  "name": "What should I expect regarding payment schedules with a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect regarding payment schedules with a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Payment schedules with a general contractor are typically structured in phases, often with an initial deposit followed by incremental payments as specific project milestones are completed. A common structure might include payments at the start of demolition, rough-ins (plumbing, electrical), drywall completion, and final completion. The final payment is usually withheld until all work is finished to your satisfaction and all necessary inspections have passed. Always review and understand the payment schedule in your contract.",
+        "@type": "Answer",
+        "description": "Expect phased payment schedules with a general contractor, including an initial deposit and payments tied to project milestones. The final payment is typically made upon completion and approval."
+      }
+    }
+  ],
+  "description": "Expect phased payment schedules with a general contractor, including an initial deposit and payments tied to project milestones. The final payment is typically"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-stucco-repair-and-stucco-replacement",
+  "name": "What is the difference between stucco repair and stucco replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between stucco repair and stucco replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco repair focuses on fixing localized damage, such as cracks, small holes, or areas of chipping, without replacing the entire stucco system. It's a cost-effective solution when the damage is limited and the underlying stucco is otherwise sound. Stucco replacement, on the other hand, involves removing the old stucco completely and applying a new system from scratch. This is typically necessary for widespread damage, severe water intrusion, or when the entire exterior is deteriorating beyond simple repairs. An assessment helps determine the appropriate approach.",
+        "@type": "Answer",
+        "description": "Stucco repair fixes localized damage, while replacement involves removing and applying new stucco for widespread issues. Repair is for limited damage; replacement for extensive deterioration or water intrusion."
+      }
+    }
+  ],
+  "description": "Stucco repair fixes localized damage, while replacement involves removing and applying new stucco for widespread issues. Repair is for limited damage; replaceme"
+}

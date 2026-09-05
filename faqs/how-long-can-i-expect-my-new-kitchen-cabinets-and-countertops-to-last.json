@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-can-i-expect-my-new-kitchen-cabinets-and-countertops-to-last",
+  "name": "How long can I expect my new kitchen cabinets and countertops to last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long can I expect my new kitchen cabinets and countertops to last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of kitchen cabinets and countertops largely depends on the quality of materials, installation, and ongoing maintenance. High-quality solid wood cabinets can last 30-50 years or more with proper care. Plywood or MDF cabinets typically have a shorter lifespan but can still last 15-25 years. Granite and quartz countertops are extremely durable and can easily last 30-50 years, often outliving the home itself. Laminate countertops are generally expected to last 10-20 years. Regular cleaning and avoiding misuse will maximize their longevity.",
+        "@type": "Answer",
+        "description": "High-quality cabinets and stone countertops can last 30-50+ years. Laminate typically lasts 10-20 years. Proper maintenance is key to longevity."
+      }
+    }
+  ],
+  "description": "High-quality cabinets and stone countertops can last 30-50+ years. Laminate typically lasts 10-20 years. Proper maintenance is key to longevity."
+}
