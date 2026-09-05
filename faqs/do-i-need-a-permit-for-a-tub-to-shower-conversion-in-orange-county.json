@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-a-tub-to-shower-conversion-in-orange-county",
+  "name": "Do I need a permit for a tub-to-shower conversion in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a tub-to-shower conversion in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most cases, a permit is required for a tub-to-shower conversion in Orange County and surrounding areas like Huntington Beach or Irvine. This is because the project often involves changes to plumbing and potentially waterproofing, which must comply with local building codes for safety and structural integrity. Our team can assist you with understanding the specific permit requirements for your city and ensure that all necessary applications are submitted correctly.",
+        "@type": "Answer",
+        "description": "Yes, permits are typically required in Orange County for tub-to-shower conversions due to plumbing changes and building codes."
+      }
+    }
+  ],
+  "description": "Yes, permits are typically required in Orange County for tub-to-shower conversions due to plumbing changes and building codes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-general-contractor-and-a-specialized-contractor",
+  "name": "What is the difference between a general contractor and a specialized contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general contractor and a specialized contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor manages the entire remodeling project, overseeing all aspects from start to finish. They hire and coordinate subcontractors, manage schedules, procure materials, and ensure the project stays on budget and meets quality standards. A specialized contractor, such as a plumber, electrician, or roofer, focuses on a single trade or specific aspect of construction. For comprehensive home remodels, a general contractor is typically needed to integrate all the different trades and ensure a cohesive outcome.",
+        "@type": "Answer",
+        "description": "A general contractor oversees the entire project and coordinates all trades, while a specialized contractor focuses on a single area like plumbing or electrical work."
+      }
+    }
+  ],
+  "description": "A general contractor oversees the entire project and coordinates all trades, while a specialized contractor focuses on a single area like plumbing or electrical"
+}

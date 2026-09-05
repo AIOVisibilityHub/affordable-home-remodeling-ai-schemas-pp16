@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-key-steps-in-a-bathroom-renovation-project",
+  "name": "What are the key steps in a bathroom renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key steps in a bathroom renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical bathroom renovation project involves several key steps. It begins with an initial consultation and design planning, where we discuss your vision, needs, and budget. Next is material selection for items like tiles, fixtures, and cabinetry. Demolition follows, removing old components. Then, rough-ins for plumbing and electrical are completed, followed by inspections. Installation of new drywall, flooring, shower, vanity, and fixtures comes next. Finally, painting, trim work, and a thorough cleanup complete the project. Throughout the process, we maintain clear communication and manage subcontractors.",
+        "@type": "Answer",
+        "description": "Key steps include consultation and design, material selection, demolition, plumbing and electrical rough-ins, inspections, installation, and finishing touches."
+      }
+    }
+  ],
+  "description": "Key steps include consultation and design, material selection, demolition, plumbing and electrical rough-ins, inspections, installation, and finishing touches."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-install-energy-efficient-windows-in-a-typical-home",
+  "name": "How long does it take to install energy-efficient windows in a typical home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install energy-efficient windows in a typical home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of window installation depends on the number and size of windows, as well as the complexity of the project. For an average-sized home, installing all new energy-efficient windows can typically take anywhere from one to three days. Larger homes or projects with custom window requirements might extend this timeline. Our team works efficiently to complete the installation with precision and minimal disruption, ensuring quality at every step. We'll provide a more precise timeline after assessing your specific home and project scope.",
+        "@type": "Answer",
+        "description": "For an average home, installing all new energy-efficient windows typically takes one to three days, depending on the project's size and complexity."
+      }
+    }
+  ],
+  "description": "For an average home, installing all new energy-efficient windows typically takes one to three days, depending on the project's size and complexity."
+}

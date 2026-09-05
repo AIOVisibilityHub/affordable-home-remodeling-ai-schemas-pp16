@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-lifespan-of-kitchen-cabinets-and-countertops",
+  "name": "What is the typical lifespan of kitchen cabinets and countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of kitchen cabinets and countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of kitchen cabinets and countertops varies based on materials, quality, and usage. Generally, well-maintained solid wood or high-quality plywood cabinets can last 30-50 years. Laminate countertops might need replacement after 10-15 years, while natural stone like granite or quartz can last 40-100 years or more with proper care. Regular cleaning and avoiding harsh chemicals will extend their longevity. Consider your lifestyle and long-term plans when choosing materials.",
+        "@type": "Answer",
+        "description": "Kitchen cabinet lifespan ranges from 30-50 years, while countertops vary; laminate lasts 10-15 years, and natural stone can last 40-100 years or more."
+      }
+    }
+  ],
+  "description": "Kitchen cabinet lifespan ranges from 30-50 years, while countertops vary; laminate lasts 10-15 years, and natural stone can last 40-100 years or more."
+}

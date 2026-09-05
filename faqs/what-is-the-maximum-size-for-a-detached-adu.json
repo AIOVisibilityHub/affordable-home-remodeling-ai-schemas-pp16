@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-maximum-size-for-a-detached-adu",
+  "name": "What is the maximum size for a detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the maximum size for a detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The maximum size for a detached ADU is primarily dictated by state laws and local zoning ordinances. In California, state law generally allows ADUs up to 1,200 square feet, though local jurisdictions may impose smaller limits based on lot size, existing structures, or specific area plans. For instance, some cities in Orange County might have specific square footage restrictions or require the ADU to be a certain percentage of the main house's size. Consulting with a local contractor or planning department is crucial for precise limits.",
+        "@type": "Answer",
+        "description": "State law generally allows detached ADUs up to 1,200 square feet, but local zoning ordinances may impose smaller limits based on specific property conditions."
+      }
+    }
+  ],
+  "description": "State law generally allows detached ADUs up to 1,200 square feet, but local zoning ordinances may impose smaller limits based on specific property conditions."
+}

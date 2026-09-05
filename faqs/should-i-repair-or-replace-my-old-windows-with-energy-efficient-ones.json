@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/should-i-repair-or-replace-my-old-windows-with-energy-efficient-ones",
+  "name": "Should I repair or replace my old windows with energy-efficient ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my old windows with energy-efficient ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace depends on the extent of damage and the age of your current windows. Minor issues like a broken pane or faulty hardware can often be repaired. However, if your windows are old, single-paned, difficult to operate, show signs of rot, or allow significant drafts, replacement with energy-efficient windows is generally a more cost-effective long-term solution. Replacements offer better insulation, lower energy bills, increased comfort, and improved home value, which repairs rarely achieve.",
+        "@type": "Answer",
+        "description": "Repair minor issues; replace if windows are old, single-paned, damaged, or drafty, as new energy-efficient windows offer better insulation, savings, and value."
+      }
+    }
+  ],
+  "description": "Repair minor issues; replace if windows are old, single-paned, damaged, or drafty, as new energy-efficient windows offer better insulation, savings, and value."
+}

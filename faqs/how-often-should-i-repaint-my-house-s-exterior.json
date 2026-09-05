@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-often-should-i-repaint-my-house-s-exterior",
+  "name": "How often should I repaint my house's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I repaint my house's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of exterior paint varies based on several factors, including climate, paint quality, and surface material. In areas like Orange County with significant sun exposure, quality paint on stucco can last 10-15 years, while wood siding might need repainting every 5-7 years. Regular inspection for peeling, cracking, or fading can help determine the optimal time. Investing in higher-quality paints designed for UV resistance and durability can extend the time between repaints.",
+        "@type": "Answer",
+        "description": "Exterior paint typically lasts 5-15 years, depending on climate, material, and paint quality. Inspect regularly for signs of wear."
+      }
+    }
+  ],
+  "description": "Exterior paint typically lasts 5-15 years, depending on climate, material, and paint quality. Inspect regularly for signs of wear."
+}

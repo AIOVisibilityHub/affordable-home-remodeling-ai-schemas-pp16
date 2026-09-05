@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-a-second-story-addition-affect-my-property-taxes",
+  "name": "Will a second-story addition affect my property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a second-story addition affect my property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a second-story addition will typically affect your property taxes. Adding significant square footage and increasing the overall value of your home through a major renovation will result in a reassessment by the county assessor's office. This reassessment will likely lead to an increase in your annual property tax liability. The exact amount of the increase will depend on the assessed value of the new construction and the local tax rates in your specific Orange County city. It's advisable to consult with your local assessor's office for specific guidance.",
+        "@type": "Answer",
+        "description": "Yes, a second-story addition increases your home's value, which will typically lead to a reassessment by the county and an increase in your property taxes. Consult your local assessor for details."
+      }
+    }
+  ],
+  "description": "Yes, a second-story addition increases your home's value, which will typically lead to a reassessment by the county and an increase in your property taxes. Cons"
+}

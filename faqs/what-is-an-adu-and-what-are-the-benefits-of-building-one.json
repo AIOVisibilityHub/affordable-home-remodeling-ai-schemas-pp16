@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-an-adu-and-what-are-the-benefits-of-building-one",
+  "name": "What is an ADU and what are the benefits of building one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ADU and what are the benefits of building one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot. Benefits include increasing property value, generating rental income, providing housing for family members, or creating a dedicated workspace. ADUs can be detached, attached, or converted from existing structures like garages. They offer flexible living solutions and can help address housing needs without requiring new land development.",
+        "@type": "Answer",
+        "description": "An ADU is a secondary housing unit on a residential lot, offering benefits like increased property value, rental income, or flexible living space for family."
+      }
+    }
+  ],
+  "description": "An ADU is a secondary housing unit on a residential lot, offering benefits like increased property value, rental income, or flexible living space for family."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-process-for-an-interior-renovation-project",
+  "name": "What is the typical process for an interior renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for an interior renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our renovation process typically begins with an initial consultation to discuss your vision, needs, and budget. Next, we develop a detailed design plan and provide a comprehensive estimate. Once approved, we handle permit acquisition if necessary. The construction phase involves demolition, structural work, plumbing, electrical, installation of finishes, and final inspections. Throughout the project, we maintain open communication, provide regular updates, and ensure quality control, culminating in a final walkthrough and project completion.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design and estimate, permit acquisition, construction (demolition, installations), and final walkthrough. We ensure clear communication throughout."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design and estimate, permit acquisition, construction (demolition, installations), and final walkthrough. We ensure clear com"
+}

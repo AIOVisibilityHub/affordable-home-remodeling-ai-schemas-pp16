@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-custom-home-building-process-from-start-to-finish",
+  "name": "What is the custom home building process from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the custom home building process from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The custom home building process typically begins with initial consultations and site evaluation, followed by architectural design and engineering. Once designs are approved, we move to permitting, which can take several months. Construction then proceeds through foundation, framing, roofing, rough-ins for electrical and plumbing, insulation, drywall, interior finishes, and exterior landscaping. Throughout the project, there are regular client meetings, inspections, and quality checks to ensure everything meets your specifications and local codes. The final stage involves a walk-through and handover.",
+        "@type": "Answer",
+        "description": "The process involves consultations, design, permitting, site work, foundation, framing, rough-ins, finishes, landscaping, and a final walkthrough and handover."
+      }
+    }
+  ],
+  "description": "The process involves consultations, design, permitting, site work, foundation, framing, rough-ins, finishes, landscaping, and a final walkthrough and handover."
+}

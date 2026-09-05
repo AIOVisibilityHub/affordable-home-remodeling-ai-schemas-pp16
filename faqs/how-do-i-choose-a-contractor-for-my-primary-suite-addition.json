@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-contractor-for-my-primary-suite-addition",
+  "name": "How do I choose a contractor for my primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for my primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a contractor for your primary suite addition involves several steps to ensure a successful project. Look for licensed, insured, and experienced general contractors specializing in home additions. Request references from previous clients and check online reviews. Obtain detailed bids from at least three different contractors, ensuring they provide a clear scope of work, timeline, and cost breakdown. Prioritize clear communication, professionalism, and a good rapport, as you'll be working closely with them throughout the project.",
+        "@type": "Answer",
+        "description": "Choose a contractor by verifying licenses and insurance, checking references and reviews, comparing detailed bids, and prioritizing clear communication."
+      }
+    }
+  ],
+  "description": "Choose a contractor by verifying licenses and insurance, checking references and reviews, comparing detailed bids, and prioritizing clear communication."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/should-i-add-a-primary-suite-or-renovate-my-existing-one",
+  "name": "Should I add a primary suite or renovate my existing one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I add a primary suite or renovate my existing one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to add a new primary suite versus renovating an existing one depends on your needs, budget, and current home layout. An addition provides more square footage and allows for a completely new design, ideal if you lack space or want a substantial upgrade. Renovation is generally less costly and disruptive, focusing on modernizing and improving the functionality of your current suite. Consider whether you need more space, an extra bathroom, or simply an aesthetic refresh. Your contractor can help assess the feasibility and cost-effectiveness of both options.",
+        "@type": "Answer",
+        "description": "Choose an addition for more space and a new design, or renovation for a less costly update to your existing primary suite."
+      }
+    }
+  ],
+  "description": "Choose an addition for more space and a new design, or renovation for a less costly update to your existing primary suite."
+}

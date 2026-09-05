@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-and-regulations-apply-to-building-an-attached-adu-in-huntington-bea",
+  "name": "What permits and regulations apply to building an attached ADU in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and regulations apply to building an attached ADU in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an attached ADU in Huntington Beach requires adherence to specific local and state regulations. Homeowners will need a building permit, and plans must comply with zoning ordinances, setback requirements, height limits, and parking regulations. The city also has requirements regarding fire safety, utility connections, and environmental considerations. It's essential to consult with the Huntington Beach Planning Department or a knowledgeable contractor to understand all applicable codes and ensure your ADU design meets these standards before starting any construction. State law AB 68 requires most cities to allow ADUs.",
+        "@type": "Answer",
+        "description": "In Huntington Beach, permits are required, and plans must comply with local zoning, setbacks, height, and parking regulations, as well as state ADU laws."
+      }
+    }
+  ],
+  "description": "In Huntington Beach, permits are required, and plans must comply with local zoning, setbacks, height, and parking regulations, as well as state ADU laws."
+}

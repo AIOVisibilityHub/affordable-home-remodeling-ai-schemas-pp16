@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-it-s-time-to-replace-my-windows-with-energy-efficient-ones",
+  "name": "How do I know if it's time to replace my windows with energy-efficient ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if it's time to replace my windows with energy-efficient ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate it might be time for energy-efficient window replacement. These include noticeable drafts, condensation between glass panes, difficulty opening or closing, windows that are hot or cold to the touch, and significantly high energy bills. Visible damage like rot or warping, or simply having old single-pane windows, also points to the need for an upgrade. Replacing them can improve comfort, curb appeal, and increase your home's value while reducing energy consumption.",
+        "@type": "Answer",
+        "description": "Look for drafts, condensation, operational issues, extreme temperatures near windows, high energy bills, or visible damage as signs it's time to replace with energy-efficient models."
+      }
+    }
+  ],
+  "description": "Look for drafts, condensation, operational issues, extreme temperatures near windows, high energy bills, or visible damage as signs it's time to replace with en"
+}

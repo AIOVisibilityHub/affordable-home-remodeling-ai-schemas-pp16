@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-stay-in-my-home-during-a-primary-suite-addition",
+  "name": "Can I stay in my home during a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during a primary suite addition depends on the scale and location of the project. If the addition is a separate extension or a second story with minimal impact on your existing living space, it may be possible to remain in your home, though expect noise and dust. However, if the project involves significant demolition or extensive work that disrupts essential services like plumbing or electricity in core areas of your home, temporary relocation might be necessary for your comfort and safety. Discuss this with your contractor.",
+        "@type": "Answer",
+        "description": "Staying in your home during an addition is possible if disruption is minimal, but you might need to relocate for extensive work or utility interruptions."
+      }
+    }
+  ],
+  "description": "Staying in your home during an addition is possible if disruption is minimal, but you might need to relocate for extensive work or utility interruptions."
+}

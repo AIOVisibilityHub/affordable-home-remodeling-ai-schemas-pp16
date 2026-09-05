@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-contractor-for-my-detached-adu-project",
+  "name": "How do I choose a contractor for my detached ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for my detached ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a contractor for your detached ADU project involves several key steps. Look for licensed and insured general contractors with specific experience in ADU construction, particularly in your local area like Irvine or Yorba Linda. Request references from previous ADU clients and review their portfolio. Obtain multiple detailed bids that clearly outline scope of work, timeline, and costs. Ensure clear communication and a transparent contract before making a final decision.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with ADU experience, check references, review portfolios, and get multiple detailed bids before deciding."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with ADU experience, check references, review portfolios, and get multiple detailed bids before deciding."
+}

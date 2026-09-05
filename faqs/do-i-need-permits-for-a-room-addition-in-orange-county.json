@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-a-room-addition-in-orange-county",
+  "name": "Do I need permits for a room addition in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a room addition in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are required for room additions in Orange County, including areas like Huntington Beach, Irvine, and Mission Viejo. Building codes and zoning regulations are in place to ensure safety, structural integrity, and compliance with local planning ordinances. Obtaining the necessary permits involves submitting detailed plans to your local city or county building department for review and approval. Your general contractor can guide you through this permitting process, ensuring all requirements are met before construction begins.",
+        "@type": "Answer",
+        "description": "Yes, permits are required for room additions in Orange County cities to ensure compliance with local building codes and zoning regulations."
+      }
+    }
+  ],
+  "description": "Yes, permits are required for room additions in Orange County cities to ensure compliance with local building codes and zoning regulations."
+}

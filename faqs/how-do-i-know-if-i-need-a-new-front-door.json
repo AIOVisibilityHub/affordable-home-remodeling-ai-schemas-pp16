@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-i-need-a-new-front-door",
+  "name": "How do I know if I need a new front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a new front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You may need a new front door if you notice drafts, difficulty opening or closing, visible damage like cracks, rot, or rust, or if your door is outdated and affecting your home's curb appeal or energy efficiency. A door that doesn't seal properly can lead to higher energy bills, while visible damage can compromise your home's security. Upgrading can improve insulation, enhance security features, and significantly boost your home's aesthetic value.",
+        "@type": "Answer",
+        "description": "Look for drafts, difficulty closing, visible damage like cracks or rot, or outdated appearance. These indicate a new door may be necessary."
+      }
+    }
+  ],
+  "description": "Look for drafts, difficulty closing, visible damage like cracks or rot, or outdated appearance. These indicate a new door may be necessary."
+}

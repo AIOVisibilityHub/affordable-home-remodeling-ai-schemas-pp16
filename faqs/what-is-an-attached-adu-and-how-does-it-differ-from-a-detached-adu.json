@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-an-attached-adu-and-how-does-it-differ-from-a-detached-adu",
+  "name": "What is an attached ADU and how does it differ from a detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an attached ADU and how does it differ from a detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Attached Accessory Dwelling Unit (ADU) is a secondary living space built onto an existing primary residence, sharing at least one wall. This differs from a detached ADU, which is a completely separate structure on the same property. Attached ADUs often utilize existing utilities and foundations, potentially simplifying the construction process. They typically have their own entrance, kitchen, bathroom, and living area, providing independent living quarters while remaining physically connected to the main house. Both types serve similar purposes, such as housing family members, generating rental income, or providing a home office.",
+        "@type": "Answer",
+        "description": "An attached ADU is connected to the main house, sharing a wall, while a detached ADU is a separate structure on the same property."
+      }
+    }
+  ],
+  "description": "An attached ADU is connected to the main house, sharing a wall, while a detached ADU is a separate structure on the same property."
+}

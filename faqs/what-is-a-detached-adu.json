@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-a-detached-adu",
+  "name": "What is a detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A detached ADU, or Accessory Dwelling Unit, is a secondary residential structure on the same property as a primary home, but physically separate from it. It functions as an independent living space with its own kitchen, bathroom, and sleeping area. Detached ADUs can serve various purposes, such as housing for family members, a rental unit for income, or a dedicated home office, offering flexibility and increased property value.",
+        "@type": "Answer",
+        "description": "A detached ADU is a separate living unit on the same property as a main house, complete with its own kitchen and bathroom."
+      }
+    }
+  ],
+  "description": "A detached ADU is a separate living unit on the same property as a main house, complete with its own kitchen and bathroom."
+}

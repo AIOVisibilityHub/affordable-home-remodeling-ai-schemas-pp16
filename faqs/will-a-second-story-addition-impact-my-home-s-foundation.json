@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-a-second-story-addition-impact-my-home-s-foundation",
+  "name": "Will a second-story addition impact my home's foundation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a second-story addition impact my home's foundation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a second-story addition will impact your home's foundation, as it introduces significant additional weight. A structural engineer must assess your existing foundation to determine if it can support the new load. In many cases, foundation reinforcement or modifications are necessary to ensure the structural integrity and safety of the entire home. This crucial step is part of the initial planning phase and is incorporated into the overall construction plans before any work begins, ensuring compliance with local building codes.",
+        "@type": "Answer",
+        "description": "Yes, a second-story addition adds significant weight, requiring a structural engineer to assess and often reinforce the existing foundation to ensure safety and compliance with building codes."
+      }
+    }
+  ],
+  "description": "Yes, a second-story addition adds significant weight, requiring a structural engineer to assess and often reinforce the existing foundation to ensure safety and"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-replacing-my-front-door",
+  "name": "What is the process for replacing my front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing my front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with a consultation to discuss your needs, style preferences, and budget. We'll help you select the right door material and design. Next, detailed measurements are taken to ensure a perfect fit. Once the new door arrives, our team will remove your old door and frame, prepare the opening, install the new pre-hung door unit, ensure it's plumb and level, and then complete all necessary trim work and sealing. Finally, we conduct a walkthrough with you to ensure satisfaction.",
+        "@type": "Answer",
+        "description": "The process involves consultation, door selection, precise measurements, old door removal, new door installation, and finishing touches."
+      }
+    }
+  ],
+  "description": "The process involves consultation, door selection, precise measurements, old door removal, new door installation, and finishing touches."
+}

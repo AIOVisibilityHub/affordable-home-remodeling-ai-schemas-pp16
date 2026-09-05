@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-i-expect-during-the-initial-consultation-with-a-general-contractor",
+  "name": "What should I expect during the initial consultation with a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect during the initial consultation with a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an initial consultation, the contractor will typically discuss your project goals, vision, and budget. They will often ask about your timeline, specific requirements, and any design ideas you have. The contractor may take measurements, assess the current condition of your home, and offer preliminary suggestions or solutions. This meeting is an opportunity for you to ask questions, understand their process, and determine if they are a good fit for your project. Affordable Home Remodeling uses this consultation to gather details and provide tailored recommendations.",
+        "@type": "Answer",
+        "description": "Expect to discuss project goals, budget, and timeline. The contractor will assess the site, offer suggestions, and answer your questions."
+      }
+    }
+  ],
+  "description": "Expect to discuss project goals, budget, and timeline. The contractor will assess the site, offer suggestions, and answer your questions."
+}

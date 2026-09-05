@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-seal-my-granite-countertops-and-how-often",
+  "name": "Do I need to seal my granite countertops, and how often?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to seal my granite countertops, and how often?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most granite countertops require sealing to protect them from stains and moisture penetration. The frequency of sealing depends on the type of granite and how porous it is; some may need sealing annually, while others can go several years between treatments. A simple water test can indicate if sealing is needed: if water beads on the surface, the seal is good; if it soaks in, it's time to reseal. We can advise on the best sealing practices for your specific granite.",
+        "@type": "Answer",
+        "description": "Most granite countertops require sealing to prevent stains and moisture. Frequency varies, but typically ranges from annually to every few years, depending on porosity."
+      }
+    }
+  ],
+  "description": "Most granite countertops require sealing to prevent stains and moisture. Frequency varies, but typically ranges from annually to every few years, depending on p"
+}

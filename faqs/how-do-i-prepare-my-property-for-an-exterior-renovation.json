@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-prepare-my-property-for-an-exterior-renovation",
+  "name": "How do I prepare my property for an exterior renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my property for an exterior renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your property, first, clear the work area of any obstructions like outdoor furniture, potted plants, or decorations. Ensure vehicles are parked away from the construction zone. Trim any overgrown bushes or trees that might interfere with access or work. Inform your neighbors about the upcoming project. If you have pets or children, plan for their safety and keep them away from the active construction site. Our team will provide specific guidance for your project during the planning phase.",
+        "@type": "Answer",
+        "description": "Clear the work area of furniture and plants, park vehicles away, and trim overgrown landscaping. Inform neighbors and ensure pet/child safety. Specific guidance will be provided."
+      }
+    }
+  ],
+  "description": "Clear the work area of furniture and plants, park vehicles away, and trim overgrown landscaping. Inform neighbors and ensure pet/child safety. Specific guidance"
+}

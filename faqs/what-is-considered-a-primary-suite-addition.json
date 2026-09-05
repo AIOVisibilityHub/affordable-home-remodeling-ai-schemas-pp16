@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-considered-a-primary-suite-addition",
+  "name": "What is considered a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary suite addition typically involves expanding an existing home to create a new, dedicated space for the homeowners' main bedroom. This can include adding a larger bedroom area, an en-suite bathroom, and often a walk-in closet. The goal is to provide a private and luxurious retreat within the home, increasing both living space and property value. These additions can be built as a bump-out on the first floor or as a second-story extension, depending on lot size, zoning regulations, and structural feasibility.",
+        "@type": "Answer",
+        "description": "A primary suite addition creates a new, dedicated main bedroom space within a home, often including an en-suite bathroom and walk-in closet."
+      }
+    }
+  ],
+  "description": "A primary suite addition creates a new, dedicated main bedroom space within a home, often including an en-suite bathroom and walk-in closet."
+}

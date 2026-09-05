@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-replacement-windows-and-new-construction-windows",
+  "name": "What is the difference between replacement windows and new construction windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between replacement windows and new construction windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacement windows, also known as insert windows, are designed to fit within the existing window frame. New construction windows are designed for homes where the entire window frame and surrounding elements are removed or for brand-new builds. The choice depends on the condition of your existing window frames and the scope of your renovation project.",
+        "@type": "Answer",
+        "description": "Replacement windows fit existing frames, while new construction windows require full frame removal, suitable for new builds or major renovations."
+      }
+    }
+  ],
+  "description": "Replacement windows fit existing frames, while new construction windows require full frame removal, suitable for new builds or major renovations."
+}

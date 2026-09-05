@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-type-of-paint-is-best-for-exterior-house-painting",
+  "name": "What type of paint is best for exterior house painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of paint is best for exterior house painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For exterior house painting, acrylic latex paints are generally considered the best choice due to their durability, flexibility, and resistance to cracking, fading, and mildew. They are water-based, making cleanup easier and drying faster. While oil-based paints offer excellent adhesion and a harder finish, they can become brittle over time and require mineral spirits for cleanup. High-quality acrylic latex paints are formulated to withstand harsh weather conditions, providing superior protection and longevity for your home's exterior.",
+        "@type": "Answer",
+        "description": "Acrylic latex paints are generally best for exterior house painting due to their durability, flexibility, and resistance to weather and mildew."
+      }
+    }
+  ],
+  "description": "Acrylic latex paints are generally best for exterior house painting due to their durability, flexibility, and resistance to weather and mildew."
+}

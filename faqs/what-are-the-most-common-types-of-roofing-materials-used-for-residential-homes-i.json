@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-most-common-types-of-roofing-materials-used-for-residential-homes-i",
+  "name": "What are the most common types of roofing materials used for residential homes in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most common types of roofing materials used for residential homes in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For homes in Orange County, common roofing materials include asphalt shingles, concrete tiles, and cool roof systems. Asphalt shingles are popular for their affordability and versatility. Concrete tiles offer durability and a distinctive aesthetic, often suitable for various architectural styles. Cool roof systems, which reflect sunlight and absorb less heat, are gaining popularity due to their energy efficiency benefits in our climate, helping to reduce cooling costs and extend roof lifespan.",
+        "@type": "Answer",
+        "description": "Common residential roofing materials in Orange County include asphalt shingles, concrete tiles, and cool roof systems, each offering different benefits regarding cost, durability, and energy efficiency."
+      }
+    }
+  ],
+  "description": "Common residential roofing materials in Orange County include asphalt shingles, concrete tiles, and cool roof systems, each offering different benefits regardin"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-financing-options-are-available-for-new-home-construction",
+  "name": "What kind of financing options are available for new home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of financing options are available for new home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing for new home construction typically involves a construction loan, which is a short-term loan that covers the costs of building the home. Funds are disbursed in stages as construction milestones are met. Once the home is complete, the construction loan is usually converted into a permanent mortgage. Some lenders also offer construction-to-permanent loans that combine both phases into one loan. It's advisable to speak with multiple lenders to explore options and secure favorable terms.",
+        "@type": "Answer",
+        "description": "New home construction is typically financed through construction loans, which disburse funds in stages and convert to a permanent mortgage upon completion."
+      }
+    }
+  ],
+  "description": "New home construction is typically financed through construction loans, which disburse funds in stages and convert to a permanent mortgage upon completion."
+}

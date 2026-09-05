@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-needed-to-build-a-custom-home-in-huntington-beach",
+  "name": "What permits are needed to build a custom home in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed to build a custom home in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a custom home in Huntington Beach requires various permits, typically including a building permit, grading permit, and potentially permits for electrical, plumbing, mechanical, and fire sprinklers. Depending on the specific location and project scope, additional permits might be needed for environmental impact, coastal development (if applicable), or specific zoning requirements. Our team handles the entire permitting process, working with the City of Huntington Beach and other relevant authorities to ensure all necessary approvals are secured before construction begins.",
+        "@type": "Answer",
+        "description": "Custom homes in Huntington Beach require building, grading, and trade permits, potentially others for coastal or zoning needs. Our team manages this process."
+      }
+    }
+  ],
+  "description": "Custom homes in Huntington Beach require building, grading, and trade permits, potentially others for coastal or zoning needs. Our team manages this process."
+}

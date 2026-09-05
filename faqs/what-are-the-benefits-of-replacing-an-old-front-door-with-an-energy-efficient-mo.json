@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-replacing-an-old-front-door-with-an-energy-efficient-mo",
+  "name": "What are the benefits of replacing an old front door with an energy-efficient model?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of replacing an old front door with an energy-efficient model?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing an old front door with an energy-efficient model can significantly improve your home's insulation, reducing heat loss in winter and heat gain in summer. This leads to lower energy bills and a more comfortable indoor environment. Modern energy-efficient doors often feature advanced weatherstripping, insulated cores, and better-sealing frames. This upgrade not only saves money on utilities but also contributes to a quieter home by reducing outside noise.",
+        "@type": "Answer",
+        "description": "An energy-efficient front door improves insulation, lowers energy bills, enhances indoor comfort, and reduces outside noise."
+      }
+    }
+  ],
+  "description": "An energy-efficient front door improves insulation, lowers energy bills, enhances indoor comfort, and reduces outside noise."
+}

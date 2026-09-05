@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-a-professional-entry-door-installation",
+  "name": "What is involved in a professional entry door installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional entry door installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional entry door installation involves several key steps to ensure proper fit, security, and energy efficiency. Initially, the existing door and frame are carefully removed. The new door frame is then prepared and installed, ensuring it is level and plumb. This often includes adding insulation and sealing around the frame to prevent drafts. The new door slab is then hung, adjusted for smooth operation, and hardware such as handles and locks are installed. Finally, interior and exterior trim is applied, and the work area is cleaned. Our process emphasizes precision to maximize your door's lifespan and performance.",
+        "@type": "Answer",
+        "description": "Professional entry door installation includes removing the old door, preparing and installing the new frame, hanging and adjusting the door, installing hardware, and finishing with trim and sealing."
+      }
+    }
+  ],
+  "description": "Professional entry door installation includes removing the old door, preparing and installing the new frame, hanging and adjusting the door, installing hardware"
+}

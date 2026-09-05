@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-warranty-on-a-new-entry-door-installation",
+  "name": "What is the typical warranty on a new entry door installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical warranty on a new entry door installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Warranties for new entry door installations typically consist of two parts: the manufacturer's warranty for the door unit itself and the installer's warranty for the labor. Manufacturer warranties can vary widely, often ranging from 10 years to lifetime coverage for the door components, depending on the material and specific manufacturer. Installation labor warranties are usually shorter, commonly ranging from 1 to 5 years, covering issues related to the workmanship of the installation. Always clarify the specifics of both warranties with your contractor before proceeding.",
+        "@type": "Answer",
+        "description": "New entry door installations typically include a manufacturer's warranty for the door (10 years to lifetime) and an installer's labor warranty (1-5 years)."
+      }
+    }
+  ],
+  "description": "New entry door installations typically include a manufacturer's warranty for the door (10 years to lifetime) and an installer's labor warranty (1-5 years)."
+}

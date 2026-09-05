@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/will-a-primary-suite-addition-increase-my-home-s-value",
+  "name": "Will a primary suite addition increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a primary suite addition increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and constructed primary suite addition can significantly increase your home's market value. It enhances the functionality, appeal, and overall square footage, which are attractive features for potential buyers. The return on investment can vary depending on the local real estate market, quality of finishes, and how well the addition integrates with the existing structure. It's considered one of the most impactful home improvements for resale.",
+        "@type": "Answer",
+        "description": "A well-designed primary suite addition can significantly increase home value by adding functionality, appeal, and square footage."
+      }
+    }
+  ],
+  "description": "A well-designed primary suite addition can significantly increase home value by adding functionality, appeal, and square footage."
+}

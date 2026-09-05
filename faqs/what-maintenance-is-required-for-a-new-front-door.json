@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-maintenance-is-required-for-a-new-front-door",
+  "name": "What maintenance is required for a new front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a new front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance depends on the door material. Steel and fiberglass doors generally require minimal upkeep, typically needing only occasional cleaning with mild soap and water. Wood doors, however, may require more frequent attention, such as periodic repainting, restaining, or sealing to protect against moisture and UV damage. Regular inspection for wear and tear, along with lubricating hinges and checking weatherstripping, will help extend the life of any front door. We can provide specific care instructions for your chosen door type.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material: steel and fiberglass need minimal cleaning, while wood doors may require periodic repainting or sealing."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material: steel and fiberglass need minimal cleaning, while wood doors may require periodic repainting or sealing."
+}

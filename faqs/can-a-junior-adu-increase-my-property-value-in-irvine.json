@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-a-junior-adu-increase-my-property-value-in-irvine",
+  "name": "Can a Junior ADU increase my property value in Irvine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a Junior ADU increase my property value in Irvine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a Junior ADU can potentially increase your property value in Irvine by providing additional living space and rental income potential. While specific increases vary based on market conditions, the quality of the JADU, and property characteristics, homes with well-built JADUs often command higher prices. Appraisers typically consider the added square footage, income-generating capability, and overall utility of the new space when assessing a property's value. It's a strategic investment that diversifies your property's appeal.",
+        "@type": "Answer",
+        "description": "Yes, a well-built Junior ADU can increase property value in Irvine by adding living space and rental income potential."
+      }
+    }
+  ],
+  "description": "Yes, a well-built Junior ADU can increase property value in Irvine by adding living space and rental income potential."
+}

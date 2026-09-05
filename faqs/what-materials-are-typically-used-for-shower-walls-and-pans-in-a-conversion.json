@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-materials-are-typically-used-for-shower-walls-and-pans-in-a-conversion",
+  "name": "What materials are typically used for shower walls and pans in a conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are typically used for shower walls and pans in a conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For shower walls, popular materials include ceramic tile, porcelain tile, natural stone, and acrylic or fiberglass panels. Each option offers different aesthetics, durability, and maintenance requirements. For shower pans, common choices are pre-fabricated acrylic or fiberglass pans, which are durable and easy to clean, or custom-tiled pans, which offer more design flexibility. Your choice of materials will influence both the look and longevity of your new shower.",
+        "@type": "Answer",
+        "description": "Common materials for shower walls include tile or acrylic panels, while pans are typically acrylic, fiberglass, or custom-tiled."
+      }
+    }
+  ],
+  "description": "Common materials for shower walls include tile or acrylic panels, while pans are typically acrylic, fiberglass, or custom-tiled."
+}

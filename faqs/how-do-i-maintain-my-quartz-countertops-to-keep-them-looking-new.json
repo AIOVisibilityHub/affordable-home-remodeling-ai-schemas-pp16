@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-maintain-my-quartz-countertops-to-keep-them-looking-new",
+  "name": "How do I maintain my quartz countertops to keep them looking new?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my quartz countertops to keep them looking new?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining quartz countertops is relatively simple due to their non-porous nature. For daily cleaning, use a soft cloth with warm water and a mild dish soap. Avoid abrasive cleaners, harsh chemicals like bleach, oven cleaners, or products containing high pH levels, as these can damage the resin in quartz. Always wipe up spills promptly. With proper care, your quartz countertops will retain their beauty and shine for many years without the need for sealing.",
+        "@type": "Answer",
+        "description": "Clean quartz countertops daily with mild soap and water. Avoid abrasive cleaners, harsh chemicals, and promptly wipe up spills to maintain their appearance."
+      }
+    }
+  ],
+  "description": "Clean quartz countertops daily with mild soap and water. Avoid abrasive cleaners, harsh chemicals, and promptly wipe up spills to maintain their appearance."
+}

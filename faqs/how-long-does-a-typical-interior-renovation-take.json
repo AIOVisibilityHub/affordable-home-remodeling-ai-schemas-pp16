@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-interior-renovation-take",
+  "name": "How long does a typical interior renovation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical interior renovation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an interior renovation varies significantly based on the project's scope and complexity. A small room refresh might take a few days, while a complete kitchen or bathroom remodel can range from 4 to 12 weeks. Whole-home renovations, especially those involving structural changes, can extend to several months. Factors like material lead times, unforeseen issues, and the need for permits also influence the timeline. A detailed project plan and schedule are established before work begins.",
+        "@type": "Answer",
+        "description": "Project duration varies; small renovations can take days, while kitchens or bathrooms may take 4-12 weeks, and whole-home remodels can take several months."
+      }
+    }
+  ],
+  "description": "Project duration varies; small renovations can take days, while kitchens or bathrooms may take 4-12 weeks, and whole-home remodels can take several months."
+}

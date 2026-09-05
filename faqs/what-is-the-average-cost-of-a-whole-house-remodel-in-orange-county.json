@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-a-whole-house-remodel-in-orange-county",
+  "name": "What is the average cost of a whole house remodel in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a whole house remodel in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a whole house remodel in Orange County varies widely depending on factors such as the size of your home, the extent of the renovations, material selections, and any structural changes. Basic cosmetic updates for a modest home might start around $100,000, while extensive luxury remodels with high-end finishes and structural work could easily exceed $500,000. It's crucial to have a detailed consultation to establish a realistic budget based on your specific project requirements and design choices.",
+        "@type": "Answer",
+        "description": "Average costs for a whole house remodel in Orange County vary widely, from around $100,000 for basic updates to over $500,000 for extensive luxury projects."
+      }
+    }
+  ],
+  "description": "Average costs for a whole house remodel in Orange County vary widely, from around $100,000 for basic updates to over $500,000 for extensive luxury projects."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-painting-kitchen-cabinets",
+  "name": "What is the process for painting kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for painting kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our cabinet painting process begins with a thorough cleaning and degreasing of all surfaces. Next, we remove doors and drawers, label them, and transport them to our workshop for specialized treatment. In your home, we meticulously mask and protect surrounding areas. We then sand, prime, and apply multiple coats of a durable, high-quality paint to both the cabinet frames and the doors/drawers. Finally, everything is reinstalled, and a final inspection ensures a flawless finish.",
+        "@type": "Answer",
+        "description": "The process involves cleaning, removing doors, extensive prep work, multiple coats of paint, and reinstallation. It ensures a durable, smooth finish."
+      }
+    }
+  ],
+  "description": "The process involves cleaning, removing doors, extensive prep work, multiple coats of paint, and reinstallation. It ensures a durable, smooth finish."
+}

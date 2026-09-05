@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-approximate-cost-range-for-a-tub-to-shower-conversion",
+  "name": "What is the approximate cost range for a tub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the approximate cost range for a tub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a tub-to-shower conversion can vary significantly based on several factors, including the size of the shower, materials selected, and the extent of plumbing work required. Basic conversions might start in the range of a few thousand dollars, while more luxurious options with custom tile, high-end fixtures, and additional features can be considerably higher. We provide detailed estimates after assessing your specific needs and preferences during a consultation.",
+        "@type": "Answer",
+        "description": "Costs vary based on size, materials, and plumbing work, but basic conversions can start at a few thousand dollars."
+      }
+    }
+  ],
+  "description": "Costs vary based on size, materials, and plumbing work, but basic conversions can start at a few thousand dollars."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-to-install-a-walk-in-shower-in-orange-county",
+  "name": "What is the typical cost to install a walk-in shower in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to install a walk-in shower in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a walk-in shower installation in Orange County varies significantly based on several factors. These include the size of the shower, the materials chosen (e.g., tile, glass, fixtures), the complexity of plumbing modifications, and any necessary structural work. Basic installations might start around $5,000, while more luxurious custom designs with high-end finishes can exceed $15,000. It's best to get a detailed estimate for your specific project. We provide free consultations to assess your needs and offer transparent pricing.",
+        "@type": "Answer",
+        "description": "Walk-in shower installation costs in Orange County typically range from $5,000 to over $15,000, depending on size, materials, and complexity. A detailed estimate is recommended for accurate pricing."
+      }
+    }
+  ],
+  "description": "Walk-in shower installation costs in Orange County typically range from $5,000 to over $15,000, depending on size, materials, and complexity. A detailed estimat"
+}

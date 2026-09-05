@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-common-design-considerations-for-an-attached-adu",
+  "name": "What are the common design considerations for an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common design considerations for an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Designing an attached ADU involves balancing functionality, aesthetics, and code compliance. Key considerations include ensuring the ADU's design complements the main house's architectural style, both inside and out. Optimize the layout for efficient use of space, incorporating a functional kitchen, bathroom, and living/sleeping areas. Consider natural light and ventilation, soundproofing for privacy, and accessible design elements if needed. Integrating separate utilities or sub-meters, and ensuring independent entry and outdoor space are also critical. Work with a designer to maximize comfort and livability within the constraints of your property and local zoning.",
+        "@type": "Answer",
+        "description": "Common design considerations for an attached ADU include matching the main house's style, optimizing space, ensuring natural light and privacy, and integrating separate utilities and entry."
+      }
+    }
+  ],
+  "description": "Common design considerations for an attached ADU include matching the main house's style, optimizing space, ensuring natural light and privacy, and integrating"
+}

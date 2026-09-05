@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-it-typically-cost-to-design-and-build-an-adu-in-orange-county",
+  "name": "How much does it typically cost to design and build an ADU in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it typically cost to design and build an ADU in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of designing and building an ADU in Orange County varies significantly based on size, type, finishes, and site conditions. A basic garage conversion might start from $80,000 to $150,000, while a new detached ADU can range from $150,000 to over $300,000. These figures include design, permits, materials, and construction. A detailed estimate requires an on-site evaluation of your specific project.",
+        "@type": "Answer",
+        "description": "Costs for an ADU in Orange County range from $80,000 for a basic garage conversion to over $300,000 for a new detached unit, depending on size, type, and finishes."
+      }
+    }
+  ],
+  "description": "Costs for an ADU in Orange County range from $80,000 for a basic garage conversion to over $300,000 for a new detached unit, depending on size, type, and finish"
+}

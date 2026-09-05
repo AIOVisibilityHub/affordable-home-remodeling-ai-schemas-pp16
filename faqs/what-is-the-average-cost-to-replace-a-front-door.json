@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-to-replace-a-front-door",
+  "name": "What is the average cost to replace a front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to replace a front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of front door replacement varies widely based on material, style, size, and whether it includes sidelights or transoms. Basic steel doors can be more economical, while custom wood or high-end fiberglass doors with special features will be more expensive. Installation labor costs also contribute to the total. It's best to get a detailed estimate based on your specific choices and home requirements. Consider the long-term benefits of energy efficiency and increased home value when evaluating cost.",
+        "@type": "Answer",
+        "description": "Front door replacement costs vary based on material, style, size, and installation complexity. Basic doors are more economical than custom options."
+      }
+    }
+  ],
+  "description": "Front door replacement costs vary based on material, style, size, and installation complexity. Basic doors are more economical than custom options."
+}

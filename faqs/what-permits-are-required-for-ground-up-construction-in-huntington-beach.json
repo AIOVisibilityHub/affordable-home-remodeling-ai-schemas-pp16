@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-ground-up-construction-in-huntington-beach",
+  "name": "What permits are required for ground-up construction in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for ground-up construction in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For ground-up construction in Huntington Beach, you will need a range of permits, typically including a building permit, grading permit, electrical permit, plumbing permit, and mechanical permit. Additional permits may be required for specific aspects like tree removal, significant landscaping, or retaining walls. The exact requirements depend on the project's scope and local zoning ordinances. Your general contractor or architect will usually handle the application and approval process with the city's building department.",
+        "@type": "Answer",
+        "description": "Ground-up construction in Huntington Beach requires various permits, including building, grading, electrical, plumbing, and mechanical permits."
+      }
+    }
+  ],
+  "description": "Ground-up construction in Huntington Beach requires various permits, including building, grading, electrical, plumbing, and mechanical permits."
+}

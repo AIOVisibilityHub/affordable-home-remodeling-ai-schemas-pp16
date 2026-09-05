@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-can-i-save-on-my-energy-bills-with-new-energy-efficient-windows",
+  "name": "How much can I save on my energy bills with new energy-efficient windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much can I save on my energy bills with new energy-efficient windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Energy bill savings vary based on several factors, including your home's original window efficiency, climate, specific window features, and local energy rates. Homeowners often report significant reductions, with estimates ranging from 10% to 25% or more on heating and cooling costs. The long-term savings often make energy-efficient windows a worthwhile investment. We can provide a more personalized estimate during a consultation, considering your current energy usage and the types of windows you're replacing.",
+        "@type": "Answer",
+        "description": "Savings on energy bills can range from 10% to 25% or more, depending on your current windows, climate, and the new window features installed."
+      }
+    }
+  ],
+  "description": "Savings on energy bills can range from 10% to 25% or more, depending on your current windows, climate, and the new window features installed."
+}

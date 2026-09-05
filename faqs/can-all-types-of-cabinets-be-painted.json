@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-all-types-of-cabinets-be-painted",
+  "name": "Can all types of cabinets be painted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can all types of cabinets be painted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most cabinet materials can be successfully painted, including solid wood, MDF (medium-density fiberboard), and previously painted or stained cabinets. Laminate and thermofoil cabinets can also be painted, but they require specific primers and careful preparation to ensure proper adhesion and a lasting finish. Cabinets that are severely damaged, delaminated, or have peeling surfaces may require repairs or may not be good candidates for painting alone. We assess each cabinet type individually during our consultation.",
+        "@type": "Answer",
+        "description": "Most cabinets, including wood, MDF, and previously painted ones, can be painted. Laminate and thermofoil require special primers. Severely damaged cabinets may not be suitable."
+      }
+    }
+  ],
+  "description": "Most cabinets, including wood, MDF, and previously painted ones, can be painted. Laminate and thermofoil require special primers. Severely damaged cabinets may"
+}

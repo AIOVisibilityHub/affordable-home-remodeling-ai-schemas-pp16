@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-return-on-investment-for-an-attached-adu",
+  "name": "What is the typical return on investment for an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical return on investment for an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The return on investment (ROI) for an attached ADU can be substantial, though it varies by location and market conditions. For rental purposes, an ADU can generate consistent monthly income, helping to offset mortgage payments or serving as a new revenue stream. In terms of property value, an ADU adds square footage and functionality, typically increasing the overall value of your home. While exact figures depend on construction costs versus local rental and property values, many homeowners see a significant appreciation in their home's worth and recover their investment over time through rental income or resale value.",
+        "@type": "Answer",
+        "description": "An attached ADU can offer a strong ROI through rental income and increased property value, though specifics vary by market."
+      }
+    }
+  ],
+  "description": "An attached ADU can offer a strong ROI through rental income and increased property value, though specifics vary by market."
+}

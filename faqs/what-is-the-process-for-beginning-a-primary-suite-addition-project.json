@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-beginning-a-primary-suite-addition-project",
+  "name": "What is the process for beginning a primary suite addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for beginning a primary suite addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically starts with an initial consultation with a general contractor to discuss your vision, budget, and project feasibility. This is followed by design development, often involving an architect to create detailed plans. Once plans are finalized, permits are secured from your local city or county. After permits are approved, construction begins, proceeding through various stages including foundation, framing, rough-ins for plumbing and electrical, insulation, drywall, and finishing work. Regular communication with your contractor ensures the project stays on track.",
+        "@type": "Answer",
+        "description": "Starting a primary suite addition involves a contractor consultation, design, permit acquisition, and then phased construction."
+      }
+    }
+  ],
+  "description": "Starting a primary suite addition involves a contractor consultation, design, permit acquisition, and then phased construction."
+}

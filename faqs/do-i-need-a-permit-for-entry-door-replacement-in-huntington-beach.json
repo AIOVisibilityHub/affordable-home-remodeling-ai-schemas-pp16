@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-entry-door-replacement-in-huntington-beach",
+  "name": "Do I need a permit for entry door replacement in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for entry door replacement in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, a like-for-like replacement of an entry door where the existing frame is not altered may not require a permit. However, if the project involves structural changes, such as widening the opening, moving the door, or if the door is part of a fire-rated assembly, a building permit from the City of Huntington Beach is typically required. It is always best practice to check with the local planning and building department or consult with your contractor to determine if a permit is necessary for your specific entry door replacement project.",
+        "@type": "Answer",
+        "description": "A permit for entry door replacement in Huntington Beach is usually required for structural changes or if it's a fire-rated door, but not always for like-for-like replacements."
+      }
+    }
+  ],
+  "description": "A permit for entry door replacement in Huntington Beach is usually required for structural changes or if it's a fire-rated door, but not always for like-for-lik"
+}

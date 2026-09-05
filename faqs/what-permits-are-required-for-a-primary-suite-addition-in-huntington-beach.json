@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-a-primary-suite-addition-in-huntington-beach",
+  "name": "What permits are required for a primary suite addition in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a primary suite addition in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a primary suite addition in Huntington Beach, you will typically need building permits from the city's Planning and Building Department. This includes permits for structural changes, electrical work, plumbing, and mechanical systems. Zoning compliance, setbacks, and impervious surface coverage are also reviewed. Our team assists with navigating the local permitting process, preparing necessary documentation, and ensuring all plans meet city codes before construction begins.",
+        "@type": "Answer",
+        "description": "Building, electrical, plumbing, and mechanical permits are usually required for primary suite additions in Huntington Beach. Our team assists with the permitting process."
+      }
+    }
+  ],
+  "description": "Building, electrical, plumbing, and mechanical permits are usually required for primary suite additions in Huntington Beach. Our team assists with the permittin"
+}

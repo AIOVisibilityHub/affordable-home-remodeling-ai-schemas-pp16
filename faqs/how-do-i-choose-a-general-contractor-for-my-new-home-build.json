@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-general-contractor-for-my-new-home-build",
+  "name": "How do I choose a general contractor for my new home build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a general contractor for my new home build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a general contractor for ground-up construction, look for experience with similar projects and a strong portfolio. Check their licenses, insurance, and references from past clients. Transparency in pricing, clear communication, and a detailed contract are vital. It's also important to ensure they have good relationships with local subcontractors and understand local building codes and regulations. Interviewing multiple contractors and comparing their proposals is highly recommended to find the best fit for your project.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, references, proper licensing, clear communication, and transparent pricing. Interview multiple candidates."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, references, proper licensing, clear communication, and transparent pricing. Interview multiple candidates."
+}

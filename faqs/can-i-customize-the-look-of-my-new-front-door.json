@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-customize-the-look-of-my-new-front-door",
+  "name": "Can I customize the look of my new front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the look of my new front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, customization options for front doors are extensive. You can choose from various materials, colors, finishes, and panel configurations. Decorative glass inserts, sidelights, and transoms can add unique character and natural light. Hardware, including handles, hinges, and kickplates, also offers opportunities for personalization. Many manufacturers provide a wide array of choices to match your home's architectural style and your individual taste, allowing you to create a distinct and welcoming entryway.",
+        "@type": "Answer",
+        "description": "Yes, front doors are highly customizable with choices in materials, colors, finishes, glass inserts, sidelights, transoms, and hardware to match your style."
+      }
+    }
+  ],
+  "description": "Yes, front doors are highly customizable with choices in materials, colors, finishes, glass inserts, sidelights, transoms, and hardware to match your style."
+}

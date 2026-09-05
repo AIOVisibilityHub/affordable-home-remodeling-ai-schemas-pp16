@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/should-i-move-appliances-during-a-kitchen-renovation",
+  "name": "Should I move appliances during a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I move appliances during a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to move appliances depends on your renovation goals and budget. Moving major appliances like the range, refrigerator, or sink often requires significant alterations to plumbing, electrical, or gas lines, which adds to the complexity, cost, and timeline of the project. If your current kitchen layout is highly inefficient or dysfunctional, relocating appliances can dramatically improve workflow and ergonomics. However, if you are content with the existing layout and seeking cosmetic upgrades, keeping appliances in their current spots can save substantial costs and expedite the renovation.",
+        "@type": "Answer",
+        "description": "Moving appliances increases renovation complexity and cost due to plumbing/electrical changes. Do it if the current layout is dysfunctional; otherwise, keep them in place to save time and money."
+      }
+    }
+  ],
+  "description": "Moving appliances increases renovation complexity and cost due to plumbing/electrical changes. Do it if the current layout is dysfunctional; otherwise, keep the"
+}

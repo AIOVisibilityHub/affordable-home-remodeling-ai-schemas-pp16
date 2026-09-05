@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-build-a-junior-adu",
+  "name": "How long does it take to build a Junior ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a Junior ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a Junior ADU can vary depending on several factors, including the complexity of the design, the extent of renovation needed for the existing space, and the city's permit review times. Typically, from initial design to final construction, a JADU project can take anywhere from 6 to 12 months. This includes the time for architectural drawings, permit acquisition, and the actual construction phase. We work to streamline the process for efficient completion.",
+        "@type": "Answer",
+        "description": "A Junior ADU project typically takes 6 to 12 months from design to completion, including permitting and construction phases."
+      }
+    }
+  ],
+  "description": "A Junior ADU project typically takes 6 to 12 months from design to completion, including permitting and construction phases."
+}

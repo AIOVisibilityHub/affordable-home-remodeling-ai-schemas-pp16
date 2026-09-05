@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-live-in-the-main-house-if-i-rent-out-my-junior-adu",
+  "name": "Do I need to live in the main house if I rent out my Junior ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to live in the main house if I rent out my Junior ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, current state law requires that the owner of the property must reside in either the primary dwelling or the Junior ADU. This is known as an 'owner-occupancy' requirement. The intent is to ensure that JADUs are primarily used to expand housing options while maintaining a level of oversight by the property owner. This regulation applies regardless of whether the JADU is rented out or used by family members.",
+        "@type": "Answer",
+        "description": "Yes, state law requires the property owner to reside in either the main house or the Junior ADU if one is built."
+      }
+    }
+  ],
+  "description": "Yes, state law requires the property owner to reside in either the main house or the Junior ADU if one is built."
+}

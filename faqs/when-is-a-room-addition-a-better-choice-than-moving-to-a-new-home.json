@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-is-a-room-addition-a-better-choice-than-moving-to-a-new-home",
+  "name": "When is a room addition a better choice than moving to a new home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a room addition a better choice than moving to a new home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition can be a better choice than moving if you love your current neighborhood, have children in local schools, or prefer to avoid the significant costs and hassle associated with selling and buying a new home. If your existing property has sufficient space for expansion and an addition can meet your needs for more square footage, it can be a more cost-effective and less disruptive solution. It allows you to tailor the new space precisely to your preferences while staying in a familiar environment.",
+        "@type": "Answer",
+        "description": "A room addition is often better than moving if you love your current location, want to avoid relocation costs, and have space for expansion."
+      }
+    }
+  ],
+  "description": "A room addition is often better than moving if you love your current location, want to avoid relocation costs, and have space for expansion."
+}

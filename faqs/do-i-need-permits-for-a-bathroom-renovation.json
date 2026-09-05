@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-a-bathroom-renovation",
+  "name": "Do I need permits for a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether permits are required for your bathroom renovation depends on the scope of work and local building codes in cities like Huntington Beach or Irvine. Minor cosmetic changes, such as painting or replacing a vanity without altering plumbing, typically do not require permits. However, any structural modifications, changes to the existing plumbing or electrical systems, or expansion of the bathroom footprint will almost certainly require permits. We handle all necessary permit applications and ensure your renovation complies with local regulations, streamlining the process for you.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for structural, plumbing, or electrical changes in a bathroom renovation, but not for minor cosmetic updates. We manage the permitting process."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for structural, plumbing, or electrical changes in a bathroom renovation, but not for minor cosmetic updates. We manage the permittin"
+}

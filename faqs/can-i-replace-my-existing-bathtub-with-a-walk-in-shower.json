@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-replace-my-existing-bathtub-with-a-walk-in-shower",
+  "name": "Can I replace my existing bathtub with a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my existing bathtub with a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing an existing bathtub with a walk-in shower is a very common remodeling project. This transformation often creates a more open and modern bathroom space, while also improving accessibility. It typically involves removing the tub, modifying the plumbing for a shower drain, and then building the new shower pan and walls. Considerations include the size of the existing space and your desired shower dimensions.",
+        "@type": "Answer",
+        "description": "Yes, it is a common renovation to replace a bathtub with a walk-in shower, enhancing space and accessibility."
+      }
+    }
+  ],
+  "description": "Yes, it is a common renovation to replace a bathtub with a walk-in shower, enhancing space and accessibility."
+}

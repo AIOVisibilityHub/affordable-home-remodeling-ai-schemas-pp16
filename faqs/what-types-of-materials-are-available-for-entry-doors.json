@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-materials-are-available-for-entry-doors",
+  "name": "What types of materials are available for entry doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are available for entry doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Entry doors are commonly available in several materials, each offering distinct characteristics. Steel doors are known for their strength, security, and affordability, often featuring a foam core for insulation. Fiberglass doors are durable, energy-efficient, resistant to dents and rust, and can mimic the look of wood. Wood doors provide a classic, high-end appearance and can be customized with various stains and finishes, though they require more maintenance. Some doors also combine materials, such as wood with a steel core, to leverage benefits from different types. Your choice depends on budget, desired aesthetic, and climate considerations.",
+        "@type": "Answer",
+        "description": "Common entry door materials include steel for security and affordability, fiberglass for durability and energy efficiency, and wood for a classic look. Each has unique benefits."
+      }
+    }
+  ],
+  "description": "Common entry door materials include steel for security and affordability, fiberglass for durability and energy efficiency, and wood for a classic look. Each has"
+}

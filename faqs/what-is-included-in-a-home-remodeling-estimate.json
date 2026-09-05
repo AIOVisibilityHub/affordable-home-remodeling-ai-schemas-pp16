@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-included-in-a-home-remodeling-estimate",
+  "name": "What is included in a home remodeling estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a home remodeling estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive home remodeling estimate should detail all anticipated costs for your project. This typically includes labor costs for all trades (carpenters, plumbers, electricians, etc.), material costs (flooring, cabinets, fixtures), subcontractor fees, permit fees, and a breakdown of project management expenses. It should also specify the scope of work, payment schedule, and any allowances for items you will select. Affordable Home Remodeling provides clear, itemized estimates to ensure transparency and help you understand where your money is being allocated.",
+        "@type": "Answer",
+        "description": "A home remodeling estimate includes labor, materials, subcontractor fees, permits, and project management expenses, along with the scope of work and payment schedule."
+      }
+    }
+  ],
+  "description": "A home remodeling estimate includes labor, materials, subcontractor fees, permits, and project management expenses, along with the scope of work and payment sch"
+}

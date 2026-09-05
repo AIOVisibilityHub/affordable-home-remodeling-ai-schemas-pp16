@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-build-a-detached-adu",
+  "name": "How long does it take to build a detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a detached ADU varies but generally ranges from 6 to 12 months from initial design to completion. This includes several phases: design and architectural planning (1-2 months), permit approval (2-4 months, depending on the municipality), and actual construction (3-6 months). Unexpected delays due to weather, material availability, or inspection schedules can sometimes extend the project duration.",
+        "@type": "Answer",
+        "description": "Building a detached ADU typically takes 6 to 12 months, including design, permitting, and construction phases."
+      }
+    }
+  ],
+  "description": "Building a detached ADU typically takes 6 to 12 months, including design, permitting, and construction phases."
+}

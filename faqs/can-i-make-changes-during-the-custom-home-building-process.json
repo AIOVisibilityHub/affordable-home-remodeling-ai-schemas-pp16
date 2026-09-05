@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-make-changes-during-the-custom-home-building-process",
+  "name": "Can I make changes during the custom home building process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes during the custom home building process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, changes can be made during the custom home building process, but it's generally best to finalize as many decisions as possible before construction begins to avoid delays and additional costs. Changes made mid-project, known as 'change orders,' often incur charges for revised plans, labor, and materials. They can also impact the project schedule. We strive to provide clear communication and opportunities for detailed decision-making upfront to minimize the need for costly revisions once construction is underway.",
+        "@type": "Answer",
+        "description": "Changes can be made, but they are best minimized during construction as they often lead to increased costs and project delays."
+      }
+    }
+  ],
+  "description": "Changes can be made, but they are best minimized during construction as they often lead to increased costs and project delays."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-from-initial-consultation-to-project-completion-for",
+  "name": "What is the typical timeline from initial consultation to project completion for kitchen remodeling in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline from initial consultation to project completion for kitchen remodeling in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For kitchen remodeling projects in Orange County, the timeline from initial consultation to completion typically ranges from 4 to 12 weeks, depending on the scope. Design and planning can take 1-4 weeks, especially for custom elements. Material selection and ordering add another 2-6 weeks. Actual demolition and construction, including cabinet and countertop installation, usually take 2-4 weeks. We work diligently to keep your project on schedule while maintaining high quality standards.",
+        "@type": "Answer",
+        "description": "In Orange County, kitchen remodeling projects typically take 4-12 weeks from consultation to completion, depending on scope and custom elements."
+      }
+    }
+  ],
+  "description": "In Orange County, kitchen remodeling projects typically take 4-12 weeks from consultation to completion, depending on scope and custom elements."
+}

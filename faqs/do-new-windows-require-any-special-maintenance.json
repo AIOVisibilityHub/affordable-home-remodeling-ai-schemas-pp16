@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-new-windows-require-any-special-maintenance",
+  "name": "Do new windows require any special maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do new windows require any special maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern windows, especially vinyl and fiberglass, are designed for low maintenance. Regular cleaning of glass with a mild cleaner and a soft cloth is usually sufficient. Frame materials like vinyl typically only require occasional wiping with soap and water. Wood windows may need periodic repainting or resealing to protect them from the elements. It's also good practice to periodically check weatherstripping and sealants for any signs of wear or damage. Proper maintenance helps ensure longevity and optimal performance of your new windows.",
+        "@type": "Answer",
+        "description": "New windows generally require low maintenance, mainly regular glass cleaning and occasional frame wiping. Wood windows may need periodic resealing or repainting."
+      }
+    }
+  ],
+  "description": "New windows generally require low maintenance, mainly regular glass cleaning and occasional frame wiping. Wood windows may need periodic resealing or repainting"
+}

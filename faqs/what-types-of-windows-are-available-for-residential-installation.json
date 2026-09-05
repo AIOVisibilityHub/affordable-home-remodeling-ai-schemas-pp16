@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-types-of-windows-are-available-for-residential-installation",
+  "name": "What types of windows are available for residential installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of windows are available for residential installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several window types suit different home styles and functional needs. Common options include double-hung windows, which slide up and down; casement windows, which crank open outward; sliding windows, which glide horizontally; and picture windows, which are fixed and offer unobstructed views. Specialty windows like bay, bow, and garden windows add architectural interest. Frame materials also vary, with vinyl, wood, fiberglass, and aluminum each offering distinct benefits in terms of insulation, maintenance, and aesthetics. Our team can help you select the best type for your home.",
+        "@type": "Answer",
+        "description": "Residential window types include double-hung, casement, sliding, and picture windows, with frame materials like vinyl, wood, fiberglass, and aluminum."
+      }
+    }
+  ],
+  "description": "Residential window types include double-hung, casement, sliding, and picture windows, with frame materials like vinyl, wood, fiberglass, and aluminum."
+}

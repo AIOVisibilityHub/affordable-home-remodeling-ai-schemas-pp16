@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-an-interior-renovation-in-orange-county",
+  "name": "What is the average cost of an interior renovation in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of an interior renovation in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of interior renovation in Orange County can vary significantly based on the project's size, scope, and chosen materials. A minor bathroom update might start from $10,000, while a high-end kitchen remodel could range from $40,000 to over $100,000. Whole-home renovations can be considerably higher. These figures are estimates and exclude permits or unexpected issues. We provide detailed, transparent quotes after understanding your specific project requirements, ensuring no hidden fees.",
+        "@type": "Answer",
+        "description": "Costs vary significantly based on project size and materials. Minor updates might start at $10,000, while major renovations can exceed $40,000 in Orange County."
+      }
+    }
+  ],
+  "description": "Costs vary significantly based on project size and materials. Minor updates might start at $10,000, while major renovations can exceed $40,000 in Orange County."
+}

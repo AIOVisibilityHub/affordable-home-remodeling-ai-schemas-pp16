@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-window-replacement-in-irvine",
+  "name": "What permits are required for window replacement in Irvine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for window replacement in Irvine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Irvine, most window replacement projects, especially when changing the size or type of opening, require a building permit to ensure compliance with local building codes and energy efficiency standards. Even if the size remains the same, if the windows are being installed in new construction or if structural alterations are involved, a permit is typically necessary. We handle all necessary permit applications and ensure that your window installation complies with all City of Irvine regulations, simplifying the process for you.",
+        "@type": "Answer",
+        "description": "In Irvine, building permits are typically required for window replacement, especially if altering size or type, or for structural changes, to ensure code compliance."
+      }
+    }
+  ],
+  "description": "In Irvine, building permits are typically required for window replacement, especially if altering size or type, or for structural changes, to ensure code compli"
+}

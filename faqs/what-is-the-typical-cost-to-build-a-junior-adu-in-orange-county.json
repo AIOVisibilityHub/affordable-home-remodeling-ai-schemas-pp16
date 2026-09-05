@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-to-build-a-junior-adu-in-orange-county",
+  "name": "What is the typical cost to build a Junior ADU in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to build a Junior ADU in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a Junior ADU in Orange County can vary significantly based on factors such as the existing space configuration, required structural changes, finishes, and the extent of kitchen and bathroom renovations. Generally, JADUs can range from $50,000 to $150,000 or more. Since JADUs are built within existing homes and often share utility connections, their costs tend to be lower than detached ADUs. A detailed site assessment and design plan are crucial for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs for a JADU in Orange County typically range from $50,000 to $150,000, depending on the existing space and finishes."
+      }
+    }
+  ],
+  "description": "Costs for a JADU in Orange County typically range from $50,000 to $150,000, depending on the existing space and finishes."
+}

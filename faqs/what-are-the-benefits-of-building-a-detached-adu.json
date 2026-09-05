@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-building-a-detached-adu",
+  "name": "What are the benefits of building a detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building a detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a detached ADU offers several advantages. It can provide additional housing for family, guests, or caregivers, increasing the functionality of your property. For homeowners, it presents an opportunity to generate rental income, helping to offset mortgage costs or create a new revenue stream. An ADU can also enhance property value and serve as a flexible space for a home office, gym, or creative studio, adapting to evolving needs without moving.",
+        "@type": "Answer",
+        "description": "Benefits include additional housing for family or guests, potential rental income, increased property value, and flexible space for various uses."
+      }
+    }
+  ],
+  "description": "Benefits include additional housing for family or guests, potential rental income, increased property value, and flexible space for various uses."
+}

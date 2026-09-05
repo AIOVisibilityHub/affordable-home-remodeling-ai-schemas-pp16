@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-install-a-new-entry-door",
+  "name": "How long does it take to install a new entry door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new entry door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a new entry door typically ranges from half a day to a full day, depending on the complexity of the project. A standard pre-hung door replacement can be completed relatively quickly, often within 4-6 hours. However, if the existing frame needs significant repair, or if the opening needs to be modified for a larger or custom-sized door, the process may take longer. Factors like existing structural issues, weather conditions, and the type of door chosen can also influence the overall timeline. We provide an estimated completion time during the initial consultation.",
+        "@type": "Answer",
+        "description": "A standard entry door installation usually takes half to a full day. Complex projects requiring frame modifications or structural repairs may take longer."
+      }
+    }
+  ],
+  "description": "A standard entry door installation usually takes half to a full day. Complex projects requiring frame modifications or structural repairs may take longer."
+}

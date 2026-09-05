@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-considered-a-whole-house-remodel",
+  "name": "What is considered a whole house remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a whole house remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole house remodel involves renovating multiple areas of your home, often including kitchens, bathrooms, living spaces, and sometimes exterior elements or structural changes. Unlike smaller projects, it typically addresses the overall flow, functionality, and aesthetic of the entire property to create a cohesive design. This type of remodel can range from significant cosmetic updates to complete overhauls that reconfigure floor plans or add square footage, enhancing both livability and property value.",
+        "@type": "Answer",
+        "description": "A whole house remodel involves renovating multiple areas of your home, addressing overall flow, functionality, and aesthetic for a cohesive design."
+      }
+    }
+  ],
+  "description": "A whole house remodel involves renovating multiple areas of your home, addressing overall flow, functionality, and aesthetic for a cohesive design."
+}

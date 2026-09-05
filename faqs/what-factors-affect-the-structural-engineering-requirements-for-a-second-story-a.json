@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-factors-affect-the-structural-engineering-requirements-for-a-second-story-a",
+  "name": "What factors affect the structural engineering requirements for a second-story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the structural engineering requirements for a second-story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural engineering requirements for a second-story addition are influenced by several factors. These include the size and weight of the new addition, the type and condition of the existing foundation, soil conditions beneath the home, local seismic activity (especially relevant in Southern California), and the chosen building materials. The engineer will also consider the layout of the existing structure, looking for optimal load-bearing walls and points for new support. Their work ensures the entire house can safely support the added weight and meets all building codes.",
+        "@type": "Answer",
+        "description": "Structural engineering for a second-story addition depends on the addition's size/weight, existing foundation, soil conditions, local seismic activity, and building materials. The engineer ensures safe load support and code compliance."
+      }
+    }
+  ],
+  "description": "Structural engineering for a second-story addition depends on the addition's size/weight, existing foundation, soil conditions, local seismic activity, and buil"
+}

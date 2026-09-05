@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-factors-influence-the-cost-of-new-kitchen-cabinets-and-countertops",
+  "name": "What factors influence the cost of new kitchen cabinets and countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of new kitchen cabinets and countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of new kitchen cabinets and countertops. Cabinet costs vary based on material (e.g., MDF, plywood, solid wood), construction type (stock, semi-custom, custom), finish, and hardware. Countertop costs depend on the material chosen (e.g., laminate, quartz, granite, marble), its thickness, edge profiles, and the complexity of cuts needed for sinks or cooktops. Labor costs for removal and installation also play a significant role. Our team provides detailed quotes to help you understand your investment.",
+        "@type": "Answer",
+        "description": "Cabinet costs are influenced by material, construction, finish, and hardware. Countertop costs depend on material, thickness, edge profiles, and cut complexity."
+      }
+    }
+  ],
+  "description": "Cabinet costs are influenced by material, construction, finish, and hardware. Countertop costs depend on material, thickness, edge profiles, and cut complexity."
+}

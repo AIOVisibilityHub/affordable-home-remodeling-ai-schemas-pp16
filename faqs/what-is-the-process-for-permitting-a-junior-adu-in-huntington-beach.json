@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-permitting-a-junior-adu-in-huntington-beach",
+  "name": "What is the process for permitting a Junior ADU in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for permitting a Junior ADU in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The permitting process for a Junior ADU in Huntington Beach generally involves submitting architectural plans to the city's planning and building departments. Plans must adhere to local zoning ordinances, which include requirements for size, setbacks, and parking. We assist with preparing and submitting these plans, navigating reviews, and addressing any comments from city officials. Once permits are approved, construction can begin. Our team ensures compliance with all local regulations throughout the process.",
+        "@type": "Answer",
+        "description": "Permitting a JADU in Huntington Beach involves submitting architectural plans to the city, ensuring compliance with local zoning, and obtaining building permits."
+      }
+    }
+  ],
+  "description": "Permitting a JADU in Huntington Beach involves submitting architectural plans to the city, ensuring compliance with local zoning, and obtaining building permits"
+}

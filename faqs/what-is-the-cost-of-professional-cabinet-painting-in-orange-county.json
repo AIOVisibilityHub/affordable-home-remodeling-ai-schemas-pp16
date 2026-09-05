@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-cost-of-professional-cabinet-painting-in-orange-county",
+  "name": "What is the cost of professional cabinet painting in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of professional cabinet painting in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional cabinet painting in areas like Orange County, Irvine, or Yorba Linda depends on several factors, including the total linear feet of cabinets, the complexity of the cabinet design, and the type of finish desired. Generally, you can expect a range from $1,500 to $7,000 for a standard kitchen. This estimate often includes all necessary prep work, materials, and labor. We offer a free, no-obligation quote after evaluating your specific project needs.",
+        "@type": "Answer",
+        "description": "Professional cabinet painting costs in Orange County range from $1,500 to $7,000. Price depends on cabinet size, design complexity, and desired finish."
+      }
+    }
+  ],
+  "description": "Professional cabinet painting costs in Orange County range from $1,500 to $7,000. Price depends on cabinet size, design complexity, and desired finish."
+}

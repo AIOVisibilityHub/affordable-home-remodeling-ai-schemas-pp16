@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-window-installation-project-take",
+  "name": "How long does a typical window installation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical window installation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window installation project depends on the number of windows, their size, type, and the complexity of the installation. For a standard home with 10-15 windows, the installation process usually takes 1 to 3 days. This includes removing old windows, preparing the openings, installing new windows, sealing, and finishing. More extensive projects or custom windows may require additional time. We aim to complete projects efficiently while maintaining high quality and minimizing disruption to your daily routine.",
+        "@type": "Answer",
+        "description": "A typical window installation for a home with 10-15 windows usually takes 1 to 3 days, depending on scope and complexity."
+      }
+    }
+  ],
+  "description": "A typical window installation for a home with 10-15 windows usually takes 1 to 3 days, depending on scope and complexity."
+}

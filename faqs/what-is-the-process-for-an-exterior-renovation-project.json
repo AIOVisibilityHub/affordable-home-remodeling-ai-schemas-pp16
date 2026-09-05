@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-an-exterior-renovation-project",
+  "name": "What is the process for an exterior renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for an exterior renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our exterior renovation process begins with an initial consultation and on-site assessment to discuss your vision, budget, and needs. Next, we develop a detailed proposal and design plan. Upon approval, we handle all necessary permits. The construction phase involves preparing the site, executing the work (e.g., demolition, installation of new materials), and regular communication on progress. Finally, a thorough cleanup and final walkthrough ensure your complete satisfaction with the finished project.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, proposal/design, permit acquisition, construction phase with regular updates, and concludes with a final walkthrough and cleanup."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, proposal/design, permit acquisition, construction phase with regular updates, and concludes with a final walkthrou"
+}

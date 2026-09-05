@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-front-door-replacement-in-orange-county",
+  "name": "Do I need a permit for front door replacement in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for front door replacement in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, replacing an existing front door with a new one of the same size and in the same opening does not require a building permit in most Orange County cities, including Huntington Beach, Irvine, and Yorba Linda. However, if the project involves altering the structural opening, changing the size of the door, or moving the door's location, a permit would likely be necessary. It is always recommended to check with your specific city's building department or consult with our team to confirm local requirements before starting any work.",
+        "@type": "Answer",
+        "description": "A permit is usually not needed for a same-size front door replacement in Orange County, unless structural changes are made. Always confirm with your local building department."
+      }
+    }
+  ],
+  "description": "A permit is usually not needed for a same-size front door replacement in Orange County, unless structural changes are made. Always confirm with your local build"
+}

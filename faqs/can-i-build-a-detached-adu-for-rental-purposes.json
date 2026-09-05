@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-build-a-detached-adu-for-rental-purposes",
+  "name": "Can I build a detached ADU for rental purposes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build a detached ADU for rental purposes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a detached ADU can absolutely be built for rental purposes. Many homeowners choose this option to generate additional income and help offset their mortgage or other expenses. Detached ADUs provide a self-contained living space that offers privacy for both the tenant and the primary homeowner. It's important to understand local rental ordinances and tenant laws before renting out your ADU.",
+        "@type": "Answer",
+        "description": "Yes, detached ADUs are commonly built for rental income, offering a private, self-contained living space for tenants."
+      }
+    }
+  ],
+  "description": "Yes, detached ADUs are commonly built for rental income, offering a private, self-contained living space for tenants."
+}

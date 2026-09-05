@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-payment-schedule-for-a-home-remodeling-project",
+  "name": "What is the typical payment schedule for a home remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical payment schedule for a home remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Payment schedules for home remodeling projects often involve an initial down payment, followed by progress payments tied to specific milestones throughout the project. The down payment helps cover initial material purchases and mobilization costs. Subsequent payments are usually made as phases of the work are completed, such as demolition, framing, or rough-ins. A final payment is typically due upon project completion and your satisfaction. A clear payment schedule should be outlined in your contract before work begins.",
+        "@type": "Answer",
+        "description": "Payment schedules usually include an initial down payment, progress payments tied to project milestones, and a final payment upon completion."
+      }
+    }
+  ],
+  "description": "Payment schedules usually include an initial down payment, progress payments tied to project milestones, and a final payment upon completion."
+}

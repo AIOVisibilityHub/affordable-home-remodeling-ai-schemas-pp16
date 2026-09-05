@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-process-for-a-whole-house-remodel",
+  "name": "What is the typical process for a whole house remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a whole house remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process begins with an initial consultation and design phase, where your vision, needs, and budget are discussed, leading to plans and architectural drawings. Next comes permitting, followed by demolition. Construction proceeds through framing, rough-ins (plumbing, electrical, HVAC), insulation, drywall, and then finish work like flooring, cabinetry, painting, and fixtures. The project concludes with final inspections and a walkthrough. Communication and planning are key at every stage.",
+        "@type": "Answer",
+        "description": "The remodel process includes consultation, design, permitting, demolition, construction (framing, rough-ins, finishes), and final inspections."
+      }
+    }
+  ],
+  "description": "The remodel process includes consultation, design, permitting, demolition, construction (framing, rough-ins, finishes), and final inspections."
+}

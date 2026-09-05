@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-does-a-custom-home-builder-do",
+  "name": "What does a custom home builder do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a custom home builder do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom home builder specializes in designing and constructing unique homes tailored to a client's specific vision, needs, and lifestyle. This involves working closely with clients from the initial concept and architectural design phase through material selection, permitting, and final construction. Unlike production builders who offer pre-designed models, a custom builder ensures every detail, from the layout to finishes, is personalized. They manage all aspects of the project, including budgeting, scheduling, and coordinating subcontractors, to deliver a one-of-a-kind residence.",
+        "@type": "Answer",
+        "description": "A custom home builder designs and constructs unique homes tailored to a client's specific vision and needs, managing the entire process from design to completion."
+      }
+    }
+  ],
+  "description": "A custom home builder designs and constructs unique homes tailored to a client's specific vision and needs, managing the entire process from design to completio"
+}

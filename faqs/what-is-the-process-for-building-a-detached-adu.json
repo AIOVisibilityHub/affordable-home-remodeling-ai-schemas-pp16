@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-building-a-detached-adu",
+  "name": "What is the process for building a detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for building a detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for building a detached ADU typically begins with site assessment and design, followed by securing necessary permits from the local city or county planning department. This includes architectural and engineering plans. Once permits are approved, construction commences, involving foundation work, framing, utility connections, exterior finishes, and interior build-out. Finally, a series of inspections ensure compliance with building codes before a certificate of occupancy is issued.",
+        "@type": "Answer",
+        "description": "The process involves design, obtaining permits, construction, and final inspections, leading to a certificate of occupancy."
+      }
+    }
+  ],
+  "description": "The process involves design, obtaining permits, construction, and final inspections, leading to a certificate of occupancy."
+}

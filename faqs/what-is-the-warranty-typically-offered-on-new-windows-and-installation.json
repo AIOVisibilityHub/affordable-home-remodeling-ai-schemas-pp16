@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-warranty-typically-offered-on-new-windows-and-installation",
+  "name": "What is the warranty typically offered on new windows and installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the warranty typically offered on new windows and installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Warranties on new windows typically cover manufacturing defects in the window unit itself, including the glass, frame, and hardware. The duration can vary widely by manufacturer, often ranging from 10 years to a limited lifetime warranty for the original homeowner. Our installation warranty covers the workmanship of our team for a specific period, ensuring that any issues arising from the installation process are addressed promptly. It's important to review specific warranty details for both the product and installation before making a decision.",
+        "@type": "Answer",
+        "description": "New window warranties cover manufacturing defects (10 years to lifetime), while installation warranties cover workmanship for a specified period."
+      }
+    }
+  ],
+  "description": "New window warranties cover manufacturing defects (10 years to lifetime), while installation warranties cover workmanship for a specified period."
+}

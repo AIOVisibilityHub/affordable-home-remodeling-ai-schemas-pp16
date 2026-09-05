@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/should-i-repair-siding-before-exterior-painting",
+  "name": "Should I repair siding before exterior painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair siding before exterior painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, repairing siding before exterior painting is highly recommended and crucial for a durable and attractive finish. Painting over damaged siding, such as cracks, holes, or rot, will not resolve the underlying issues and can lead to premature paint failure, including peeling or blistering. Addressing these repairs beforehand ensures a smooth, uniform surface for the paint to adhere to properly, extending the life of your paint job and protecting your home from further damage. Your painting contractor can typically handle minor repairs.",
+        "@type": "Answer",
+        "description": "Yes, repair all siding damage like cracks, holes, or rot before painting to ensure a durable finish and prevent premature paint failure."
+      }
+    }
+  ],
+  "description": "Yes, repair all siding damage like cracks, holes, or rot before painting to ensure a durable finish and prevent premature paint failure."
+}

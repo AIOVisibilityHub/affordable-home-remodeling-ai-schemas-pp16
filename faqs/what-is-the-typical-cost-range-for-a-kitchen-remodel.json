@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-range-for-a-kitchen-remodel",
+  "name": "What is the typical cost range for a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a kitchen remodel varies significantly based on its size, the scope of work, and the materials chosen. Minor remodels, such as refacing cabinets and updating fixtures, can start from $20,000. Mid-range remodels often fall between $35,000 and $75,000, including new cabinetry, countertops, and appliances. High-end or complete kitchen overhauls, involving structural changes or custom features, can exceed $100,000. It's essential to have a detailed estimate for your specific project.",
+        "@type": "Answer",
+        "description": "Kitchen remodel costs vary widely, from $20,000 for minor updates to over $100,000 for high-end overhauls, depending on size, scope, and materials."
+      }
+    }
+  ],
+  "description": "Kitchen remodel costs vary widely, from $20,000 for minor updates to over $100,000 for high-end overhauls, depending on size, scope, and materials."
+}

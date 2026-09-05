@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-cabinet-painting-typically-take",
+  "name": "How long does cabinet painting typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does cabinet painting typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a cabinet painting project varies based on the number of cabinets, their condition, and the chosen finish. Typically, a complete kitchen cabinet painting project can take anywhere from 3 to 7 days. This includes preparation steps like cleaning, sanding, priming, and applying multiple coats of paint, followed by adequate drying and curing time. We provide a detailed timeline after assessing your specific kitchen size and cabinet layout during the initial consultation.",
+        "@type": "Answer",
+        "description": "Cabinet painting typically takes 3 to 7 days, depending on kitchen size and cabinet count. This includes preparation, painting, and drying."
+      }
+    }
+  ],
+  "description": "Cabinet painting typically takes 3 to 7 days, depending on kitchen size and cabinet count. This includes preparation, painting, and drying."
+}

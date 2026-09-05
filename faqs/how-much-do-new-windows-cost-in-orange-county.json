@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-do-new-windows-cost-in-orange-county",
+  "name": "How much do new windows cost in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much do new windows cost in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of new windows in Orange County varies significantly based on factors such as window type, material, size, glass options, and installation complexity. Premium materials like fiberglass or wood, custom sizes, and specialized glass can increase the price. We provide detailed, no-obligation quotes after an on-site assessment to give you an accurate estimate tailored to your home and preferences.",
+        "@type": "Answer",
+        "description": "New window costs in Orange County depend on type, material, size, glass, and installation complexity. A custom quote is provided after assessment."
+      }
+    }
+  ],
+  "description": "New window costs in Orange County depend on type, material, size, glass, and installation complexity. A custom quote is provided after assessment."
+}

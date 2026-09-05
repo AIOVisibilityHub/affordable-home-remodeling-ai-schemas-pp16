@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-general-timeline-for-constructing-an-attached-adu",
+  "name": "What is the general timeline for constructing an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the general timeline for constructing an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for an attached ADU typically spans several months, from initial design to final inspection. The planning and permitting phase can take 3-6 months, depending on local regulations and the complexity of the design. Once permits are secured, the actual construction can take an additional 4-8 months. This includes foundation work, framing, roofing, utility connections, interior finishes, and landscaping. The total duration is influenced by factors such as the size of the ADU, material availability, weather, and the efficiency of the permitting process in your specific city.",
+        "@type": "Answer",
+        "description": "Construction of an attached ADU generally takes 7-14 months, including 3-6 months for planning and permits, and 4-8 months for building."
+      }
+    }
+  ],
+  "description": "Construction of an attached ADU generally takes 7-14 months, including 3-6 months for planning and permits, and 4-8 months for building."
+}

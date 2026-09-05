@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-move-out-during-a-whole-house-remodel",
+  "name": "Do I need to move out during a whole house remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out during a whole house remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to move out during a whole house remodel depends on the scope and invasiveness of the project. If major structural work, significant dust, noise, or utility disruptions (like water or electricity) are involved for an extended period, moving out can be beneficial for your comfort and safety. For smaller, less disruptive projects, staying in your home might be feasible, though you should expect some inconvenience. We can discuss the specific requirements for your project during the planning phase.",
+        "@type": "Answer",
+        "description": "Moving out during a whole house remodel depends on the project's scope and invasiveness; major structural work or utility disruptions often make it necessary."
+      }
+    }
+  ],
+  "description": "Moving out during a whole house remodel depends on the project's scope and invasiveness; major structural work or utility disruptions often make it necessary."
+}

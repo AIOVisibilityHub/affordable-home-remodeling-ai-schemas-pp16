@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-live-in-my-home-during-a-second-story-addition-project",
+  "name": "Can I live in my home during a second-story addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a second-story addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is sometimes possible to live in your home during a second-story addition, it often presents significant challenges and disruptions. Key factors include the extent of the remodel, noise, dust, utility interruptions (especially water and electricity), and safety concerns. Many homeowners choose to move out temporarily, particularly during the framing, roofing, and rough-in stages, for comfort and safety. Discuss this with your contractor early on to understand the potential impact and decide on the best approach for your family.",
+        "@type": "Answer",
+        "description": "Living at home during a second-story addition is possible but challenging due to noise, dust, utility interruptions, and safety. Many homeowners opt for temporary relocation, especially during major construction phases."
+      }
+    }
+  ],
+  "description": "Living at home during a second-story addition is possible but challenging due to noise, dust, utility interruptions, and safety. Many homeowners opt for tempora"
+}

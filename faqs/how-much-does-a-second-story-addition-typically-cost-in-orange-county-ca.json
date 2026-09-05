@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-a-second-story-addition-typically-cost-in-orange-county-ca",
+  "name": "How much does a second-story addition typically cost in Orange County, CA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a second-story addition typically cost in Orange County, CA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a second-story addition in Orange County, CA, can vary significantly based on factors like the size of the addition, the complexity of the design, and the quality of materials selected. It generally includes expenses for architectural plans, permits, structural engineering, foundation reinforcement, framing, plumbing, electrical, HVAC, and interior finishes. Custom features and high-end materials will increase the overall investment. Consulting with a local general contractor for a detailed estimate is essential to understand specific project costs.",
+        "@type": "Answer",
+        "description": "Costs for a second-story addition in Orange County vary widely based on size, complexity, and materials. A detailed estimate from a local contractor is recommended."
+      }
+    }
+  ],
+  "description": "Costs for a second-story addition in Orange County vary widely based on size, complexity, and materials. A detailed estimate from a local contractor is recommen"
+}

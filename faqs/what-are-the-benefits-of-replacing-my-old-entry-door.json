@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-replacing-my-old-entry-door",
+  "name": "What are the benefits of replacing my old entry door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of replacing my old entry door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing an old entry door offers several benefits beyond aesthetic improvement. A new, energy-efficient door can significantly reduce drafts and improve your home's insulation, potentially lowering heating and cooling costs. Modern entry doors often feature enhanced security features, such as multi-point locking systems and reinforced frames, offering better protection. A new door also boosts curb appeal, increasing your home's value and making a strong first impression. It can also improve soundproofing and reduce outside noise.",
+        "@type": "Answer",
+        "description": "Replacing an old entry door improves energy efficiency, enhances security, boosts curb appeal, and can increase home value."
+      }
+    }
+  ],
+  "description": "Replacing an old entry door improves energy efficiency, enhances security, boosts curb appeal, and can increase home value."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-do-i-prepare-my-home-for-a-kitchen-renovation",
+  "name": "How do I prepare my home for a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my home for a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home for a kitchen renovation involves several steps to protect your belongings and facilitate the contractor's work. First, clear out all kitchen contents, including food, dishes, and small appliances. Designate a temporary kitchen area for essentials. Next, protect surrounding areas by covering furniture, flooring, and doorways with plastic sheeting or drop cloths to contain dust. Remove any wall decor or window treatments in nearby rooms. Ensure a clear path for workers and material delivery. Discuss with your contractor any utilities that need to be shut off and where to set up their equipment.",
+        "@type": "Answer",
+        "description": "Prepare your home by clearing the kitchen, setting up a temporary cooking space, protecting surrounding areas from dust, and ensuring clear access for workers."
+      }
+    }
+  ],
+  "description": "Prepare your home by clearing the kitchen, setting up a temporary cooking space, protecting surrounding areas from dust, and ensuring clear access for workers."
+}

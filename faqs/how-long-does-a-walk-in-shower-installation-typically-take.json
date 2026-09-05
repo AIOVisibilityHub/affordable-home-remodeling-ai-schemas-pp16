@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-walk-in-shower-installation-typically-take",
+  "name": "How long does a walk-in shower installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a walk-in shower installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard walk-in shower installation typically takes about 3 to 7 days from demolition to completion. This timeline can vary depending on the scope of the project. Factors such as existing plumbing conditions, the extent of tiling, custom glass enclosure requirements, and any unforeseen structural issues can influence the duration. We always aim to minimize disruption and complete the project efficiently while maintaining high quality standards.",
+        "@type": "Answer",
+        "description": "A typical walk-in shower installation takes 3 to 7 days, but this can vary based on project complexity and specific requirements."
+      }
+    }
+  ],
+  "description": "A typical walk-in shower installation takes 3 to 7 days, but this can vary based on project complexity and specific requirements."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-common-types-of-adus",
+  "name": "What are the common types of ADUs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of ADUs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADUs come in several forms. Detached ADUs are separate structures from the main house. Attached ADUs are physically connected to the main house but have their own entrance and facilities. Garage conversion ADUs transform an existing garage into a living space. Junior ADUs (JADUs) are smaller units created within the existing footprint of a single-family home. The best type depends on your property, local regulations, and specific needs.",
+        "@type": "Answer",
+        "description": "Common ADU types include detached, attached, garage conversions, and junior ADUs, each offering different configurations depending on property and needs."
+      }
+    }
+  ],
+  "description": "Common ADU types include detached, attached, garage conversions, and junior ADUs, each offering different configurations depending on property and needs."
+}

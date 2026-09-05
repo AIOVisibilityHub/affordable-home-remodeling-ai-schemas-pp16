@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-the-common-signs-that-i-need-new-windows",
+  "name": "What are the common signs that I need new windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that I need new windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators for window replacement include drafts near closed windows, difficulty opening or closing them, visible damage like cracks or rot, condensation between glass panes, or a noticeable increase in your energy bills. Older single-pane windows are particularly inefficient. Replacing them can improve your home's comfort, reduce noise from outside, and enhance curb appeal. Consider a professional assessment if you experience any of these issues to determine the best course of action for your home.",
+        "@type": "Answer",
+        "description": "Drafts, condensation between panes, difficulty operating, or rising energy bills are common signs you may need new windows."
+      }
+    }
+  ],
+  "description": "Drafts, condensation between panes, difficulty operating, or rising energy bills are common signs you may need new windows."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-process-for-a-room-addition-project",
+  "name": "What is the typical process for a room addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a room addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The room addition process generally begins with an initial consultation to discuss your vision and needs. This is followed by design and architectural planning, where blueprints are created. Next, permits are secured from local authorities. Construction then commences, starting with site preparation and foundation work, followed by framing, roofing, and exterior finishing. Once the exterior is complete, interior work begins, including plumbing, electrical, insulation, drywall, and finishes. Finally, a series of inspections occur before project completion.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, site prep, framing, exterior/interior finishing, and final inspections."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, site prep, framing, exterior/interior finishing, and final inspections."
+}

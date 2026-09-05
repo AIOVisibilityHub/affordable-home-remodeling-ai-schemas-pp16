@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-insurance-should-a-home-improvement-contractor-have",
+  "name": "What kind of insurance should a home improvement contractor have?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of insurance should a home improvement contractor have?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A reputable home improvement contractor should carry several types of insurance to protect both their business and their clients. Key insurance policies include General Liability Insurance, which covers property damage or bodily injury occurring during the project. Workers' Compensation Insurance is crucial if the contractor has employees, covering medical expenses and lost wages for work-related injuries. Affordable Home Remodeling maintains comprehensive insurance coverage to ensure peace of mind for our clients and our team.",
+        "@type": "Answer",
+        "description": "A reputable contractor should have General Liability Insurance and Workers' Compensation Insurance to protect against damages or injuries during the project."
+      }
+    }
+  ],
+  "description": "A reputable contractor should have General Liability Insurance and Workers' Compensation Insurance to protect against damages or injuries during the project."
+}

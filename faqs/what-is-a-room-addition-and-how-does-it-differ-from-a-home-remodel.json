@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-a-room-addition-and-how-does-it-differ-from-a-home-remodel",
+  "name": "What is a room addition and how does it differ from a home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a room addition and how does it differ from a home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition expands the physical footprint of your home by adding a new enclosed space, such as an extra bedroom, bathroom, or family room. This differs from a home remodel, which typically reconfigures existing interior spaces without increasing the overall size. While both can enhance your living space, an addition involves foundation work, framing, roofing, and connecting to existing utilities, making it a more extensive project than most interior remodels.",
+        "@type": "Answer",
+        "description": "A room addition expands your home's footprint by adding new space, while a remodel reconfigures existing areas."
+      }
+    }
+  ],
+  "description": "A room addition expands your home's footprint by adding new space, while a remodel reconfigures existing areas."
+}

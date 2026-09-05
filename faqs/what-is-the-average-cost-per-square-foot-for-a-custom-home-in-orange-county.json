@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-per-square-foot-for-a-custom-home-in-orange-county",
+  "name": "What is the average cost per square foot for a custom home in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost per square foot for a custom home in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for a custom home in Orange County can range widely, typically from $350 to over $800, depending on various factors. These include the complexity of the design, quality of materials and finishes chosen, site preparation requirements, and specific architectural features. Luxury finishes, advanced smart home technology, and challenging site conditions will increase the per-square-foot cost. We provide detailed estimates based on your unique design and specifications during the planning phase.",
+        "@type": "Answer",
+        "description": "Custom home costs in Orange County generally range from $350 to $800+ per square foot, influenced by design complexity, material quality, and site conditions."
+      }
+    }
+  ],
+  "description": "Custom home costs in Orange County generally range from $350 to $800+ per square foot, influenced by design complexity, material quality, and site conditions."
+}

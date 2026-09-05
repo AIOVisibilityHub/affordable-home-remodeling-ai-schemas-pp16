@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-separate-address-for-my-attached-adu",
+  "name": "Do I need a separate address for my attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a separate address for my attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether an attached ADU requires a separate address depends on local regulations and the intended use of the unit. In many areas, especially if the ADU is intended for rental, a separate address is often beneficial for utility billing, postal services, and differentiating it from the primary residence. However, some jurisdictions may allow the ADU to share the primary address with a unit designation (e.g., 123 Main St. Unit B). It's crucial to check with your local planning department and utility providers to understand the specific requirements in your city before construction.",
+        "@type": "Answer",
+        "description": "Whether a separate address is needed for an attached ADU depends on local regulations and intended use; check with your city's planning department."
+      }
+    }
+  ],
+  "description": "Whether a separate address is needed for an attached ADU depends on local regulations and intended use; check with your city's planning department."
+}

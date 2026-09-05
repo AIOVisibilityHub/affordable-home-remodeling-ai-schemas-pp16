@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-permits-and-approvals-are-required-for-a-second-story-addition",
+  "name": "What permits and approvals are required for a second-story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and approvals are required for a second-story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A second-story addition requires various permits and approvals from your local city or county building department. These typically include building permits, structural permits, electrical permits, plumbing permits, and mechanical (HVAC) permits. You will also need approved architectural and structural plans. Depending on your property and location, additional approvals might be necessary, such as those related to zoning ordinances, homeowner association (HOA) guidelines, or coastal development permits in specific areas like Newport Beach. Your contractor will help navigate these requirements.",
+        "@type": "Answer",
+        "description": "Second-story additions require multiple permits, including building, structural, electrical, plumbing, and mechanical. Approved architectural plans are also essential, with additional approvals possibly needed for zoning or HOA compliance."
+      }
+    }
+  ],
+  "description": "Second-story additions require multiple permits, including building, structural, electrical, plumbing, and mechanical. Approved architectural plans are also ess"
+}

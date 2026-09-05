@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/should-i-paint-or-reface-my-kitchen-cabinets",
+  "name": "Should I paint or reface my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint or reface my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between painting and refacing depends on your budget, desired aesthetic change, and the condition of your existing cabinets. Painting is a more cost-effective option for updating the look of structurally sound cabinets and is ideal if you like the current layout. Refacing involves replacing cabinet doors and drawer fronts while keeping the existing boxes, offering a more significant aesthetic change without a full remodel. If your cabinet boxes are damaged or you want a completely new layout, new cabinets might be more suitable.",
+        "@type": "Answer",
+        "description": "Paint cabinets if they are structurally sound and you want a cost-effective update. Reface for a more significant visual change without a full remodel, or consider new cabinets if the boxes are damaged."
+      }
+    }
+  ],
+  "description": "Paint cabinets if they are structurally sound and you want a cost-effective update. Reface for a more significant visual change without a full remodel, or consi"
+}

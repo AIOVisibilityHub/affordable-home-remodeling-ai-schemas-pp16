@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/when-do-i-need-a-permit-for-a-home-improvement-project-in-huntington-beach",
+  "name": "When do I need a permit for a home improvement project in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a permit for a home improvement project in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many home improvement projects in Huntington Beach, Irvine, Orange, Yorba Linda, and Mission Viejo require permits to ensure they meet local building codes and safety standards. This often includes structural changes, significant plumbing or electrical work, additions, and some exterior alterations. Minor repairs or cosmetic updates typically do not require permits. Affordable Home Remodeling can help you determine if your specific project needs permits and assist with the application process, ensuring your renovation complies with local regulations.",
+        "@type": "Answer",
+        "description": "Permits are often needed for structural changes, significant plumbing/electrical work, or additions. Affordable Home Remodeling can advise on permit requirements in your area."
+      }
+    }
+  ],
+  "description": "Permits are often needed for structural changes, significant plumbing/electrical work, or additions. Affordable Home Remodeling can advise on permit requirement"
+}

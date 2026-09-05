@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-a-junior-adu-jadu",
+  "name": "What is a Junior ADU (JADU)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a Junior ADU (JADU)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Junior ADU (JADU) is a specific type of accessory dwelling unit that is always located within an existing or proposed single-family dwelling. Unlike a standard ADU, a JADU must be no more than 500 square feet in size and includes an efficiency kitchen, which typically means a sink, cooking appliance, and a small refrigerator. A JADU also does not require additional parking beyond what the main home already has. They offer a flexible housing option, often for family members or as a rental unit, while making efficient use of existing residential space.",
+        "@type": "Answer",
+        "description": "A Junior ADU (JADU) is an independent living unit up to 500 square feet, located within an existing single-family home, featuring an efficiency kitchen."
+      }
+    }
+  ],
+  "description": "A Junior ADU (JADU) is an independent living unit up to 500 square feet, located within an existing single-family home, featuring an efficiency kitchen."
+}

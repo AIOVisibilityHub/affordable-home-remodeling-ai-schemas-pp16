@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/are-there-energy-efficient-window-options-available",
+  "name": "Are there energy-efficient window options available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there energy-efficient window options available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many energy-efficient window options are available to help reduce heating and cooling costs. These often include double or triple-pane glass with inert gas fills (like argon or krypton) between the panes, low-emissivity (Low-E) coatings, and well-insulated frames. These features work together to minimize heat transfer, keeping your home more comfortable year-round.",
+        "@type": "Answer",
+        "description": "Yes, energy-efficient windows feature double/triple-pane glass, inert gas fills, Low-E coatings, and insulated frames to reduce heat transfer."
+      }
+    }
+  ],
+  "description": "Yes, energy-efficient windows feature double/triple-pane glass, inert gas fills, Low-E coatings, and insulated frames to reduce heat transfer."
+}

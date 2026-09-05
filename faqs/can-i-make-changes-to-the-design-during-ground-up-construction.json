@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-make-changes-to-the-design-during-ground-up-construction",
+  "name": "Can I make changes to the design during ground-up construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make changes to the design during ground-up construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible to make changes (often called 'change orders') during ground-up construction, it's generally best to finalize all design decisions before construction begins. Changes mid-project can lead to increased costs, extended timelines, and potential material delays. Each change order typically requires re-estimating costs, revising plans, and obtaining approval, which can impact the overall budget and schedule. Discuss any potential modifications thoroughly with your contractor to understand the implications.",
+        "@type": "Answer",
+        "description": "Yes, but design changes during construction can increase costs and delays. Finalizing decisions beforehand is recommended."
+      }
+    }
+  ],
+  "description": "Yes, but design changes during construction can increase costs and delays. Finalizing decisions beforehand is recommended."
+}

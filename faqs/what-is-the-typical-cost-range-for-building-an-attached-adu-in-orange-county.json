@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-range-for-building-an-attached-adu-in-orange-county",
+  "name": "What is the typical cost range for building an attached ADU in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for building an attached ADU in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building an attached ADU in Orange County can vary significantly based on size, complexity, materials, and specific site conditions. Generally, homeowners can expect costs to range from $150,000 to $300,000 or more. Factors influencing the final price include the need for extensive foundation work, kitchen and bathroom finishes, utility hookups, and any required structural modifications to the existing home. Design choices, permits, and labor rates in specific areas like Irvine or Newport Beach will also impact the overall budget. A detailed assessment is needed for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs for an attached ADU in Orange County typically range from $150,000 to $300,000+, depending on size, materials, and site specifics."
+      }
+    }
+  ],
+  "description": "Costs for an attached ADU in Orange County typically range from $150,000 to $300,000+, depending on size, materials, and site specifics."
+}

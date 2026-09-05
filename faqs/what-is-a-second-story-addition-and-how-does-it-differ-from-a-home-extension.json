@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-a-second-story-addition-and-how-does-it-differ-from-a-home-extension",
+  "name": "What is a second-story addition and how does it differ from a home extension?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a second-story addition and how does it differ from a home extension?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A second-story addition involves building new living space directly on top of an existing single-story structure, expanding vertically without increasing the home's footprint. This is a common solution for adding bedrooms, bathrooms, or a master suite when lot size is limited. In contrast, a home extension typically expands the house horizontally, adding square footage to the side or rear of the property. While both increase living space, a second-story addition requires structural reinforcement and can be more complex due to vertical construction and integration with the existing roofline and foundation.",
+        "@type": "Answer",
+        "description": "A second-story addition builds new living space vertically on an existing single-story home, while an extension expands horizontally. Vertical additions require more structural work and do not increase the home's footprint."
+      }
+    }
+  ],
+  "description": "A second-story addition builds new living space vertically on an existing single-story home, while an extension expands horizontally. Vertical additions require"
+}

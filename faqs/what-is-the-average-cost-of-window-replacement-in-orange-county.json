@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-window-replacement-in-orange-county",
+  "name": "What is the average cost of window replacement in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of window replacement in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window replacement in Orange County varies significantly based on several factors: the type of window (e.g., vinyl, wood, fiberglass), the style (e.g., double-hung, casement, picture), the number of windows, their size, and any special features like energy-efficient coatings or custom shapes. Installation labor costs also play a role. Generally, homeowners can expect to invest anywhere from a few hundred to over a thousand dollars per window, including installation. We provide detailed, no-obligation quotes after an on-site assessment.",
+        "@type": "Answer",
+        "description": "The average cost of window replacement in Orange County varies based on window type, style, number, size, features, and labor, typically ranging from a few hundred to over a thousand dollars per window."
+      }
+    }
+  ],
+  "description": "The average cost of window replacement in Orange County varies based on window type, style, number, size, features, and labor, typically ranging from a few hund"
+}

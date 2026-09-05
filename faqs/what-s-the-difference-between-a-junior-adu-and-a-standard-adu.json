@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-s-the-difference-between-a-junior-adu-and-a-standard-adu",
+  "name": "What's the difference between a Junior ADU and a standard ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a Junior ADU and a standard ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main differences between a Junior ADU (JADU) and a standard ADU lie in their size, location, and utility requirements. A JADU is limited to 500 square feet, must be contained within the existing footprint of a single-family home, and requires an efficiency kitchen. It also does not typically require new utility connections. A standard ADU can be larger, up to 1,200 square feet (depending on jurisdiction), can be attached or detached, and often requires separate utility hookups and parking. JADUs are generally a simpler and more cost-effective option for adding housing.",
+        "@type": "Answer",
+        "description": "A JADU is up to 500 sq ft within an existing home with an efficiency kitchen; a standard ADU can be larger, attached or detached, and may require separate utilities."
+      }
+    }
+  ],
+  "description": "A JADU is up to 500 sq ft within an existing home with an efficiency kitchen; a standard ADU can be larger, attached or detached, and may require separate utili"
+}

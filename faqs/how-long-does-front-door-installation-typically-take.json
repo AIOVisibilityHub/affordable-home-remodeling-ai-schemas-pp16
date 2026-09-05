@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-long-does-front-door-installation-typically-take",
+  "name": "How long does front door installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does front door installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard front door replacements can be completed within a single day. This includes removing the old door and frame, preparing the opening, installing the new door unit, and finishing the trim work. More complex installations involving structural modifications, custom framing, or extensive sidelight/transom setups may take longer. Our team works efficiently to minimize disruption and ensure a precise, secure installation, providing you with a clear timeline before starting the project.",
+        "@type": "Answer",
+        "description": "Standard front door installations typically take one day. Complex projects with structural changes might take longer."
+      }
+    }
+  ],
+  "description": "Standard front door installations typically take one day. Complex projects with structural changes might take longer."
+}

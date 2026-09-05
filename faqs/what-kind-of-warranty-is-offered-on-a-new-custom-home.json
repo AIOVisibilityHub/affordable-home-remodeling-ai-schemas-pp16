@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-warranty-is-offered-on-a-new-custom-home",
+  "name": "What kind of warranty is offered on a new custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty is offered on a new custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most reputable custom home builders offer a warranty to cover defects in materials and workmanship. Typically, this includes a one-year warranty on the entire home, covering components like appliances and finishes. Longer warranties, often 2-5 years, might cover major systems like plumbing, electrical, and HVAC. Structural components, such as the foundation and framing, often carry a 10-year warranty. We provide a comprehensive warranty package detailing what is covered and for how long, ensuring peace of mind for our clients.",
+        "@type": "Answer",
+        "description": "New custom homes typically come with a 1-year warranty on the home, 2-5 years on systems, and 10 years on structural components."
+      }
+    }
+  ],
+  "description": "New custom homes typically come with a 1-year warranty on the home, 2-5 years on systems, and 10 years on structural components."
+}

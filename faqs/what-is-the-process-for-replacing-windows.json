@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-replacing-windows",
+  "name": "What is the process for replacing windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The window replacement process typically begins with an initial consultation and measurement. Next, the old windows are carefully removed, and the new window frames are prepared. The new windows are then installed, sealed, and insulated to ensure energy efficiency and weather protection. Finally, interior and exterior trim work is completed, and the work area is cleaned. Our team ensures a smooth and efficient installation.",
+        "@type": "Answer",
+        "description": "The process involves consultation, old window removal, new window installation with proper sealing and insulation, and finishing trim work."
+      }
+    }
+  ],
+  "description": "The process involves consultation, old window removal, new window installation with proper sealing and insulation, and finishing trim work."
+}

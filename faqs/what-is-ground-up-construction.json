@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-ground-up-construction",
+  "name": "What is ground-up construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is ground-up construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ground-up construction refers to building a new structure entirely from scratch on an undeveloped or cleared piece of land. This process involves everything from site preparation and foundation laying to framing, roofing, and finishing all interior and exterior elements. It differs from remodeling or additions as it doesn't utilize any existing structural components. For residential projects, it typically means building a brand new home designed to the owner's specifications, offering complete customization and modern efficiency standards.",
+        "@type": "Answer",
+        "description": "Ground-up construction is building a new structure from the foundation up on undeveloped land."
+      }
+    }
+  ],
+  "description": "Ground-up construction is building a new structure from the foundation up on undeveloped land."
+}

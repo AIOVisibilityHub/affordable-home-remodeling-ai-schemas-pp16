@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-kitchen-is-required-for-a-junior-adu",
+  "name": "What kind of kitchen is required for a Junior ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of kitchen is required for a Junior ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Junior ADU requires an 'efficiency kitchen.' This is typically defined as a kitchen that includes a sink, a cooking appliance (like a two-burner cooktop, hot plate, or microwave oven with convection capabilities), and a small refrigerator. Unlike full-sized kitchens, an efficiency kitchen doesn't usually require a full-sized oven, a large amount of counter space, or a dedicated dining area. The goal is to provide basic cooking and food storage capabilities within a compact footprint.",
+        "@type": "Answer",
+        "description": "A JADU requires an 'efficiency kitchen,' including a sink, cooking appliance, and a small refrigerator, designed for compact living."
+      }
+    }
+  ],
+  "description": "A JADU requires an 'efficiency kitchen,' including a sink, cooking appliance, and a small refrigerator, designed for compact living."
+}

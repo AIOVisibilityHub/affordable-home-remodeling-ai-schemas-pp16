@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-per-square-foot-for-ground-up-construction-in-orange-co",
+  "name": "What is the average cost per square foot for ground-up construction in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost per square foot for ground-up construction in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for ground-up construction in Orange County varies widely depending on factors like material choices, architectural complexity, quality of finishes, and specific site conditions. On average, you might expect costs to range from $300 to $600 per square foot for a custom home. This figure can be higher for luxury finishes or unique designs. It's important to get a detailed quote tailored to your specific plans rather than relying solely on averages, as these can omit significant variables such as landscaping or premium features.",
+        "@type": "Answer",
+        "description": "Ground-up construction in Orange County typically ranges from $300-$600 per square foot, varying by materials and design."
+      }
+    }
+  ],
+  "description": "Ground-up construction in Orange County typically ranges from $300-$600 per square foot, varying by materials and design."
+}

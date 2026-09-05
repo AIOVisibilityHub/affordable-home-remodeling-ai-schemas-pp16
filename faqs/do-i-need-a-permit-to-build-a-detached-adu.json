@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-to-build-a-detached-adu",
+  "name": "Do I need a permit to build a detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to build a detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building a detached ADU always requires permits. This includes permits for construction, plumbing, electrical, and mechanical systems. Local jurisdictions in areas like Huntington Beach or Irvine have specific zoning ordinances and building codes that must be met. A general contractor experienced with ADU projects can help navigate the permitting process, ensuring all plans comply with local regulations and state laws before construction begins.",
+        "@type": "Answer",
+        "description": "Yes, permits are always required for building a detached ADU, covering construction, plumbing, electrical, and mechanical systems."
+      }
+    }
+  ],
+  "description": "Yes, permits are always required for building a detached ADU, covering construction, plumbing, electrical, and mechanical systems."
+}

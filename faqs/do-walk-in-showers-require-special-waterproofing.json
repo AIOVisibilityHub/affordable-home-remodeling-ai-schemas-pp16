@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-walk-in-showers-require-special-waterproofing",
+  "name": "Do walk-in showers require special waterproofing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do walk-in showers require special waterproofing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, walk-in showers require robust and specialized waterproofing to prevent leaks and mold growth. Because they often lack a curb or have a low one, and water can potentially extend further into the bathroom floor area, meticulous waterproofing of the entire shower pan and wall surfaces up to a specific height is critical. We utilize industry-standard waterproofing membranes and techniques to ensure your shower is completely sealed and protected against moisture intrusion, adhering to all local building codes.",
+        "@type": "Answer",
+        "description": "Yes, walk-in showers require specialized and thorough waterproofing of the pan and walls to prevent leaks and mold. This is a critical step in installation."
+      }
+    }
+  ],
+  "description": "Yes, walk-in showers require specialized and thorough waterproofing of the pan and walls to prevent leaks and mold. This is a critical step in installation."
+}

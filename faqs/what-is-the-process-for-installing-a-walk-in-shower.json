@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-installing-a-walk-in-shower",
+  "name": "What is the process for installing a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our walk-in shower installation process typically begins with an initial consultation and design planning. Once materials are selected, we prepare the site by removing the old shower or tub. This is followed by any necessary plumbing adjustments and waterproofing of the area. Next, the pan and drain are installed, then tiling of walls and floor. Finally, the glass enclosure, fixtures, and any accessories are installed. A thorough cleanup completes the project.",
+        "@type": "Answer",
+        "description": "The process involves consultation, demolition, plumbing and waterproofing, pan and tile installation, then fitting glass and fixtures."
+      }
+    }
+  ],
+  "description": "The process involves consultation, demolition, plumbing and waterproofing, pan and tile installation, then fitting glass and fixtures."
+}

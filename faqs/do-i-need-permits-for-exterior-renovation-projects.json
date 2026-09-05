@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-exterior-renovation-projects",
+  "name": "Do I need permits for exterior renovation projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for exterior renovation projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many exterior renovation projects require permits from your local city or county building department to ensure compliance with safety codes and zoning regulations. Projects like structural alterations, significant changes to windows or doors, roofing replacement, or new additions typically necessitate permits. Minor cosmetic changes, such as repainting or small repairs, usually do not. We can assist you in determining which permits are needed for your specific project and guide you through the application process.",
+        "@type": "Answer",
+        "description": "Permits are often required for structural changes, significant window/door replacements, or roofing. Minor cosmetic work usually doesn't need them. We help determine and obtain necessary permits."
+      }
+    }
+  ],
+  "description": "Permits are often required for structural changes, significant window/door replacements, or roofing. Minor cosmetic work usually doesn't need them. We help dete"
+}

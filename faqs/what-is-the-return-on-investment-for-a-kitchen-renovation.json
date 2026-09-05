@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-return-on-investment-for-a-kitchen-renovation",
+  "name": "What is the return on investment for a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the return on investment for a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The return on investment (ROI) for a kitchen renovation can vary, but kitchens are consistently one of the best rooms to remodel for increasing home value. A minor kitchen remodel typically recoups a higher percentage of its cost, often around 70-80%, especially if it improves functionality and updates aesthetics. A major renovation might have a slightly lower percentage ROI, but it can still add significant value, particularly if it addresses outdated layouts or poor functionality. The actual ROI depends on local market conditions, the quality of materials, and the scope of the project.",
+        "@type": "Answer",
+        "description": "Kitchen renovations offer good ROI, typically 70-80% for minor remodels, enhancing home value. Major renovations also add value, depending on market and scope."
+      }
+    }
+  ],
+  "description": "Kitchen renovations offer good ROI, typically 70-80% for minor remodels, enhancing home value. Major renovations also add value, depending on market and scope."
+}

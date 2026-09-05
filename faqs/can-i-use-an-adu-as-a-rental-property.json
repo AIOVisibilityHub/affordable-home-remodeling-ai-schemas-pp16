@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-use-an-adu-as-a-rental-property",
+  "name": "Can I use an ADU as a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use an ADU as a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, one of the primary benefits of building an ADU is the potential to use it as a rental property. This can provide a significant source of passive income and help offset the construction costs. However, it's important to be aware of any local rental regulations, tenant laws, and potential tax implications associated with rental income. Confirming these details with local authorities and a financial advisor is recommended.",
+        "@type": "Answer",
+        "description": "Yes, ADUs can be used as rental properties to generate income, but be aware of local rental regulations and tax implications."
+      }
+    }
+  ],
+  "description": "Yes, ADUs can be used as rental properties to generate income, but be aware of local rental regulations and tax implications."
+}

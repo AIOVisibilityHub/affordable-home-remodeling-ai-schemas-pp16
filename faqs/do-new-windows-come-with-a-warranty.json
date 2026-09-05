@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/do-new-windows-come-with-a-warranty",
+  "name": "Do new windows come with a warranty?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do new windows come with a warranty?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most new windows come with manufacturer warranties that cover defects in materials and workmanship, often ranging from 10 years to lifetime coverage. Our installation work is also backed by a separate labor warranty. Specific warranty details vary by manufacturer and product line, and we will provide all relevant warranty information for your chosen windows.",
+        "@type": "Answer",
+        "description": "New windows typically come with manufacturer warranties covering materials and workmanship, and our installation includes a labor warranty."
+      }
+    }
+  ],
+  "description": "New windows typically come with manufacturer warranties covering materials and workmanship, and our installation includes a labor warranty."
+}
