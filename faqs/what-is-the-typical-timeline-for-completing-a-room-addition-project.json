@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-completing-a-room-addition-project",
+  "name": "What is the typical timeline for completing a room addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for completing a room addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a room addition project can range from a few months to over a year, depending on its scope. Initial phases include design, architectural drawings, and securing permits, which can take several weeks or months. Construction itself involves foundation work, framing, roofing, electrical, plumbing, insulation, drywall, and finishing touches. Larger, more complex additions will naturally require more time. Unexpected issues can also extend the project duration.",
+        "@type": "Answer",
+        "description": "Room addition timelines vary from a few months to over a year, influenced by design, permitting, and construction complexity."
+      }
+    }
+  ],
+  "description": "Room addition timelines vary from a few months to over a year, influenced by design, permitting, and construction complexity."
+}

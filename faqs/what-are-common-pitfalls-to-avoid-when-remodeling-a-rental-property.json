@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-are-common-pitfalls-to-avoid-when-remodeling-a-rental-property",
+  "name": "What are common pitfalls to avoid when remodeling a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common pitfalls to avoid when remodeling a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Avoid over-improving the property beyond what local market rents can support, as this reduces your return on investment. Underestimating the budget or timeline are common issues, so always factor in a contingency. Another pitfall is neglecting necessary permits, which can lead to fines and rework. Finally, choosing overly trendy or high-maintenance materials can make the property less appealing to a wider tenant base and increase future repair costs.",
+        "@type": "Answer",
+        "description": "Avoid over-improving, underestimating budget/timeline, neglecting permits, and choosing high-maintenance materials that deter tenants or increase future costs."
+      }
+    }
+  ],
+  "description": "Avoid over-improving, underestimating budget/timeline, neglecting permits, and choosing high-maintenance materials that deter tenants or increase future costs."
+}

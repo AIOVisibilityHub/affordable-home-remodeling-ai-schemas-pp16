@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-should-i-consider-before-starting-a-room-addition-project",
+  "name": "What should I consider before starting a room addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before starting a room addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting, consider your budget, desired use of the new space, and how it will integrate with your existing home's architecture. Evaluate your property's setbacks and zoning regulations to ensure feasibility. Think about the impact on your daily life during construction and discuss timelines with your family. Consulting with a designer or architect early on can help refine your vision and identify potential challenges.",
+        "@type": "Answer",
+        "description": "Before starting, consider your budget, the intended use of the new space, integration with existing architecture, zoning laws, and the impact of construction on your household."
+      }
+    }
+  ],
+  "description": "Before starting, consider your budget, the intended use of the new space, integration with existing architecture, zoning laws, and the impact of construction on"
+}

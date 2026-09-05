@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/can-i-stay-in-my-home-during-a-room-addition",
+  "name": "Can I stay in my home during a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during a room addition depends on the scale and nature of the project. For smaller additions, such as a bump-out or a single-room expansion that doesn't disrupt essential living areas, staying might be feasible. However, larger projects involving significant structural changes, extensive utility work, or the disruption of main living spaces like kitchens or bathrooms may necessitate temporarily relocating. Your contractor can advise on the best approach for your specific project.",
+        "@type": "Answer",
+        "description": "Staying in your home during an addition depends on the project's scale; smaller disruptions might allow it, but larger structural changes may require temporary relocation."
+      }
+    }
+  ],
+  "description": "Staying in your home during an addition depends on the project's scale; smaller disruptions might allow it, but larger structural changes may require temporary"
+}

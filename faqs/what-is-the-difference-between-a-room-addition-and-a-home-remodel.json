@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-room-addition-and-a-home-remodel",
+  "name": "What is the difference between a room addition and a home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a room addition and a home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition involves expanding your home's footprint by building new square footage, such as adding a new bedroom, bathroom, or family room. This typically requires new foundation, framing, roofing, and utilities. A home remodel, on the other hand, usually refers to altering or updating existing spaces within the current footprint, like renovating a kitchen or bathroom. While both improve your home, an addition provides new space, whereas a remodel enhances existing space.",
+        "@type": "Answer",
+        "description": "A room addition expands your home's square footage by building new space, while a home remodel updates or alters existing spaces within the current footprint."
+      }
+    }
+  ],
+  "description": "A room addition expands your home's square footage by building new space, while a home remodel updates or alters existing spaces within the current footprint."
+}

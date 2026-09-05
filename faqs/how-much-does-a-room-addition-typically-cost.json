@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/how-much-does-a-room-addition-typically-cost",
+  "name": "How much does a room addition typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a room addition typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a room addition varies significantly based on several factors, such as the size and complexity of the addition, materials chosen, and interior finishes. Foundation work, roofing, electrical, and plumbing are also major cost components. A small bump-out might be less expensive than a full second-story addition or a completely new wing. Consulting with a contractor for a detailed estimate is essential to understand the specific costs for your project.",
+        "@type": "Answer",
+        "description": "Room addition costs vary widely depending on size, complexity, materials, and finishes. A detailed estimate from a contractor is necessary for specific pricing."
+      }
+    }
+  ],
+  "description": "Room addition costs vary widely depending on size, complexity, materials, and finishes. A detailed estimate from a contractor is necessary for specific pricing."
+}

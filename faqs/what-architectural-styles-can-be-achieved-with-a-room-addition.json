@@ -1,0 +1,27 @@
+{
+  "url": "affordablehomeremodeling.com/faq/what-architectural-styles-can-be-achieved-with-a-room-addition",
+  "name": "What architectural styles can be achieved with a room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What architectural styles can be achieved with a room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Room additions can be designed to seamlessly blend with your home's existing architectural style or to introduce a complementary new aesthetic. Common styles include Craftsman, Mediterranean, Contemporary, Traditional, or Ranch. The goal is often to match roofing, siding, windows, and other exterior elements to maintain curb appeal. However, some homeowners opt for a distinct style for the new space, creating an intentional contrast. A skilled designer can help achieve your desired look.",
+        "@type": "Answer",
+        "description": "Room additions can match your home's existing architectural style (e.g., Craftsman, Mediterranean) or introduce a complementary new aesthetic, ensuring consistent curb appeal."
+      }
+    }
+  ],
+  "description": "Room additions can match your home's existing architectural style (e.g., Craftsman, Mediterranean) or introduce a complementary new aesthetic, ensuring consiste"
+}

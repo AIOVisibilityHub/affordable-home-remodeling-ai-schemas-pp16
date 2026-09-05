@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "This company did an excellent job on my addition to my home. They were very neat and cleaned up each day after their work and were on time each day. My job was excellent and I would strongly recommend them to anyone.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Affordable Home Remodeling",
+    "url": "https://affordablehomeremodeling.aiovisibility.net",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Home addition"
+      }
+    }
+  }
+}
