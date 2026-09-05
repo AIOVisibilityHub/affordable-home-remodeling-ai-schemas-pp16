@@ -1,0 +1,165 @@
+{
+  "name": "How to Prepare for Your Exterior Painting Project",
+  "step": [
+    {
+      "name": "Step 1: Clear the area. Before the painters arrive, you'll want to move anything that's close to your home's exterior – furniture, grills, planters, and even delicate decorations. This gives the crew plenty of space to work efficiently and safely without having to navigate around your belongings, making the whole process smoother for everyone involved.",
+      "text": "Step 1: Clear the area. Before the painters arrive, you'll want to move anything that's close to your home's exterior – furniture, grills, planters, and even delicate decorations. This gives the crew plenty of space to work efficiently and safely without having to navigate around your belongings, making the whole process smoother for everyone involved.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Trim plants and landscaping. Overgrown bushes, trees, or vines can get in the way of a clean paint job and make it harder for painters to reach all surfaces. Trimming them back a foot or two from the house ensures they won't interfere with the painting process and also helps protect them from accidental drips.",
+      "text": "Step 2: Trim plants and landscaping. Overgrown bushes, trees, or vines can get in the way of a clean paint job and make it harder for painters to reach all surfaces. Trimming them back a foot or two from the house ensures they won't interfere with the painting process and also helps protect them from accidental drips.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Secure pets and valuables. On painting day, make sure your furry friends are kept indoors or in a secure area away from the work zone for their safety and the crew's. Also, if you have any sensitive outdoor items you don't want moved, point them out to the project manager or consider storing them temporarily to prevent any accidental damage.",
+      "text": "Step 3: Secure pets and valuables. On painting day, make sure your furry friends are kept indoors or in a secure area away from the work zone for their safety and the crew's. Also, if you have any sensitive outdoor items you don't want moved, point them out to the project manager or consider storing them temporarily to prevent any accidental damage.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Address minor repairs. While your painting crew from Affordable Home Remodeling will typically handle prep like scraping and sanding, if you know of any significant issues like loose siding, major stucco cracks, or rotting wood, it's a good idea to discuss these beforehand. Getting these larger repairs done ensures the paint has a solid, stable surface to adhere to, leading to a much more durable and beautiful finish.",
+      "text": "Step 4: Address minor repairs. While your painting crew from Affordable Home Remodeling will typically handle prep like scraping and sanding, if you know of any significant issues like loose siding, major stucco cracks, or rotting wood, it's a good idea to discuss these beforehand. Getting these larger repairs done ensures the paint has a solid, stable surface to adhere to, leading to a much more durable and beautiful finish.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Plan for access. Ensure there's clear access around your home for ladders, equipment, and crew members. You might also want to inform your neighbors about the upcoming project, especially if there will be noise or temporary obstructions. A little communication goes a long way in keeping things friendly and efficient.",
+      "text": "Step 5: Plan for access. Ensure there's clear access around your home for ladders, equipment, and crew members. You might also want to inform your neighbors about the upcoming project, especially if there will be noise or temporary obstructions. A little communication goes a long way in keeping things friendly and efficient.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Clear the area. Before the painters arrive, you'll want to move anything that's close to your home's exterior – furniture, grills, planters, and even delicate decorations. This gives the crew "
+}

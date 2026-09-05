@@ -1,0 +1,171 @@
+{
+  "name": "Timeline: Planning for a Smooth Kitchen Renovation",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation & Design (2-4 weeks) – This is where you meet with us to discuss your vision, budget, and needs. We'll start sketching layouts and exploring material options. This phase involves a lot of back-and-forth to nail down the perfect design that balances your desires with practical considerations. Our team guides you through selections for cabinets, countertops, and appliances.",
+      "text": "Step 1: Initial Consultation & Design (2-4 weeks) – This is where you meet with us to discuss your vision, budget, and needs. We'll start sketching layouts and exploring material options. This phase involves a lot of back-and-forth to nail down the perfect design that balances your desires with practical considerations. Our team guides you through selections for cabinets, countertops, and appliances.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Material Selection & Ordering (4-8 weeks) – Once the design is approved, you'll finalize all your selections. Custom cabinets and unique countertops often have longer lead times, so ordering these early is crucial. We help you navigate options for quartz, stone, and various cabinet styles to fit your custom kitchen renovation.",
+      "text": "Step 2: Material Selection & Ordering (4-8 weeks) – Once the design is approved, you'll finalize all your selections. Custom cabinets and unique countertops often have longer lead times, so ordering these early is crucial. We help you navigate options for quartz, stone, and various cabinet styles to fit your custom kitchen renovation.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition & Rough-In (1-2 weeks) – This is where things get messy! Your old kitchen comes out. We then handle the initial plumbing, electrical, and HVAC work, making sure everything is ready for your new layout. This step requires licensed professionals to ensure code compliance, especially for open-concept redesigns.",
+      "text": "Step 3: Demolition & Rough-In (1-2 weeks) – This is where things get messy! Your old kitchen comes out. We then handle the initial plumbing, electrical, and HVAC work, making sure everything is ready for your new layout. This step requires licensed professionals to ensure code compliance, especially for open-concept redesigns.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Installation of Cabinets & Flooring (2-3 weeks) – With the rough-ins complete, your new cabinets are installed, followed by flooring. This is when your kitchen really starts taking shape! Precise installation is key here to ensure everything aligns perfectly and provides a solid foundation for the next steps.",
+      "text": "Step 4: Installation of Cabinets & Flooring (2-3 weeks) – With the rough-ins complete, your new cabinets are installed, followed by flooring. This is when your kitchen really starts taking shape! Precise installation is key here to ensure everything aligns perfectly and provides a solid foundation for the next steps.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Countertops & Backsplash (1-2 weeks) – After cabinets are in, templates are made for your countertops, which are then fabricated and installed. The backsplash goes in next, adding that perfect finishing touch. This stage really brings the whole design together, with careful attention to detail for a seamless look.",
+      "text": "Step 5: Countertops & Backsplash (1-2 weeks) – After cabinets are in, templates are made for your countertops, which are then fabricated and installed. The backsplash goes in next, adding that perfect finishing touch. This stage really brings the whole design together, with careful attention to detail for a seamless look.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Appliance Installation & Final Touches (1 week) – Your new appliances are installed, plumbing and electrical connections are finalized, and any last details like painting, trim, and hardware are completed. We'll do a final walk-through with you to ensure every detail meets your expectations and our high standards before we call it a wrap. From start to finish, our goal is clear communication and a beautifully finished custom kitchen.",
+      "text": "Step 6: Appliance Installation & Final Touches (1 week) – Your new appliances are installed, plumbing and electrical connections are finalized, and any last details like painting, trim, and hardware are completed. We'll do a final walk-through with you to ensure every detail meets your expectations and our high standards before we call it a wrap. From start to finish, our goal is clear communication and a beautifully finished custom kitchen.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation & Design (2-4 weeks) – This is where you meet with us to discuss your vision, budget, and needs. We'll start sketching layouts and exploring material options. This phase i"
+}

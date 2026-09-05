@@ -1,0 +1,171 @@
+{
+  "name": "What to Expect During Your Garage-to-ADU Project",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation & Design. First, we'll chat about your vision, your budget, and what you hope to achieve with your new ADU. This is where we discuss layouts, finishes, and how it will integrate with your existing home. Expect this phase to involve site visits and detailed discussions to really nail down the specifics.",
+      "text": "Step 1: Initial Consultation & Design. First, we'll chat about your vision, your budget, and what you hope to achieve with your new ADU. This is where we discuss layouts, finishes, and how it will integrate with your existing home. Expect this phase to involve site visits and detailed discussions to really nail down the specifics.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Permitting & Approvals. This can feel like a waiting game, but it's crucial. We'll prepare all necessary architectural and engineering plans and submit them to your local city planning department – whether you're in Orange County or the Greater Los Angeles area. This phase involves navigating zoning, building codes, and inspections, typically taking several weeks to a few months depending on the jurisdiction.",
+      "text": "Step 2: Permitting & Approvals. This can feel like a waiting game, but it's crucial. We'll prepare all necessary architectural and engineering plans and submit them to your local city planning department – whether you're in Orange County or the Greater Los Angeles area. This phase involves navigating zoning, building codes, and inspections, typically taking several weeks to a few months depending on the jurisdiction.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition & Site Preparation. Once permits are in hand, it's time for the action! This involves clearing out the garage, and preparing the foundation and structural elements. We'll make sure the site is safe and ready for the build, handling all the necessary demo and debris removal.",
+      "text": "Step 3: Demolition & Site Preparation. Once permits are in hand, it's time for the action! This involves clearing out the garage, and preparing the foundation and structural elements. We'll make sure the site is safe and ready for the build, handling all the necessary demo and debris removal.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Framing & Rough-Ins. This step brings the ADU to life. We'll frame the new walls, install new windows and doors, and run the new electrical, plumbing, and HVAC systems. Inspections will happen during and after this phase to ensure everything meets code before we move on.",
+      "text": "Step 4: Framing & Rough-Ins. This step brings the ADU to life. We'll frame the new walls, install new windows and doors, and run the new electrical, plumbing, and HVAC systems. Inspections will happen during and after this phase to ensure everything meets code before we move on.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Exterior & Interior Finishes. With the bones in place, we'll move on to making it look beautiful. This includes roofing, exterior siding or stucco, insulation, drywall, painting, flooring, and installing all the fixtures – think kitchen cabinets, bathroom vanities, and lighting. This is where your design choices really start to shine through!",
+      "text": "Step 5: Exterior & Interior Finishes. With the bones in place, we'll move on to making it look beautiful. This includes roofing, exterior siding or stucco, insulation, drywall, painting, flooring, and installing all the fixtures – think kitchen cabinets, bathroom vanities, and lighting. This is where your design choices really start to shine through!",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Inspections & Handover. We're almost there! The city will perform final inspections to ensure everything is up to code and all permits are closed. Once approved, we do a final walkthrough with you to ensure every detail meets your expectations before handing over the keys to your brand new ADU. Our goal is to make this process as clear and efficient as possible for you.",
+      "text": "Step 6: Final Inspections & Handover. We're almost there! The city will perform final inspections to ensure everything is up to code and all permits are closed. Once approved, we do a final walkthrough with you to ensure every detail meets your expectations before handing over the keys to your brand new ADU. Our goal is to make this process as clear and efficient as possible for you.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation & Design. First, we'll chat about your vision, your budget, and what you hope to achieve with your new ADU. This is where we discuss layouts, finishes, and how it will int"
+}

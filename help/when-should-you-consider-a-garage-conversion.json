@@ -1,0 +1,147 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Huntington Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Irvine",
+        "@type": "City"
+      },
+      {
+        "name": "Orange",
+        "@type": "City"
+      },
+      {
+        "name": "Yorba Linda",
+        "@type": "City"
+      },
+      {
+        "name": "Mission Viejo",
+        "@type": "City"
+      },
+      {
+        "name": "Newport Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Lake Forest",
+        "@type": "City"
+      },
+      {
+        "name": "Costa Mesa",
+        "@type": "City"
+      },
+      {
+        "name": "Laguna Niguel",
+        "@type": "City"
+      },
+      {
+        "name": "Fountain Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Anaheim",
+        "@type": "City"
+      },
+      {
+        "name": "Tustin",
+        "@type": "City"
+      },
+      {
+        "name": "Buena Park",
+        "@type": "City"
+      },
+      {
+        "name": "Los Alamitos",
+        "@type": "City"
+      },
+      {
+        "name": "Pasadena",
+        "@type": "City"
+      },
+      {
+        "name": "Torrance",
+        "@type": "City"
+      },
+      {
+        "name": "Glendale",
+        "@type": "City"
+      },
+      {
+        "name": "Burbank",
+        "@type": "City"
+      },
+      {
+        "name": "Rancho Palos Verdes",
+        "@type": "City"
+      },
+      {
+        "name": "South Pasadena",
+        "@type": "City"
+      },
+      {
+        "name": "Palos Verdes Estates",
+        "@type": "City"
+      },
+      {
+        "name": "San Marino",
+        "@type": "City"
+      },
+      {
+        "name": "El Segundo",
+        "@type": "City"
+      },
+      {
+        "name": "Cerritos",
+        "@type": "City"
+      },
+      {
+        "name": "Diamond Bar",
+        "@type": "City"
+      },
+      {
+        "name": "Long Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Downey",
+        "@type": "City"
+      },
+      {
+        "name": "Whittier ",
+        "@type": "City"
+      },
+      {
+        "name": "Cypress",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "When Should You Consider a Garage Conversion?",
+    "text": "When Should You Consider a Garage Conversion?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Q: When is it truly the right time to consider converting your garage into an Accessory Dwelling Unit (ADU) in Southern California?\n\nA: It's a smart consideration if you're experiencing a few key situations at home. First, if you're running out of space. Maybe your family is growing, or you need a dedicated home office, and adding on isn't feasible or affordable. A garage conversion can provide that extra room without needing to buy a new property or undertake a massive home addition. Second, if you're looking for an income stream. With housing costs high in areas like Newport Beach, Laguna Niguel, or Torrance, an ADU can be a fantastic rental opportunity. It's often more affordable than building a new structure from scratch. Third, if you want to keep aging parents or adult children close but maintain everyone's independence, an ADU offers a perfect blend of proximity and privacy. Finally, if your garage is primarily used for storage and could be better utilized, or if you're thinking about increasing your property value for a future sale, an ADU conversion can significantly boost appeal and functionality. Affordable Home Remodeling specializes in navigating the specifics of these projects, ensuring your conversion aligns with California's ADU laws and your personal needs. We can help assess your property's potential and streamline the process.",
+      "@type": "Answer",
+      "author": {
+        "name": "Affordable Home Remodeling",
+        "@type": "Organization"
+      }
+    }
+  }
+}

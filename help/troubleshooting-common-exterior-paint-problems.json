@@ -1,0 +1,171 @@
+{
+  "name": "Troubleshooting Common Exterior Paint Problems",
+  "step": [
+    {
+      "name": "Step 1: [ ] Problem: Peeling or flaking paint — This usually happens when t…",
+      "text": "[ ] Problem: Peeling or flaking paint — This usually happens when the paint didn't adhere well to the surface. It could be due to improper cleaning, moisture issues, or painting over an incompatible previous coating. The fix often involves scraping off the loose paint, thoroughly cleaning and prepping the surface (sanding, priming), and then repainting.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: [ ] Problem: Fading or chalking — If your paint looks dull or leave…",
+      "text": "[ ] Problem: Fading or chalking — If your paint looks dull or leaves a powdery residue when you rub it, it's likely due to sun exposure or using low-quality paint. While some fading is natural over time, excessive chalking means the paint is breaking down. For this, a good cleaning can sometimes help, but often, it points to needing a fresh coat of a higher-quality, UV-resistant exterior paint.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: [ ] Problem: Blistering or bubbling — These little bumps on your pa…",
+      "text": "[ ] Problem: Blistering or bubbling — These little bumps on your paint surface often indicate moisture trapped underneath. This could be from painting on a damp surface, humidity getting trapped, or moisture seeping in from inside your home's walls. You'll need to identify and fix the moisture source first, then scrape, sand, and repaint the affected areas.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: [ ] Problem: Mildew or mold growth — Dark, splotchy areas, especial…",
+      "text": "[ ] Problem: Mildew or mold growth — Dark, splotchy areas, especially in shady or damp spots, are usually mildew. This happens in humid environments. You can clean it with a mildew-killing solution (like bleach and water) before rinsing and repainting with a mildew-resistant primer and paint.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: [ ] Problem: Cracking or alligatoring — This looks like a dried-up…",
+      "text": "[ ] Problem: Cracking or alligatoring — This looks like a dried-up mud puddle or alligator skin. It often happens when a new, rigid paint is applied over an old, flexible one, or when paint is applied too thickly. The solution involves scraping away the old, cracked paint, sanding, priming, and then applying new paint in thin, even coats.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: [ ] Problem: Uneven color or sheen — If your paint job looks patchy…",
+      "text": "[ ] Problem: Uneven color or sheen — If your paint job looks patchy or inconsistent, it might be due to uneven application, inadequate mixing of the paint, or differences in surface porosity. Ensure paint is thoroughly mixed and applied evenly with enough coats. Sometimes, a professional painter can identify subtle issues you might miss, like the need for a specific primer to equalize absorption on varied surfaces. Getting an expert eye on these problems can save you a lot of headache and ensure a beautiful, lasting finish.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "[ ] Problem: Peeling or flaking paint — This usually happens when the paint didn't adhere well to the surface. It could be due to improper cleaning, moisture issues, or painting over an incompatible p"
+}

@@ -1,0 +1,159 @@
+{
+  "name": "Thinking of Building a New Home? Here's What to Expect",
+  "step": [
+    {
+      "name": "Step 1: Step 1: Planning and Design (4-12 weeks): This is where your vision…",
+      "text": "Step 1: Planning and Design (4-12 weeks): This is where your vision takes shape. You’ll work with an architect to design the floor plan, elevations, and overall aesthetic. During this stage, a general contractor often provides valuable input on buildability and cost-saving measures (value engineering). You’ll also need to consider site surveys, soil tests, and initial budget discussions. This is usually the longest initial phase and lays the foundation for everything that follows.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Step 2: Permitting and Approvals (4-16 weeks): Once designs are fin…",
+      "text": "Step 2: Permitting and Approvals (4-16 weeks): Once designs are finalized, they go through the local building department in your city, whether it’s Laguna Niguel or Glendale. This can be a lengthy process as plans are reviewed for compliance with state and local building codes, zoning regulations, and environmental requirements. An experienced contractor helps navigate this by ensuring plans are complete and responding to any questions promptly.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Step 3: Site Preparation and Foundation (2-4 weeks): With permits i…",
+      "text": "Step 3: Site Preparation and Foundation (2-4 weeks): With permits in hand, construction begins! This involves clearing and leveling the land, excavating for the foundation, installing utilities like water and sewer lines, and then pouring the concrete foundation. This phase requires precision to ensure a stable base for your entire home.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Step 4: Framing and Rough-Ins (4-8 weeks): This is where you really…",
+      "text": "Step 4: Framing and Rough-Ins (4-8 weeks): This is where you really start to see your home take shape. The walls, roof, and floor systems are built. After the structure is up, the",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Planning and Design (4-12 weeks): This is where your vision takes shape. You’ll work with an architect to design the floor plan, elevations, and overall aesthetic. During this stage, a general"
+}

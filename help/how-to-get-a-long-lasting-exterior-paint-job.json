@@ -1,0 +1,165 @@
+{
+  "name": "How to Get a Long-Lasting Exterior Paint Job",
+  "step": [
+    {
+      "name": "Step 1: Proper Surface Preparation. This is absolutely crucial for a durable paint job. It involves thoroughly cleaning all surfaces to remove dirt, grime, and mildew, which can prevent new paint from adhering. Then, any loose, peeling, or flaking paint needs to be scraped and sanded down. We also fill in minor imperfections and caulk gaps to create a smooth, sealed base. This step takes time, but it ensures the paint has a perfect surface to bond with, preventing premature peeling or blistering. It typically involves power washing, scraping, sanding, and minor repairs performed by our skilled crew over a few days, depending on the home's size and condition.",
+      "text": "Step 1: Proper Surface Preparation. This is absolutely crucial for a durable paint job. It involves thoroughly cleaning all surfaces to remove dirt, grime, and mildew, which can prevent new paint from adhering. Then, any loose, peeling, or flaking paint needs to be scraped and sanded down. We also fill in minor imperfections and caulk gaps to create a smooth, sealed base. This step takes time, but it ensures the paint has a perfect surface to bond with, preventing premature peeling or blistering. It typically involves power washing, scraping, sanding, and minor repairs performed by our skilled crew over a few days, depending on the home's size and condition.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Choose the Right Materials. Don't skimp on quality when it comes to paint and primer, especially for exterior projects in Southern California. High-quality paints offer better durability, UV resistance, and weather protection, which means your color will stay vibrant longer and your home will be better protected. We use premium primers to ensure maximum adhesion and a uniform finish. Our team will guide you in selecting the best primers and paints tailored to your home's specific siding material and your desired finish, ensuring longevity against the elements.",
+      "text": "Step 2: Choose the Right Materials. Don't skimp on quality when it comes to paint and primer, especially for exterior projects in Southern California. High-quality paints offer better durability, UV resistance, and weather protection, which means your color will stay vibrant longer and your home will be better protected. We use premium primers to ensure maximum adhesion and a uniform finish. Our team will guide you in selecting the best primers and paints tailored to your home's specific siding material and your desired finish, ensuring longevity against the elements.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Professional Application Techniques. Applying paint correctly isn't just about rolling it on. It involves applying the right number of coats, often two or more, with appropriate drying times in between. We also pay close attention to environmental conditions, avoiding painting in extreme heat, cold, or high humidity, which can affect drying and curing. Our experienced painters ensure even coverage, crisp lines, and a consistent finish, from trim to main siding. This attention to detail prevents common issues like uneven color or premature wear.",
+      "text": "Step 3: Professional Application Techniques. Applying paint correctly isn't just about rolling it on. It involves applying the right number of coats, often two or more, with appropriate drying times in between. We also pay close attention to environmental conditions, avoiding painting in extreme heat, cold, or high humidity, which can affect drying and curing. Our experienced painters ensure even coverage, crisp lines, and a consistent finish, from trim to main siding. This attention to detail prevents common issues like uneven color or premature wear.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Regular Maintenance. Even the best paint job benefits from a little care. Periodically cleaning your home's exterior to remove dirt, pollen, and mildew can significantly extend the life of your paint. Gently washing with a soft brush and mild detergent will keep it looking fresh. It's also smart to address any small cracks or chips as they appear, before they become bigger problems. This proactive approach helps maintain the integrity of the paint film and keeps your home looking its best for years. You can usually do this yourself once a year, or we can advise on professional cleaning services.",
+      "text": "Step 4: Regular Maintenance. Even the best paint job benefits from a little care. Periodically cleaning your home's exterior to remove dirt, pollen, and mildew can significantly extend the life of your paint. Gently washing with a soft brush and mild detergent will keep it looking fresh. It's also smart to address any small cracks or chips as they appear, before they become bigger problems. This proactive approach helps maintain the integrity of the paint film and keeps your home looking its best for years. You can usually do this yourself once a year, or we can advise on professional cleaning services.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Professional Consultation and Execution. Sometimes, the best way to ensure a long-lasting exterior paint job is to trust it to the experts. A professional general contractor like Affordable Home Remodeling brings the combined experience of over 40 years to the table. We handle everything from detailed surface preparation to expert material selection and application, ensuring your project is done right the first time. We'll identify any underlying issues, provide clear scopes and realistic timelines, and stand behind our work. If you're looking for a lasting finish for your home in Orange, Yorba Linda, or anywhere in our Southern California service area, give us a call.",
+      "text": "Step 5: Professional Consultation and Execution. Sometimes, the best way to ensure a long-lasting exterior paint job is to trust it to the experts. A professional general contractor like Affordable Home Remodeling brings the combined experience of over 40 years to the table. We handle everything from detailed surface preparation to expert material selection and application, ensuring your project is done right the first time. We'll identify any underlying issues, provide clear scopes and realistic timelines, and stand behind our work. If you're looking for a lasting finish for your home in Orange, Yorba Linda, or anywhere in our Southern California service area, give us a call.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Proper Surface Preparation. This is absolutely crucial for a durable paint job. It involves thoroughly cleaning all surfaces to remove dirt, grime, and mildew, which can prevent new paint from"
+}

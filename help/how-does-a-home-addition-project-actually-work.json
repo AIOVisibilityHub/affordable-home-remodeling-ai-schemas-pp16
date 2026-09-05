@@ -1,0 +1,165 @@
+{
+  "name": "How Does a Home Addition Project Actually Work?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Vision. This is where we sit down and talk about what you're dreaming of – a new bedroom, an expanded kitchen, a bigger living area. We'll discuss your needs, budget, and the possibilities for your home, typically taking a week or two to get everything on the table and understood.",
+      "text": "Step 1: Initial Consultation and Vision. This is where we sit down and talk about what you're dreaming of – a new bedroom, an expanded kitchen, a bigger living area. We'll discuss your needs, budget, and the possibilities for your home, typically taking a week or two to get everything on the table and understood.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design and Planning. Our team, or your architect, will create detailed plans that bring your vision to life, ensuring everything blends seamlessly with your existing structure and meets local building codes. This phase involves a lot of back-and-forth and can take a few weeks to a month or two, depending on complexity.",
+      "text": "Step 2: Design and Planning. Our team, or your architect, will create detailed plans that bring your vision to life, ensuring everything blends seamlessly with your existing structure and meets local building codes. This phase involves a lot of back-and-forth and can take a few weeks to a month or two, depending on complexity.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Permitting and Approvals. We handle the process of submitting your plans to the local authorities in places like Cerritos or Anaheim to get all the necessary permits. This can sometimes feel like a waiting game, but we make sure all the paperwork is correct. This step varies greatly but often takes several weeks.",
+      "text": "Step 3: Permitting and Approvals. We handle the process of submitting your plans to the local authorities in places like Cerritos or Anaheim to get all the necessary permits. This can sometimes feel like a waiting game, but we make sure all the paperwork is correct. This step varies greatly but often takes several weeks.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Construction Phase. Once permits are in hand, construction begins! This includes foundation work, framing, roofing, electrical, plumbing, and all the finishing touches. Our experienced crews work efficiently, keeping you updated throughout. This is the longest phase, typically lasting a few months, depending on the size and scope of your addition.",
+      "text": "Step 4: Construction Phase. Once permits are in hand, construction begins! This includes foundation work, framing, roofing, electrical, plumbing, and all the finishing touches. Our experienced crews work efficiently, keeping you updated throughout. This is the longest phase, typically lasting a few months, depending on the size and scope of your addition.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Final Walkthrough and Project Completion. We'll do a thorough walkthrough together to ensure every detail meets your expectations and our high standards. We'll address any final adjustments and make sure you're thrilled with your new space. This finalizes the project and usually wraps up within a week.",
+      "text": "Step 5: Final Walkthrough and Project Completion. We'll do a thorough walkthrough together to ensure every detail meets your expectations and our high standards. We'll address any final adjustments and make sure you're thrilled with your new space. This finalizes the project and usually wraps up within a week.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Vision. This is where we sit down and talk about what you're dreaming of – a new bedroom, an expanded kitchen, a bigger living area. We'll discuss your needs, budget, "
+}

@@ -1,0 +1,165 @@
+{
+  "name": "What to expect during a roof replacement project?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Estimate: This is where we kick things off! We'll visit your home in areas like Cerritos or Anaheim, discuss your roofing needs, inspect your current roof for damage or wear, and go over material options like asphalt shingles or tile. We'll give you a clear, transparent estimate, timeline, and answer all your questions. This typically takes a few hours to a day for the assessment, followed by a day or two for estimate preparation.",
+      "text": "Step 1: Initial Consultation and Estimate: This is where we kick things off! We'll visit your home in areas like Cerritos or Anaheim, discuss your roofing needs, inspect your current roof for damage or wear, and go over material options like asphalt shingles or tile. We'll give you a clear, transparent estimate, timeline, and answer all your questions. This typically takes a few hours to a day for the assessment, followed by a day or two for estimate preparation.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Material Selection and Permitting: Once you approve the estimate, we'll help you choose the best roofing materials for your home's style and your budget. Then, we handle all the necessary permits with your local building department, whether you're in Huntington Beach or Pasadena. We make sure everything is compliant with California building codes. This phase can take anywhere from a few days to a couple of weeks, depending on permit office turnaround times.",
+      "text": "Step 2: Material Selection and Permitting: Once you approve the estimate, we'll help you choose the best roofing materials for your home's style and your budget. Then, we handle all the necessary permits with your local building department, whether you're in Huntington Beach or Pasadena. We make sure everything is compliant with California building codes. This phase can take anywhere from a few days to a couple of weeks, depending on permit office turnaround times.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Old Roof Removal and Decking Inspection: On installation day, our crew will carefully remove your old roofing materials, protecting your landscaping and property. This is a crucial step! Once the old layers are off, we'll inspect the roof decking for any damage or rot and make necessary repairs before installing the new roof. This usually takes 1-2 days, depending on your roof's size and complexity.",
+      "text": "Step 3: Old Roof Removal and Decking Inspection: On installation day, our crew will carefully remove your old roofing materials, protecting your landscaping and property. This is a crucial step! Once the old layers are off, we'll inspect the roof decking for any damage or rot and make necessary repairs before installing the new roof. This usually takes 1-2 days, depending on your roof's size and complexity.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: New Roof Installation: This is the exciting part! We'll install your chosen underlayment, flashing, and new roofing materials with precision and attention to detail. Our experienced team ensures everything is installed according to manufacturer specifications and industry best practices for durability and weather resistance. This step can range from 3-7 days, again, depending on the scope of the project.",
+      "text": "Step 4: New Roof Installation: This is the exciting part! We'll install your chosen underlayment, flashing, and new roofing materials with precision and attention to detail. Our experienced team ensures everything is installed according to manufacturer specifications and industry best practices for durability and weather resistance. This step can range from 3-7 days, again, depending on the scope of the project.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Final Inspection and Cleanup: After installation, we conduct a thorough final inspection to ensure the quality of our work. We'll also do a complete cleanup of your property, removing all debris and materials. Our goal is to leave your home looking great, with a brand new, sturdy roof. You'll then receive any warranty information and a chance to do a final walkthrough with us. This final step usually happens on the last day of the project.",
+      "text": "Step 5: Final Inspection and Cleanup: After installation, we conduct a thorough final inspection to ensure the quality of our work. We'll also do a complete cleanup of your property, removing all debris and materials. Our goal is to leave your home looking great, with a brand new, sturdy roof. You'll then receive any warranty information and a chance to do a final walkthrough with us. This final step usually happens on the last day of the project.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Estimate: This is where we kick things off! We'll visit your home in areas like Cerritos or Anaheim, discuss your roofing needs, inspect your current roof for damage o"
+}

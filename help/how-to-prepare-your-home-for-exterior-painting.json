@@ -1,0 +1,171 @@
+{
+  "name": "How to Prepare Your Home for Exterior Painting",
+  "step": [
+    {
+      "name": "Step 1: Inspect and Repair. Walk around your home and carefully look for any damage. This includes cracks in stucco, loose siding, rotting wood, or areas with peeling paint. You'll want to get these issues fixed first, as paint won't properly adhere to damaged surfaces. Catching these early saves a lot of headaches later on.",
+      "text": "Step 1: Inspect and Repair. Walk around your home and carefully look for any damage. This includes cracks in stucco, loose siding, rotting wood, or areas with peeling paint. You'll want to get these issues fixed first, as paint won't properly adhere to damaged surfaces. Catching these early saves a lot of headaches later on.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Clean the Surfaces Thoroughly. Dirt, grime, mildew, and chalky residue will prevent new paint from sticking. Power washing is often the best method, but a good scrub with a cleaning solution can also work. Let the surfaces dry completely before moving on, which usually takes a day or two depending on the weather.",
+      "text": "Step 2: Clean the Surfaces Thoroughly. Dirt, grime, mildew, and chalky residue will prevent new paint from sticking. Power washing is often the best method, but a good scrub with a cleaning solution can also work. Let the surfaces dry completely before moving on, which usually takes a day or two depending on the weather.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Scrape and Sand Loose Paint. If you have existing peeling or flaking paint, it needs to go. Use a scraper to remove all loose paint, then sand the edges smooth. This creates a uniform surface for the new paint to bond to, preventing future peeling.",
+      "text": "Step 3: Scrape and Sand Loose Paint. If you have existing peeling or flaking paint, it needs to go. Use a scraper to remove all loose paint, then sand the edges smooth. This creates a uniform surface for the new paint to bond to, preventing future peeling.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Prime Any Bare Spots or Stains. Primer helps paint adhere better, provides a uniform base, and can block stains from bleeding through. Apply a high-quality primer to any bare wood, metal, or patched areas, and especially over knots or severe discoloration.",
+      "text": "Step 4: Prime Any Bare Spots or Stains. Primer helps paint adhere better, provides a uniform base, and can block stains from bleeding through. Apply a high-quality primer to any bare wood, metal, or patched areas, and especially over knots or severe discoloration.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Mask and Cover. Protect everything you don't want painted! Use painter's tape, plastic sheeting, and drop cloths to cover windows, doors, light fixtures, plants, and walkways. This step might seem tedious, but it saves hours of cleanup and ensures crisp, clean lines.",
+      "text": "Step 5: Mask and Cover. Protect everything you don't want painted! Use painter's tape, plastic sheeting, and drop cloths to cover windows, doors, light fixtures, plants, and walkways. This step might seem tedious, but it saves hours of cleanup and ensures crisp, clean lines.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Plan for Weather. Check the forecast carefully. Ideal painting weather is usually mild, not too hot or cold, with low humidity and no rain expected for at least 24-48 hours after painting. Painting in the wrong conditions can lead to poor adhesion and a compromised finish.",
+      "text": "Following these steps ensures your home is perfectly prepped, laying the groundwork for a stunning and durable exterior paint job. If this sounds like a lot, don't worry – professional services like Affordable Home Remodeling handle all these crucial steps, making the process smooth and stress-free for you.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Inspect and Repair. Walk around your home and carefully look for any damage. This includes cracks in stucco, loose siding, rotting wood, or areas with peeling paint. You'll want to get these i"
+}

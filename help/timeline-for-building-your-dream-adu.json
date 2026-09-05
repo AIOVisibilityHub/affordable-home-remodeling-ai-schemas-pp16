@@ -1,0 +1,183 @@
+{
+  "name": "Timeline for Building Your Dream ADU",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation & Feasibility Study (2-4 weeks)",
+      "text": "This is where we sit down and talk about your vision. We’ll assess your property's potential for an ADU, discuss your goals, budget, and the various options available (detached, attached, JADU). We’ll also give you a preliminary idea of what’s possible and any immediate challenges, like site access or utility locations. This crucial step helps us determine if an ADU is the right fit for your property and needs.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design & Architectural Drawings (4-12 weeks)",
+      "text": "Once we’ve established feasibility, our team or your chosen architect will create detailed plans. This includes floor plans, elevations, and structural drawings tailored to your specific ADU type and your property. This phase involves meticulous planning to ensure the ADU blends seamlessly with your existing home and meets your aesthetic and functional requirements. Expect a few rounds of revisions to get it just right.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Permitting & Approvals (4-16 weeks, sometimes longer)",
+      "text": "This can often be the longest part of the process, as we navigate local city planning departments (e.g., in Orange, Cerritos, or Long Beach) to secure the necessary permits. California state law has eased some ADU restrictions, but local jurisdictions still have their own specific requirements regarding setbacks, design, and fire safety. We’ll manage this process, submitting plans and addressing any comments to ensure full compliance. Patience is a virtue here!",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Site Preparation & Foundation (2-4 weeks)",
+      "text": "With permits secured, construction officially begins! This involves preparing the site, clearing any necessary obstacles, and laying the foundation for your ADU. Proper site prep is critical for the long-term stability and integrity of the structure, ensuring everything starts on a solid base. Our experienced crews work efficiently to get this phase completed accurately.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Framing & Roofing (4-8 weeks)",
+      "text": "Next, the skeletal structure of your ADU goes up. This includes framing the walls, installing the roof, and putting in windows and exterior doors. Getting the structure 'dried in' at this stage protects the interior from weather and allows internal work to begin. You'll really start to see the shape and size of your new ADU take form during this exciting period.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Utility Rough-ins & Exterior Finishes (4-8 weeks)",
+      "text": "This phase involves running all the essential utilities – electrical wiring, plumbing, and HVAC ducts – through the walls and ceilings. Simultaneously, exterior finishes like siding, stucco, or paint are applied, and any exterior landscaping around the ADU begins to take shape. Coordinating these trades effectively is key to maintaining momentum.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Interior Finishes & Fixture Installation (4-8 weeks)",
+      "text": "Now for the finishes that make it feel like home! Drywall is installed and painted, flooring is laid, and all your chosen cabinets, countertops, light fixtures, and plumbing fixtures are installed. This is where your design choices really shine through, creating the interior aesthetic you’ve been planning. Attention to detail is paramount for a high-quality finish.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8: Final Inspection & Walkthrough (1-2 weeks)",
+      "text": "Once all work is complete, a final inspection by the city confirms everything meets code. We’ll also conduct a thorough walkthrough with you to ensure every detail is perfect and you’re completely satisfied with your new ADU. Affordable Home Remodeling stands by its work, offering accountability and transparent communication throughout the entire process. Welcome to your beautiful new ADU! This timeline gives you a solid framework, but remember that variables like material availability or unforeseen site conditions can influence exact timings. We keep you informed every step of the way.",
+      "@type": "HowToStep",
+      "position": 8
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "This is where we sit down and talk about your vision. We’ll assess your property's potential for an ADU, discuss your goals, budget, and the various options available (detached, attached, JADU). We’ll"
+}

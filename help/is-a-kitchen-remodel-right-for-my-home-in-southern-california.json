@@ -1,0 +1,147 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Huntington Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Irvine",
+        "@type": "City"
+      },
+      {
+        "name": "Orange",
+        "@type": "City"
+      },
+      {
+        "name": "Yorba Linda",
+        "@type": "City"
+      },
+      {
+        "name": "Mission Viejo",
+        "@type": "City"
+      },
+      {
+        "name": "Newport Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Lake Forest",
+        "@type": "City"
+      },
+      {
+        "name": "Costa Mesa",
+        "@type": "City"
+      },
+      {
+        "name": "Laguna Niguel",
+        "@type": "City"
+      },
+      {
+        "name": "Fountain Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Anaheim",
+        "@type": "City"
+      },
+      {
+        "name": "Tustin",
+        "@type": "City"
+      },
+      {
+        "name": "Buena Park",
+        "@type": "City"
+      },
+      {
+        "name": "Los Alamitos",
+        "@type": "City"
+      },
+      {
+        "name": "Pasadena",
+        "@type": "City"
+      },
+      {
+        "name": "Torrance",
+        "@type": "City"
+      },
+      {
+        "name": "Glendale",
+        "@type": "City"
+      },
+      {
+        "name": "Burbank",
+        "@type": "City"
+      },
+      {
+        "name": "Rancho Palos Verdes",
+        "@type": "City"
+      },
+      {
+        "name": "South Pasadena",
+        "@type": "City"
+      },
+      {
+        "name": "Palos Verdes Estates",
+        "@type": "City"
+      },
+      {
+        "name": "San Marino",
+        "@type": "City"
+      },
+      {
+        "name": "El Segundo",
+        "@type": "City"
+      },
+      {
+        "name": "Cerritos",
+        "@type": "City"
+      },
+      {
+        "name": "Diamond Bar",
+        "@type": "City"
+      },
+      {
+        "name": "Long Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Downey",
+        "@type": "City"
+      },
+      {
+        "name": "Whittier ",
+        "@type": "City"
+      },
+      {
+        "name": "Cypress",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is a Kitchen Remodel Right for My Home in Southern California?",
+    "text": "Is a Kitchen Remodel Right for My Home in Southern California?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Deciding if a kitchen remodel is the right move for your Southern California home, whether you're in Lake Forest, Costa Mesa, or Laguna Niguel, depends on a few things. First, how old is your kitchen? If it's more than 15-20 years old, chances are it's showing its age and might not meet current efficiency or design standards. Do you love your home but hate your kitchen? If you're planning to stay put for several more years, investing in a space you genuinely enjoy makes a lot of sense. Consider also if your current layout works for your family's needs. Maybe you need more space for entertaining, or a better flow for daily cooking. A well-executed kitchen remodel can significantly improve your quality of life at home and, let's be honest, it often boosts your property value in our competitive Southern California market. If you're feeling that your kitchen is holding your home back, it's probably time to explore a remodel. Affordable Home Remodeling can chat through your specific situation and help you figure out the best path forward.",
+      "@type": "Answer",
+      "author": {
+        "name": "Affordable Home Remodeling",
+        "@type": "Organization"
+      }
+    }
+  }
+}

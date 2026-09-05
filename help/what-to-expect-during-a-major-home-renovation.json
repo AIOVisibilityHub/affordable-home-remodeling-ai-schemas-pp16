@@ -1,0 +1,171 @@
+{
+  "name": "What to Expect During a Major Home Renovation",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation & Design. This is where you meet with a contractor like Affordable Home Remodeling to discuss your vision, budget, and timeline. We'll explore ideas, assess the existing structure, and start shaping a preliminary design. This phase involves a lot of listening and collaboration to make sure we truly understand your goals.",
+      "text": "Step 1: Initial Consultation & Design. This is where you meet with a contractor like Affordable Home Remodeling to discuss your vision, budget, and timeline. We'll explore ideas, assess the existing structure, and start shaping a preliminary design. This phase involves a lot of listening and collaboration to make sure we truly understand your goals.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Planning & Permitting. Once the design is solid, we'll finalize drawings, material selections, and project specifications. Then, we handle the permitting process with your local city—think Cerritos, Anaheim, or Orange. This can take some time, as permits ensure all work meets local building codes and regulations, which is crucial for safety and legality.",
+      "text": "Step 2: Planning & Permitting. Once the design is solid, we'll finalize drawings, material selections, and project specifications. Then, we handle the permitting process with your local city—think Cerritos, Anaheim, or Orange. This can take some time, as permits ensure all work meets local building codes and regulations, which is crucial for safety and legality.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition & Site Prep. This is often the most disruptive but exciting part! Old walls come down, existing fixtures are removed, and the site is prepared for new construction. Expect dust and noise, but also the first real signs of transformation. We focus on keeping the site clean and safe during this phase.",
+      "text": "Step 3: Demolition & Site Prep. This is often the most disruptive but exciting part! Old walls come down, existing fixtures are removed, and the site is prepared for new construction. Expect dust and noise, but also the first real signs of transformation. We focus on keeping the site clean and safe during this phase.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Rough-Ins (Framing, Electrical, Plumbing). The structural bones and essential systems go in. New walls are framed, wiring is run, and plumbing lines are installed. This is when you really start to see the new layout take shape. Inspections often happen after each major rough-in to ensure compliance.",
+      "text": "Step 4: Rough-Ins (Framing, Electrical, Plumbing). The structural bones and essential systems go in. New walls are framed, wiring is run, and plumbing lines are installed. This is when you really start to see the new layout take shape. Inspections often happen after each major rough-in to ensure compliance.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Finishes & Fixtures. This is where your home really starts to shine! Drywall goes up, floors are installed, cabinets are set, paint is applied, and all your chosen fixtures like lighting, sinks, and appliances are put into place. It’s all about the details here, bringing your design vision to life.",
+      "text": "Step 5: Finishes & Fixtures. This is where your home really starts to shine! Drywall goes up, floors are installed, cabinets are set, paint is applied, and all your chosen fixtures like lighting, sinks, and appliances are put into place. It’s all about the details here, bringing your design vision to life.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Walkthrough & Punch List. Before wrapping up, we'll do a thorough walkthrough with you. This is your chance to point out any small adjustments or touch-ups needed. We'll create a 'punch list' of these items and address them promptly to ensure everything is perfect. Finally, a complete cleanup and handover of your beautifully renovated home. With Affordable Home Remodeling, you get clear communication every step of the way, making the process as smooth as possible.",
+      "text": "Step 6: Final Walkthrough & Punch List. Before wrapping up, we'll do a thorough walkthrough with you. This is your chance to point out any small adjustments or touch-ups needed. We'll create a 'punch list' of these items and address them promptly to ensure everything is perfect. Finally, a complete cleanup and handover of your beautifully renovated home. With Affordable Home Remodeling, you get clear communication every step of the way, making the process as smooth as possible.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation & Design. This is where you meet with a contractor like Affordable Home Remodeling to discuss your vision, budget, and timeline. We'll explore ideas, assess the existing s"
+}

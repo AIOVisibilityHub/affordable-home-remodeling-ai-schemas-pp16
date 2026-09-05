@@ -1,0 +1,142 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Are my old windows costing me too much?",
+  "publisher": {
+    "url": "affordablehomeremodeling.com",
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "You might not realize it, but those older windows in your home could actually be a hidden drain on your wallet. If you're constantly adjusting the thermostat or battling drafts, it's definitely worth looking into. The good news is, replacing them can actually be a smart investment that saves you money in the long run.\n\nOlder single-pane windows, or even double-pane windows that have lost their seal, aren't very good at insulating your home. This means your heating and cooling systems have to work much harder to maintain a comfortable temperature. Imagine trying to keep a leaky bucket full – that's what your HVAC system is doing when your windows aren't efficient. Over time, that extra effort translates directly into higher energy bills.\n\nBeyond energy costs, inefficient windows can lead to uncomfortable hot and cold spots throughout your house. You might even notice condensation between the glass panes, which indicates a failed seal and significantly reduced insulation. This can also lead to mold growth and damage to your window sills and frames if left unaddressed. Plus, newer windows often come with enhanced noise reduction, UV protection to prevent furniture fading, and increased home security, adding even more value.\n\nIf you're in areas like Newport Beach, Orange, or Pasadena and your energy bills seem stubbornly high, or your home just doesn't feel consistently comfortable, it's definitely time to consider an upgrade. A professional like Affordable Home Remodeling can assess your current windows, show you how much you could save with modern, energy-efficient replacements, and help you find options that enhance both your comfort and your home’s value.",
+  "datePublished": "2026-09-04"
+}

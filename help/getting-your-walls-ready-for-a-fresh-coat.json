@@ -1,0 +1,171 @@
+{
+  "name": "Getting Your Walls Ready for a Fresh Coat",
+  "step": [
+    {
+      "name": "Step 1: Clear the Room. Before you even think about paint, you need to get everything out of the way. Remove all furniture, decorations, and wall hangings from the room. If larger pieces can’t be moved, push them to the center of the room and cover them completely with plastic sheeting. This step is crucial to prevent accidental drips and provide unobstructed access to all walls, usually taking a few hours depending on the room's size.",
+      "text": "Step 1: Clear the Room. Before you even think about paint, you need to get everything out of the way. Remove all furniture, decorations, and wall hangings from the room. If larger pieces can’t be moved, push them to the center of the room and cover them completely with plastic sheeting. This step is crucial to prevent accidental drips and provide unobstructed access to all walls, usually taking a few hours depending on the room's size.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Clean the Walls Thoroughly. Dust, grime, and cobwebs can prevent paint from adhering properly, leading to a splotchy finish. Use a mild detergent solution (like a mix of dish soap and water) and a sponge to wash your walls from top to bottom. For kitchens or greasy areas, a degreaser might be necessary. Rinse with clean water and allow the walls to dry completely, which can take several hours to a full day.",
+      "text": "Step 2: Clean the Walls Thoroughly. Dust, grime, and cobwebs can prevent paint from adhering properly, leading to a splotchy finish. Use a mild detergent solution (like a mix of dish soap and water) and a sponge to wash your walls from top to bottom. For kitchens or greasy areas, a degreaser might be necessary. Rinse with clean water and allow the walls to dry completely, which can take several hours to a full day.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Repair Any Imperfections. Now’s the time to fill any nail holes, cracks, or dents. Use spackle or wall putty for smaller imperfections. For larger holes, you might need a patch kit. Once the filler is dry, sand it smooth so it’s flush with the wall surface. This meticulous step ensures a perfectly smooth canvas for your new paint and can take anywhere from a few hours to a day, including drying time.",
+      "text": "Step 3: Repair Any Imperfections. Now’s the time to fill any nail holes, cracks, or dents. Use spackle or wall putty for smaller imperfections. For larger holes, you might need a patch kit. Once the filler is dry, sand it smooth so it’s flush with the wall surface. This meticulous step ensures a perfectly smooth canvas for your new paint and can take anywhere from a few hours to a day, including drying time.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Sand and Prime the Walls. Lightly sand the entire wall surface with fine-grit sandpaper after cleaning and repairs. This creates a slightly textured surface for better paint adhesion. Then, apply a high-quality primer. Primer helps the paint adhere better, provides a uniform base, and can even help cover existing dark colors or stains. Priming is especially important if you’re changing a dark color to a light one. This step can take a day, including drying time for the primer.",
+      "text": "Step 4: Sand and Prime the Walls. Lightly sand the entire wall surface with fine-grit sandpaper after cleaning and repairs. This creates a slightly textured surface for better paint adhesion. Then, apply a high-quality primer. Primer helps the paint adhere better, provides a uniform base, and can even help cover existing dark colors or stains. Priming is especially important if you’re changing a dark color to a light one. This step can take a day, including drying time for the primer.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Tape and Cover Non-Painted Areas. Use painter's tape to protect trim, baseboards, window frames, and ceiling lines. Press the tape down firmly to prevent paint bleed. Lay drop cloths or plastic sheeting on the floor to catch any drips. This meticulous preparation prevents paint from getting where it shouldn't and saves a lot of cleanup time later, typically taking a few hours to complete effectively.",
+      "text": "Step 5: Tape and Cover Non-Painted Areas. Use painter's tape to protect trim, baseboards, window frames, and ceiling lines. Press the tape down firmly to prevent paint bleed. Lay drop cloths or plastic sheeting on the floor to catch any drips. This meticulous preparation prevents paint from getting where it shouldn't and saves a lot of cleanup time later, typically taking a few hours to complete effectively.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Ensure Proper Ventilation. Before you start painting, open windows and use fans to ensure good air circulation. This helps the paint dry evenly, reduces fumes, and creates a more comfortable working environment. Good ventilation should be maintained throughout the painting process and for a few hours afterward.",
+      "text": "Step 6: Ensure Proper Ventilation. Before you start painting, open windows and use fans to ensure good air circulation. This helps the paint dry evenly, reduces fumes, and creates a more comfortable working environment. Good ventilation should be maintained throughout the painting process and for a few hours afterward.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Clear the Room. Before you even think about paint, you need to get everything out of the way. Remove all furniture, decorations, and wall hangings from the room. If larger pieces can’t be move"
+}

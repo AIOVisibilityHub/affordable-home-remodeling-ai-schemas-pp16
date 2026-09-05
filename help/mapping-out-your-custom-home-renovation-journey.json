@@ -1,0 +1,171 @@
+{
+  "name": "Mapping Out Your Custom Home Renovation Journey",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Visioning. Your journey begins with a detailed discussion about your lifestyle, aesthetic preferences, and functional needs. This is where you share your dreams for your custom space, and we start to translate them into a tangible project. This step is a collaborative effort between you and Affordable Home Remodeling, typically taking 1-2 weeks as we listen and gather all your input.",
+      "text": "Step 1: Initial Consultation and Visioning. Your journey begins with a detailed discussion about your lifestyle, aesthetic preferences, and functional needs. This is where you share your dreams for your custom space, and we start to translate them into a tangible project. This step is a collaborative effort between you and Affordable Home Remodeling, typically taking 1-2 weeks as we listen and gather all your input.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Conceptual Design and Budget Planning. Based on your vision, we develop initial design concepts and provide a preliminary budget estimate. This phase involves exploring different layouts, material options, and finishes to see what aligns best with your goals and financial comfort. This iterative process, involving design professionals and you, can take 2-4 weeks to fine-tune.",
+      "text": "Step 2: Conceptual Design and Budget Planning. Based on your vision, we develop initial design concepts and provide a preliminary budget estimate. This phase involves exploring different layouts, material options, and finishes to see what aligns best with your goals and financial comfort. This iterative process, involving design professionals and you, can take 2-4 weeks to fine-tune.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Detailed Design, Selections, and Contract. Once the concept and budget are approved, we move into detailed architectural drawings and specifications. This is also when all material selections – from flooring and cabinetry to fixtures and paint colors – are finalized. A comprehensive contract outlining the scope, timeline, and cost is then prepared. This critical phase, led by the design and contracting team with your input, usually spans 4-8 weeks.",
+      "text": "Step 3: Detailed Design, Selections, and Contract. Once the concept and budget are approved, we move into detailed architectural drawings and specifications. This is also when all material selections – from flooring and cabinetry to fixtures and paint colors – are finalized. A comprehensive contract outlining the scope, timeline, and cost is then prepared. This critical phase, led by the design and contracting team with your input, usually spans 4-8 weeks.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Permitting and Pre-Construction. With finalized plans and selections, we handle the permitting process with your local city or county building department. This often involves submitting detailed drawings for review to ensure compliance with all codes, a process we’re very familiar with in Southern California. During this time, we also schedule subcontractors and prepare the site. This phase, managed by your contractor, can take anywhere from 4-12 weeks, depending on the municipality.",
+      "text": "Step 4: Permitting and Pre-Construction. With finalized plans and selections, we handle the permitting process with your local city or county building department. This often involves submitting detailed drawings for review to ensure compliance with all codes, a process we’re very familiar with in Southern California. During this time, we also schedule subcontractors and prepare the site. This phase, managed by your contractor, can take anywhere from 4-12 weeks, depending on the municipality.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Construction and Project Management. This is where your custom home renovation comes to life! Our skilled team begins the demolition, structural changes, and installation of all new elements. Affordable Home Remodeling provides consistent on-site supervision, manages all trades, maintains the schedule, and ensures quality control every step of the way. This phase is highly variable, lasting from 8 weeks to several months, depending on the project's complexity.",
+      "text": "Step 5: Construction and Project Management. This is where your custom home renovation comes to life! Our skilled team begins the demolition, structural changes, and installation of all new elements. Affordable Home Remodeling provides consistent on-site supervision, manages all trades, maintains the schedule, and ensures quality control every step of the way. This phase is highly variable, lasting from 8 weeks to several months, depending on the project's complexity.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Walkthrough, Punch List, and Handover. As construction nears completion, we conduct a thorough walkthrough with you to inspect every detail and create a 'punch list' of any minor adjustments needed. Once these are addressed and you’re completely satisfied, we hand over your beautifully renovated custom home. This final stage typically takes 1-2 weeks, ensuring every detail meets your high standards. Ready to start your custom renovation journey? Let's build something amazing together.",
+      "text": "Step 6: Final Walkthrough, Punch List, and Handover. As construction nears completion, we conduct a thorough walkthrough with you to inspect every detail and create a 'punch list' of any minor adjustments needed. Once these are addressed and you’re completely satisfied, we hand over your beautifully renovated custom home. This final stage typically takes 1-2 weeks, ensuring every detail meets your high standards. Ready to start your custom renovation journey? Let's build something amazing together.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Visioning. Your journey begins with a detailed discussion about your lifestyle, aesthetic preferences, and functional needs. This is where you share your dreams for yo"
+}

@@ -1,0 +1,165 @@
+{
+  "name": "How to Plan Your Perfect Home Addition",
+  "step": [
+    {
+      "name": "Step 1: Define Your Needs and Wants: Start by figuring out *why* you need more space. Is it a new bedroom, a bigger kitchen, or a dedicated office? Think about how you’ll use the room, your aesthetic preferences, and what’s absolutely essential versus nice-to-have. This typically involves brainstorming with your family and listing out your priorities.",
+      "text": "Step 1: Define Your Needs and Wants: Start by figuring out *why* you need more space. Is it a new bedroom, a bigger kitchen, or a dedicated office? Think about how you’ll use the room, your aesthetic preferences, and what’s absolutely essential versus nice-to-have. This typically involves brainstorming with your family and listing out your priorities.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Research Local Regulations and Zoning: Before getting too deep, understand what’s permissible in your area. California state law and local zoning requirements in places like Huntington Beach or Pasadena can impact size, setbacks, and even architectural style. This crucial step often requires a professional's input to navigate successfully, typically taking a few weeks.",
+      "text": "Step 2: Research Local Regulations and Zoning: Before getting too deep, understand what’s permissible in your area. California state law and local zoning requirements in places like Huntington Beach or Pasadena can impact size, setbacks, and even architectural style. This crucial step often requires a professional's input to navigate successfully, typically taking a few weeks.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Establish Your Budget and Financing: Get a clear picture of what you can comfortably spend, including a contingency fund for unexpected issues. Explore financing options if needed. An experienced contractor, like Affordable Home Remodeling, can provide realistic cost estimates, usually after an initial consultation and site visit.",
+      "text": "Step 3: Establish Your Budget and Financing: Get a clear picture of what you can comfortably spend, including a contingency fund for unexpected issues. Explore financing options if needed. An experienced contractor, like Affordable Home Remodeling, can provide realistic cost estimates, usually after an initial consultation and site visit.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Engage a Design and Build Team: This is where the magic happens. Work with a contractor who offers end-to-end solutions, from concept to completion. They'll help with architectural plans, material selection, and permitting. This phase involves several meetings and revisions and can take several weeks to a few months depending on complexity.",
+      "text": "Step 4: Engage a Design and Build Team: This is where the magic happens. Work with a contractor who offers end-to-end solutions, from concept to completion. They'll help with architectural plans, material selection, and permitting. This phase involves several meetings and revisions and can take several weeks to a few months depending on complexity.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Prepare Your Home for Construction: Once plans are approved and permits secured, your contractor will discuss site access, utility interruptions, and ways to minimize disruption to your daily life. This preparation is usually handled in the days leading up to construction kickoff. Remember, a single point of accountability, like our team at Affordable Home Remodeling, makes this process much smoother.",
+      "text": "Step 5: Prepare Your Home for Construction: Once plans are approved and permits secured, your contractor will discuss site access, utility interruptions, and ways to minimize disruption to your daily life. This preparation is usually handled in the days leading up to construction kickoff. Remember, a single point of accountability, like our team at Affordable Home Remodeling, makes this process much smoother.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Define Your Needs and Wants: Start by figuring out *why* you need more space. Is it a new bedroom, a bigger kitchen, or a dedicated office? Think about how you’ll use the room, your aesthetic "
+}

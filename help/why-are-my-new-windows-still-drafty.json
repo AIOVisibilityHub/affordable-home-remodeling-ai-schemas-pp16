@@ -1,0 +1,142 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Are My New Windows Still Drafty?",
+  "publisher": {
+    "url": "affordablehomeremodeling.com",
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super frustrating to invest in new windows only to find your home still feels drafty. You're not alone in wondering why this happens! Often, the issue isn't the windows themselves, but other factors around them or within your home's envelope. \n\n1.  **Improper Installation:** Even the best windows won't perform if they're not installed correctly. Gaps around the frame that aren't properly insulated and sealed are prime entry points for drafts. A shoddy installation job can negate all the benefits of high-quality windows. \n\n2.  **Missing or Poor Wall Insulation:** If your walls aren't adequately insulated, drafts can still come through the wall cavities, especially around the window openings. New windows can highlight existing insulation problems, making them seem worse than they are. \n\n3.  **Leaky Exterior Walls or Siding:** Sometimes, air isn't coming through the window but around it, through cracks or openings in your exterior siding or building envelope. This might require a more comprehensive exterior inspection to pinpoint and seal these leaks. \n\n4.  **Attic or Basement Air Leaks:** Drafts can travel. If you have significant air leaks in your attic or basement, that air can be drawn into your living spaces, making areas near windows feel drafty, even if the windows themselves are sealed. \n\n5.  **Window Type vs. Performance Expectations:** While all new windows are better than old ones, some perform exceptionally well for insulation. If you opted for a basic model but had high expectations for thermal performance in extreme conditions, there might be a mismatch. \n\n6.  **Unseen Structural Gaps:** Very rarely, there could be subtle structural issues that allow air infiltration behind walls, affecting areas around windows. \n\nIf you've installed new windows and still feel drafts, it's a good idea to have a professional general contractor or energy auditor look at your home's overall envelope. They can identify exactly where air is getting in and recommend solutions beyond just the windows. Affordable Home Remodeling can help assess your situation and provide comprehensive solutions for a truly comfortable home.",
+  "datePublished": "2026-09-04"
+}

@@ -1,0 +1,14 @@
+{
+  "url": "affordablehomeremodeling.com",
+  "name": "Affordable Home Remodeling - Cerritos Office",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "90703",
+    "addressRegion": "California",
+    "streetAddress": "18000 Studebaker Road, Suite #700",
+    "addressLocality": "Cerritos"
+  },
+  "@context": "https://schema.org",
+  "telephone": "+18008710300"
+}

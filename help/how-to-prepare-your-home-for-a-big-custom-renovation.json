@@ -1,0 +1,171 @@
+{
+  "name": "How to Prepare Your Home for a Big Custom Renovation",
+  "step": [
+    {
+      "name": "Step 1: Declutter and Depersonalize. Start by removing all personal items, photos, and decorations from the areas being renovated. Pack up non-essential items in nearby rooms too, as dust can travel. The less clutter, the easier it is for the crew to work efficiently and keep your belongings safe.",
+      "text": "Step 1: Declutter and Depersonalize. Start by removing all personal items, photos, and decorations from the areas being renovated. Pack up non-essential items in nearby rooms too, as dust can travel. The less clutter, the easier it is for the crew to work efficiently and keep your belongings safe.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Secure Valuables. Move any irreplaceable items, jewelry, important documents, and electronics to a secure, off-site location or a locked room far from the construction zone. Even with careful contractors, accidents can happen, and it’s best to protect what matters most.",
+      "text": "Step 2: Secure Valuables. Move any irreplaceable items, jewelry, important documents, and electronics to a secure, off-site location or a locked room far from the construction zone. Even with careful contractors, accidents can happen, and it’s best to protect what matters most.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Create a Temporary Living Space. If your renovation is extensive, especially a whole-home project, consider setting up a temporary kitchen, bathroom, or sleeping area if you plan to stay in the house. Discuss with your contractor, like Affordable Home Remodeling, how much of your home will be affected and for how long. Sometimes, temporary relocation is the best option.",
+      "text": "Step 3: Create a Temporary Living Space. If your renovation is extensive, especially a whole-home project, consider setting up a temporary kitchen, bathroom, or sleeping area if you plan to stay in the house. Discuss with your contractor, like Affordable Home Remodeling, how much of your home will be affected and for how long. Sometimes, temporary relocation is the best option.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Protect Remaining Areas. Work with your contractor to seal off renovation zones with plastic sheeting or temporary walls to minimize dust spread. Cover floors in adjacent areas with heavy-duty drop cloths or cardboard, and protect furniture that can't be moved. Your contractor will also implement site safety protocols.",
+      "text": "Step 4: Protect Remaining Areas. Work with your contractor to seal off renovation zones with plastic sheeting or temporary walls to minimize dust spread. Cover floors in adjacent areas with heavy-duty drop cloths or cardboard, and protect furniture that can't be moved. Your contractor will also implement site safety protocols.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Plan for Utilities Access. Make sure there’s clear access to electrical panels, water shut-off valves, and HVAC systems, as these will likely need to be accessed or adjusted during the renovation. Also, discuss waste disposal plans with your contractor, including where dumpsters will be placed.",
+      "text": "Step 5: Plan for Utilities Access. Make sure there’s clear access to electrical panels, water shut-off valves, and HVAC systems, as these will likely need to be accessed or adjusted during the renovation. Also, discuss waste disposal plans with your contractor, including where dumpsters will be placed.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Inform Neighbors. A courtesy heads-up to your neighbors about upcoming noise, deliveries, and increased traffic can go a long way in maintaining good relationships. Your contractor, like Affordable Home Remodeling, will also manage site logistics and deliveries. Taking these steps helps ensure that your custom home renovation, whether in Lake Forest, Huntington Beach, or Glendale, progresses as smoothly as possible, letting you focus on the exciting changes ahead.",
+      "text": "Step 6: Inform Neighbors. A courtesy heads-up to your neighbors about upcoming noise, deliveries, and increased traffic can go a long way in maintaining good relationships. Your contractor, like Affordable Home Remodeling, will also manage site logistics and deliveries. Taking these steps helps ensure that your custom home renovation, whether in Lake Forest, Huntington Beach, or Glendale, progresses as smoothly as possible, letting you focus on the exciting changes ahead.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Declutter and Depersonalize. Start by removing all personal items, photos, and decorations from the areas being renovated. Pack up non-essential items in nearby rooms too, as dust can travel. "
+}

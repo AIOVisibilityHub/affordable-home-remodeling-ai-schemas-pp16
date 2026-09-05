@@ -1,0 +1,171 @@
+{
+  "name": "What to Expect During a Full Roof Replacement",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Estimate",
+      "text": "We'll start with a thorough inspection of your current roof and discuss your needs, budget, and material preferences. We'll provide a detailed, transparent estimate outlining the scope of work, materials, and timeline. This is where we ensure everything aligns with your vision and our commitment to clear scopes and consistent communication.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Permitting and Material Delivery",
+      "text": "Once you approve the estimate, we handle all necessary permitting with local building departments in Southern California cities, ensuring compliance with California building codes. Then, we coordinate the delivery of all materials to your site, making sure everything is ready before work begins to keep things on schedule.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Old Roof Removal",
+      "text": "Our crew will carefully remove your existing roofing materials down to the roof deck. This step is crucial for identifying any underlying issues, like damaged sheathing or rot, which we'll address before installing the new roof. We prioritize safety and efficient debris removal during this phase.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Roof Deck Inspection and Repair",
+      "text": "With the old roof gone, we'll thoroughly inspect the roof deck for any damage or weaknesses. If repairs are needed, we'll perform them diligently to ensure a solid foundation for your new roof. This attention to detail is part of our commitment to quality and durability.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: New Roof Installation",
+      "text": "This is where your new roof takes shape! We install underlayment, flashing, and your chosen roofing materials with precision and expertise. Our team adheres to all safety protocols and industry best practices, ensuring a high-quality, weather-resistant installation that will protect your home for years to come.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Inspection and Site Cleanup",
+      "text": "After installation, we conduct a comprehensive final inspection to ensure everything meets our high standards and your satisfaction. We also perform a thorough cleanup of your property, removing all debris and materials, leaving your home looking fantastic. Our goal is to leave you with a beautiful, secure roof and a clean site.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "We'll start with a thorough inspection of your current roof and discuss your needs, budget, and material preferences. We'll provide a detailed, transparent estimate outlining the scope of work, materi"
+}

@@ -1,0 +1,165 @@
+{
+  "name": "How to Plan Your Garage ADU Project Smoothly",
+  "step": [
+    {
+      "name": "Step 1: Define Your Vision and Budget. Before swinging a hammer, sit down and figure out what you want your ADU to be. Is it for family, a rental, or a home office? This impacts design and features. Also, establish a realistic budget, including contingency funds. This phase typically takes a few weeks, involving discussions with your household and perhaps an initial chat with a builder to get a rough cost idea.",
+      "text": "Step 1: Define Your Vision and Budget. Before swinging a hammer, sit down and figure out what you want your ADU to be. Is it for family, a rental, or a home office? This impacts design and features. Also, establish a realistic budget, including contingency funds. This phase typically takes a few weeks, involving discussions with your household and perhaps an initial chat with a builder to get a rough cost idea.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Check Local Zoning and Permitting. This is a critical step! California allows ADUs, but specific rules vary by city—like Cerritos, Irvine, or Pasadena. You'll need to understand setback requirements, maximum sizes, and parking. A good contractor will help navigate this. This can take several weeks as you gather information from local planning departments and confirm feasibility.",
+      "text": "Step 2: Check Local Zoning and Permitting. This is a critical step! California allows ADUs, but specific rules vary by city—like Cerritos, Irvine, or Pasadena. You'll need to understand setback requirements, maximum sizes, and parking. A good contractor will help navigate this. This can take several weeks as you gather information from local planning departments and confirm feasibility.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Design and Architectural Drawings. Once you know what's possible, it’s time to design. This includes floor plans, elevations, and structural details. Working with an architect or a design-build contractor like Affordable Home Remodeling ensures your plans are functional, aesthetically pleasing, and code-compliant. Expect this stage to take 4-8 weeks, depending on design complexity and revisions.",
+      "text": "Step 3: Design and Architectural Drawings. Once you know what's possible, it’s time to design. This includes floor plans, elevations, and structural details. Working with an architect or a design-build contractor like Affordable Home Remodeling ensures your plans are functional, aesthetically pleasing, and code-compliant. Expect this stage to take 4-8 weeks, depending on design complexity and revisions.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Permitting Submission and Approval. With detailed plans in hand, your contractor will submit them to your local building department for permits. This stage requires patience, as review times can vary significantly by municipality, sometimes taking 8-12 weeks or even longer. Having all documentation in order from the start helps to minimize delays.",
+      "text": "Step 4: Permitting Submission and Approval. With detailed plans in hand, your contractor will submit them to your local building department for permits. This stage requires patience, as review times can vary significantly by municipality, sometimes taking 8-12 weeks or even longer. Having all documentation in order from the start helps to minimize delays.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Construction and Inspections. Once permits are approved, construction begins! This involves demolition, framing, plumbing, electrical, insulation, and finishes. Regular inspections by city officials will occur at various milestones to ensure everything meets code. This is the longest phase, typically lasting 12-20 weeks, depending on the scope and unforeseen issues. A reliable general contractor will manage all trades and keep you updated throughout.",
+      "text": "Step 5: Construction and Inspections. Once permits are approved, construction begins! This involves demolition, framing, plumbing, electrical, insulation, and finishes. Regular inspections by city officials will occur at various milestones to ensure everything meets code. This is the longest phase, typically lasting 12-20 weeks, depending on the scope and unforeseen issues. A reliable general contractor will manage all trades and keep you updated throughout.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Define Your Vision and Budget. Before swinging a hammer, sit down and figure out what you want your ADU to be. Is it for family, a rental, or a home office? This impacts design and features. A"
+}

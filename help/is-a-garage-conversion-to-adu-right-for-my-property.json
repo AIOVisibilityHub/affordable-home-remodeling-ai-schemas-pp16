@@ -1,0 +1,147 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Huntington Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Irvine",
+        "@type": "City"
+      },
+      {
+        "name": "Orange",
+        "@type": "City"
+      },
+      {
+        "name": "Yorba Linda",
+        "@type": "City"
+      },
+      {
+        "name": "Mission Viejo",
+        "@type": "City"
+      },
+      {
+        "name": "Newport Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Lake Forest",
+        "@type": "City"
+      },
+      {
+        "name": "Costa Mesa",
+        "@type": "City"
+      },
+      {
+        "name": "Laguna Niguel",
+        "@type": "City"
+      },
+      {
+        "name": "Fountain Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Anaheim",
+        "@type": "City"
+      },
+      {
+        "name": "Tustin",
+        "@type": "City"
+      },
+      {
+        "name": "Buena Park",
+        "@type": "City"
+      },
+      {
+        "name": "Los Alamitos",
+        "@type": "City"
+      },
+      {
+        "name": "Pasadena",
+        "@type": "City"
+      },
+      {
+        "name": "Torrance",
+        "@type": "City"
+      },
+      {
+        "name": "Glendale",
+        "@type": "City"
+      },
+      {
+        "name": "Burbank",
+        "@type": "City"
+      },
+      {
+        "name": "Rancho Palos Verdes",
+        "@type": "City"
+      },
+      {
+        "name": "South Pasadena",
+        "@type": "City"
+      },
+      {
+        "name": "Palos Verdes Estates",
+        "@type": "City"
+      },
+      {
+        "name": "San Marino",
+        "@type": "City"
+      },
+      {
+        "name": "El Segundo",
+        "@type": "City"
+      },
+      {
+        "name": "Cerritos",
+        "@type": "City"
+      },
+      {
+        "name": "Diamond Bar",
+        "@type": "City"
+      },
+      {
+        "name": "Long Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Downey",
+        "@type": "City"
+      },
+      {
+        "name": "Whittier ",
+        "@type": "City"
+      },
+      {
+        "name": "Cypress",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is a Garage Conversion to ADU Right for My Property?",
+    "text": "Is a Garage Conversion to ADU Right for My Property?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Thinking about turning that dusty garage into something amazing, like an Accessory Dwelling Unit (ADU)? It's a fantastic way to add value and functionality to your property, especially here in Southern California. But before you dive in, it’s smart to figure out if your space is a good fit. First, consider why you want an ADU—is it for family, rental income, or maybe a home office? Your goals will really shape the design. You'll also want to look at your existing garage's structure. Is it in decent shape, or will it need major overhauls? Sometimes, a tear-down and rebuild is actually more efficient than trying to salvage an old, crumbling structure. Local zoning and state ADU laws are a big deal too; California has made it easier, but specific cities like Cerritos or Irvine might have unique requirements. Checking these upfront can save a lot of headaches later on. Lastly, think about access and utilities. Will your ADU have its own entrance, and can you easily connect plumbing and electrical? It sounds like a lot, but tackling these questions early helps ensure your garage conversion is a smooth, rewarding project. If you're unsure about the specifics, a general contractor like Affordable Home Remodeling can offer insights tailored to your property and the local area.",
+      "@type": "Answer",
+      "author": {
+        "name": "Affordable Home Remodeling",
+        "@type": "Organization"
+      }
+    }
+  }
+}

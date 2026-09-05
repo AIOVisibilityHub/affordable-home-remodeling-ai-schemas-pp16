@@ -1,0 +1,165 @@
+{
+  "name": "How to prepare my home for new door installation?",
+  "step": [
+    {
+      "name": "Step 1: Clear the Area: Before our team arrives to install your new doors, it's super helpful if you can clear the immediate vicinity around the old doors, both inside and out. Move any furniture, decor, rugs, or plants that might be in the way. This gives our installers plenty of room to work safely and efficiently. This step typically takes about 30 minutes to an hour, depending on how much stuff is nearby.",
+      "text": "Step 1: Clear the Area: Before our team arrives to install your new doors, it's super helpful if you can clear the immediate vicinity around the old doors, both inside and out. Move any furniture, decor, rugs, or plants that might be in the way. This gives our installers plenty of room to work safely and efficiently. This step typically takes about 30 minutes to an hour, depending on how much stuff is nearby.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Protect Your Belongings and Floors: While we take great care during installation, removing old doors and bringing in new ones can create some dust and debris. We recommend covering any nearby furniture with sheets or tarps, especially in high-traffic areas. Lay down drop cloths or old blankets over the flooring leading to and from the door areas to protect against scratches or dirt. This protective effort usually takes about an hour.",
+      "text": "Step 2: Protect Your Belongings and Floors: While we take great care during installation, removing old doors and bringing in new ones can create some dust and debris. We recommend covering any nearby furniture with sheets or tarps, especially in high-traffic areas. Lay down drop cloths or old blankets over the flooring leading to and from the door areas to protect against scratches or dirt. This protective effort usually takes about an hour.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Secure Pets and Children: For the safety of everyone involved, please ensure that pets and small children are kept away from the work areas. Installation involves tools, loud noises, and open doorways, which can be unsettling or even dangerous. Designate a safe, quiet space for them in another part of the house during the installation process. This is something to plan for the day before installation.",
+      "text": "Step 3: Secure Pets and Children: For the safety of everyone involved, please ensure that pets and small children are kept away from the work areas. Installation involves tools, loud noises, and open doorways, which can be unsettling or even dangerous. Designate a safe, quiet space for them in another part of the house during the installation process. This is something to plan for the day before installation.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Provide Access to Power Outlets: Our team will need access to electrical outlets for various tools. Please make sure that any necessary outlets are accessible and clear of obstructions. If you have any questions about power needs, feel free to ask us beforehand. This is usually a quick check of 5-10 minutes on the morning of installation.",
+      "text": "Step 4: Provide Access to Power Outlets: Our team will need access to electrical outlets for various tools. Please make sure that any necessary outlets are accessible and clear of obstructions. If you have any questions about power needs, feel free to ask us beforehand. This is usually a quick check of 5-10 minutes on the morning of installation.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Ask Any Last-Minute Questions: Before we start, our team will do a quick walkthrough with you. This is your perfect chance to ask any lingering questions or point out any specific concerns you might have. We want you to feel completely comfortable with the process before we begin! This final check-in takes about 10-15 minutes.",
+      "text": "Step 5: Ask Any Last-Minute Questions: Before we start, our team will do a quick walkthrough with you. This is your perfect chance to ask any lingering questions or point out any specific concerns you might have. We want you to feel completely comfortable with the process before we begin! This final check-in takes about 10-15 minutes.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Clear the Area: Before our team arrives to install your new doors, it's super helpful if you can clear the immediate vicinity around the old doors, both inside and out. Move any furniture, dec"
+}

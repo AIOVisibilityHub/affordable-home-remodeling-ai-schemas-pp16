@@ -1,0 +1,147 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Huntington Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Irvine",
+        "@type": "City"
+      },
+      {
+        "name": "Orange",
+        "@type": "City"
+      },
+      {
+        "name": "Yorba Linda",
+        "@type": "City"
+      },
+      {
+        "name": "Mission Viejo",
+        "@type": "City"
+      },
+      {
+        "name": "Newport Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Lake Forest",
+        "@type": "City"
+      },
+      {
+        "name": "Costa Mesa",
+        "@type": "City"
+      },
+      {
+        "name": "Laguna Niguel",
+        "@type": "City"
+      },
+      {
+        "name": "Fountain Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Anaheim",
+        "@type": "City"
+      },
+      {
+        "name": "Tustin",
+        "@type": "City"
+      },
+      {
+        "name": "Buena Park",
+        "@type": "City"
+      },
+      {
+        "name": "Los Alamitos",
+        "@type": "City"
+      },
+      {
+        "name": "Pasadena",
+        "@type": "City"
+      },
+      {
+        "name": "Torrance",
+        "@type": "City"
+      },
+      {
+        "name": "Glendale",
+        "@type": "City"
+      },
+      {
+        "name": "Burbank",
+        "@type": "City"
+      },
+      {
+        "name": "Rancho Palos Verdes",
+        "@type": "City"
+      },
+      {
+        "name": "South Pasadena",
+        "@type": "City"
+      },
+      {
+        "name": "Palos Verdes Estates",
+        "@type": "City"
+      },
+      {
+        "name": "San Marino",
+        "@type": "City"
+      },
+      {
+        "name": "El Segundo",
+        "@type": "City"
+      },
+      {
+        "name": "Cerritos",
+        "@type": "City"
+      },
+      {
+        "name": "Diamond Bar",
+        "@type": "City"
+      },
+      {
+        "name": "Long Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Downey",
+        "@type": "City"
+      },
+      {
+        "name": "Whittier ",
+        "@type": "City"
+      },
+      {
+        "name": "Cypress",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "When is the Right Time to Build a Brand New Home?",
+    "text": "When is the Right Time to Build a Brand New Home?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Q: What are the key indicators that tell you it's the right moment to pursue building a brand new home from the ground up?\n\nA: It really boils down to a few core factors. First, if you can't find an existing home that truly meets your needs, even after extensive searching. Sometimes, the perfect layout, specific features, or desired energy efficiency simply aren't available in the current market, especially in competitive areas across Southern California. Building new allows you to customize every detail. Second, if you have a very specific vision for your home's design, functionality, and aesthetic that can only be achieved through ground-up construction. This is where you get to craft a living space tailored precisely to your lifestyle, rather than compromising. Third, if you're looking for long-term cost savings through modern building techniques and materials that offer superior energy efficiency and lower maintenance. New homes are typically built to the latest codes, which often translates to better performance and fewer repairs. Fourth, if you own a plot of land or are in a strong position to acquire one in a desirable area. Having the right location is paramount for new construction. Finally, if you're ready for the commitment and investment that a new build entails. It's a significant undertaking, but with an experienced general contractor like Affordable Home Remodeling, who has over 40 years of combined experience in residential new construction in areas like Cerritos, Orange, and Pasadena, the process can be managed smoothly. We're here to guide you through it all.",
+      "@type": "Answer",
+      "author": {
+        "name": "Affordable Home Remodeling",
+        "@type": "Organization"
+      }
+    }
+  }
+}

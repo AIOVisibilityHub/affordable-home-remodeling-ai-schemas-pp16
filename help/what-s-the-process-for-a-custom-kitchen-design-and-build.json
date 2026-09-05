@@ -1,0 +1,171 @@
+{
+  "name": "What's the Process for a Custom Kitchen Design and Build?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation & Visioning. This is where we sit down and really get to know your desires, needs, and lifestyle. We discuss your aesthetic preferences, functional requirements, budget, and timeline. Think about what you love and hate about your current kitchen, and what your ideal space looks like. This typically takes a few hours, and it's all about open communication.",
+      "text": "Step 1: Initial Consultation & Visioning. This is where we sit down and really get to know your desires, needs, and lifestyle. We discuss your aesthetic preferences, functional requirements, budget, and timeline. Think about what you love and hate about your current kitchen, and what your ideal space looks like. This typically takes a few hours, and it's all about open communication.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design & Material Selection. Based on our initial conversation, our team develops detailed designs, including layouts, 3D renderings, and material options. We help you choose everything from custom cabinetry, countertops, and flooring to fixtures and appliances. This phase can take several weeks, involving feedback and revisions until the design is perfect for you.",
+      "text": "Step 2: Design & Material Selection. Based on our initial conversation, our team develops detailed designs, including layouts, 3D renderings, and material options. We help you choose everything from custom cabinetry, countertops, and flooring to fixtures and appliances. This phase can take several weeks, involving feedback and revisions until the design is perfect for you.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Permitting & Planning. Once the design is finalized, we handle all necessary permits and approvals with local authorities, like in Anaheim or Lake Forest. This step ensures your renovation meets all building codes and regulations. Simultaneously, we create a comprehensive project schedule and order materials. This phase can vary widely, from a few weeks to a couple of months depending on the project's scope and city processing times.",
+      "text": "Step 3: Permitting & Planning. Once the design is finalized, we handle all necessary permits and approvals with local authorities, like in Anaheim or Lake Forest. This step ensures your renovation meets all building codes and regulations. Simultaneously, we create a comprehensive project schedule and order materials. This phase can vary widely, from a few weeks to a couple of months depending on the project's scope and city processing times.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Demolition & Rough-In. The physical transformation begins! We carefully demolish the old kitchen and prepare the space for new construction. This includes rough-in work for plumbing and electrical systems according to the new design. This is a disruptive but necessary step, usually lasting 1-2 weeks.",
+      "text": "Step 4: Demolition & Rough-In. The physical transformation begins! We carefully demolish the old kitchen and prepare the space for new construction. This includes rough-in work for plumbing and electrical systems according to the new design. This is a disruptive but necessary step, usually lasting 1-2 weeks.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Installation & Finishing. This is where your custom kitchen truly comes to life. We install cabinetry, countertops, flooring, backsplashes, and appliances. Our skilled team ensures every detail is meticulously placed. Painting, lighting, and final touches complete the space. This is often the longest construction phase, taking several weeks.",
+      "text": "Step 5: Installation & Finishing. This is where your custom kitchen truly comes to life. We install cabinetry, countertops, flooring, backsplashes, and appliances. Our skilled team ensures every detail is meticulously placed. Painting, lighting, and final touches complete the space. This is often the longest construction phase, taking several weeks.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Walkthrough & Handover. We conduct a thorough final walkthrough with you to ensure every aspect of your new kitchen meets your expectations and our high standards. Any last-minute adjustments are made, and we officially hand over your stunning new space. This typically takes a few days, culminating in you enjoying your dream kitchen!",
+      "text": "This structured approach ensures your custom kitchen renovation is an exciting journey with a beautiful destination. If you're ready to start, let's connect!",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation & Visioning. This is where we sit down and really get to know your desires, needs, and lifestyle. We discuss your aesthetic preferences, functional requirements, budget, a"
+}

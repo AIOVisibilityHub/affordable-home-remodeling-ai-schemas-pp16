@@ -1,0 +1,165 @@
+{
+  "name": "How to extend your roof's lifespan",
+  "step": [
+    {
+      "name": "Step 1: Keep it Clean. Regularly clearing debris like leaves, branches, and dirt from your roof and gutters is super important. Buildup can trap moisture, leading to rot, mold, and even structural damage. Overgrown tree branches can also scratch and damage shingles, so keep them trimmed back. This is a task you can often DIY, or hire a local service for routine clean-ups.",
+      "text": "Step 1: Keep it Clean. Regularly clearing debris like leaves, branches, and dirt from your roof and gutters is super important. Buildup can trap moisture, leading to rot, mold, and even structural damage. Overgrown tree branches can also scratch and damage shingles, so keep them trimmed back. This is a task you can often DIY, or hire a local service for routine clean-ups.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Inspect Regularly. It’s a good idea to visually check your roof from the ground (or a safe ladder) a couple of times a year, especially after major storms. Look for missing, cracked, or curled shingles. Check for any sagging spots, loose flashing around chimneys or vents, and granule loss. If anything looks off, don't wait.",
+      "text": "Step 2: Inspect Regularly. It’s a good idea to visually check your roof from the ground (or a safe ladder) a couple of times a year, especially after major storms. Look for missing, cracked, or curled shingles. Check for any sagging spots, loose flashing around chimneys or vents, and granule loss. If anything looks off, don't wait.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Address Repairs Promptly. Small issues can quickly become big, expensive problems if ignored. A single missing shingle might seem minor, but it can lead to water intrusion and widespread damage. Getting small repairs done as soon as you notice them is key to preventing escalation. This is where a professional, like our team at Affordable Home Remodeling, really comes in handy; we can quickly assess and fix those little things before they turn into major headaches across the Orange County and Los Angeles areas.",
+      "text": "Step 3: Address Repairs Promptly. Small issues can quickly become big, expensive problems if ignored. A single missing shingle might seem minor, but it can lead to water intrusion and widespread damage. Getting small repairs done as soon as you notice them is key to preventing escalation. This is where a professional, like our team at Affordable Home Remodeling, really comes in handy; we can quickly assess and fix those little things before they turn into major headaches across the Orange County and Los Angeles areas.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Ensure Proper Ventilation. Good attic ventilation is crucial for your roof's longevity. It helps regulate temperature and moisture, preventing heat buildup in summer (which can cook your shingles) and moisture accumulation in winter (leading to rot and mold). Make sure your attic vents aren't blocked and are functioning correctly.",
+      "text": "Step 4: Ensure Proper Ventilation. Good attic ventilation is crucial for your roof's longevity. It helps regulate temperature and moisture, preventing heat buildup in summer (which can cook your shingles) and moisture accumulation in winter (leading to rot and mold). Make sure your attic vents aren't blocked and are functioning correctly.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Schedule Professional Maintenance. Even with regular DIY care, a professional roof inspection every few years can catch issues you might miss. Contractors can identify potential weaknesses, assess wear and tear more accurately, and perform preventative maintenance that extends your roof's life significantly. It's an investment that pays off by delaying a costly full replacement.",
+      "text": "Step 5: Schedule Professional Maintenance. Even with regular DIY care, a professional roof inspection every few years can catch issues you might miss. Contractors can identify potential weaknesses, assess wear and tear more accurately, and perform preventative maintenance that extends your roof's life significantly. It's an investment that pays off by delaying a costly full replacement.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Keep it Clean. Regularly clearing debris like leaves, branches, and dirt from your roof and gutters is super important. Buildup can trap moisture, leading to rot, mold, and even structural dam"
+}

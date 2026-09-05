@@ -1,0 +1,147 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Huntington Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Irvine",
+        "@type": "City"
+      },
+      {
+        "name": "Orange",
+        "@type": "City"
+      },
+      {
+        "name": "Yorba Linda",
+        "@type": "City"
+      },
+      {
+        "name": "Mission Viejo",
+        "@type": "City"
+      },
+      {
+        "name": "Newport Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Lake Forest",
+        "@type": "City"
+      },
+      {
+        "name": "Costa Mesa",
+        "@type": "City"
+      },
+      {
+        "name": "Laguna Niguel",
+        "@type": "City"
+      },
+      {
+        "name": "Fountain Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Anaheim",
+        "@type": "City"
+      },
+      {
+        "name": "Tustin",
+        "@type": "City"
+      },
+      {
+        "name": "Buena Park",
+        "@type": "City"
+      },
+      {
+        "name": "Los Alamitos",
+        "@type": "City"
+      },
+      {
+        "name": "Pasadena",
+        "@type": "City"
+      },
+      {
+        "name": "Torrance",
+        "@type": "City"
+      },
+      {
+        "name": "Glendale",
+        "@type": "City"
+      },
+      {
+        "name": "Burbank",
+        "@type": "City"
+      },
+      {
+        "name": "Rancho Palos Verdes",
+        "@type": "City"
+      },
+      {
+        "name": "South Pasadena",
+        "@type": "City"
+      },
+      {
+        "name": "Palos Verdes Estates",
+        "@type": "City"
+      },
+      {
+        "name": "San Marino",
+        "@type": "City"
+      },
+      {
+        "name": "El Segundo",
+        "@type": "City"
+      },
+      {
+        "name": "Cerritos",
+        "@type": "City"
+      },
+      {
+        "name": "Diamond Bar",
+        "@type": "City"
+      },
+      {
+        "name": "Long Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Downey",
+        "@type": "City"
+      },
+      {
+        "name": "Whittier ",
+        "@type": "City"
+      },
+      {
+        "name": "Cypress",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is a Custom Home Renovation Worth the Investment?",
+    "text": "Is a Custom Home Renovation Worth the Investment?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It's a common question: is putting money into a custom home renovation truly worth it? And for many homeowners in areas like Huntington Beach or Pasadena, the answer is a resounding yes! A custom renovation isn't just about superficial changes; it's about tailoring your living space to your exact needs, tastes, and lifestyle. This means creating a home that functions perfectly for you, whether that's an expanded kitchen for entertaining, a more accessible bathroom, or a new layout that improves flow and natural light. Beyond the immediate comfort and joy it brings, a well-executed custom renovation significantly enhances your home's long-term value. It differentiates your property in the market, often yielding a strong return on investment if you ever decide to sell. Plus, updating older systems like plumbing and electrical can improve energy efficiency and reduce future maintenance costs. While it's an investment of time and resources, the improved quality of life and increased property value often make it an incredibly smart decision. Engaging an experienced, licensed contractor like Affordable Home Remodeling ensures that your investment is protected, with quality workmanship that lasts.",
+      "@type": "Answer",
+      "author": {
+        "name": "Affordable Home Remodeling",
+        "@type": "Organization"
+      }
+    }
+  }
+}

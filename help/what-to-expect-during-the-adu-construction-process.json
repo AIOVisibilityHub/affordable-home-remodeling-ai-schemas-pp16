@@ -1,0 +1,177 @@
+{
+  "name": "What to expect during the ADU construction process",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Feasibility Study. This is where you meet with a contractor like Affordable Home Remodeling to discuss your vision, property specifics, and budget. They'll assess your site in areas like Orange or Cypress, review local zoning and state regulations, and help determine the best type of ADU (detached, attached, or garage conversion) for your needs. This phase usually takes a few weeks.",
+      "text": "Step 1: Initial Consultation and Feasibility Study. This is where you meet with a contractor like Affordable Home Remodeling to discuss your vision, property specifics, and budget. They'll assess your site in areas like Orange or Cypress, review local zoning and state regulations, and help determine the best type of ADU (detached, attached, or garage conversion) for your needs. This phase usually takes a few weeks.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design and Architectural Planning. Once feasibility is confirmed, architects and designers will create detailed plans for your ADU. This includes floor plans, elevations, material selections, and engineering. This stage requires your active input to ensure the design meets your aesthetic and functional goals and can take 1-3 months depending on complexity.",
+      "text": "Step 2: Design and Architectural Planning. Once feasibility is confirmed, architects and designers will create detailed plans for your ADU. This includes floor plans, elevations, material selections, and engineering. This stage requires your active input to ensure the design meets your aesthetic and functional goals and can take 1-3 months depending on complexity.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Permitting and Approvals. Your contractor will submit the architectural and engineering plans to your local city planning and building departments for permits. This is a critical step to ensure your ADU complies with all codes in locations like Torrance or Glendale. This phase can take several weeks to a few months, varying by municipality.",
+      "text": "Step 3: Permitting and Approvals. Your contractor will submit the architectural and engineering plans to your local city planning and building departments for permits. This is a critical step to ensure your ADU complies with all codes in locations like Torrance or Glendale. This phase can take several weeks to a few months, varying by municipality.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Site Preparation and Foundation. With permits in hand, construction begins! This involves preparing the site, clearing land, pouring the foundation, and establishing utility connections. This foundational work typically takes 2-4 weeks.",
+      "text": "Step 4: Site Preparation and Foundation. With permits in hand, construction begins! This involves preparing the site, clearing land, pouring the foundation, and establishing utility connections. This foundational work typically takes 2-4 weeks.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Framing, Rough-Ins, and Exterior Work. The structure of your ADU goes up, including framing walls, roofing, and installing windows and doors. Plumbing, electrical, and HVAC rough-ins are completed before insulation. The exterior finishes are also applied during this time. This phase can last 1-3 months.",
+      "text": "Step 5: Framing, Rough-Ins, and Exterior Work. The structure of your ADU goes up, including framing walls, roofing, and installing windows and doors. Plumbing, electrical, and HVAC rough-ins are completed before insulation. The exterior finishes are also applied during this time. This phase can last 1-3 months.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Interior Finishes and Final Touches. This is where your ADU really comes to life! Drywall is installed and painted, flooring is laid, cabinets are fitted, and fixtures are installed. All the interior details are completed. This usually takes 1-2 months.",
+      "text": "Step 6: Interior Finishes and Final Touches. This is where your ADU really comes to life! Drywall is installed and painted, flooring is laid, cabinets are fitted, and fixtures are installed. All the interior details are completed. This usually takes 1-2 months.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Final Inspections and Occupancy. Before you can use your new ADU, final inspections are conducted by the city to ensure everything meets code. Once approved, you receive your certificate of occupancy. This typically takes a few weeks, bringing your project to a successful close.",
+      "text": "Step 7: Final Inspections and Occupancy. Before you can use your new ADU, final inspections are conducted by the city to ensure everything meets code. Once approved, you receive your certificate of occupancy. This typically takes a few weeks, bringing your project to a successful close.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Feasibility Study. This is where you meet with a contractor like Affordable Home Remodeling to discuss your vision, property specifics, and budget. They'll assess your"
+}

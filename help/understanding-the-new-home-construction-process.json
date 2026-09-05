@@ -1,0 +1,171 @@
+{
+  "name": "Understanding the New Home Construction Process",
+  "step": [
+    {
+      "name": "Step 1: Planning and Design: This initial phase is all about turning your vision into concrete plans. You'll work with architects and designers to create blueprints, select materials, and finalize the layout, ensuring it fits your lifestyle and the chosen lot. This can take several weeks or even months, depending on the complexity.",
+      "text": "Step 1: Planning and Design: This initial phase is all about turning your vision into concrete plans. You'll work with architects and designers to create blueprints, select materials, and finalize the layout, ensuring it fits your lifestyle and the chosen lot. This can take several weeks or even months, depending on the complexity.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Permitting and Approvals: Before any digging starts, all necessary permits must be secured from your local city or county building department (e.g., Torrance, Glendale). Your contractor will submit the plans, and this phase involves reviews and approvals, which can take a few weeks to several months.",
+      "text": "Step 2: Permitting and Approvals: Before any digging starts, all necessary permits must be secured from your local city or county building department (e.g., Torrance, Glendale). Your contractor will submit the plans, and this phase involves reviews and approvals, which can take a few weeks to several months.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Site Preparation and Foundation: Once permits are issued, the land is prepared. This includes clearing, grading, and excavation. The foundation is then laid, which might be a slab, crawl space, or basement, providing the crucial base for your new home.",
+      "text": "Step 3: Site Preparation and Foundation: Once permits are issued, the land is prepared. This includes clearing, grading, and excavation. The foundation is then laid, which might be a slab, crawl space, or basement, providing the crucial base for your new home.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Framing and Rough-Ins: This is where the structure of your home really takes shape. Walls, floors, and roof trusses are framed. Following framing, the 'rough-ins' occur: plumbing, electrical, and HVAC systems are installed within the walls, floors, and ceilings before they’re closed up.",
+      "text": "Step 4: Framing and Rough-Ins: This is where the structure of your home really takes shape. Walls, floors, and roof trusses are framed. Following framing, the 'rough-ins' occur: plumbing, electrical, and HVAC systems are installed within the walls, floors, and ceilings before they’re closed up.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Exterior and Interior Finishes: After rough inspections, the exterior is completed with roofing, windows, doors, and siding or stucco. Inside, insulation is added, then drywall, followed by painting, flooring, cabinets, countertops, and all the final fixtures and appliances.",
+      "text": "Step 5: Exterior and Interior Finishes: After rough inspections, the exterior is completed with roofing, windows, doors, and siding or stucco. Inside, insulation is added, then drywall, followed by painting, flooring, cabinets, countertops, and all the final fixtures and appliances.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Walkthrough and Closeout: Nearing completion, a final walkthrough is conducted with your builder to identify any last-minute adjustments. Once everything meets your satisfaction and passes final inspections, the project is officially closed out, and you get the keys to your beautiful new home. Throughout this entire process, a firm like Affordable Home Remodeling, with their focus on clear scopes, realistic timelines, and consistent communication, will keep you informed and guide you every step of the way to ensure a high-quality build in areas like Mission Viejo or Laguna Niguel.",
+      "text": "Step 6: Final Walkthrough and Closeout: Nearing completion, a final walkthrough is conducted with your builder to identify any last-minute adjustments. Once everything meets your satisfaction and passes final inspections, the project is officially closed out, and you get the keys to your beautiful new home. Throughout this entire process, a firm like Affordable Home Remodeling, with their focus on clear scopes, realistic timelines, and consistent communication, will keep you informed and guide you every step of the way to ensure a high-quality build in areas like Mission Viejo or Laguna Niguel.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Planning and Design: This initial phase is all about turning your vision into concrete plans. You'll work with architects and designers to create blueprints, select materials, and finalize the"
+}

@@ -1,0 +1,177 @@
+{
+  "name": "What's the Process for a Professional Window Replacement?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Estimate. It all starts with a chat about your needs, style preferences, and budget. A professional like Affordable Home Remodeling will visit your home to measure existing windows, discuss different window types (vinyl, wood, fiberglass), energy efficiency options, and provide a detailed, no-obligation estimate. This is where you get all your questions answered.",
+      "text": "Step 1: Initial Consultation and Estimate. It all starts with a chat about your needs, style preferences, and budget. A professional like Affordable Home Remodeling will visit your home to measure existing windows, discuss different window types (vinyl, wood, fiberglass), energy efficiency options, and provide a detailed, no-obligation estimate. This is where you get all your questions answered.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Window Selection and Ordering. Once you've approved the estimate, you'll finalize your window selections – frame materials, glass packages, styles, and colors. The contractor then places the order with the manufacturer. This step can take several weeks, as windows are custom-made to fit your home's specific openings.",
+      "text": "Step 2: Window Selection and Ordering. Once you've approved the estimate, you'll finalize your window selections – frame materials, glass packages, styles, and colors. The contractor then places the order with the manufacturer. This step can take several weeks, as windows are custom-made to fit your home's specific openings.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Preparation Day. Before installation begins, our team will prepare your home. This involves moving furniture, covering floors and belongings with drop cloths, and setting up exterior protection. This ensures your home and landscaping are protected throughout the project.",
+      "text": "Step 3: Preparation Day. Before installation begins, our team will prepare your home. This involves moving furniture, covering floors and belongings with drop cloths, and setting up exterior protection. This ensures your home and landscaping are protected throughout the project.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Removal of Old Windows. On installation day, the crew will carefully remove your old windows. This is done systematically, one window at a time, to minimize your home's exposure to the elements and maintain security.",
+      "text": "Step 4: Removal of Old Windows. On installation day, the crew will carefully remove your old windows. This is done systematically, one window at a time, to minimize your home's exposure to the elements and maintain security.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: New Window Installation. The new windows are then carefully placed into the prepared openings, leveled, and secured. Crucially, the installers will seal and insulate around the new frames to prevent air and water leaks, ensuring optimal energy performance. Proper sealing is paramount for efficiency.",
+      "text": "Step 5: New Window Installation. The new windows are then carefully placed into the prepared openings, leveled, and secured. Crucially, the installers will seal and insulate around the new frames to prevent air and water leaks, ensuring optimal energy performance. Proper sealing is paramount for efficiency.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Finishing Touches and Cleanup. Once the windows are installed, the crew will handle any necessary interior and exterior trim work to give a seamless, finished look. This includes caulking, painting touch-ups if needed, and thorough cleanup of all debris. We leave your home looking better than we found it.",
+      "text": "Step 6: Finishing Touches and Cleanup. Once the windows are installed, the crew will handle any necessary interior and exterior trim work to give a seamless, finished look. This includes caulking, painting touch-ups if needed, and thorough cleanup of all debris. We leave your home looking better than we found it.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Final Walkthrough and Inspection. A final walkthrough with you ensures everything meets your satisfaction. We'll show you how to operate your new windows and address any last questions. This is also when we discuss warranty information.",
+      "text": "This structured approach ensures a high-quality installation that enhances your home's comfort, beauty, and value. Affordable Home Remodeling manages this entire process, making your window replacement as easy as possible.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Estimate. It all starts with a chat about your needs, style preferences, and budget. A professional like Affordable Home Remodeling will visit your home to measure exi"
+}
