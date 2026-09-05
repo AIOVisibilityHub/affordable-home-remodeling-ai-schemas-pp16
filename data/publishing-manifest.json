@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T00:40:52.163Z",
+  "generatedAt": "2026-09-05T00:41:17.408Z",
   "client": {
     "name": "Affordable Home Remodeling",
     "canonicalUrl": "https://affordablehomeremodeling.aiovisibility.net",
@@ -132,7 +132,7 @@
   },
   "package": {
     "totalFiles": 1714,
-    "totalBytes": 8402151,
+    "totalBytes": 8353345,
     "stats": {
       "qna": 0,
       "faqs": 1263,
@@ -8636,47 +8636,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 34059,
+        "bytes": 28285,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 160092,
+        "bytes": 154446,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 794990,
+        "bytes": 789284,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 53001,
+        "bytes": 47553,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 23064,
+        "bytes": 17525,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 987328,
+        "bytes": 981781,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 608470,
+        "bytes": 602995,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 151333,
+        "bytes": 145822,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 726196,
+        "bytes": 720721,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -8688,7 +8688,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 3293,
+        "bytes": 3435,
         "purpose": "LLM hint"
       },
       {
@@ -8708,32 +8708,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1490,
+        "bytes": 1793,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 765646,
+        "bytes": 765948,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 223110,
+        "bytes": 223252,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 223110,
+        "bytes": 223252,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3255,
+        "bytes": 3397,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 256089,
+        "bytes": 256231,
         "purpose": "Repository README"
       },
       {
@@ -8751,7 +8751,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/affordable-home-remodeling-ai-schemas-pp16",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/affordable-home-remodeling-ai-schemas-pp16/",
       "repo": "AIOVisibilityHub/affordable-home-remodeling-ai-schemas-pp16"
     }
   }
