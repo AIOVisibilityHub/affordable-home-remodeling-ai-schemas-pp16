@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the roof installation process?",
+  "description": "The roof installation process involves removing old materials, inspecting and repairing the deck, installing underlayment and flashing, applying new roofing, an",
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-the-roof-installation-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the roof installation process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical roof installation begins with a thorough inspection and removal of the old roofing material. This is followed by inspecting and repairing the roof deck, installing new underlayment, drip edge, and flashing. Next, the new roofing material is installed according to manufacturer specifications. The process concludes with a final inspection, site cleanup, and removal of all debris. We ensure a systematic approach to protect your property and deliver a high-quality, long-lasting roof.",
+        "description": "The roof installation process involves removing old materials, inspecting and repairing the deck, installing underlayment and flashing, applying new roofing, and final cleanup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

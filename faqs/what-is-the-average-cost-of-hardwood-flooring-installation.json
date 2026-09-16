@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost of hardwood flooring installation?",
+  "description": "Hardwood flooring installation costs vary based on wood type, square footage, and labor. Subfloor prep or old flooring removal can add to the expense. We offer",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-hardwood-flooring-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost of hardwood flooring installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of hardwood flooring installation depends on several factors, including the type of wood selected (solid vs. engineered, domestic vs. exotic), the total square footage of the area, and labor rates. Additional costs may arise from subfloor preparation, removal of old flooring, or custom finishes. While prices can range, expect to invest in both materials and professional installation for a lasting result. We provide detailed, transparent quotes after an on-site evaluation to ensure accuracy.",
+        "description": "Hardwood flooring installation costs vary based on wood type, square footage, and labor. Subfloor prep or old flooring removal can add to the expense. We offer detailed quotes after an on-site evaluation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

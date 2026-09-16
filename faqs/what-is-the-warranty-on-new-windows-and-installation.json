@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the warranty on new windows and installation?",
+  "description": "New windows come with a manufacturer's warranty for the units and an installation warranty from us, ensuring proper workmanship.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-warranty-on-new-windows-and-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the warranty on new windows and installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The warranty for new windows typically includes coverage from the manufacturer for the window unit itself, often covering frames, glass, and hardware against defects. Our installation warranty covers the workmanship for a specified period, ensuring proper sealing and functionality. Specific terms vary by manufacturer and project, which we will detail in your contract.",
+        "description": "New windows come with a manufacturer's warranty for the units and an installation warranty from us, ensuring proper workmanship."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

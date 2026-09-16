@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I renovate an investment property for short-term or long-term rental?",
+  "description": "Renovations for short-term rentals focus on aesthetics and amenities for higher rates, while long-term rentals prioritize durability, low maintenance, and funct",
+  "url": "affordablehomeremodeling.com/faq/should-i-renovate-an-investment-property-for-short-term-or-long-term-rental",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I renovate an investment property for short-term or long-term rental?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The type of renovation depends heavily on whether you target short-term (e.g., vacation rentals) or long-term tenants. Short-term rentals often benefit from more aesthetically pleasing, 'instagrammable' designs, higher-end finishes, and amenities that enhance a guest's experience, as they can command higher nightly rates. Long-term rentals typically prioritize durability, low maintenance, and functionality, with a focus on practical, neutral designs that appeal to a broader tenant base and withstand more wear and tear. Your market research should guide this decision.",
+        "description": "Renovations for short-term rentals focus on aesthetics and amenities for higher rates, while long-term rentals prioritize durability, low maintenance, and functional, neutral designs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

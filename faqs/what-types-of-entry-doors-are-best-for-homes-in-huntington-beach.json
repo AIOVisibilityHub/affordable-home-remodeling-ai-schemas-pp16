@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of entry doors are best for homes in Huntington Beach?",
+  "description": "Fiberglass and steel doors are popular in Huntington Beach for their durability, security, and energy efficiency, resisting coastal elements.",
+  "url": "affordablehomeremodeling.com/faq/what-types-of-entry-doors-are-best-for-homes-in-huntington-beach",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of entry doors are best for homes in Huntington Beach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For homes in Huntington Beach, materials like fiberglass and steel are popular choices due to their durability and energy efficiency. Fiberglass doors resist warping, denting, and rusting, making them suitable for coastal environments. Steel doors offer excellent security and insulation. While wood doors provide a classic aesthetic, they require more maintenance in humid climates. Choosing a door with good insulation helps manage indoor temperatures year-round.",
+        "description": "Fiberglass and steel doors are popular in Huntington Beach for their durability, security, and energy efficiency, resisting coastal elements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

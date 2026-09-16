@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long will I be without a kitchen or bathroom during a remodel?",
+  "description": "You could be without a kitchen for 2-10 weeks, and a bathroom for 1-5 weeks, depending on the remodel's scope and complexity.",
+  "url": "affordablehomeremodeling.com/faq/how-long-will-i-be-without-a-kitchen-or-bathroom-during-a-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long will I be without a kitchen or bathroom during a remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration you'll be without a functional kitchen or bathroom during a remodel varies greatly by project scope. For a basic kitchen refresh, you might be without it for 2-4 weeks. A full gut remodel, involving new layouts and extensive changes, could mean 6-10 weeks or more without a usable kitchen. Similarly, a bathroom remodel can range from 1-2 weeks for minor updates to 3-5 weeks for a complete overhaul. Your contractor can provide a more precise estimate.",
+        "description": "You could be without a kitchen for 2-10 weeks, and a bathroom for 1-5 weeks, depending on the remodel's scope and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

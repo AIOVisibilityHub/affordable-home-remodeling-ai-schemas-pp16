@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the differences between vinyl, fiberglass, and wood windows for energy efficiency?",
+  "description": "Vinyl is cost-effective and low maintenance. Fiberglass offers superior strength and thermal performance. Wood provides natural insulation but requires more car",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-differences-between-vinyl-fiberglass-and-wood-windows-for-energy-ef",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the differences between vinyl, fiberglass, and wood windows for energy efficiency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Each material offers distinct benefits for energy efficiency. Vinyl windows are a popular, cost-effective choice known for good insulation properties and low maintenance. Fiberglass windows offer superior strength, durability, and excellent thermal performance due to their stability and resistance to expansion/contraction. Wood windows provide natural insulation and aesthetic appeal but require more maintenance. All three can be highly energy-efficient when manufactured with features like multiple panes and Low-E coatings, but fiberglass often leads in overall thermal performance and longevity.",
+        "description": "Vinyl is cost-effective and low maintenance. Fiberglass offers superior strength and thermal performance. Wood provides natural insulation but requires more care."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

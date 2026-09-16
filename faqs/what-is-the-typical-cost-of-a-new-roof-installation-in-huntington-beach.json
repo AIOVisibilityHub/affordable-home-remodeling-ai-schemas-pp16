@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of a new roof installation in Huntington Beach?",
+  "description": "Costs vary based on roof size, material, and complexity. An on-site inspection provides an accurate quote for your specific home.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-of-a-new-roof-installation-in-huntington-beach",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of a new roof installation in Huntington Beach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a new roof installation in Huntington Beach varies significantly based on several factors. These include the size and pitch of your roof, the type of material chosen (e.g., asphalt shingles, tile, metal), the need for old roof removal, and any necessary structural repairs. While a precise estimate requires an on-site inspection, homeowners can expect a range depending on these variables. We provide detailed, transparent quotes after a thorough assessment.",
+        "description": "Costs vary based on roof size, material, and complexity. An on-site inspection provides an accurate quote for your specific home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

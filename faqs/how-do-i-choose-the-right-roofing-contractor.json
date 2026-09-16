@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right roofing contractor?",
+  "description": "Choose a licensed, insured contractor with good reviews, clear estimates, and strong warranties. Communication is also key.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-roofing-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right roofing contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right roofing contractor involves several key steps. Look for licensed and insured professionals with a strong local reputation. Check online reviews and ask for references. Ensure they provide a detailed, written estimate that outlines all costs, materials, and project timelines. Inquire about warranties offered on both materials and labor. A good contractor communicates clearly and answers all your questions thoroughly.",
+        "description": "Choose a licensed, insured contractor with good reviews, clear estimates, and strong warranties. Communication is also key."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

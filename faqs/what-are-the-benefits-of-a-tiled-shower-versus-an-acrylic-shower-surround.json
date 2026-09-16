@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of a tiled shower versus an acrylic shower surround?",
+  "description": "Tiled showers offer design versatility and durability, while acrylic surrounds are budget-friendly, quick to install, and easy to clean due to their non-porous",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-a-tiled-shower-versus-an-acrylic-shower-surround",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of a tiled shower versus an acrylic shower surround?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Both tiled and acrylic shower surrounds offer distinct benefits for a tub-to-shower conversion. Tiled showers provide extensive design versatility, allowing for personalized patterns, colors, and textures, creating a luxurious and custom look. They are durable and can last for decades with proper maintenance. Acrylic surrounds, on the other hand, are typically more budget-friendly and offer a quicker installation process. They are non-porous, making them highly resistant to mold and mildew, and are very easy to clean with fewer grout lines. Your choice depends on your aesthetic preferences, budget, and maintenance expectations.",
+        "description": "Tiled showers offer design versatility and durability, while acrylic surrounds are budget-friendly, quick to install, and easy to clean due to their non-porous surface."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

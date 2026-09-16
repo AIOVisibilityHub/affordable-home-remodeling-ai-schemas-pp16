@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the window installation process like?",
+  "description": "The process includes consultation, measurement, removal of old windows, installation and sealing of new ones, and a final cleanup.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-window-installation-process-like",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the window installation process like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our process begins with an initial consultation and measurement. Once windows are ordered and delivered, we prepare the openings by removing old windows and debris. New windows are carefully installed, leveled, and sealed to ensure proper insulation and weatherproofing. Finally, we clean up the work area, leaving your home tidy and new windows ready for use. We aim for minimal disruption to your daily routine.",
+        "description": "The process includes consultation, measurement, removal of old windows, installation and sealing of new ones, and a final cleanup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

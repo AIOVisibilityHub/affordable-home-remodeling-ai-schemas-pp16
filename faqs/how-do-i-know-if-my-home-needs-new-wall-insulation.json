@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my home needs new wall insulation?",
+  "description": "Look for uneven temperatures, high energy bills, drafts, or walls that feel too hot or cold. A professional energy audit can confirm the need.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-my-home-needs-new-wall-insulation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my home needs new wall insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs your home might need new wall insulation include uneven temperatures between rooms, high energy bills, drafts, and walls that feel cold to the touch in winter or hot in summer. Visible signs like moisture issues, mold, or pests in wall cavities can also indicate insulation problems. A professional energy assessment can identify specific areas of heat loss and recommend appropriate insulation solutions. Addressing these issues can improve comfort and reduce energy consumption.",
+        "description": "Look for uneven temperatures, high energy bills, drafts, or walls that feel too hot or cold. A professional energy audit can confirm the need."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

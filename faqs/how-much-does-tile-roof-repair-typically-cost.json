@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does tile roof repair typically cost?",
+  "description": "Costs vary based on damage extent, tile type, and roof accessibility. Minor repairs are generally a few hundred dollars, while extensive work can be thousands.",
+  "url": "affordablehomeremodeling.com/faq/how-much-does-tile-roof-repair-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does tile roof repair typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of tile roof repair varies widely based on the extent of the damage, the type of tiles, and the roof's accessibility. Minor repairs, like replacing a few broken tiles, might cost a few hundred dollars. More extensive damage, involving underlayment or structural components, can run into thousands. Obtaining a detailed estimate from a reputable contractor is essential, as prices will include labor, materials, and any necessary permits. A professional assessment can accurately determine the scope of work and associated costs.",
+        "description": "Costs vary based on damage extent, tile type, and roof accessibility. Minor repairs are generally a few hundred dollars, while extensive work can be thousands. Get a detailed estimate."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

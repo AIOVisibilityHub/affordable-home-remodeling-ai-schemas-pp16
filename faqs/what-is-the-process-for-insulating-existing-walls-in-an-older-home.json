@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for insulating existing walls in an older home?",
+  "description": "For older homes, small holes are drilled into walls to blow in loose-fill insulation or apply spray foam, then sealed. This upgrades thermal performance with mi",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-insulating-existing-walls-in-an-older-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for insulating existing walls in an older home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Insulating existing walls in older homes typically involves several steps. First, the contractor assesses the wall cavities to determine accessibility and any existing insulation. For loose-fill insulation (like cellulose or fiberglass), small holes are drilled into the exterior siding or interior drywall, and the material is blown into the cavities. These holes are then sealed and repaired. For spray foam, similar access points are created. This method minimizes disruption compared to removing entire wall sections and effectively upgrades the thermal performance of older structures.",
+        "description": "For older homes, small holes are drilled into walls to blow in loose-fill insulation or apply spray foam, then sealed. This upgrades thermal performance with minimal disruption."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

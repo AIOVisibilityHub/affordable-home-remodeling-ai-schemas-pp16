@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is R-value and why is it important for attic insulation?",
+  "description": "R-value measures insulation's resistance to heat flow; a higher R-value means better insulation. It's important for attics to prevent heat loss/gain and maintai",
+  "url": "affordablehomeremodeling.com/faq/what-is-r-value-and-why-is-it-important-for-attic-insulation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is R-value and why is it important for attic insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "R-value is a measure of thermal resistance, indicating how well an insulation material resists heat flow. A higher R-value means greater insulating power. For attic insulation, a high R-value is crucial because the attic is a major point of heat transfer in and out of your home. Proper R-value helps keep your home cool in the summer by resisting heat gain from the sun and warm in the winter by preventing heat loss. Local building codes and climate zones dictate recommended R-values for optimal energy efficiency.",
+        "description": "R-value measures insulation's resistance to heat flow; a higher R-value means better insulation. It's important for attics to prevent heat loss/gain and maintain indoor temperatures."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

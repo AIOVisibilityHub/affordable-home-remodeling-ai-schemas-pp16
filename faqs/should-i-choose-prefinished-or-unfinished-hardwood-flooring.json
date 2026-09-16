@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I choose prefinished or unfinished hardwood flooring?",
+  "description": "Prefinished hardwood is factory-treated for faster, cleaner installation and durability. Unfinished allows for custom stains and a seamless look, but requires o",
+  "url": "affordablehomeremodeling.com/faq/should-i-choose-prefinished-or-unfinished-hardwood-flooring",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I choose prefinished or unfinished hardwood flooring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prefinished hardwood flooring comes sanded, stained, and sealed from the factory, offering a quicker installation process without the dust and fumes of on-site finishing. It's often more durable due to factory-applied, multi-layer finishes. Unfinished hardwood is installed raw and then sanded and finished on-site. This allows for custom stain colors, a perfectly flat surface, and a seamless look between boards. Your choice depends on desired finish customization, budget, and project timeline.",
+        "description": "Prefinished hardwood is factory-treated for faster, cleaner installation and durability. Unfinished allows for custom stains and a seamless look, but requires on-site sanding and finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

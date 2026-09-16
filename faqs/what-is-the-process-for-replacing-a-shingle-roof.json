@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for replacing a shingle roof?",
+  "description": "The process involves inspection, removal of old materials, repairs, installation of underlayment, new shingles, and final cleanup.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-replacing-a-shingle-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for replacing a shingle roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The shingle roof replacement process typically begins with an inspection and estimate. Once approved, the old roof materials are carefully removed down to the decking. Any damaged decking or underlying structures are repaired or replaced. A new underlayment is then installed to protect against moisture, followed by starter shingles, then the main shingle layers, and finally, ridge cap shingles and flashing around vents and chimneys. The site is cleaned thoroughly upon completion. This process ensures a durable and watertight new roof.",
+        "description": "The process involves inspection, removal of old materials, repairs, installation of underlayment, new shingles, and final cleanup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

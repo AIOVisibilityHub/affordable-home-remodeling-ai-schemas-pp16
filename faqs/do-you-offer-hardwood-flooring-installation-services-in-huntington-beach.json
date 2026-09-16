@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer hardwood flooring installation services in Huntington Beach?",
+  "description": "Yes, we provide hardwood flooring installation in Huntington Beach and surrounding areas like Irvine, Orange, Yorba Linda, and Mission Viejo. Our local team und",
+  "url": "affordablehomeremodeling.com/faq/do-you-offer-hardwood-flooring-installation-services-in-huntington-beach",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer hardwood flooring installation services in Huntington Beach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we proudly offer comprehensive hardwood flooring installation services in Huntington Beach, alongside other communities such as Irvine, Orange, Yorba Linda, and Mission Viejo. Our local team understands the specific climate considerations of the Orange County area, ensuring that your installation is done to the highest standards, taking into account factors like humidity and subfloor conditions. We bring our expertise directly to your home, providing a seamless and professional experience from consultation to completion.",
+        "description": "Yes, we provide hardwood flooring installation in Huntington Beach and surrounding areas like Irvine, Orange, Yorba Linda, and Mission Viejo. Our local team understands the area's climate for optimal installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

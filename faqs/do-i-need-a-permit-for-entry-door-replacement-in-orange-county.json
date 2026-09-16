@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for entry door replacement in Orange County?",
+  "description": "Replacing an entry door of the same size usually doesn't require a permit in Orange County. Structural changes may require one.",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-entry-door-replacement-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for entry door replacement in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, replacing an existing entry door with a new one of the same size does not require a building permit in most Orange County cities, including Irvine or Orange. However, if the installation involves structural changes, such as widening the opening or adding new framing, a permit may be necessary. We can help determine if your specific project requires a permit and guide you through the process.",
+        "description": "Replacing an entry door of the same size usually doesn't require a permit in Orange County. Structural changes may require one."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

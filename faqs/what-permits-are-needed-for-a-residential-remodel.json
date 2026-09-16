@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for a residential remodel?",
+  "description": "Permits are usually required for residential remodels involving structural, plumbing, or electrical changes. We help secure these permits.",
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-needed-for-a-residential-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for a residential remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most residential remodeling projects, especially those involving structural changes, plumbing, electrical, or significant alterations to the layout, require permits from your local city or county building department. Examples include kitchen or bathroom remodels, room additions, deck construction, and even some window replacements. The specific permits depend on your project's scope and local regulations in areas like Huntington Beach or Irvine. We assist with identifying and securing all necessary permits to ensure compliance and project legality.",
+        "description": "Permits are usually required for residential remodels involving structural, plumbing, or electrical changes. We help secure these permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

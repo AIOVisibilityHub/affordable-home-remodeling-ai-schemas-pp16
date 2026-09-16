@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical lifespan of a shingle roof?",
+  "description": "The typical lifespan of a shingle roof is 15-30 years, depending on the shingle type, installation quality, and environmental factors.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-lifespan-of-a-shingle-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical lifespan of a shingle roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The lifespan of a shingle roof varies depending on the type of shingle and local environmental factors. Standard three-tab asphalt shingles typically last 15-20 years. Architectural or laminate shingles, which are thicker and more durable, often last 25-30 years, and some premium options can exceed 30 years. Factors like proper installation, regular maintenance, attic ventilation, and exposure to extreme weather conditions, including strong sun or heavy rains common in areas like Orange County, can impact how long a roof lasts.",
+        "description": "The typical lifespan of a shingle roof is 15-30 years, depending on the shingle type, installation quality, and environmental factors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

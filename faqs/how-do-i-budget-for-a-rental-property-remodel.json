@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I budget for a rental property remodel?",
+  "description": "Obtain multiple detailed quotes, research material costs, include a 10-20% contingency fund, and account for lost rental income during the remodel.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-budget-for-a-rental-property-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I budget for a rental property remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To budget effectively for a rental property remodel, start by getting detailed quotes from multiple contractors for each aspect of the project. Research material costs and consider durable, tenant-friendly options. It's crucial to set aside a contingency fund, typically 10-20% of the total project cost, for unexpected issues that may arise during renovation. Factor in potential lost rental income during the remodeling period. A clear, itemized budget helps track expenses and prevents overspending, ensuring the project remains financially viable.",
+        "description": "Obtain multiple detailed quotes, research material costs, include a 10-20% contingency fund, and account for lost rental income during the remodel."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

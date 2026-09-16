@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for an investment property renovation in Orange County?",
+  "description": "Permits are needed for structural, electrical, or plumbing work, or significant layout changes in Orange County. Always check with your specific city's building",
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-needed-for-an-investment-property-renovation-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for an investment property renovation in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permit requirements for investment property renovations in Orange County depend on the scope of work. Minor cosmetic changes like painting or flooring typically don't require permits. However, structural alterations, electrical work, plumbing modifications, or significant layout changes almost always do. Check with your specific city's building department (e.g., Irvine, Huntington Beach, Mission Viejo) as requirements can vary slightly. Always secure necessary permits before starting work to avoid fines or needing to redo completed work.",
+        "description": "Permits are needed for structural, electrical, or plumbing work, or significant layout changes in Orange County. Always check with your specific city's building department."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

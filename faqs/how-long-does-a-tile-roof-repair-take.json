@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a tile roof repair take?",
+  "description": "Small repairs can take hours to a day. Extensive repairs might take several days, depending on the damage complexity and weather conditions.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-tile-roof-repair-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a tile roof repair take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a tile roof repair depends significantly on the complexity and size of the damaged area. Small repairs, such as replacing a few tiles, might be completed within a few hours to a single day. More extensive repairs involving multiple sections, underlayment replacement, or structural issues could take several days. Weather conditions can also influence the timeline, as work may need to be postponed during rain or strong winds. A contractor can provide a more accurate time estimate after assessing the specific damage.",
+        "description": "Small repairs can take hours to a day. Extensive repairs might take several days, depending on the damage complexity and weather conditions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the lifespan of a repaired tile roof?",
+  "description": "A well-executed repair can extend your roof's life, with new materials lasting decades. The overall roof lifespan still depends on the condition of all sections",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-lifespan-of-a-repaired-tile-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the lifespan of a repaired tile roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A properly executed tile roof repair can significantly extend the overall life of your roof, provided the underlying structure and remaining tiles are in good condition. The repaired section itself should last as long as the new materials are rated for, often many decades. However, the lifespan of the *entire* roof still depends on the age and condition of the unrepaired sections. Regular maintenance and addressing issues promptly will contribute to maximizing the lifespan of both the repaired and original parts of the roof.",
+        "description": "A well-executed repair can extend your roof's life, with new materials lasting decades. The overall roof lifespan still depends on the condition of all sections and ongoing maintenance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

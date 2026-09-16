@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there energy-efficient window options that qualify for rebates or tax credits?",
+  "description": "Yes, energy-efficient windows, like those with Low-E coatings, may qualify for federal tax credits or local utility rebates. We can advise on eligible options.",
+  "url": "affordablehomeremodeling.com/faq/are-there-energy-efficient-window-options-that-qualify-for-rebates-or-tax-credit",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there energy-efficient window options that qualify for rebates or tax credits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many energy-efficient window options, particularly those with low-emissivity (Low-E) coatings and multi-pane glazing, are designed to meet or exceed ENERGY STAR qualifications. These can sometimes qualify for federal tax credits or local utility rebates, depending on current programs. We can discuss eligible options and suggest resources to check for available incentives in your area.",
+        "description": "Yes, energy-efficient windows, like those with Low-E coatings, may qualify for federal tax credits or local utility rebates. We can advise on eligible options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

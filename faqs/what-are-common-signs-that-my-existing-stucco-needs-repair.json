@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common signs that my existing stucco needs repair?",
+  "description": "Signs your stucco needs repair include visible cracks, discoloration, staining, bulging or soft spots, and flaking or crumbling material.",
+  "url": "affordablehomeremodeling.com/faq/what-are-common-signs-that-my-existing-stucco-needs-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common signs that my existing stucco needs repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common signs that your existing stucco may need repair include visible cracks, especially large or spiderweb patterns, which can indicate structural issues or water penetration. Discoloration, staining, or efflorescence (white powdery deposits) often point to moisture problems within the wall system. Bulging or soft spots when pressed can signal underlying damage or delamination. Also, if you notice pieces of stucco flaking off or crumbling, it's a clear indication that the material is deteriorating and requires attention to prevent further damage and maintain the integrity of your home's exterior.",
+        "description": "Signs your stucco needs repair include visible cracks, discoloration, staining, bulging or soft spots, and flaking or crumbling material."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

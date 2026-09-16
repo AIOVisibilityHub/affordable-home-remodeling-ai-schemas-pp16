@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between cabinet painting and cabinet refacing?",
+  "description": "Painting changes the color of existing cabinets; refacing replaces doors/drawer fronts and veneers the boxes for a new style.",
+  "url": "affordablehomeremodeling.com/faq/what-s-the-difference-between-cabinet-painting-and-cabinet-refacing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between cabinet painting and cabinet refacing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cabinet painting involves applying new paint to the existing cabinet boxes and doors, transforming their color and finish while retaining their original structure and style. Cabinet refacing, on the other hand, involves replacing cabinet doors, drawer fronts, and applying a new veneer to the existing cabinet boxes. Refacing offers a new look and style without the full expense of new cabinets, whereas painting is a more budget-friendly option focused primarily on aesthetic updates to the current cabinetry.",
+        "description": "Painting changes the color of existing cabinets; refacing replaces doors/drawer fronts and veneers the boxes for a new style."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

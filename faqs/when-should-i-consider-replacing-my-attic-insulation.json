@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider replacing my attic insulation?",
+  "description": "Consider replacing attic insulation if energy bills are high, rooms are uncomfortable, insulation is visibly damaged or damp, or if it's below recommended R-val",
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-replacing-my-attic-insulation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider replacing my attic insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider replacing or adding to your attic insulation if your energy bills are unusually high, certain rooms feel consistently too hot or cold, or you notice drafts. Physical signs like visibly sagging, damp, or damaged insulation are also clear indicators. If your existing insulation is below recommended R-values for your climate zone (e.g., California), an upgrade is beneficial. Additionally, if you are undergoing other major home renovations or pest remediation in the attic, it's an opportune time to address insulation.",
+        "description": "Consider replacing attic insulation if energy bills are high, rooms are uncomfortable, insulation is visibly damaged or damp, or if it's below recommended R-values."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

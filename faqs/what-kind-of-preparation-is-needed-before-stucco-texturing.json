@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of preparation is needed before stucco texturing?",
+  "description": "Preparation for stucco texturing includes cleaning, repairing cracks, and sometimes applying a bonding agent or new base coat for optimal adhesion.",
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-preparation-is-needed-before-stucco-texturing",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of preparation is needed before stucco texturing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper preparation is crucial for a durable and attractive stucco texture. This typically involves thoroughly cleaning the existing surface to remove dirt, grime, loose paint, and debris. Any existing cracks or holes in the substrate must be repaired and patched. Depending on the surface, a bonding agent or a new base coat may be applied to ensure optimal adhesion for the new texture. Our team handles all necessary prep work to ensure the best possible outcome.",
+        "description": "Preparation for stucco texturing includes cleaning, repairing cracks, and sometimes applying a bonding agent or new base coat for optimal adhesion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

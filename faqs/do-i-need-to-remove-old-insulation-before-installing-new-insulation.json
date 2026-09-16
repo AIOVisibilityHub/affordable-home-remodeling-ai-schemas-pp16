@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to remove old insulation before installing new insulation?",
+  "description": "Old insulation removal is needed if it's damaged or contaminated. If clean and dry, new insulation can sometimes be added on top, but removal allows for better",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-remove-old-insulation-before-installing-new-insulation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to remove old insulation before installing new insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Removing old insulation before installing new is not always necessary but is often recommended, especially if the existing insulation is damaged, contaminated (e.g., by pests, mold, or moisture), or compacted. If the old insulation is clean, dry, and in good condition, and you are simply adding more material to increase the R-value, it can sometimes be left in place. However, removing it allows for a thorough inspection of the attic floor and ensures optimal performance of the new insulation. Your contractor can advise on the best approach for your specific situation.",
+        "description": "Old insulation removal is needed if it's damaged or contaminated. If clean and dry, new insulation can sometimes be added on top, but removal allows for better inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

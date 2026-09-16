@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much can I save on energy bills with new energy-efficient windows?",
+  "description": "Energy bill savings vary, but homeowners can expect significant reductions, potentially hundreds of dollars annually, by reducing HVAC workload.",
+  "url": "affordablehomeremodeling.com/faq/how-much-can-i-save-on-energy-bills-with-new-energy-efficient-windows",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much can I save on energy bills with new energy-efficient windows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The amount you can save on energy bills with new energy-efficient windows varies based on factors such as your home's existing insulation, local climate, and the specific windows you choose. However, homeowners often report significant reductions. ENERGY STAR® estimates that replacing single-pane windows with ENERGY STAR certified windows can save an average of $101–$583 annually in California. These savings are achieved by reducing the workload on your HVAC system, leading to lower electricity or gas consumption for heating and cooling.",
+        "description": "Energy bill savings vary, but homeowners can expect significant reductions, potentially hundreds of dollars annually, by reducing HVAC workload."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

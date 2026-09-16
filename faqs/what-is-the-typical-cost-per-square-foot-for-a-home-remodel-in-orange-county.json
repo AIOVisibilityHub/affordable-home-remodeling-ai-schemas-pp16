@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost per square foot for a home remodel in Orange County?",
+  "description": "Remodeling costs in Orange County typically range from $25 to over $150 per square foot, depending on the scope and materials. Basic updates are less, while maj",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-per-square-foot-for-a-home-remodel-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost per square foot for a home remodel in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Home remodeling costs in Orange County vary significantly based on the scope of work, materials chosen, and the specific area of the home being renovated. A basic cosmetic update might range from $25 to $75 per square foot, while a mid-range remodel with updated fixtures and finishes could be $75 to $150 per square foot. Major renovations, such as adding square footage, reconfiguring layouts, or luxury finishes, can exceed $150 per square foot. These are general estimates; a detailed quote requires an on-site evaluation.",
+        "description": "Remodeling costs in Orange County typically range from $25 to over $150 per square foot, depending on the scope and materials. Basic updates are less, while major renovations cost more."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

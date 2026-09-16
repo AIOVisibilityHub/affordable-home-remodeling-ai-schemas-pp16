@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does spray foam insulation impact home energy efficiency in Orange County?",
+  "description": "In Orange County, spray foam insulation improves energy efficiency by creating an airtight seal, reducing heat gain and loss, which lowers HVAC workload and uti",
+  "url": "affordablehomeremodeling.com/faq/how-does-spray-foam-insulation-impact-home-energy-efficiency-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does spray foam insulation impact home energy efficiency in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Orange County, where cooling costs can be substantial for much of the year, spray foam insulation significantly impacts energy efficiency. Its ability to create an airtight thermal envelope reduces heat gain in the summer and heat loss in the cooler months. This consistent barrier lessens the workload on your HVAC system, leading to lower utility bills. Its high R-value helps maintain comfortable indoor temperatures regardless of fluctuating outside conditions.",
+        "description": "In Orange County, spray foam insulation improves energy efficiency by creating an airtight seal, reducing heat gain and loss, which lowers HVAC workload and utility bills."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for a new roof installation in Irvine?",
+  "description": "Yes, permits are typically required for new roof installations in Irvine to ensure compliance with local building codes and safety standards.",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-a-new-roof-installation-in-irvine",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for a new roof installation in Irvine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a permit is generally required for new roof installations or significant re-roofing projects in Irvine, as in most cities. This ensures that the work complies with local building codes, safety standards, and structural requirements. Our team handles the permit application process to ensure all necessary approvals are obtained before work begins, ensuring your project is compliant and up to code.",
+        "description": "Yes, permits are typically required for new roof installations in Irvine to ensure compliance with local building codes and safety standards."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

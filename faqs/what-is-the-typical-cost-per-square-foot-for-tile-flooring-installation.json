@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost per square foot for tile flooring installation?",
+  "description": "Cost per square foot varies widely depending on tile type, subfloor condition, and labor. We provide personalized quotes after assessing your project.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-per-square-foot-for-tile-flooring-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost per square foot for tile flooring installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of tile flooring installation varies significantly based on tile material, subfloor preparation needed, and labor rates. Basic ceramic tile installation might start lower, while premium porcelain or natural stone with complex patterns will be higher. This estimate typically includes labor and basic materials like mortar and grout, but not the tile itself. We provide detailed, transparent quotes after an on-site evaluation.",
+        "description": "Cost per square foot varies widely depending on tile type, subfloor condition, and labor. We provide personalized quotes after assessing your project."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

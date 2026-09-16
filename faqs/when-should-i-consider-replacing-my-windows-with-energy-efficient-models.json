@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider replacing my windows with energy-efficient models?",
+  "description": "Replace windows if you have drafts, condensation, high energy bills, or if they are old and single-pane. Upgrading improves comfort and value.",
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-replacing-my-windows-with-energy-efficient-models",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider replacing my windows with energy-efficient models?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consider replacing your windows if you notice drafts, condensation between panes, difficulty opening or closing them, or if your energy bills are consistently high. Older single-pane windows, especially those over 20-30 years old, are often prime candidates for an upgrade due to outdated technology and diminished sealing. Investing in energy-efficient windows can improve comfort, reduce noise, enhance your home's appearance, and potentially increase its resale value.",
+        "description": "Replace windows if you have drafts, condensation, high energy bills, or if they are old and single-pane. Upgrading improves comfort and value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

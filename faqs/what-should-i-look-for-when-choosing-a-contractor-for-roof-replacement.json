@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for when choosing a contractor for roof replacement?",
+  "description": "Choose a contractor with experience, proper licensing, insurance, positive references, a detailed estimate, and a strong warranty.",
+  "url": "affordablehomeremodeling.com/faq/what-should-i-look-for-when-choosing-a-contractor-for-roof-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for when choosing a contractor for roof replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a contractor for shingle roof replacement, prioritize those with proven experience, proper licensing, and comprehensive insurance (liability and workers' compensation). Check their references and look for positive reviews from past clients. Ensure they provide a detailed written estimate outlining all costs, materials, and the project timeline. A good contractor should also offer a warranty on both materials and workmanship and be transparent about their process and communication practices. Local contractors often have better knowledge of regional weather and building codes.",
+        "description": "Choose a contractor with experience, proper licensing, insurance, positive references, a detailed estimate, and a strong warranty."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

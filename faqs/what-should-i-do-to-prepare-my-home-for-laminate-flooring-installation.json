@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do to prepare my home for laminate flooring installation?",
+  "description": "Clear the room of furniture, remove old flooring if needed, and ensure the subfloor is clean, dry, and level. Stabilize room temperature and humidity.",
+  "url": "affordablehomeremodeling.com/faq/what-should-i-do-to-prepare-my-home-for-laminate-flooring-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do to prepare my home for laminate flooring installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before laminate flooring installation, it's essential to clear the room of all furniture and personal belongings. Remove existing flooring if it's not suitable as a subfloor, and ensure the subfloor is clean, dry, and free of debris. Any necessary repairs or leveling of the subfloor should be completed beforehand. It's also advisable to remove baseboards or trim, which can be reinstalled after the flooring is laid. Ensure the room's temperature and humidity are stable for at least 24-48 hours before installation.",
+        "description": "Clear the room of furniture, remove old flooring if needed, and ensure the subfloor is clean, dry, and level. Stabilize room temperature and humidity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

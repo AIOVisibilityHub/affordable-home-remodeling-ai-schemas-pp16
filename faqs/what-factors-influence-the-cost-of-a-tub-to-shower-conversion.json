@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors influence the cost of a tub-to-shower conversion?",
+  "description": "Cost factors include material choices for walls and fixtures, complexity of the shower base, plumbing modifications, and whether a shower door is installed.",
+  "url": "affordablehomeremodeling.com/faq/what-factors-influence-the-cost-of-a-tub-to-shower-conversion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors influence the cost of a tub-to-shower conversion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a tub-to-shower conversion is influenced by several key factors. The primary cost drivers include the type of materials chosen for the shower walls (e.g., acrylic panels versus custom tile), the style and features of the new showerhead and fixtures, and the complexity of the shower base or pan installation. Additional factors can include the need for plumbing modifications, the selection of a shower door or curtain, and any necessary structural repairs or upgrades to the subfloor. Customization and high-end finishes generally lead to higher costs.",
+        "description": "Cost factors include material choices for walls and fixtures, complexity of the shower base, plumbing modifications, and whether a shower door is installed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

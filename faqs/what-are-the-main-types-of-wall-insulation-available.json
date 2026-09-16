@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main types of wall insulation available?",
+  "description": "Main types include fiberglass, mineral wool, spray foam, and cellulose. Each has different properties for R-value, air sealing, and application.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-main-types-of-wall-insulation-available",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main types of wall insulation available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common types of wall insulation include fiberglass batts, mineral wool, spray foam (open-cell and closed-cell), and cellulose. Fiberglass and mineral wool are often used in new construction or accessible wall cavities. Spray foam provides an excellent air seal and high R-value, suitable for both new builds and retrofits. Cellulose, made from recycled paper, is dense and good for sound dampening. The best type depends on your home's structure, existing insulation, and specific energy efficiency goals, which a professional can assess during a home energy audit.",
+        "description": "Main types include fiberglass, mineral wool, spray foam, and cellulose. Each has different properties for R-value, air sealing, and application."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

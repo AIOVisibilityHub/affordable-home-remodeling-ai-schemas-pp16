@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost to replace a front door?",
+  "description": "Costs vary based on material, style, and installation complexity. A detailed estimate requires an on-site consultation.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-to-replace-a-front-door",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost to replace a front door?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost to replace a front door varies widely based on the material, style, hardware, and installation complexity. Basic steel or fiberglass doors are generally more affordable, while custom wood or elaborate designs will be at the higher end. Installation costs also depend on whether modifications to the door frame are needed. We can provide a detailed estimate after an on-site consultation to assess your specific needs and preferences.",
+        "description": "Costs vary based on material, style, and installation complexity. A detailed estimate requires an on-site consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

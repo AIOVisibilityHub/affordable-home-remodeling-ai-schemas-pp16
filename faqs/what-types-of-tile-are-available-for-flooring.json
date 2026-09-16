@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of tile are available for flooring?",
+  "description": "Common tile types include ceramic, porcelain, natural stone, and mosaic, each offering different aesthetics and performance characteristics.",
+  "url": "affordablehomeremodeling.com/faq/what-types-of-tile-are-available-for-flooring",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of tile are available for flooring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common tile flooring options include ceramic, porcelain, natural stone (like marble, granite, travertine), and mosaic. Ceramic tiles are durable and versatile, suitable for various indoor applications. Porcelain tiles are denser, more water-resistant, and ideal for high-traffic areas or outdoor use. Natural stone offers unique aesthetic appeal but may require more maintenance. Mosaic tiles are smaller and used for decorative accents or intricate designs.",
+        "description": "Common tile types include ceramic, porcelain, natural stone, and mosaic, each offering different aesthetics and performance characteristics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

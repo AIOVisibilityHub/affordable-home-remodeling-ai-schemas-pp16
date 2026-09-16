@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preparation is needed before spray foam insulation installation?",
+  "description": "Preparation includes clearing debris, making structural repairs, ensuring surfaces are clean and dry, protecting adjacent areas from overspray, and setting up v",
+  "url": "affordablehomeremodeling.com/faq/what-preparation-is-needed-before-spray-foam-insulation-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preparation is needed before spray foam insulation installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before spray foam insulation installation, the area must be cleared of debris, and any necessary repairs to the structure, such as sealing large gaps or fixing leaks, should be completed. Surfaces must be clean and dry for optimal adhesion. Protecting nearby surfaces with plastic sheeting is essential to prevent overspray. Proper ventilation will also be established to ensure safety during the application process. Our team will guide you through all necessary preparatory steps.",
+        "description": "Preparation includes clearing debris, making structural repairs, ensuring surfaces are clean and dry, protecting adjacent areas from overspray, and setting up ventilation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

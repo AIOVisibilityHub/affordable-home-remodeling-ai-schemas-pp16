@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to remove old carpet before new installation?",
+  "description": "It is strongly recommended to remove old carpet and padding before new installation to ensure an even, stable surface and prevent potential issues.",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-remove-old-carpet-before-new-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to remove old carpet before new installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While it is possible to install new carpet over existing carpet, it is generally not recommended. Installing new carpet over old carpet can lead to an uneven surface, reduced stability, and potential moisture issues, which can shorten the lifespan of the new carpet. For best results and proper adherence, we always advise removing the old carpet and padding to prepare a clean, level subfloor for the new installation.",
+        "description": "It is strongly recommended to remove old carpet and padding before new installation to ensure an even, stable surface and prevent potential issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

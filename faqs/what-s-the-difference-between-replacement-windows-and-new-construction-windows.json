@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between replacement windows and new construction windows?",
+  "description": "Replacement windows fit existing openings without structural changes, while new construction windows have nailing fins for direct attachment to framing.",
+  "url": "affordablehomeremodeling.com/faq/what-s-the-difference-between-replacement-windows-and-new-construction-windows",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between replacement windows and new construction windows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Replacement windows are designed to fit into an existing window opening without altering the original frame structure, often used for remodels. New construction windows include a nailing fin that attaches directly to the home's framing, typically used when building a new home or expanding an existing opening. Your project type dictates which style is appropriate.",
+        "description": "Replacement windows fit existing openings without structural changes, while new construction windows have nailing fins for direct attachment to framing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the process for hiring a general contractor for a rental property remodel?",
+  "description": "Define your project, get multiple bids from licensed and insured contractors, check references, review their portfolios, and ensure a detailed written contract",
+  "url": "affordablehomeremodeling.com/faq/what-s-the-process-for-hiring-a-general-contractor-for-a-rental-property-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the process for hiring a general contractor for a rental property remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for hiring a general contractor involves several key steps. First, define your project scope and budget. Then, seek recommendations and gather bids from at least three licensed and insured contractors. Review their portfolios, check references, and verify their licensing with the state contractor's board. Discuss their experience with rental properties and their communication style. Finally, ensure a detailed written contract outlining the scope of work, timeline, payment schedule, and warranty before any work begins.",
+        "description": "Define your project, get multiple bids from licensed and insured contractors, check references, review their portfolios, and ensure a detailed written contract before proceeding."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

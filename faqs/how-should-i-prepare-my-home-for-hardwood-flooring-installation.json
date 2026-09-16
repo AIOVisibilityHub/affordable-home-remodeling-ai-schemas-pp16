@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How should I prepare my home for hardwood flooring installation?",
+  "description": "Clear the installation area, ensure the subfloor is clean and dry. Hardwood needs to acclimate to your home's humidity for several days before installation to p",
+  "url": "affordablehomeremodeling.com/faq/how-should-i-prepare-my-home-for-hardwood-flooring-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How should I prepare my home for hardwood flooring installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before installation, it's essential to clear the installation area completely, moving furniture, decor, and disconnecting appliances. Ensure the subfloor is clean, dry, and structurally sound. Hardwood typically needs to acclimate to your home's humidity and temperature for several days prior to installation to prevent warping or gapping after installation. Maintain consistent indoor temperature and humidity levels during this acclimation period. Our team will guide you through specific preparation steps relevant to your project.",
+        "description": "Clear the installation area, ensure the subfloor is clean and dry. Hardwood needs to acclimate to your home's humidity for several days before installation to prevent issues. Maintain consistent indoor temperature."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for new hardwood floors?",
+  "description": "Regularly sweep or vacuum floors and use a wood-specific cleaner with a damp mop. Avoid harsh chemicals and excessive water. Use protective pads under furniture",
+  "url": "affordablehomeremodeling.com/faq/what-maintenance-is-required-for-new-hardwood-floors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for new hardwood floors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Maintaining new hardwood floors involves regular cleaning and protective measures. Sweep or vacuum regularly to remove dirt and grit that can scratch the finish. Use a wood-specific cleaner with a damp (not wet) mop for deeper cleaning. Avoid harsh chemicals, abrasive cleaners, and excessive water. Place protective pads under furniture legs and use area rugs in high-traffic zones to prevent wear. Promptly clean up spills to prevent water damage. Proper care ensures the longevity and beauty of your floors.",
+        "description": "Regularly sweep or vacuum floors and use a wood-specific cleaner with a damp mop. Avoid harsh chemicals and excessive water. Use protective pads under furniture and promptly clean spills to maintain floor quality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

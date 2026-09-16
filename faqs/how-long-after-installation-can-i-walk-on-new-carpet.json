@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long after installation can I walk on new carpet?",
+  "description": "You can walk on new carpet immediately after installation, but avoid heavy traffic or dragging furniture for the first 24-48 hours.",
+  "url": "affordablehomeremodeling.com/faq/how-long-after-installation-can-i-walk-on-new-carpet",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long after installation can I walk on new carpet?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can typically walk on your new carpet immediately after installation is complete. The carpet is secured with tack strips and stretching, so it's ready for light foot traffic right away. However, it's advisable to avoid heavy foot traffic, dragging furniture, or placing extremely heavy objects on it for the first 24-48 hours to allow the carpet and any adhesives to fully settle and bond properly.",
+        "description": "You can walk on new carpet immediately after installation, but avoid heavy traffic or dragging furniture for the first 24-48 hours."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

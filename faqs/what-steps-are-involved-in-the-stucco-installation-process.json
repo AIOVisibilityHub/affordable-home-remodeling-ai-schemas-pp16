@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps are involved in the stucco installation process?",
+  "description": "Stucco installation involves surface preparation, applying a wire lath, then successively applying the scratch, brown, and finish coats, with curing time betwee",
+  "url": "affordablehomeremodeling.com/faq/what-steps-are-involved-in-the-stucco-installation-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps are involved in the stucco installation process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The stucco installation process generally involves several key steps. First, the existing exterior surface is prepared, which may include cleaning, repairing, or installing a weather-resistant barrier. Next, a wire lath or mesh is securely attached to the prepared surface to provide a base for the stucco. The first layer, known as the scratch coat, is then applied, followed by the brown coat after proper curing. Finally, the finish coat, which provides the desired texture and color, is applied. Each layer requires adequate drying and curing time to ensure the stucco's durability and integrity.",
+        "description": "Stucco installation involves surface preparation, applying a wire lath, then successively applying the scratch, brown, and finish coats, with curing time between layers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

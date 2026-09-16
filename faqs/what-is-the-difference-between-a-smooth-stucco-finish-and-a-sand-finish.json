@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a smooth stucco finish and a sand finish?",
+  "description": "Smooth stucco is sleek and flat, while sand finish has a slightly gritty texture. Smooth is modern; sand is more natural and forgiving.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-smooth-stucco-finish-and-a-sand-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a smooth stucco finish and a sand finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A smooth stucco finish is achieved by using fine aggregate and careful troweling to create a very flat, sleek surface with minimal texture. It offers a modern and minimalist aesthetic. A sand finish, conversely, incorporates sand or larger aggregates, resulting in a slightly gritty, textured appearance that helps to mask minor imperfections. While both are popular, smooth stucco requires a more meticulous application to avoid showing imperfections, whereas a sand finish is more forgiving and provides a subtle, natural look.",
+        "description": "Smooth stucco is sleek and flat, while sand finish has a slightly gritty texture. Smooth is modern; sand is more natural and forgiving."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

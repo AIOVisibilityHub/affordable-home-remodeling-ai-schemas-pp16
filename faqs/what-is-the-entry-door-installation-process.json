@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the entry door installation process?",
+  "description": "The installation process involves removing the old door, preparing the opening, installing the new door unit, insulating, and finishing the trim.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-entry-door-installation-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the entry door installation process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The entry door installation process typically begins with an assessment of your existing doorway and measurements. Once the new door is selected and delivered, we remove the old door and frame. The opening is then prepared, ensuring it is level and plumb. The new pre-hung door unit is installed, shimmed, and secured. Finally, insulation is added, and the interior and exterior trim are completed, followed by a final inspection.",
+        "description": "The installation process involves removing the old door, preparing the opening, installing the new door unit, insulating, and finishing the trim."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

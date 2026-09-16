@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a new roof installation usually take?",
+  "description": "Most new roof installations take 2-5 days for standard residential homes. Larger or more complex projects may take longer.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-new-roof-installation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a new roof installation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a new roof installation depends on the size and complexity of your home's roof, weather conditions, and the roofing material chosen. Most standard residential asphalt shingle roofs can be completed within 2 to 5 days. Larger homes, steeper pitches, or more complex materials like tile or metal may extend the project timeline. We always strive to work efficiently while maintaining high quality standards and minimizing disruption to your daily life.",
+        "description": "Most new roof installations take 2-5 days for standard residential homes. Larger or more complex projects may take longer."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

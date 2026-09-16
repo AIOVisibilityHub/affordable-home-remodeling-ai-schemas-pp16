@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for painting kitchen cabinets?",
+  "description": "The process involves cleaning, sanding, priming, and applying multiple coats of cabinet-specific paint, often with a protective topcoat.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-process-for-painting-kitchen-cabinets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for painting kitchen cabinets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cabinet painting process usually begins with thorough cleaning and degreasing of all surfaces. Next, the cabinets are carefully sanded to create a smooth base for paint adhesion. Any imperfections, like dings or scratches, are addressed before primer is applied. After priming, two to three coats of a high-quality paint specifically designed for cabinets are applied, with light sanding between coats for a durable finish. Finally, a protective topcoat may be added for enhanced longevity and resistance to daily wear.",
+        "description": "The process involves cleaning, sanding, priming, and applying multiple coats of cabinet-specific paint, often with a protective topcoat."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is spray foam insulation safe for my home and family after installation?",
+  "description": "Once cured, spray foam insulation is safe and inert. During installation, ventilation is used, and a re-occupancy period ensures off-gassing is complete.",
+  "url": "affordablehomeremodeling.com/faq/is-spray-foam-insulation-safe-for-my-home-and-family-after-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is spray foam insulation safe for my home and family after installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Once cured, spray foam insulation is considered safe and inert, meaning it poses no health risks. During installation, proper ventilation and personal protective equipment are crucial due to airborne chemicals. After the recommended re-occupancy period, typically 24-48 hours depending on the product and ventilation, the foam fully off-gasses and stabilizes. Our installers follow strict safety protocols to ensure a safe environment during and after the process.",
+        "description": "Once cured, spray foam insulation is safe and inert. During installation, ventilation is used, and a re-occupancy period ensures off-gassing is complete."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

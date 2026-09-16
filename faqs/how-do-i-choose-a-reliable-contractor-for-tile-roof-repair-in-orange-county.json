@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a reliable contractor for tile roof repair in Orange County?",
+  "description": "Choose a licensed, insured contractor with tile roofing experience. Check references, get a detailed written estimate, and inquire about warranties for material",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-reliable-contractor-for-tile-roof-repair-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a reliable contractor for tile roof repair in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a tile roof repair contractor in Orange County, look for licensed and insured professionals with experience specifically in tile roofing. Check their reviews and request references from previous clients. Ensure they provide a detailed, written estimate outlining the scope of work, materials to be used, and a clear timeline. Inquire about warranties for both materials and labor. A reliable contractor should also be transparent about potential challenges and solutions, and communicate effectively throughout the repair process.",
+        "description": "Choose a licensed, insured contractor with tile roofing experience. Check references, get a detailed written estimate, and inquire about warranties for materials and labor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between a minor update and a major renovation?",
+  "description": "Minor updates are cosmetic changes, while major renovations involve structural alterations, layout changes, or system upgrades.",
+  "url": "affordablehomeremodeling.com/faq/what-s-the-difference-between-a-minor-update-and-a-major-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a minor update and a major renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A minor update typically involves cosmetic changes that don't alter the structure or layout of a space, such as painting, replacing fixtures, or refacing cabinets. These projects generally have a shorter timeline and lower cost. A major renovation, on the other hand, involves significant structural alterations, reconfiguring layouts, updating plumbing or electrical systems, or adding square footage. Major renovations require more extensive planning, permits, and a larger budget due to the increased labor and material costs involved.",
+        "description": "Minor updates are cosmetic changes, while major renovations involve structural alterations, layout changes, or system upgrades."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I perform tile roof repair myself, or should I hire a professional?",
+  "description": "It's safer and more effective to hire a professional for tile roof repair. They have the safety equipment, tools, and expertise to prevent further damage and en",
+  "url": "affordablehomeremodeling.com/faq/can-i-perform-tile-roof-repair-myself-or-should-i-hire-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I perform tile roof repair myself, or should I hire a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While minor tile replacement might seem straightforward, tile roof repair is generally best left to professionals. Working on roofs can be dangerous due to heights and slippery surfaces. Additionally, improper repair techniques can lead to further damage, compromised waterproofing, or voided warranties. Professionals have the necessary safety equipment, specialized tools, and expertise to correctly identify issues, match tiles, and ensure the repair integrates seamlessly with the existing roof, preventing future problems and maintaining its integrity.",
+        "description": "It's safer and more effective to hire a professional for tile roof repair. They have the safety equipment, tools, and expertise to prevent further damage and ensure proper installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

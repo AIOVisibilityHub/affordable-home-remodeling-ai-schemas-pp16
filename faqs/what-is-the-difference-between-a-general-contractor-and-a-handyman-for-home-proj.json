@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a general contractor and a handyman for home projects?",
+  "description": "A general contractor manages complex, large-scale remodeling projects and coordinates all trades. A handyman handles smaller repairs or single-task jobs.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-general-contractor-and-a-handyman-for-home-proj",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a general contractor and a handyman for home projects?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A general contractor manages large-scale projects, coordinating all aspects from planning and permitting to hiring subcontractors for specialized tasks like plumbing, electrical, and carpentry. They oversee the entire project scope, budget, and timeline. A handyman, conversely, typically handles smaller, single-trade jobs or repair tasks that do not require extensive planning or permits. For comprehensive remodels, a general contractor is essential; for minor repairs, a handyman is suitable.",
+        "description": "A general contractor manages complex, large-scale remodeling projects and coordinates all trades. A handyman handles smaller repairs or single-task jobs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

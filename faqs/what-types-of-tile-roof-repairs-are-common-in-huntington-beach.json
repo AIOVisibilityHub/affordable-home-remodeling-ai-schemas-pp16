@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of tile roof repairs are common in Huntington Beach?",
+  "description": "Common repairs in Huntington Beach include replacing tiles damaged by saltwater exposure, strong winds, or debris impact. Flashing issues are also frequently ad",
+  "url": "affordablehomeremodeling.com/faq/what-types-of-tile-roof-repairs-are-common-in-huntington-beach",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of tile roof repairs are common in Huntington Beach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In coastal areas like Huntington Beach, tile roofs often face specific challenges. Common repairs include replacing tiles damaged by saltwater exposure, strong winds, or impact from debris. The salt air can accelerate wear on some tile materials or underlayment. Additionally, issues related to flashing around chimneys or vents, which are critical for preventing leaks, are frequently addressed due to weather-related deterioration. Regular inspections are particularly beneficial in this environment to catch problems early.",
+        "description": "Common repairs in Huntington Beach include replacing tiles damaged by saltwater exposure, strong winds, or debris impact. Flashing issues are also frequently addressed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

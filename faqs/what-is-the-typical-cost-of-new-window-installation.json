@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of new window installation?",
+  "description": "Costs vary based on window type, material, size, and installation complexity. We offer free estimates to detail project specific pricing.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-of-new-window-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of new window installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of new window installation varies widely based on the window type, material, size, number of windows, and complexity of the installation. Factors like energy-efficient glazing, custom shapes, and frame materials (e.g., vinyl versus wood) all influence the final price. We provide detailed, no-obligation estimates after a site visit to accurately assess your project's scope.",
+        "description": "Costs vary based on window type, material, size, and installation complexity. We offer free estimates to detail project specific pricing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

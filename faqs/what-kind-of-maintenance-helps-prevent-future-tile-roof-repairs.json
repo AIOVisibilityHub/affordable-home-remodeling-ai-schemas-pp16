@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of maintenance helps prevent future tile roof repairs?",
+  "description": "Regular inspections, especially after storms, keeping gutters clean, trimming overhanging branches, and promptly removing moss or algae are crucial for preventi",
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-maintenance-helps-prevent-future-tile-roof-repairs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of maintenance helps prevent future tile roof repairs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Regular maintenance is key to preventing future tile roof repairs. This includes periodic inspections, especially after major storms, to identify and address minor issues like loose or cracked tiles early. Keep gutters clean to ensure proper drainage and prevent water from backing up under tiles. Trim overhanging tree branches to reduce debris accumulation and prevent impact damage. Additionally, promptly removing moss or algae can prevent moisture retention and degradation of tiles. Consistent care can help preserve your roof's integrity and extend its life.",
+        "description": "Regular inspections, especially after storms, keeping gutters clean, trimming overhanging branches, and promptly removing moss or algae are crucial for prevention."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

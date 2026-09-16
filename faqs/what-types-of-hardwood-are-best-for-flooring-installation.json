@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of hardwood are best for flooring installation?",
+  "description": "Oak, maple, and hickory are popular durable options. Engineered hardwood offers stability for varying humidity. Your choice depends on durability needs, appeara",
+  "url": "affordablehomeremodeling.com/faq/what-types-of-hardwood-are-best-for-flooring-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of hardwood are best for flooring installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing hardwood for your home, consider factors like durability, appearance, and maintenance. Popular options include oak, maple, and hickory, known for their hardness and resistance to dents. Exotic woods like Brazilian cherry orSantos mahogany offer unique aesthetics but can be pricier. Engineered hardwood is also a strong contender, especially in areas with fluctuating humidity, as it offers greater stability than solid wood. We can help you explore options that fit your lifestyle and budget during a consultation.",
+        "description": "Oak, maple, and hickory are popular durable options. Engineered hardwood offers stability for varying humidity. Your choice depends on durability needs, appearance, and budget."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

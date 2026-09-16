@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for rental property renovations in Orange County?",
+  "description": "Permits are required for structural changes, significant plumbing or electrical work, and additions. Always consult your specific Orange County city's building",
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-rental-property-renovations-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for rental property renovations in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permit requirements for rental property renovations in Orange County depend on the scope of work. Minor cosmetic changes like painting or new flooring generally don't require permits. However, structural alterations, significant plumbing or electrical work, additions, or changes to load-bearing walls will almost certainly necessitate permits from your specific city's building department (e.g., Huntington Beach, Irvine). It's essential to consult with a general contractor or directly contact your local planning department before starting any project to understand and secure all necessary approvals, avoiding potential fines or delays.",
+        "description": "Permits are required for structural changes, significant plumbing or electrical work, and additions. Always consult your specific Orange County city's building department or a contractor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

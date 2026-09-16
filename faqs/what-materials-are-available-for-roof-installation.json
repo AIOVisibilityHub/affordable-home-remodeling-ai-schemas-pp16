@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are available for roof installation?",
+  "description": "Common roofing materials include asphalt shingles, concrete or clay tiles, and metal. Each offers different benefits in terms of durability, appearance, and cos",
+  "url": "affordablehomeremodeling.com/faq/what-materials-are-available-for-roof-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are available for roof installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is a wide range of roofing materials, each with unique benefits for durability, aesthetics, and cost. Common options include asphalt shingles, which are popular for their affordability and versatility; concrete or clay tiles, known for their longevity and Mediterranean style; and metal roofing, valued for its extreme durability and energy efficiency. Other options include wood shakes or synthetic materials. Our team can help you select the best material for your home's architectural style and your budget.",
+        "description": "Common roofing materials include asphalt shingles, concrete or clay tiles, and metal. Each offers different benefits in terms of durability, appearance, and cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

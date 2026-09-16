@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to seal tile flooring, and if so, how often?",
+  "description": "Natural stone and unglazed tiles require sealing every 1-3 years to prevent stains; glazed tiles typically do not.",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-seal-tile-flooring-and-if-so-how-often",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to seal tile flooring, and if so, how often?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The need for sealing depends on the type of tile. Natural stone tiles (like marble, granite, travertine) and unglazed porcelain or ceramic tiles are porous and require sealing to prevent stains and moisture absorption. Glazed ceramic or porcelain tiles typically do not need sealing. For tiles that do require it, sealing is usually recommended every 1-3 years, depending on traffic and cleaning frequency. We can advise on specific tile types.",
+        "description": "Natural stone and unglazed tiles require sealing every 1-3 years to prevent stains; glazed tiles typically do not."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

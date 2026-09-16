@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors affect the lifespan of a new roof?",
+  "description": "Lifespan is affected by material quality, proper installation, environmental exposure, and regular maintenance. Different materials have varying expected durati",
+  "url": "affordablehomeremodeling.com/faq/what-factors-affect-the-lifespan-of-a-new-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors affect the lifespan of a new roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several factors influence the lifespan of a new roof. The quality and type of materials used play a major role; for example, tile and metal roofs generally last longer than asphalt shingles. Proper installation is critical, as even the best materials will fail prematurely if installed incorrectly. Environmental factors like extreme weather, sun exposure, and tree debris can also impact longevity. Regular maintenance, such as cleaning gutters and inspecting for damage, helps maximize roof life.",
+        "description": "Lifespan is affected by material quality, proper installation, environmental exposure, and regular maintenance. Different materials have varying expected durations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

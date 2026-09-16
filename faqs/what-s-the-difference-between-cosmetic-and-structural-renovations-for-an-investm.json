@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between cosmetic and structural renovations for an investment property?",
+  "description": "Cosmetic renovations are superficial appearance changes, while structural renovations alter the property's framework, requiring permits and more extensive work.",
+  "url": "affordablehomeremodeling.com/faq/what-s-the-difference-between-cosmetic-and-structural-renovations-for-an-investm",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between cosmetic and structural renovations for an investment property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Cosmetic renovations are superficial changes that improve appearance without altering the property's core structure. Examples include painting, new flooring, updated light fixtures, or minor landscaping. Structural renovations involve changing the building's framework, such as moving walls, adding rooms, modifying rooflines, or altering foundational elements. Structural changes typically require permits, engineering plans, and more specialized labor, leading to higher costs and longer timelines compared to cosmetic updates.",
+        "description": "Cosmetic renovations are superficial appearance changes, while structural renovations alter the property's framework, requiring permits and more extensive work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the main benefits of installing spray foam insulation?",
+  "description": "Benefits include reduced energy bills, improved indoor air quality, moisture barrier, sound dampening, and increased structural integrity.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-main-benefits-of-installing-spray-foam-insulation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the main benefits of installing spray foam insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Installing spray foam insulation offers several benefits. It provides superior thermal performance, which can significantly lower heating and cooling costs. The airtight seal it creates also helps prevent drafts and moisture intrusion, reducing the risk of mold and mildew. Additionally, it can enhance structural integrity, act as a sound barrier, and deter pests. Its long lifespan means these benefits can be enjoyed for many years.",
+        "description": "Benefits include reduced energy bills, improved indoor air quality, moisture barrier, sound dampening, and increased structural integrity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

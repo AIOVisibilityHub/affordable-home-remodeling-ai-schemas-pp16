@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer laminate flooring installation services in Irvine, California?",
+  "description": "Yes, we provide professional laminate flooring installation services in Irvine, California, handling all aspects from preparation to finishing. Contact us for a",
+  "url": "affordablehomeremodeling.com/faq/do-you-offer-laminate-flooring-installation-services-in-irvine-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer laminate flooring installation services in Irvine, California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we proudly offer comprehensive laminate flooring installation services in Irvine, California, and surrounding areas. Our team specializes in professional subfloor preparation, precise plank installation, and meticulous finishing, ensuring a durable and aesthetically pleasing result. We handle projects of all sizes, from single rooms to whole-house installations. Contact us to schedule a consultation and receive a detailed estimate for your specific flooring needs in Irvine.",
+        "description": "Yes, we provide professional laminate flooring installation services in Irvine, California, handling all aspects from preparation to finishing. Contact us for a consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

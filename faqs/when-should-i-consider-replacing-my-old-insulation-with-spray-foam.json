@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider replacing my old insulation with spray foam?",
+  "description": "Consider spray foam if you have high energy bills, inconsistent temperatures, drafts, pests, or moisture issues, or if your current insulation is old and ineffe",
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-replacing-my-old-insulation-with-spray-foam",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider replacing my old insulation with spray foam?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider replacing old insulation with spray foam if your home experiences high energy bills, inconsistent indoor temperatures, drafts, or signs of pest infestations or moisture issues in insulated areas. If your existing insulation is old, damaged, or insufficient, upgrading to spray foam can dramatically improve your home's thermal performance and overall comfort. It's a beneficial upgrade for long-term energy savings and enhanced living quality.",
+        "description": "Consider spray foam if you have high energy bills, inconsistent temperatures, drafts, pests, or moisture issues, or if your current insulation is old and ineffective."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

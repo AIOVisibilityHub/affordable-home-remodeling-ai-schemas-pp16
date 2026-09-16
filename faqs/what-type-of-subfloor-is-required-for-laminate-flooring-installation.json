@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What type of subfloor is required for laminate flooring installation?",
+  "description": "Laminate can be installed over plywood, OSB, concrete, or existing flooring, as long as the subfloor is clean, dry, flat, and sound. Concrete often needs a mois",
+  "url": "affordablehomeremodeling.com/faq/what-type-of-subfloor-is-required-for-laminate-flooring-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What type of subfloor is required for laminate flooring installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Laminate flooring can be installed over various subfloor types, including plywood, OSB (oriented strand board), concrete, and even existing vinyl or tile floors, provided they are clean, dry, flat, and structurally sound. Any unevenness greater than 1/8 inch over a 6-foot span should be leveled. Concrete subfloors often require a moisture barrier. Proper subfloor preparation is crucial for preventing future issues like squeaking, buckling, or gapping of the laminate planks.",
+        "description": "Laminate can be installed over plywood, OSB, concrete, or existing flooring, as long as the subfloor is clean, dry, flat, and sound. Concrete often needs a moisture barrier."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

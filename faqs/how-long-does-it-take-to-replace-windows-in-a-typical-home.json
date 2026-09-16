@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to replace windows in a typical home?",
+  "description": "Replacing windows in a typical home with 10-15 windows usually takes 1 to 3 days, depending on project complexity.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-replace-windows-in-a-typical-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to replace windows in a typical home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of window replacement varies based on the number of windows, their size, the type of installation, and any unforeseen structural issues. For a typical home with 10-15 windows, the installation process usually takes 1 to 3 days. Our team works efficiently to minimize disruption, and we provide a clear timeline during the initial consultation. Complex projects or homes with a large number of windows may require more time, and we'll communicate that estimate upfront.",
+        "description": "Replacing windows in a typical home with 10-15 windows usually takes 1 to 3 days, depending on project complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit to replace my front door in Orange County?",
+  "description": "A permit is usually not needed for a direct door replacement without structural changes. Check with your local city building department if structural alteration",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-to-replace-my-front-door-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit to replace my front door in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, a permit is not required for a direct replacement of an existing front door within the same opening, provided there are no structural changes to the framing. However, if the door opening is being enlarged, altered structurally, or if you are changing the use or occupancy of the space, a permit may be necessary. It is always best to verify specific requirements with your local city building department in areas like Irvine or Mission Viejo.",
+        "description": "A permit is usually not needed for a direct door replacement without structural changes. Check with your local city building department if structural alterations are planned."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

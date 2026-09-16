@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right tile for my home?",
+  "description": "Consider the room's function, traffic level, water exposure, and your desired aesthetic. We can assist with selection.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-tile-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right tile for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right tile involves considering your lifestyle, the room's function, and your aesthetic preferences. For high-traffic areas like kitchens and entryways, durable porcelain is often recommended. For bathrooms, consider water-resistant options with good slip resistance. Style-wise, think about color, pattern, size, and grout lines to complement your home's design. We can help you select tiles that meet both functional and aesthetic requirements.",
+        "description": "Consider the room's function, traffic level, water exposure, and your desired aesthetic. We can assist with selection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

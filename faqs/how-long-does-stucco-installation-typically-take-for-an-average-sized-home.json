@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does stucco installation typically take for an average-sized home?",
+  "description": "Stucco installation for an average home typically takes two to four weeks, depending on house size, complexity, weather, and stucco type.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-stucco-installation-typically-take-for-an-average-sized-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does stucco installation typically take for an average-sized home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of stucco installation for an average-sized home can vary significantly based on factors like the size of the house, the complexity of its architectural features, weather conditions, and the specific type of stucco system chosen. Generally, the process, including preparation, lath application, multiple stucco coats, and curing time, can take anywhere from two to four weeks. Larger or more intricate projects may extend beyond this timeframe, while smaller jobs might be completed faster. We provide a detailed project timeline after an initial assessment.",
+        "description": "Stucco installation for an average home typically takes two to four weeks, depending on house size, complexity, weather, and stucco type."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

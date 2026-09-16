@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for energy-efficient windows?",
+  "description": "Energy-efficient windows need minimal maintenance, mainly regular cleaning of glass and frames, and occasional checks of seals and lubrication of moving parts.",
+  "url": "affordablehomeremodeling.com/faq/what-maintenance-is-required-for-energy-efficient-windows",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for energy-efficient windows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern energy-efficient windows, especially those with vinyl or fiberglass frames, typically require minimal maintenance. Regular cleaning of glass with standard window cleaner and wiping down frames with a mild soap and water solution is generally sufficient. It's also advisable to periodically check the seals around the frames for any signs of wear or degradation to ensure they remain airtight. Lubricating moving parts on operable windows once a year can also help maintain smooth operation. Wood frames may require occasional repainting or resealing.",
+        "description": "Energy-efficient windows need minimal maintenance, mainly regular cleaning of glass and frames, and occasional checks of seals and lubrication of moving parts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

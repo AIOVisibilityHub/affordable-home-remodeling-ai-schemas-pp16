@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can hardwood flooring be installed over concrete slabs?",
+  "description": "Engineered hardwood is often suitable over concrete slabs, especially with a moisture barrier. Solid hardwood is typically not recommended. The concrete must be",
+  "url": "affordablehomeremodeling.com/faq/can-hardwood-flooring-be-installed-over-concrete-slabs",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can hardwood flooring be installed over concrete slabs?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Installing hardwood over concrete slabs requires careful consideration due to moisture. While solid hardwood is generally not recommended directly over concrete below grade, engineered hardwood is often a suitable option. A proper moisture barrier system is crucial to prevent moisture from wicking up from the concrete and damaging the wood. The concrete slab must also be clean, level, and dry. We can assess your specific situation and recommend the best approach for installing hardwood over your concrete subfloor.",
+        "description": "Engineered hardwood is often suitable over concrete slabs, especially with a moisture barrier. Solid hardwood is typically not recommended. The concrete must be clean, level, and dry."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

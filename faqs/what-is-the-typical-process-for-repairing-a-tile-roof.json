@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical process for repairing a tile roof?",
+  "description": "The process involves inspection, removal of damaged tiles, underlayment repair if needed, installation of new tiles, and a final inspection to ensure proper sea",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-process-for-repairing-a-tile-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical process for repairing a tile roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The tile roof repair process usually begins with an inspection to identify all damaged areas and the underlying cause. Once damage is assessed, the contractor will remove broken or compromised tiles. They will then inspect and repair the underlayment if it's also damaged. New tiles are carefully installed, ensuring proper alignment and sealing to prevent leaks. The work often includes cleaning debris and inspecting surrounding areas to ensure the repair blends seamlessly and provides lasting protection. Finally, a thorough clean-up of the work area is performed.",
+        "description": "The process involves inspection, removal of damaged tiles, underlayment repair if needed, installation of new tiles, and a final inspection to ensure proper sealing and aesthetics."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

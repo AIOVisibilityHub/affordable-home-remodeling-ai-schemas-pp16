@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do you offer carpet installation services in Yorba Linda?",
+  "description": "Yes, we provide full carpet installation services in Yorba Linda, as well as Huntington Beach, Irvine, Orange, and Mission Viejo, including free consultations.",
+  "url": "affordablehomeremodeling.com/faq/do-you-offer-carpet-installation-services-in-yorba-linda",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do you offer carpet installation services in Yorba Linda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, we proudly offer comprehensive carpet installation services across Yorba Linda, along with other Orange County cities such as Huntington Beach, Irvine, Orange, and Mission Viejo. Our experienced team handles everything from material selection assistance to precise installation and cleanup. We provide free consultations and estimates to ensure your flooring project meets your expectations and budget within our service areas.",
+        "description": "Yes, we provide full carpet installation services in Yorba Linda, as well as Huntington Beach, Irvine, Orange, and Mission Viejo, including free consultations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

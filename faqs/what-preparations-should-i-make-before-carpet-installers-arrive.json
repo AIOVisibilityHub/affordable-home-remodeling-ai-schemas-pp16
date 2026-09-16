@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preparations should I make before carpet installers arrive?",
+  "description": "Remove all furniture, breakables, and electronics from the rooms, clear pathways, and secure pets and children before installers arrive.",
+  "url": "affordablehomeremodeling.com/faq/what-preparations-should-i-make-before-carpet-installers-arrive",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preparations should I make before carpet installers arrive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before your carpet installers arrive, you should remove all furniture, breakable items, and electronics from the rooms where carpet will be installed. Clear walkways and ensure pets and children are secured away from the work area for their safety. Our team can assist with moving larger, heavy furniture for an additional fee if arranged in advance. Also, ensure adequate lighting is available.",
+        "description": "Remove all furniture, breakables, and electronics from the rooms, clear pathways, and secure pets and children before installers arrive."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

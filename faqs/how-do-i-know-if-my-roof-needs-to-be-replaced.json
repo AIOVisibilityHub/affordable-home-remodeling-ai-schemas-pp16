@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I know if my roof needs to be replaced?",
+  "description": "Look for missing or damaged shingles, granules in gutters, or interior water stains. Older roofs (20+ years) also warrant inspection.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-my-roof-needs-to-be-replaced",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I know if my roof needs to be replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several signs indicate your roof may need replacement. Look for missing, cracked, or curled shingles. Granules in gutters are also a red flag, as they suggest the protective layer of asphalt shingles is wearing away. Interior water stains on ceilings or walls are definitive indicators of a leak. If your roof is over 20-25 years old, even without obvious damage, it's worth having a professional inspection to assess its remaining lifespan and structural integrity.",
+        "description": "Look for missing or damaged shingles, granules in gutters, or interior water stains. Older roofs (20+ years) also warrant inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

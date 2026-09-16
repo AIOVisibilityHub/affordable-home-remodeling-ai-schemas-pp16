@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of installing an energy-efficient entry door?",
+  "description": "Energy-efficient entry doors reduce utility bills, improve indoor comfort by minimizing drafts, and can increase home value through better insulation.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-installing-an-energy-efficient-entry-door",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of installing an energy-efficient entry door?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Installing an energy-efficient entry door offers several benefits, including reduced utility bills due to better insulation, keeping your home warmer in winter and cooler in summer. These doors often feature advanced weatherstripping, thermal breaks, and insulated cores to minimize heat transfer. This also contributes to a more comfortable indoor environment by eliminating drafts and maintaining consistent temperatures, while potentially increasing your home's value.",
+        "description": "Energy-efficient entry doors reduce utility bills, improve indoor comfort by minimizing drafts, and can increase home value through better insulation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the signs of water damage in stucco?",
+  "description": "Water damage in stucco is indicated by discoloration, bubbling, soft or crumbling areas, mold, mildew, or visible water stains; also warped walls or musty odors",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-of-water-damage-in-stucco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the signs of water damage in stucco?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signs of water damage in stucco include discoloration, bubbling, soft or crumbling areas when touched, and visible mold or mildew growth. Water stains below windows or near the foundation are also indicators. If water penetrates the stucco system, it can lead to rot in the underlying sheathing and framing, which may manifest as warped walls or a musty odor indoors. Addressing these signs promptly is crucial to prevent further structural deterioration.",
+        "description": "Water damage in stucco is indicated by discoloration, bubbling, soft or crumbling areas, mold, mildew, or visible water stains; also warped walls or musty odors indoors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

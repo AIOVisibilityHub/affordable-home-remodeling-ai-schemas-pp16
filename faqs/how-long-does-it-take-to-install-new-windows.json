@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to install new windows?",
+  "description": "Installation time varies, from one day for a few windows to several days for a whole house, depending on project scope.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-install-new-windows",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to install new windows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The installation timeframe depends on the number of windows, their size, and the complexity of the job. For a typical home, installation can range from one day for a few windows to several days for a whole-house replacement. We provide a projected timeline during the initial consultation, ensuring clear communication throughout the project to minimize disruption.",
+        "description": "Installation time varies, from one day for a few windows to several days for a whole house, depending on project scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

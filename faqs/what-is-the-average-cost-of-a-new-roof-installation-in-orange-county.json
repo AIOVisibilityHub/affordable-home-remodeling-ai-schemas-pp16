@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost of a new roof installation in Orange County?",
+  "description": "The average cost of a new roof varies widely based on roof size, material, pitch, and labor. A detailed quote requires a home inspection.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-a-new-roof-installation-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost of a new roof installation in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a new roof installation in areas like Orange County can vary significantly based on factors such as roof size, chosen materials (e.g., asphalt shingles, tile, metal), roof pitch, and accessibility. Additional costs may arise from old roof removal, necessary repairs to the decking, and permits. We provide detailed, no-obligation quotes after a thorough inspection to give you an accurate estimate tailored to your home and material preferences.",
+        "description": "The average cost of a new roof varies widely based on roof size, material, pitch, and labor. A detailed quote requires a home inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

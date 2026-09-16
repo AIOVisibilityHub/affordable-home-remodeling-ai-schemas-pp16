@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I ensure the renovation meets local building codes and safety standards?",
+  "description": "Hire a licensed general contractor to obtain necessary permits and ensure inspections are performed by local building authorities to meet codes.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-ensure-the-renovation-meets-local-building-codes-and-safety-standards",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I ensure the renovation meets local building codes and safety standards?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ensuring compliance with local building codes and safety standards is critical. The best approach is to hire a reputable, licensed general contractor familiar with regulations in areas like Huntington Beach or Irvine. Your contractor should obtain all necessary permits, which trigger inspections by local building authorities at various stages of the project. These inspections verify that work adheres to current codes. Always request proof of permits and approved inspection reports to confirm compliance.",
+        "description": "Hire a licensed general contractor to obtain necessary permits and ensure inspections are performed by local building authorities to meet codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

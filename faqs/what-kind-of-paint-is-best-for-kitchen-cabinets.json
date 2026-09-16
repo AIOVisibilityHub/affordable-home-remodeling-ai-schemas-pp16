@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of paint is best for kitchen cabinets?",
+  "description": "Acrylic alkyd hybrid paints, lacquers, or specialty cabinet enamels are best for kitchen cabinets due to their durability and resistance to wear.",
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-paint-is-best-for-kitchen-cabinets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of paint is best for kitchen cabinets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For kitchen cabinets, durable and hard-wearing paints are essential due to the high-traffic nature of kitchens. Acrylic alkyd hybrid paints, often water-based, are highly recommended. They offer the easy cleanup of latex with the hardness and durability of oil-based paints, resisting chips and scratches effectively. Additionally, lacquers or specialty cabinet and trim enamels are excellent choices for a smooth, factory-like finish. Always choose a product designed to withstand frequent cleaning and daily use.",
+        "description": "Acrylic alkyd hybrid paints, lacquers, or specialty cabinet enamels are best for kitchen cabinets due to their durability and resistance to wear."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

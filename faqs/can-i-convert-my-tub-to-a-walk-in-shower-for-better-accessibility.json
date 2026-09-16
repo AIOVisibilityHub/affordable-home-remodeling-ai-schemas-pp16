@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I convert my tub to a walk-in shower for better accessibility?",
+  "description": "Yes, converting to a walk-in shower improves accessibility by removing the high tub barrier, making entry and exit safer for those with mobility challenges.",
+  "url": "affordablehomeremodeling.com/faq/can-i-convert-my-tub-to-a-walk-in-shower-for-better-accessibility",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I convert my tub to a walk-in shower for better accessibility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, converting your tub to a walk-in shower is an excellent way to significantly improve bathroom accessibility. A walk-in shower eliminates the high barrier of a bathtub, making it much safer and easier for individuals with mobility challenges, seniors, or those using wheelchairs to enter and exit. Designs can include low-threshold or curbless entries, grab bars, shower benches, and handheld showerheads, all contributing to a more functional and inclusive bathing experience. This upgrade can be a vital step in making your home more comfortable and safe for long-term living.",
+        "description": "Yes, converting to a walk-in shower improves accessibility by removing the high tub barrier, making entry and exit safer for those with mobility challenges."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

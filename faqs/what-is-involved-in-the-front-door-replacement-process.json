@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the front door replacement process?",
+  "description": "The process includes consultation, removal of the old door, prepping the opening, installing the new door unit, sealing, trimming, and hardware installation.",
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-the-front-door-replacement-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the front door replacement process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The front door replacement process typically begins with a consultation to select the right door and hardware. Once ordered, the installation involves carefully removing your old door and frame. The opening is then prepped, ensuring it's level and plumb. The new pre-hung door unit is then installed, sealed, and secured. Finally, interior and exterior trim is applied, and hardware is installed and tested. We ensure the area is clean upon completion.",
+        "description": "The process includes consultation, removal of the old door, prepping the opening, installing the new door unit, sealing, trimming, and hardware installation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

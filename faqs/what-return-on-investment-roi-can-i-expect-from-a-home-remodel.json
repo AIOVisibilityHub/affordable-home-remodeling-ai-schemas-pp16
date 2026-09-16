@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What return on investment (ROI) can I expect from a home remodel?",
+  "description": "ROI varies, but mid-range kitchen and bathroom remodels, plus minor exterior upgrades, generally offer the highest return, often 60-80% at resale.",
+  "url": "affordablehomeremodeling.com/faq/what-return-on-investment-roi-can-i-expect-from-a-home-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What return on investment (ROI) can I expect from a home remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The return on investment (ROI) for a home remodel varies significantly depending on the project type, location, and market conditions. Mid-range kitchen and bathroom remodels, as well as minor exterior upgrades like a garage door replacement, often yield the highest ROI, typically recouping 60-80% of their cost at resale. Luxury or highly personalized renovations may see a lower percentage return. Consult with a local real estate professional to understand specific market trends in areas like Huntington Beach or Irvine.",
+        "description": "ROI varies, but mid-range kitchen and bathroom remodels, plus minor exterior upgrades, generally offer the highest return, often 60-80% at resale."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

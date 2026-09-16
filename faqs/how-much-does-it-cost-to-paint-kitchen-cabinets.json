@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to paint kitchen cabinets?",
+  "description": "The cost of painting kitchen cabinets generally ranges from $3,000 to $9,000, depending on kitchen size, cabinet count, and finish type.",
+  "url": "affordablehomeremodeling.com/faq/how-much-does-it-cost-to-paint-kitchen-cabinets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to paint kitchen cabinets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of painting kitchen cabinets varies widely based on factors such as the size of your kitchen, the number of doors and drawer fronts, the condition of the existing finish, and the type of paint and finish desired. Generally, professional cabinet painting can range from $3,000 to $9,000. This estimate typically includes labor, materials, and extensive preparation to ensure a durable and aesthetically pleasing outcome. A detailed estimate is usually provided after an on-site consultation.",
+        "description": "The cost of painting kitchen cabinets generally ranges from $3,000 to $9,000, depending on kitchen size, cabinet count, and finish type."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

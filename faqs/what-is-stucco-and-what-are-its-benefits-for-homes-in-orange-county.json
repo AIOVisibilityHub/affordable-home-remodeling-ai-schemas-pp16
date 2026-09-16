@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is stucco and what are its benefits for homes in Orange County?",
+  "description": "Stucco is a durable, weather-resistant siding material offering fire resistance, insulation, and low maintenance, suitable for homes in Orange County.",
+  "url": "affordablehomeremodeling.com/faq/what-is-stucco-and-what-are-its-benefits-for-homes-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is stucco and what are its benefits for homes in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco is a durable siding material made from cement, sand, water, and lime, often applied in multiple coats over a wire lath base. For homes in Orange County, stucco offers excellent weather resistance, making it suitable for varying temperatures and coastal conditions. Its inherent fire resistance can also be a safety advantage. Additionally, stucco provides good insulation properties, which can contribute to energy efficiency. It is also a low-maintenance option that can last for decades when properly installed, offering a long-term aesthetic and protective solution for your home's exterior.",
+        "description": "Stucco is a durable, weather-resistant siding material offering fire resistance, insulation, and low maintenance, suitable for homes in Orange County."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

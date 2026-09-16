@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the approximate cost per square foot for stucco installation or repair?",
+  "description": "Stucco installation costs typically range from $7 to $15 per square foot, varying by system type, existing substrate, and project complexity. Repairs are quoted",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-approximate-cost-per-square-foot-for-stucco-installation-or-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the approximate cost per square foot for stucco installation or repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of stucco installation or repair per square foot varies widely depending on several factors. These include the type of stucco system (e.g., traditional three-coat, synthetic), the condition of the existing substrate, accessibility of the work area, geographic location, and any necessary prep work like old siding removal or structural repairs. New installation can range from $7 to $15 per square foot, while repairs might be quoted based on the extent of damage and labor involved. We offer detailed, itemized quotes after an on-site evaluation to provide an accurate estimate for your specific project.",
+        "description": "Stucco installation costs typically range from $7 to $15 per square foot, varying by system type, existing substrate, and project complexity. Repairs are quoted based on damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

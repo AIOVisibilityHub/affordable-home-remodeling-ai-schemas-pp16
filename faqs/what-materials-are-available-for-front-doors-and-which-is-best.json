@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are available for front doors and which is best?",
+  "description": "Options include steel (durable, secure, budget-friendly), fiberglass (durable, energy-efficient, low maintenance), and wood (classic look, high maintenance). Th",
+  "url": "affordablehomeremodeling.com/faq/what-materials-are-available-for-front-doors-and-which-is-best",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are available for front doors and which is best?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common front door materials include steel, fiberglass, and wood. Steel doors are durable, secure, and energy-efficient, often the most budget-friendly. Fiberglass doors offer excellent durability, energy efficiency, and can mimic the look of wood without the maintenance. Wood doors provide a classic, high-end aesthetic but require more maintenance and are generally less energy-efficient than steel or fiberglass. The 'best' material depends on your priorities for budget, aesthetics, security, and maintenance.",
+        "description": "Options include steel (durable, secure, budget-friendly), fiberglass (durable, energy-efficient, low maintenance), and wood (classic look, high maintenance). The best choice depends on your needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

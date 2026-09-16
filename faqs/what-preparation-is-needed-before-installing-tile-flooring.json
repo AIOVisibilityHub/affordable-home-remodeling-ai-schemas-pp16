@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preparation is needed before installing tile flooring?",
+  "description": "The subfloor must be clean, dry, level, and structurally sound. This may involve removing old flooring, making repairs, and adding underlayment.",
+  "url": "affordablehomeremodeling.com/faq/what-preparation-is-needed-before-installing-tile-flooring",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preparation is needed before installing tile flooring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper subfloor preparation is crucial for a successful tile installation. This typically involves ensuring the subfloor is clean, dry, level, and structurally sound. Any existing flooring may need to be removed, and repairs to the subfloor might be necessary. We also check for moisture issues and ensure the subfloor material is appropriate for tile, sometimes requiring an underlayment or backer board for stability and crack prevention.",
+        "description": "The subfloor must be clean, dry, level, and structurally sound. This may involve removing old flooring, making repairs, and adding underlayment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

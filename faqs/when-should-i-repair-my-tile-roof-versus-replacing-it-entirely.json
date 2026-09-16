@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I repair my tile roof versus replacing it entirely?",
+  "description": "Repair if damage is localized; replace if there's widespread damage, multiple leaks, or the roof is at the end of its lifespan. A professional can help assess t",
+  "url": "affordablehomeremodeling.com/faq/when-should-i-repair-my-tile-roof-versus-replacing-it-entirely",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I repair my tile roof versus replacing it entirely?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Deciding between repair and replacement depends on the extent of the damage and the roof's overall condition. If only a few tiles are damaged, or a small area is leaking, repair is usually sufficient and more cost-effective. However, if there's widespread damage, multiple leaks, or the roof is nearing the end of its lifespan (typically 50-100 years for tile), a full replacement might be the better long-term investment. A professional inspection can help determine if the existing issues are isolated or indicative of systemic wear.",
+        "description": "Repair if damage is localized; replace if there's widespread damage, multiple leaks, or the roof is at the end of its lifespan. A professional can help assess the best option."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
