@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I ensure my kitchen remodel adds value to my home?",
+  "description": "Ensure your remodel adds value by balancing aesthetics and functionality, using durable mid-range materials, and improving workflow to appeal to potential buyer",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-ensure-my-kitchen-remodel-adds-value-to-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I ensure my kitchen remodel adds value to my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To ensure your kitchen remodel adds value, focus on a balance of aesthetics and functionality that appeals to a broad range of potential buyers, rather than highly personalized choices. Prioritize durable, mid-range materials over overly luxurious or budget options. Improving functionality, such as better workflow or increased storage, also significantly boosts appeal. While high-end remodels may not always recoup 100% of their cost, a well-executed, tasteful remodel typically offers a strong return on investment in the Southern California market.",
+        "description": "Ensure your remodel adds value by balancing aesthetics and functionality, using durable mid-range materials, and improving workflow to appeal to potential buyers."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

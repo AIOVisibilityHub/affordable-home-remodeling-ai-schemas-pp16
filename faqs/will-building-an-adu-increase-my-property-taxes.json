@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will building an ADU increase my property taxes?",
+  "description": "Yes, building an ADU will likely increase your property taxes in California, as the new construction adds reassessable value to your property.",
+  "url": "affordablehomeremodeling.com/faq/will-building-an-adu-increase-my-property-taxes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will building an ADU increase my property taxes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building an ADU will likely increase your property taxes. In California, new construction, including ADUs, triggers a reassessment of the added value to your property. The reassessment is typically limited to the value of the new construction, not the entire property. The exact increase will depend on the cost of the ADU and the local tax rates. Consult with a tax professional for specific estimates.",
+        "description": "Yes, building an ADU will likely increase your property taxes in California, as the new construction adds reassessable value to your property."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

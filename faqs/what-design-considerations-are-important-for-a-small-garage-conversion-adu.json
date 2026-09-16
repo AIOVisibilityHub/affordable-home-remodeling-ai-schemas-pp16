@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What design considerations are important for a small garage conversion ADU?",
+  "description": "Key design considerations for small garage ADUs include maximizing space and natural light, using multi-functional furniture, and efficient layouts.",
+  "url": "affordablehomeremodeling.com/faq/what-design-considerations-are-important-for-a-small-garage-conversion-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What design considerations are important for a small garage conversion ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a small garage conversion ADU, maximizing space and natural light are key design considerations. Incorporating multi-functional furniture, built-in storage, and open-concept layouts can make a small space feel larger and more usable. Strategic placement of windows and skylights improves brightness. Efficient kitchen and bathroom layouts, often with compact appliances, are also crucial. Our design team focuses on smart, space-saving solutions to create a comfortable and functional living environment within a limited footprint.",
+        "description": "Key design considerations for small garage ADUs include maximizing space and natural light, using multi-functional furniture, and efficient layouts."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

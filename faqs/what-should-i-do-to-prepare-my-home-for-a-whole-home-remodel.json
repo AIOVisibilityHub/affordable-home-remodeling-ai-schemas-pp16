@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I do to prepare my home for a whole-home remodel?",
+  "description": "Prepare for a whole-home remodel by decluttering, moving valuables, and securing utilities in affected areas. Discuss access, living arrangements, and communica",
+  "url": "affordablehomeremodeling.com/faq/what-should-i-do-to-prepare-my-home-for-a-whole-home-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I do to prepare my home for a whole-home remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preparing your home for a whole-home remodel involves several key steps to ensure a smooth process. Begin by decluttering and depersonalizing areas that will be worked on, moving furniture, decor, and valuables to storage or unaffected rooms. It's also wise to disconnect and secure any utilities that might be impacted. Discuss with your contractor specific access points, temporary living arrangements if applicable, and communication protocols. Creating a clear pathway for workers and protecting areas not under construction will help minimize disruptions and keep the project on track.",
+        "description": "Prepare for a whole-home remodel by decluttering, moving valuables, and securing utilities in affected areas. Discuss access, living arrangements, and communication with your contractor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

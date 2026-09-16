@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the warranty period for a newly constructed home?",
+  "description": "New homes usually have a one-year warranty on workmanship and materials, with structural components often covered for 10 years.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-warranty-period-for-a-newly-constructed-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the warranty period for a newly constructed home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Newly constructed homes typically come with various warranties. Most general contractors offer a one-year warranty on workmanship and materials, covering defects like issues with drywall, paint, or fixtures. Structural components, such as the foundation and framing, often have a longer warranty, commonly 10 years, as required by state law in many areas. Manufacturer warranties also apply to specific appliances and systems installed in the home. Always review your contract for specific warranty details.",
+        "description": "New homes usually have a one-year warranty on workmanship and materials, with structural components often covered for 10 years."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

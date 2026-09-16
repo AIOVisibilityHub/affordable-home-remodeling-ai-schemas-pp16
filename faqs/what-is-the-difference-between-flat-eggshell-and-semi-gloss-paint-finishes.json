@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between flat, eggshell, and semi-gloss paint finishes?",
+  "description": "Flat paint has no sheen and hides imperfections, eggshell has a slight sheen for durability in living areas, and semi-gloss has a noticeable shine, offering hig",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-flat-eggshell-and-semi-gloss-paint-finishes",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between flat, eggshell, and semi-gloss paint finishes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "These terms refer to the sheen or reflectivity of the paint. Flat paint has the least sheen, offering a non-reflective, soft look that helps hide imperfections but is less durable and harder to clean. Eggshell has a slight sheen, making it more durable and easier to clean than flat, suitable for living areas. Semi-gloss has a noticeable shine, offering high durability and excellent washability, ideal for kitchens, bathrooms, trim, and doors where frequent cleaning is needed.",
+        "description": "Flat paint has no sheen and hides imperfections, eggshell has a slight sheen for durability in living areas, and semi-gloss has a noticeable shine, offering high durability and washability for high-traffic areas."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

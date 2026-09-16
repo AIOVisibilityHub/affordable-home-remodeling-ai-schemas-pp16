@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I prepare before starting a custom home renovation?",
+  "description": "Prepare by defining your goals, desired aesthetic, and budget, gathering inspiration, and researching contractors to ensure a smooth planning process.",
+  "url": "affordablehomeremodeling.com/faq/what-should-i-prepare-before-starting-a-custom-home-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I prepare before starting a custom home renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before starting a custom home renovation, it's beneficial to have a clear understanding of your goals, desired aesthetic, and budget. Gather inspirational images, create a list of 'must-haves' versus 'nice-to-haves,' and consider your long-term needs for the space. Research potential contractors and interview a few to find the right fit. Having a general idea of your vision and a realistic budget will streamline the design and planning phases, leading to a smoother project execution.",
+        "description": "Prepare by defining your goals, desired aesthetic, and budget, gathering inspiration, and researching contractors to ensure a smooth planning process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

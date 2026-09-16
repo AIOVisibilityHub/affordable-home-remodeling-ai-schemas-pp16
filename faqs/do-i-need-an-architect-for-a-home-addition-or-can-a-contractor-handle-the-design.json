@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need an architect for a home addition, or can a contractor handle the design?",
+  "description": "An architect is often beneficial for complex home additions involving structural changes; some contractors offer in-house design-build services.",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-an-architect-for-a-home-addition-or-can-a-contractor-handle-the-design",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need an architect for a home addition, or can a contractor handle the design?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For most home additions, especially those involving structural changes or significant design elements, an architect or a qualified designer is beneficial. They can create detailed plans that maximize space, ensure structural integrity, and comply with local building codes. While some contractors offer design-build services and have in-house designers, an independent architect can provide a distinct vision. It depends on the complexity of your project and your comfort with the contractor's design capabilities.",
+        "description": "An architect is often beneficial for complex home additions involving structural changes; some contractors offer in-house design-build services."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

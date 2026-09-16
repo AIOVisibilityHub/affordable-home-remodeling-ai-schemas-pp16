@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will new windows lower my energy bills?",
+  "description": "New, energy-efficient windows can lower energy bills by improving insulation. Features like double-pane glass and Low-E coatings reduce heat transfer, making yo",
+  "url": "affordablehomeremodeling.com/faq/will-new-windows-lower-my-energy-bills",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will new windows lower my energy bills?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, installing new, energy-efficient windows can significantly reduce your energy bills. Modern windows feature advanced technologies such as double or triple-pane glass, low-emissivity (Low-E) coatings, and argon gas fills between panes. These features help to minimize heat transfer, keeping your home cooler in the summer and warmer in the winter. By improving your home's insulation, your heating and cooling systems won't have to work as hard, leading to noticeable savings on your utility costs.",
+        "description": "New, energy-efficient windows can lower energy bills by improving insulation. Features like double-pane glass and Low-E coatings reduce heat transfer, making your home more comfortable and reducing HVAC workload."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

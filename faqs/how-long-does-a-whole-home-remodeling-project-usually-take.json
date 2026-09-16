@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a whole-home remodeling project usually take?",
+  "description": "Project duration for a whole-home remodel typically ranges from 3 to 12 months, depending on scope, design, material availability, and permitting.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-whole-home-remodeling-project-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a whole-home remodeling project usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a whole-home remodel varies significantly based on the project's complexity and scope. A typical project, involving multiple rooms and some structural modifications, can take anywhere from 3 to 12 months from planning to completion. Factors such as design finalization, material lead times, permitting processes, and the extent of demolition and reconstruction all influence the timeline. We work to establish a realistic schedule during the initial planning phase, providing clear milestones so you know what to expect.",
+        "description": "Project duration for a whole-home remodel typically ranges from 3 to 12 months, depending on scope, design, material availability, and permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/can-spray-foam-insulation-be-installed-in-existing-homes-or-only-new-constructio",
-  "name": "Can spray foam insulation be installed in existing homes, or only new construction?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can spray foam insulation be installed in existing homes, or only new construction?",
+  "description": "Spray foam can be installed in both new and existing homes. For existing homes, it can be sprayed into open cavities or injected into closed ones, depending on",
+  "url": "affordablehomeremodeling.com/faq/can-spray-foam-insulation-be-installed-in-existing-homes-or-only-new-constructio",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can spray foam insulation be installed in existing homes, or only new construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Spray foam insulation can be effectively installed in both new construction and existing homes. For existing homes, installation methods may vary. It can be sprayed into open wall cavities during renovations or injected into closed cavities through small access holes. Attic and crawl space applications are also common. The feasibility and best approach for retrofitting depend on your home's specific structure and existing insulation.",
+        "description": "Spray foam can be installed in both new and existing homes. For existing homes, it can be sprayed into open cavities or injected into closed ones, depending on the structure."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "Can spray foam insulation be installed in existing homes, or only new construction?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Spray foam insulation can be installed in both new construction and existing homes. In new construction, it's applied before drywall is installed, making access straightforward. For existing homes, installation often involves drilling small holes into wall cavities, spraying the foam, and then patching the holes. This method allows for insulating finished walls without extensive demolition. Attic and crawl space applications are generally easier to access in existing structures. A professional assessment can determine the best approach for your specific home.",
-        "@type": "Answer",
-        "description": "Yes, spray foam can be installed in both new and existing homes. In existing homes, it's often done by drilling into cavities or directly in attics and crawl spaces."
-      }
-    }
-  ],
-  "description": "Yes, spray foam can be installed in both new and existing homes. In existing homes, it's often done by drilling into cavities or directly in attics and crawl sp"
+  }
 }

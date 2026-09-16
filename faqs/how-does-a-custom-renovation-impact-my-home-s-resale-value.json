@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How does a custom renovation impact my home's resale value?",
+  "description": "A quality custom renovation can boost resale value, especially for kitchens, bathrooms, or added living spaces, but overly personalized designs may limit appeal",
+  "url": "affordablehomeremodeling.com/faq/how-does-a-custom-renovation-impact-my-home-s-resale-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does a custom renovation impact my home's resale value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A well-executed custom renovation can significantly increase your home's resale value, especially if it addresses common buyer preferences and improves functionality or aesthetic appeal. Kitchen and bathroom renovations, along with adding functional living space, often provide the highest return on investment. However, highly personalized or overly extravagant renovations might not appeal to a broad market, so balancing personal taste with general appeal is key to maximizing resale potential. Quality craftsmanship is also critical.",
+        "description": "A quality custom renovation can boost resale value, especially for kitchens, bathrooms, or added living spaces, but overly personalized designs may limit appeal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

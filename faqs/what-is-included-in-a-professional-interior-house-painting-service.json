@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is included in a professional interior house painting service?",
+  "description": "Professional interior painting includes surface preparation, protection of belongings, painting with quality materials, and a thorough clean-up after completion",
+  "url": "affordablehomeremodeling.com/faq/what-is-included-in-a-professional-interior-house-painting-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is included in a professional interior house painting service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A professional interior painting service typically includes surface preparation, such as cleaning, patching small holes and cracks, and sanding. It also involves protecting furniture and flooring with drop cloths and tape. High-quality paints and primers are used, followed by precise application of the chosen color. After painting, the team cleans up all materials and returns furniture to its original place, leaving your home tidy and refreshed. Some services may offer color consultation as an additional benefit.",
+        "description": "Professional interior painting includes surface preparation, protection of belongings, painting with quality materials, and a thorough clean-up after completion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

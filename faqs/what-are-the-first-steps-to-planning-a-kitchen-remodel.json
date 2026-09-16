@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the first steps to planning a kitchen remodel?",
+  "description": "Begin by defining your goals, budget, and desired aesthetics, then research design ideas and contact a general contractor for a professional assessment.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-first-steps-to-planning-a-kitchen-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the first steps to planning a kitchen remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The initial steps for a kitchen remodel involve defining your goals and budget. Start by considering what you dislike about your current kitchen and what you hope to achieve, such as improved functionality, aesthetics, or increased storage. Research design ideas and materials that appeal to you. Next, establish a realistic budget, including a contingency for unforeseen expenses. Finally, contact a general contractor to discuss your vision and obtain a professional assessment and quote.",
+        "description": "Begin by defining your goals, budget, and desired aesthetics, then research design ideas and contact a general contractor for a professional assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of window frames are available for residential replacement?",
+  "description": "Residential window frame options include vinyl, wood, fiberglass, and aluminum. Each offers different benefits in terms of cost, aesthetics, and performance.",
+  "url": "affordablehomeremodeling.com/faq/what-types-of-window-frames-are-available-for-residential-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of window frames are available for residential replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For residential window replacement, common frame materials include vinyl, wood, fiberglass, and aluminum. Vinyl windows are popular for their affordability, energy efficiency, and low maintenance. Wood frames offer a classic aesthetic and good insulation but require more upkeep. Fiberglass frames provide excellent durability and stability, resisting warping and rot. Aluminum frames are strong and thin, allowing for larger glass areas, but can be less energy-efficient in some climates. Each material has distinct benefits regarding cost, appearance, and performance.",
+        "description": "Residential window frame options include vinyl, wood, fiberglass, and aluminum. Each offers different benefits in terms of cost, aesthetics, and performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

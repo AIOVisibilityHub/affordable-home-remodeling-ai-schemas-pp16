@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for my new home build?",
+  "description": "Choose a licensed, insured contractor with new home construction experience, good references, clear communication, and a detailed proposal.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-my-new-home-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for my new home build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right contractor is crucial. Look for a licensed and insured general contractor with experience in new home construction. Verify their references and review their portfolio of past projects. Consider their communication style, transparency regarding costs and timelines, and their understanding of your vision. A reputable contractor will provide a detailed proposal, clear contract, and be responsive to your questions throughout the process. Don't hesitate to interview several contractors to find the best fit.",
+        "description": "Choose a licensed, insured contractor with new home construction experience, good references, clear communication, and a detailed proposal."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

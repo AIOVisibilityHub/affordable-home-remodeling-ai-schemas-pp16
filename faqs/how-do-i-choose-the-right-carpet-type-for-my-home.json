@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-carpet-type-for-my-home",
-  "name": "How do I choose the right carpet type for my home?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right carpet type for my home?",
+  "description": "Consider the room's traffic, desired durability, style, and budget. Nylon suits high-traffic areas, wool offers luxury, polyester is budget-friendly, and olefin",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-carpet-type-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right carpet type for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right carpet involves considering several factors: the room's traffic level, desired durability, style preference, and budget. Nylon is highly durable for high-traffic areas, while wool offers luxurious softness and natural stain resistance. Polyester is a good budget-friendly option with vibrant colors, and olefin is suitable for basements due to its moisture resistance. Our experts can help you select the best option based on your lifestyle and needs.",
+        "description": "Consider the room's traffic, desired durability, style, and budget. Nylon suits high-traffic areas, wool offers luxury, polyester is budget-friendly, and olefin resists moisture."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How do I choose the right carpet type for my home?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Choosing the right carpet involves considering several factors: the room's function, expected foot traffic, your budget, and desired aesthetic. High-traffic areas may benefit from durable, low-pile options like nylon. For bedrooms, softness might be a priority, favoring materials like polyester or wool. Consider color and pattern to complement your decor. Our experts can guide you through the options.",
-        "@type": "Answer",
-        "description": "Select carpet based on room function, foot traffic, budget, and desired look. Our experts can help you choose the best type for your home."
-      }
-    }
-  ],
-  "description": "Select carpet based on room function, foot traffic, budget, and desired look. Our experts can help you choose the best type for your home."
+  }
 }

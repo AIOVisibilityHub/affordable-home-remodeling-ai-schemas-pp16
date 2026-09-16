@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a home addition and a home remodel?",
+  "description": "A home addition expands your home's footprint with new square footage, while a remodel alters existing spaces without increasing size.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-home-addition-and-a-home-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a home addition and a home remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A home addition involves expanding the existing footprint of your home by adding new square footage, such as a new room, a second story, or expanding an existing space outwards. A home remodel, on the other hand, typically involves altering the interior or exterior of your existing home without increasing its overall size. This could include updating kitchens, bathrooms, reconfiguring interior layouts, or changing exterior finishes.",
+        "description": "A home addition expands your home's footprint with new square footage, while a remodel alters existing spaces without increasing size."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

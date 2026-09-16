@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for a kitchen remodel in Orange County?",
+  "description": "Permits are usually required for major plumbing, electrical, or structural changes in Orange County kitchen remodels; we handle the application process.",
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-needed-for-a-kitchen-remodel-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for a kitchen remodel in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Permit requirements for kitchen remodels in Orange County depend on the scope of work. Significant changes to plumbing, electrical systems, or structural elements typically require permits to ensure compliance with local building codes. Cosmetic updates like painting or replacing cabinets often do not. We will assess your project's specific needs and handle all necessary permit applications with the local authorities in cities like Irvine or Huntington Beach to ensure your remodel is compliant and safe.",
+        "description": "Permits are usually required for major plumbing, electrical, or structural changes in Orange County kitchen remodels; we handle the application process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

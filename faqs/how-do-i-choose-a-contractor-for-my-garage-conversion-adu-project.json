@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a contractor for my garage conversion ADU project?",
+  "description": "Choose a contractor with ADU experience, local code knowledge, proper licensing, good references, and transparent communication.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-contractor-for-my-garage-conversion-adu-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a contractor for my garage conversion ADU project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a contractor for your garage conversion ADU, look for one with specific experience in ADU construction and a strong understanding of local zoning and building codes in your area (e.g., Orange, Yorba Linda). Check for proper licensing, insurance, and a portfolio of completed projects. Ask for references and read client testimonials to assess their reliability, communication, and quality of work. A transparent bidding process and a clear contract are also important indicators of a professional contractor. We pride ourselves on our specialized ADU expertise and customer satisfaction.",
+        "description": "Choose a contractor with ADU experience, local code knowledge, proper licensing, good references, and transparent communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

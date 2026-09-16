@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for new home construction in Orange County?",
+  "description": "New home construction in Orange County requires various permits, including building, grading, electrical, plumbing, and mechanical permits, varying by city.",
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-new-home-construction-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for new home construction in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New home construction in Orange County requires several permits, primarily from the local city planning and building departments, as well as potentially from county or regional agencies. These typically include building permits, grading permits, electrical, plumbing, and mechanical permits, and sometimes specific permits for environmental compliance or historical review. The exact requirements vary by city (e.g., Huntington Beach vs. Irvine) and the scope of the project. Our team handles the permit application process on your behalf.",
+        "description": "New home construction in Orange County requires various permits, including building, grading, electrical, plumbing, and mechanical permits, varying by city."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

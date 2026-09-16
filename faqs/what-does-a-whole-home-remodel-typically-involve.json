@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What does a whole-home remodel typically involve?",
+  "description": "A whole-home remodel involves updating multiple areas like kitchens, bathrooms, and living spaces, often including structural changes, system upgrades, and new",
+  "url": "affordablehomeremodeling.com/faq/what-does-a-whole-home-remodel-typically-involve",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does a whole-home remodel typically involve?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A whole-home remodel transforms multiple areas of your house, often including the kitchen, bathrooms, living spaces, and bedrooms. It can encompass structural changes, reconfiguring layouts, updating plumbing and electrical systems, installing new flooring, cabinetry, fixtures, and fresh paint throughout. The scope is tailored to your home's existing structure and your desired outcome, from cosmetic updates to a complete overhaul, enhancing both aesthetics and functionality. This comprehensive approach ensures a cohesive design and improved living experience.",
+        "description": "A whole-home remodel involves updating multiple areas like kitchens, bathrooms, and living spaces, often including structural changes, system upgrades, and new finishes for a cohesive transformation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

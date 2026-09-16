@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-carpet-padding-and-underlayment",
-  "name": "What is the difference between carpet padding and underlayment?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between carpet padding and underlayment?",
+  "description": "Carpet padding is the specific underlayment used for carpet, providing cushioning, insulation, and extending carpet life by absorbing impact.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-carpet-padding-and-underlayment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between carpet padding and underlayment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Carpet padding, also known as underlay, is a layer installed beneath the carpet that provides cushioning, insulation, and extends the carpet's lifespan by absorbing impact. It comes in various densities and materials, such as foam, rubber, or felt. Underlayment, in a broader sense, refers to any material laid between the subfloor and the finished flooring. For carpet, padding specifically serves as the underlayment, enhancing comfort and durability.",
+        "description": "Carpet padding is the specific underlayment used for carpet, providing cushioning, insulation, and extending carpet life by absorbing impact."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What is the difference between carpet padding and underlayment?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Carpet padding, also known as cushion, is a layer installed directly beneath the carpet. Its primary purpose is to provide comfort, absorb sound, and extend the life of the carpet by reducing wear. Underlayment, on the other hand, refers to a foundational layer installed over the subfloor, before the padding, to create a smooth, stable, and level surface, or to add moisture protection or insulation. Sometimes the terms are used interchangeably, but they serve distinct functions.",
-        "@type": "Answer",
-        "description": "Carpet padding provides comfort and extends carpet life, while underlayment is a foundational layer for a smooth, stable subfloor or for moisture protection."
-      }
-    }
-  ],
-  "description": "Carpet padding provides comfort and extends carpet life, while underlayment is a foundational layer for a smooth, stable subfloor or for moisture protection."
+  }
 }

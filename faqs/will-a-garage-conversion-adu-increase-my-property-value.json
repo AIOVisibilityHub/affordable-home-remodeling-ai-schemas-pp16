@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will a garage conversion ADU increase my property value?",
+  "description": "Yes, a well-designed garage conversion ADU can significantly increase property value by adding usable space and potential rental income.",
+  "url": "affordablehomeremodeling.com/faq/will-a-garage-conversion-adu-increase-my-property-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will a garage conversion ADU increase my property value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, a well-designed and legally permitted garage conversion ADU can significantly increase your property value. ADUs add usable square footage and functionality, offering potential rental income or flexible living space, which are highly attractive to prospective buyers. The exact increase depends on factors like the quality of the conversion, the size and amenities of the ADU, and local market conditions. In areas with high housing demand like Orange County, ADUs are often seen as a valuable asset.",
+        "description": "Yes, a well-designed garage conversion ADU can significantly increase property value by adding usable space and potential rental income."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

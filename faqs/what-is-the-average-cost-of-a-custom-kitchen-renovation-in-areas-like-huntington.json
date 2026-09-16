@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost of a custom kitchen renovation in areas like Huntington Beach or Irvine?",
+  "description": "The average cost for a custom kitchen renovation in areas like Huntington Beach or Irvine ranges from $45,000 to over $100,000, depending on materials and scope",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-a-custom-kitchen-renovation-in-areas-like-huntington",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost of a custom kitchen renovation in areas like Huntington Beach or Irvine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a custom kitchen renovation in areas like Huntington Beach or Irvine can vary widely depending on the size of your kitchen, the quality of materials selected, and the complexity of the design. A typical custom renovation might range from $45,000 to over $100,000. Factors such as custom cabinetry, high-end appliances, luxury countertops, and structural changes can influence the final price. We provide a detailed, transparent estimate after an initial consultation and design discussion.",
+        "description": "The average cost for a custom kitchen renovation in areas like Huntington Beach or Irvine ranges from $45,000 to over $100,000, depending on materials and scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

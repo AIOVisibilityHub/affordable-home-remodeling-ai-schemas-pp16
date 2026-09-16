@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between an ADU and a JADU?",
+  "description": "An ADU is a full independent living unit, while a JADU is a smaller unit (under 500 sq ft) located within an existing home, potentially sharing facilities.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-an-adu-and-a-jadu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between an ADU and a JADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An ADU (Accessory Dwelling Unit) is an independent living unit that can be attached, detached, or a converted space. A JADU (Junior Accessory Dwelling Unit) is a smaller, more restricted unit, always located within the existing walls of a single-family home, including an attached garage. JADUs are generally limited to 500 square feet and may share a bathroom or have efficiency kitchens, unlike full ADUs.",
+        "description": "An ADU is a full independent living unit, while a JADU is a smaller unit (under 500 sq ft) located within an existing home, potentially sharing facilities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

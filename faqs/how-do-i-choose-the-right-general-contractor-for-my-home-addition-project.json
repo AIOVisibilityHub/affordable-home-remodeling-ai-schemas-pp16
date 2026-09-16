@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right general contractor for my home addition project?",
+  "description": "Choose a contractor based on experience, references, licensing, insurance, detailed bids, communication, and a clear contract.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-general-contractor-for-my-home-addition-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right general contractor for my home addition project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right general contractor involves several steps. Look for contractors with extensive experience in home additions, positive client references, and proper licensing and insurance. Request detailed bids from multiple contractors to compare costs, timelines, and proposed methods. Evaluate their communication style, professionalism, and ability to understand your vision. Ensure a clear contract outlining all project details, payment schedules, and warranties before making a decision.",
+        "description": "Choose a contractor based on experience, references, licensing, insurance, detailed bids, communication, and a clear contract."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

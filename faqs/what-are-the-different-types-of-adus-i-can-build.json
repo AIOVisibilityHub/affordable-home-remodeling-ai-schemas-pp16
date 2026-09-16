@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the different types of ADUs I can build?",
+  "description": "You can build detached ADUs, attached ADUs, garage conversions, or Junior ADUs (JADUs), each with unique characteristics and suitability.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-different-types-of-adus-i-can-build",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the different types of ADUs I can build?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There are several common types of ADUs. Detached ADUs are freestanding structures separate from the main house. Attached ADUs are connected to the main house but have their own entrance. Garage conversions transform an existing garage into a living space. Junior ADUs (JADUs) are smaller units created within an existing single-family home. The best type depends on your property, budget, and needs.",
+        "description": "You can build detached ADUs, attached ADUs, garage conversions, or Junior ADUs (JADUs), each with unique characteristics and suitability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

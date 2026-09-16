@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to paint the interior of a house?",
+  "description": "The time required to paint a house interior depends on its size, number of rooms, and wall condition, typically ranging from 1-2 days for a single room to 3-7 d",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-paint-the-interior-of-a-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to paint the interior of a house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an interior painting project varies depending on the size of your home, the number of rooms, the condition of the walls, and the complexity of the job. A single room might take 1-2 days, while an entire average-sized house could take anywhere from 3 to 7 days. Factors like extensive repairs, multiple color changes, or high ceilings can extend the timeline. Your contractor will provide a more accurate estimate after assessing your specific project.",
+        "description": "The time required to paint a house interior depends on its size, number of rooms, and wall condition, typically ranging from 1-2 days for a single room to 3-7 days for an entire home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

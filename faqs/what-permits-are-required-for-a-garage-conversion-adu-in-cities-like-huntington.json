@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for a garage conversion ADU in cities like Huntington Beach or Irvine?",
+  "description": "Garage conversion ADUs in cities like Huntington Beach or Irvine require building, planning, electrical, plumbing, and mechanical permits.",
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-a-garage-conversion-adu-in-cities-like-huntington",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for a garage conversion ADU in cities like Huntington Beach or Irvine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a garage conversion ADU in Huntington Beach, Irvine, or other Orange County cities, you'll generally need building permits, planning permits, and potentially other specialized permits for electrical, plumbing, and mechanical work. These permits ensure your ADU meets local zoning ordinances, building codes, and safety standards. The exact requirements can vary slightly by city. Our team assists with navigating the permit application process, preparing necessary documentation, and coordinating with local authorities to ensure compliance.",
+        "description": "Garage conversion ADUs in cities like Huntington Beach or Irvine require building, planning, electrical, plumbing, and mechanical permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

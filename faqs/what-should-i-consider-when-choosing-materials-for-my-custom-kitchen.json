@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I consider when choosing materials for my custom kitchen?",
+  "description": "When choosing kitchen materials, consider durability, maintenance, aesthetics, and how they suit your lifestyle and budget for optimal form and function.",
+  "url": "affordablehomeremodeling.com/faq/what-should-i-consider-when-choosing-materials-for-my-custom-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I consider when choosing materials for my custom kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting materials for your custom kitchen, consider their durability, maintenance requirements, aesthetic appeal, and how they align with your lifestyle. For countertops, options range from granite and quartz to marble and butcher block, each with unique properties. Cabinetry materials vary in wood type, finish, and construction. Flooring choices include tile, hardwood, and luxury vinyl. Balance your design vision with practicality and your budget to ensure your selections meet both form and function.",
+        "description": "When choosing kitchen materials, consider durability, maintenance, aesthetics, and how they suit your lifestyle and budget for optimal form and function."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

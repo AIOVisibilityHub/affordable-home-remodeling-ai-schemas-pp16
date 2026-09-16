@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between a minor update and a major bathroom renovation?",
+  "description": "Minor updates are cosmetic changes like painting or fixture replacement. Major renovations involve significant structural, plumbing, or electrical modifications",
+  "url": "affordablehomeremodeling.com/faq/what-s-the-difference-between-a-minor-update-and-a-major-bathroom-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a minor update and a major bathroom renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A minor update generally involves cosmetic changes without altering the bathroom's footprint or utility connections. This might include repainting, replacing a vanity, upgrading light fixtures, or retiling surfaces without moving plumbing. A major renovation, conversely, involves significant structural, plumbing, or electrical modifications. This could mean changing the layout, adding or relocating fixtures, expanding the bathroom's size, or undertaking a full gut and rebuild. Major renovations are more complex, time-consuming, and typically require permits.",
+        "description": "Minor updates are cosmetic changes like painting or fixture replacement. Major renovations involve significant structural, plumbing, or electrical modifications and often change the layout."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

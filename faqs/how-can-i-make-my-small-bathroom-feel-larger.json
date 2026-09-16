@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I make my small bathroom feel larger?",
+  "description": "Use light colors, large tiles, wall-mounted fixtures, frameless glass showers, and ample lighting/mirrors to make a small bathroom feel larger.",
+  "url": "affordablehomeremodeling.com/faq/how-can-i-make-my-small-bathroom-feel-larger",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I make my small bathroom feel larger?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To make a small bathroom feel larger, focus on design choices that create an illusion of space. Lighter color palettes for walls and tiles can brighten the room. Large format tiles with minimal grout lines can make the floor and walls appear continuous. Incorporate a wall-mounted vanity or pedestal sink to free up floor space, and consider a frameless glass shower enclosure instead of a bulky curtain or framed door. Strategic lighting and ample mirrors also contribute to an open and airy feel.",
+        "description": "Use light colors, large tiles, wall-mounted fixtures, frameless glass showers, and ample lighting/mirrors to make a small bathroom feel larger."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a construction loan, and how does it work?",
+  "description": "A construction loan is short-term financing for building a home, disbursed in stages, and often converted to a permanent mortgage upon completion.",
+  "url": "affordablehomeremodeling.com/faq/what-is-a-construction-loan-and-how-does-it-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a construction loan, and how does it work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A construction loan is a short-term financing option used to cover the costs of building a new home. Unlike a traditional mortgage, funds are typically disbursed to the builder in draws or installments as construction milestones are met and inspected. Interest is usually paid only on the amount drawn. Once construction is complete, the construction loan is often converted into a permanent mortgage or paid off with a separate mortgage, providing long-term financing for the completed home.",
+        "description": "A construction loan is short-term financing for building a home, disbursed in stages, and often converted to a permanent mortgage upon completion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

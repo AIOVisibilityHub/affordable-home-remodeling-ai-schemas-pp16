@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the installation process for replacement windows?",
+  "description": "The installation process involves removing old windows, preparing openings, fitting and securing new windows, sealing, caulking, and finishing trim. The area is",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-installation-process-for-replacement-windows",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the installation process for replacement windows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The window replacement installation process typically begins with the careful removal of your old windows and frames, ensuring minimal disruption to your home. Next, the window openings are prepared, cleaned, and insulated. The new windows are then precisely fitted, leveled, and secured into place. We then seal and caulk around the frames to ensure a weather-tight and energy-efficient seal. Finally, interior and exterior trim is completed, and the work area is thoroughly cleaned, leaving your home with beautiful, new windows.",
+        "description": "The installation process involves removing old windows, preparing openings, fitting and securing new windows, sealing, caulking, and finishing trim. The area is then cleaned."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

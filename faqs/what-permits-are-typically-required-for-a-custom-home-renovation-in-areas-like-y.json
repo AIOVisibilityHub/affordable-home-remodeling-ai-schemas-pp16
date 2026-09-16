@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are typically required for a custom home renovation in areas like Yorba Linda?",
+  "description": "Permits are required for structural, plumbing, electrical, or significant layout changes to ensure code compliance in areas like Yorba Linda.",
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-typically-required-for-a-custom-home-renovation-in-areas-like-y",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are typically required for a custom home renovation in areas like Yorba Linda?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For custom home renovations in Yorba Linda, permits are generally required for any structural changes, significant plumbing or electrical work, additions, or major reconfigurations of space. This ensures compliance with local building codes, safety standards, and zoning regulations. Our team handles the permit application process, including preparing necessary plans and submitting them to the city's building department. Obtaining permits protects you and ensures your renovation is completed to code.",
+        "description": "Permits are required for structural, plumbing, electrical, or significant layout changes to ensure code compliance in areas like Yorba Linda."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

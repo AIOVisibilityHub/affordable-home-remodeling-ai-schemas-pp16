@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I live in my home during a custom renovation?",
+  "description": "It depends on the renovation's scope; minor projects might allow you to stay, but extensive work often requires temporary relocation for safety and comfort.",
+  "url": "affordablehomeremodeling.com/faq/can-i-live-in-my-home-during-a-custom-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I live in my home during a custom renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether you can live in your home during a custom renovation depends entirely on the scope and invasiveness of the project. For minor renovations like a single bathroom, it might be feasible, though disruptive. For extensive projects involving major structural changes, whole-house remodels, or significant utility interruptions (plumbing, electricity), it is generally recommended to find alternative accommodation for safety and comfort. Your contractor can advise on the best approach based on your specific project plan.",
+        "description": "It depends on the renovation's scope; minor projects might allow you to stay, but extensive work often requires temporary relocation for safety and comfort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

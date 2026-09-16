@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for building an ADU?",
+  "description": "The ADU building process includes design, permitting, construction (site prep, foundation, framing, utilities, finishes), and final inspection for occupancy app",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-building-an-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for building an ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The ADU construction process typically involves several stages. First, initial consultation and design to create blueprints. Next, permitting with the local city or county planning department. Once permits are secured, construction begins, including site preparation, foundation, framing, utilities, and finishes. Finally, a final inspection is conducted to ensure compliance with all codes, leading to occupancy approval.",
+        "description": "The ADU building process includes design, permitting, construction (site prep, foundation, framing, utilities, finishes), and final inspection for occupancy approval."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

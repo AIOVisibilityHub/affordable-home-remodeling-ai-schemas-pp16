@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to paint the interior of a house?",
+  "description": "Interior painting costs vary based on room size, wall condition, ceiling height, and paint type. A detailed quote will be provided after an on-site assessment.",
+  "url": "affordablehomeremodeling.com/faq/how-much-does-it-cost-to-paint-the-interior-of-a-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to paint the interior of a house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of interior house painting is influenced by several factors, including the size and number of rooms, the height of ceilings, the current condition of the walls, and the type of paint chosen. Additional costs may arise for extensive surface repairs, intricate trim work, or specialized finishes. Estimates typically include labor, materials, and preparation. Most contractors provide a detailed quote after an on-site evaluation to ensure accuracy and transparency for your specific project.",
+        "description": "Interior painting costs vary based on room size, wall condition, ceiling height, and paint type. A detailed quote will be provided after an on-site assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

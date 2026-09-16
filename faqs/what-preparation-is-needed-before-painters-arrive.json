@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What preparation is needed before painters arrive?",
+  "description": "Before painters arrive, clear the perimeter of your home, move furniture, trim foliage, and ensure windows are closed.",
+  "url": "affordablehomeremodeling.com/faq/what-preparation-is-needed-before-painters-arrive",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What preparation is needed before painters arrive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before painters arrive, you should clear the perimeter of your home by moving outdoor furniture, potted plants, and decorations away from the walls. Trim back any bushes or trees that are touching the house. Ensure all windows and doors are closed. If you have a sprinkler system, adjust or disable it. Inform your contractor of any specific concerns or access issues.",
+        "description": "Before painters arrive, clear the perimeter of your home, move furniture, trim foliage, and ensure windows are closed."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

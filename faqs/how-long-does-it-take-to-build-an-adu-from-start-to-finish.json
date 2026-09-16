@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to build an ADU from start to finish?",
+  "description": "ADU construction typically takes 7-14 months total, with 3-6 months for design and permitting, and 4-8 months for physical construction.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-build-an-adu-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to build an ADU from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for ADU construction can vary based on project scope, city permitting processes, and contractor availability. Generally, the design and permitting phase can take 3-6 months. The actual construction phase for a detached or attached ADU typically takes another 4-8 months. Garage conversions might be faster, often completed within 3-5 months after permits are issued. Overall, expect 7-14 months.",
+        "description": "ADU construction typically takes 7-14 months total, with 3-6 months for design and permitting, and 4-8 months for physical construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of interior painting projects do you handle in Huntington Beach?",
+  "description": "In Huntington Beach, we handle various interior painting projects for residential properties, including single rooms, entire homes, accent walls, trim, and ceil",
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-interior-painting-projects-do-you-handle-in-huntington-beach",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of interior painting projects do you handle in Huntington Beach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "As a general contractor serving Huntington Beach, we handle a wide range of interior painting projects for residential properties. This includes painting single rooms, entire homes, accent walls, trim, ceilings, and various surface types. Whether you're looking to refresh a single space or completely transform your home's interior aesthetic, our team is equipped to manage projects of all sizes. We focus on delivering high-quality results tailored to your specific needs and preferences within the Huntington Beach area.",
+        "description": "In Huntington Beach, we handle various interior painting projects for residential properties, including single rooms, entire homes, accent walls, trim, and ceilings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

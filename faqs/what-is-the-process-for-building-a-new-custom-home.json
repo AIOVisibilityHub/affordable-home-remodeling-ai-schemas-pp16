@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for building a new custom home?",
+  "description": "The custom home building process involves consultation, design, permitting, site preparation, construction phases (foundation, framing, finishes), and final ins",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-building-a-new-custom-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for building a new custom home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process for building a new custom home typically begins with initial consultations to define your vision and budget. This is followed by architectural design and plan development, where detailed blueprints are created. Next, permits are secured from local authorities. Construction then proceeds through phases: site preparation, foundation, framing, rough-ins for utilities, insulation, drywall, exterior finishes, interior finishes, and landscaping. The project concludes with final inspections and your move-in.",
+        "description": "The custom home building process involves consultation, design, permitting, site preparation, construction phases (foundation, framing, finishes), and final inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

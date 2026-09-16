@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to be home during exterior painting?",
+  "description": "You typically do not need to be home during exterior painting, but ensure access to the property and secure pets.",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-be-home-during-exterior-painting",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to be home during exterior painting?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Generally, you do not need to be home for the entire duration of the exterior painting project. Painters need access to the exterior of your house, water, and electricity. It's helpful to be available on the first day for a walk-through and at the end for a final inspection. Ensuring pets are secured and outdoor furniture is moved is usually all that's required from your end.",
+        "description": "You typically do not need to be home during exterior painting, but ensure access to the property and secure pets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

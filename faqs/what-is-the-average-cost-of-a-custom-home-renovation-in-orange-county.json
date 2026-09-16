@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost of a custom home renovation in Orange County?",
+  "description": "Costs vary widely in Orange County based on scope and materials, typically ranging from tens of thousands to hundreds of thousands of dollars.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-a-custom-home-renovation-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost of a custom home renovation in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a custom home renovation in areas like Huntington Beach or Irvine can vary widely, often ranging from tens of thousands for minor updates to several hundred thousand dollars for extensive remodels. Factors influencing cost include the size of the renovation, quality of materials, complexity of design, and necessary structural changes. Budgeting for contingency funds (10-15% of the total) is always recommended to cover unforeseen expenses. A detailed estimate is provided after design and material selections are made.",
+        "description": "Costs vary widely in Orange County based on scope and materials, typically ranging from tens of thousands to hundreds of thousands of dollars."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

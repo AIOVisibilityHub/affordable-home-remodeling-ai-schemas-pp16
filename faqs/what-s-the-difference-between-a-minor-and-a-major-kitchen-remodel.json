@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between a minor and a major kitchen remodel?",
+  "description": "Minor remodels update existing elements without changing layout, while major remodels involve significant structural or layout alterations.",
+  "url": "affordablehomeremodeling.com/faq/what-s-the-difference-between-a-minor-and-a-major-kitchen-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a minor and a major kitchen remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A minor kitchen remodel typically involves updating existing elements without changing the layout. This includes replacing cabinet doors, upgrading countertops, painting, new flooring, and appliance upgrades. A major kitchen remodel, conversely, involves significant changes such as altering the floor plan, moving plumbing or electrical lines, installing new custom cabinetry, and potentially removing walls. Major remodels are more extensive in scope, cost, and duration compared to minor updates.",
+        "description": "Minor remodels update existing elements without changing layout, while major remodels involve significant structural or layout alterations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

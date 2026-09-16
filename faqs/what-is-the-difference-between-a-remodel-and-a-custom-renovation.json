@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a remodel and a custom renovation?",
+  "description": "A remodel updates appearance or function, while a custom renovation tailors the space to unique needs with personalized design and structural changes.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-remodel-and-a-custom-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a remodel and a custom renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A remodel typically refers to changing the appearance or function of a space, such as updating a kitchen or bathroom with new fixtures and finishes. A custom renovation, while encompassing remodeling, goes further by tailoring the space specifically to the homeowner's unique needs, preferences, and lifestyle. This often involves more significant structural changes, personalized design elements, and bespoke solutions that reflect a one-of-a-kind vision, creating a truly unique living environment rather than just an updated one.",
+        "description": "A remodel updates appearance or function, while a custom renovation tailors the space to unique needs with personalized design and structural changes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

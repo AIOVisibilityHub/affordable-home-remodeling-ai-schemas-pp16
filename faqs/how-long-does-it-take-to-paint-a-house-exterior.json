@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to paint a house exterior?",
+  "description": "Exterior house painting usually takes 3 to 7 days for a typical home, varying by size, preparation, and weather.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-paint-a-house-exterior",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to paint a house exterior?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an exterior painting project depends on the size of the house, weather conditions, the amount of preparation required, and the size of the painting crew. A typical single-family home might take anywhere from 3 to 7 days. Larger or more complex homes, or those requiring extensive repairs, could take longer. Good communication with your contractor about the timeline is important.",
+        "description": "Exterior house painting usually takes 3 to 7 days for a typical home, varying by size, preparation, and weather."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

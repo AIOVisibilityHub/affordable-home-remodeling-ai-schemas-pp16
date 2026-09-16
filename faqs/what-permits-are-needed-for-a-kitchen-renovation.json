@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for a kitchen renovation?",
+  "description": "Permits are often required for kitchen renovations, especially if modifying plumbing, electrical, or structural elements, and a contractor typically handles thi",
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-needed-for-a-kitchen-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for a kitchen renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most custom kitchen renovations require permits, especially if the project involves altering the layout, moving plumbing lines, changing electrical wiring, or making structural modifications. The specific permits needed will depend on the scope of work and local building codes in your area, such as Huntington Beach, Irvine, or Orange. A reputable general contractor will handle the identification and acquisition of all necessary permits on your behalf to ensure compliance with local regulations.",
+        "description": "Permits are often required for kitchen renovations, especially if modifying plumbing, electrical, or structural elements, and a contractor typically handles this process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

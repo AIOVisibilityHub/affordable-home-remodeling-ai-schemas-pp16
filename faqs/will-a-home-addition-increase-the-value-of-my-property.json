@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will a home addition increase the value of my property?",
+  "description": "Yes, a well-planned home addition can increase property value, especially if it adds functional space and integrates well with the existing home.",
+  "url": "affordablehomeremodeling.com/faq/will-a-home-addition-increase-the-value-of-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will a home addition increase the value of my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A well-planned and executed home addition can significantly increase your property's market value, particularly if it adds functional living space like bedrooms, bathrooms, or a larger kitchen. The return on investment varies by location, the quality of the addition, and its integration with the existing home. Additions that enhance usability, aesthetic appeal, and seamlessly blend with the neighborhood's character generally offer the best value appreciation.",
+        "description": "Yes, a well-planned home addition can increase property value, especially if it adds functional space and integrates well with the existing home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

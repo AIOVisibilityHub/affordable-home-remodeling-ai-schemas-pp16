@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-a-major-home-renovation-project",
-  "name": "What is the typical timeline for a major home renovation project?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for a major home renovation project?",
+  "description": "Major home renovations can take 3-6 months or more, depending on scope and complexity. Smaller projects might be 4-8 weeks.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-a-major-home-renovation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for a major home renovation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a major home renovation varies significantly depending on the project's scope, complexity, and required permits. Smaller renovations, like a bathroom remodel, might take 4-8 weeks, while larger projects such as a whole-house remodel or an addition can extend from 3-6 months or even longer. Factors like material availability, unforeseen structural issues, and local inspection schedules also influence the overall duration. A detailed project schedule will be provided after the initial design and planning phase.",
+        "description": "Major home renovations can take 3-6 months or more, depending on scope and complexity. Smaller projects might be 4-8 weeks."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What is the typical timeline for a major home renovation project?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The timeline for a major home renovation varies significantly based on the project's scope, size, and complexity. A full kitchen remodel might take 6-10 weeks, while a bathroom remodel could be 3-6 weeks. Larger projects, like adding a room or a whole-home renovation, could range from 3-6 months or even longer. Factors like permit approval, material lead times, and unforeseen issues can also impact the schedule.",
-        "@type": "Answer",
-        "description": "Major home renovation timelines vary; a kitchen remodel is 6-10 weeks, a bathroom 3-6 weeks. Larger projects can take 3-6 months or more."
-      }
-    }
-  ],
-  "description": "Major home renovation timelines vary; a kitchen remodel is 6-10 weeks, a bathroom 3-6 weeks. Larger projects can take 3-6 months or more."
+  }
 }

@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-re-texturing-my-stucco",
-  "name": "When should I consider re-texturing my stucco?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider re-texturing my stucco?",
+  "description": "Consider re-texturing stucco if it shows significant wear, fading, or cracking, or if you want to update your home's exterior appearance.",
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-re-texturing-my-stucco",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider re-texturing my stucco?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider re-texturing your stucco if the existing finish is showing signs of significant wear, fading, extensive cracking, or if you simply want to update your home's exterior aesthetic. Re-texturing can revitalize your home's curb appeal, cover minor imperfections, and provide an opportunity to change the look entirely. It's also a common step after stucco repairs to ensure a seamless and uniform finish across the entire surface.",
+        "description": "Consider re-texturing stucco if it shows significant wear, fading, or cracking, or if you want to update your home's exterior appearance."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "When should I consider re-texturing my stucco?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "You should consider re-texturing your stucco if you notice extensive cracking, chipping, or bubbling, which can indicate underlying moisture issues or material fatigue. Significant discoloration or an outdated appearance are also common reasons for a re-texture, as it can refresh your home's curb appeal. If you're undertaking a major renovation or simply want a new look for your exterior, re-texturing provides an opportunity to update your home's aesthetic and potentially improve its protective qualities. A professional assessment can determine the best course of action.",
-        "@type": "Answer",
-        "description": "Re-texture stucco for extensive cracking, chipping, bubbling, significant discoloration, an outdated appearance, or as part of a renovation."
-      }
-    }
-  ],
-  "description": "Re-texture stucco for extensive cracking, chipping, bubbling, significant discoloration, an outdated appearance, or as part of a renovation."
+  }
 }

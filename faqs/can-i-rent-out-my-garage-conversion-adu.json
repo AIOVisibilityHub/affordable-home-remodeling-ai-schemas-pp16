@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I rent out my garage conversion ADU?",
+  "description": "Yes, you can generally rent out your garage conversion ADU for long-term tenancy, as state laws often prohibit owner-occupancy requirements.",
+  "url": "affordablehomeremodeling.com/faq/can-i-rent-out-my-garage-conversion-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I rent out my garage conversion ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, in most cases, you can rent out your garage conversion ADU. California state laws generally support the creation of ADUs to address housing shortages and often prohibit local governments from imposing owner-occupancy requirements. This makes ADUs an excellent option for generating rental income. However, local ordinances may still have specific regulations regarding short-term vs. long-term rentals. We can help you understand the current rental regulations relevant to your city in Orange County.",
+        "description": "Yes, you can generally rent out your garage conversion ADU for long-term tenancy, as state laws often prohibit owner-occupancy requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

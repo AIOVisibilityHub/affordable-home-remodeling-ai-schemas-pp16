@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-long-does-carpet-installation-typically-take",
-  "name": "How long does carpet installation typically take?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does carpet installation typically take?",
+  "description": "Most carpet installations for a single room can be completed within one day, while larger projects may take two to three days depending on preparation needs.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-carpet-installation-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does carpet installation typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of carpet installation depends on the size of the area, the type of carpet, and any necessary subfloor preparation. A standard room (around 200-300 sq ft) can often be completed in a single day. Larger or multiple rooms, or areas requiring extensive old carpet removal or subfloor repairs, may take two to three days. Our team will provide a detailed timeline after assessing your specific project.",
+        "description": "Most carpet installations for a single room can be completed within one day, while larger projects may take two to three days depending on preparation needs."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How long does carpet installation typically take?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The duration of carpet installation depends on the size of the area, the type of carpet, and any necessary subfloor preparation. For an average-sized room, installation can often be completed in a single day. Larger projects or those requiring significant subfloor work may take longer. Our team will provide a more precise timeline after an on-site assessment.",
-        "@type": "Answer",
-        "description": "Carpet installation for an average room typically takes one day, but larger projects may require more time depending on the scope."
-      }
-    }
-  ],
-  "description": "Carpet installation for an average room typically takes one day, but larger projects may require more time depending on the scope."
+  }
 }

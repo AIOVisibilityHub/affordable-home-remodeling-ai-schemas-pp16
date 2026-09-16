@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to complete a home addition project?",
+  "description": "Home addition timelines range from 3-6 months for small projects to over a year for larger ones, depending on complexity and permitting.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-typically-take-to-complete-a-home-addition-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to complete a home addition project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a home addition project depends on its size, complexity, and the necessary permitting process. A smaller addition, like a single room, might take 3-6 months from design to completion. Larger or multi-story additions could extend to 8-12 months or more. Permitting can add several weeks to months, so starting this process early is crucial. We work to establish a realistic timeline upfront and keep you informed throughout each phase.",
+        "description": "Home addition timelines range from 3-6 months for small projects to over a year for larger ones, depending on complexity and permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

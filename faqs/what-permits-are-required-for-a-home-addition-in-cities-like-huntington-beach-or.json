@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for a home addition in cities like Huntington Beach or Irvine?",
+  "description": "Home additions in cities like Huntington Beach or Irvine require building, electrical, plumbing, and mechanical permits, with potential for additional permits b",
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-a-home-addition-in-cities-like-huntington-beach-or",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for a home addition in cities like Huntington Beach or Irvine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In cities like Huntington Beach or Irvine, a comprehensive set of permits is typically required for a home addition. These usually include a building permit, electrical permit, plumbing permit, and mechanical permit. Depending on the scope, you might also need zoning permits, environmental review, or specific coastal development permits in areas near the ocean. Local building departments review plans to ensure compliance with safety and zoning regulations before construction can begin.",
+        "description": "Home additions in cities like Huntington Beach or Irvine require building, electrical, plumbing, and mechanical permits, with potential for additional permits based on scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

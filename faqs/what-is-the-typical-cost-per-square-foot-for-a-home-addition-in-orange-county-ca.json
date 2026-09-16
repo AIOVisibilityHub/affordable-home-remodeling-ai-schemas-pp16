@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost per square foot for a home addition in Orange County, CA?",
+  "description": "Costs per square foot for a home addition in Orange County typically range from $250 to $600, varying by materials and complexity.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-per-square-foot-for-a-home-addition-in-orange-county-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost per square foot for a home addition in Orange County, CA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost per square foot for a home addition in Orange County can vary significantly based on factors like the type of addition (e.g., bathroom, kitchen, bedroom), quality of materials, complexity of the design, and site conditions. On average, homeowners can expect to pay between $250 and $600 per square foot for a standard addition. High-end finishes or specialized features can push costs even higher. It's best to obtain a detailed estimate tailored to your specific project needs.",
+        "description": "Costs per square foot for a home addition in Orange County typically range from $250 to $600, varying by materials and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

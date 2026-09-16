@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's included in an exterior house painting service?",
+  "description": "Exterior painting services generally include surface preparation, priming, two coats of paint, and cleanup.",
+  "url": "affordablehomeremodeling.com/faq/what-s-included-in-an-exterior-house-painting-service",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's included in an exterior house painting service?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A comprehensive exterior painting service typically includes surface preparation, such as power washing, scraping loose paint, sanding, and minor repairs like patching stucco or wood. It also involves priming bare surfaces, applying two coats of high-quality exterior paint, and thorough cleanup. Detailed services may vary by contractor, so it's good to clarify the scope of work upfront.",
+        "description": "Exterior painting services generally include surface preparation, priming, two coats of paint, and cleanup."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

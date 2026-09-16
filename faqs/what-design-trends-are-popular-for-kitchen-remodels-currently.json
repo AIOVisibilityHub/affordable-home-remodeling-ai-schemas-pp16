@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What design trends are popular for kitchen remodels currently?",
+  "description": "Popular kitchen design trends include two-tone cabinetry, natural materials, smart technology, hidden storage, and versatile islands in modern or transitional s",
+  "url": "affordablehomeremodeling.com/faq/what-design-trends-are-popular-for-kitchen-remodels-currently",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What design trends are popular for kitchen remodels currently?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current kitchen design trends emphasize both aesthetics and functionality. Popular choices include two-tone cabinetry, often with darker lower cabinets and lighter uppers, and the incorporation of natural materials like wood and stone. Smart kitchen technology, hidden storage solutions, and large, versatile islands are also highly sought after. Modern farmhouse, transitional, and minimalist styles continue to be popular, focusing on clean lines and efficient use of space.",
+        "description": "Popular kitchen design trends include two-tone cabinetry, natural materials, smart technology, hidden storage, and versatile islands in modern or transitional styles."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
