@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it typically take to complete a Junior ADU project from start to finish?",
+  "description": "A Junior ADU project typically takes 4-8 months from design to completion, including 2-4 months for permitting and 2-4 months for construction.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-typically-take-to-complete-a-junior-adu-project-from-start-to-f",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it typically take to complete a Junior ADU project from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a Junior ADU project can vary, but generally, it takes several months. The design and permitting phase often takes 2-4 months, depending on the complexity of the plans and local city department processing times in areas like Orange or Mission Viejo. Construction itself usually takes an additional 2-4 months. Factors such as material availability, contractor scheduling, and unexpected site conditions can impact the overall duration. Planning for a total of 4-8 months is a reasonable expectation.",
+        "description": "A Junior ADU project typically takes 4-8 months from design to completion, including 2-4 months for permitting and 2-4 months for construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

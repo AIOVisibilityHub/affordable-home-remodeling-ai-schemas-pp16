@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to install new insulation?",
+  "description": "Costs vary widely based on insulation type, area, square footage, and removal needs. Blown-in insulation is typically $0.50-$1.50/sq ft, while spray foam can be",
+  "url": "affordablehomeremodeling.com/faq/how-much-does-it-cost-to-install-new-insulation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to install new insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of insulation installation varies significantly based on the type of insulation chosen, the area being insulated (e.g., attic, walls, crawl space), the total square footage, and the existing insulation removal requirements. For example, blown-in fiberglass or cellulose can range from $0.50 to $1.50 per square foot, while spray foam can be $1.00 to $5.00 per square foot or more due to its higher R-value and installation complexity. A professional assessment is needed for an accurate estimate tailored to your home's specific needs.",
+        "description": "Costs vary widely based on insulation type, area, square footage, and removal needs. Blown-in insulation is typically $0.50-$1.50/sq ft, while spray foam can be $1.00-$5.00+/sq ft."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the potential benefits of building an ADU on my property?",
+  "description": "Benefits of an ADU include extra housing, dedicated workspace, rental income, increased property value, and flexible living solutions.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-potential-benefits-of-building-an-adu-on-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the potential benefits of building an ADU on my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building an ADU can offer several advantages. It can provide additional housing for family members, offer a dedicated workspace, or generate rental income to offset mortgage costs. ADUs can also increase your property value. They offer flexibility for changing family needs and can be a cost-effective alternative to purchasing a larger home or moving.",
+        "description": "Benefits of an ADU include extra housing, dedicated workspace, rental income, increased property value, and flexible living solutions."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a contractor for my Junior ADU project?",
+  "description": "Choose a licensed, insured contractor with JADU experience, good references, and who provides detailed bids and understands local codes.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-contractor-for-my-junior-adu-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a contractor for my Junior ADU project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a contractor for your Junior ADU, look for licensed and insured general contractors with specific experience in ADU or JADU conversions. Request references and review their portfolio to see similar projects. It's crucial to get detailed, written bids from at least three different contractors to compare costs, timelines, and proposed scopes of work. Ensure they are familiar with local building codes and permitting processes in your specific area, such as Huntington Beach or Irvine, to ensure a smooth and compliant build.",
+        "description": "Choose a licensed, insured contractor with JADU experience, good references, and who provides detailed bids and understands local codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

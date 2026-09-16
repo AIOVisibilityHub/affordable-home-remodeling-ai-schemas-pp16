@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the parking requirements for a JADU?",
+  "description": "Many areas do not require additional parking for JADUs, especially if within an existing home or near public transit, but local rules vary.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-parking-requirements-for-a-jadu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the parking requirements for a JADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Parking requirements for Junior ADUs are often more lenient than for standard ADUs or new construction. In many jurisdictions, including those in Orange County, no additional parking space is required for a JADU if it is created within an existing primary residence or if the property is located within a half-mile of public transit. However, regulations can vary, so it is essential to confirm the specific parking rules with your local planning department in cities like Tustin or Buena Park to ensure compliance for your project.",
+        "description": "Many areas do not require additional parking for JADUs, especially if within an existing home or near public transit, but local rules vary."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

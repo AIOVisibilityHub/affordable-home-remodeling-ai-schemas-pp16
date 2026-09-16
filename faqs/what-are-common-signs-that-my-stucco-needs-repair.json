@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common signs that my stucco needs repair?",
+  "description": "Look for cracks, discoloration, crumbling, or soft spots in your stucco as these are common signs it needs repair.",
+  "url": "affordablehomeremodeling.com/faq/what-are-common-signs-that-my-stucco-needs-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common signs that my stucco needs repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common signs that stucco needs repair include cracks, especially hairline or spiderweb patterns, which can indicate underlying moisture issues or normal settling. Discoloration, efflorescence (white powdery residue), or crumbling sections also point to water damage or aging stucco. Additionally, soft spots when pressed, bulging, or detached stucco indicate significant problems that require prompt attention to prevent further structural damage.",
+        "description": "Look for cracks, discoloration, crumbling, or soft spots in your stucco as these are common signs it needs repair."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

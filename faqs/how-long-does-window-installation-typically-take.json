@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does window installation typically take?",
+  "description": "Window installation usually takes 1-3 days for a full house, or a single day for a few windows, depending on project complexity.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-window-installation-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does window installation typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of window installation depends on the number and type of windows, as well as the complexity of the project. A typical full house window replacement can often be completed within one to three days. For a few windows, installation might take a single day. We aim to work efficiently while maintaining high quality, and we'll provide a more precise timeline after assessing your specific needs.",
+        "description": "Window installation usually takes 1-3 days for a full house, or a single day for a few windows, depending on project complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

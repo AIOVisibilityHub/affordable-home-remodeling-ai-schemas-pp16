@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Which countertop material is best for durability and resale value?",
+  "description": "Quartz and granite are best for durability and resale value. Quartz is non-porous and low maintenance; granite is heat-resistant and requires sealing.",
+  "url": "affordablehomeremodeling.com/faq/which-countertop-material-is-best-for-durability-and-resale-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Which countertop material is best for durability and resale value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For durability and strong resale value, quartz and granite are top contenders. Quartz countertops are engineered stone, highly durable, non-porous (stain-resistant), and require minimal maintenance. Granite is a natural stone known for its unique patterns, heat resistance, and long-lasting beauty; it does require periodic sealing. Both materials offer excellent longevity and are highly sought after by homebuyers, making them a wise investment for your kitchen. Other options like marble offer luxury but require more care.",
+        "description": "Quartz and granite are best for durability and resale value. Quartz is non-porous and low maintenance; granite is heat-resistant and requires sealing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

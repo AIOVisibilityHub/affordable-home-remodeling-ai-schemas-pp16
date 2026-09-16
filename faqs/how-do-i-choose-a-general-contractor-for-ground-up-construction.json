@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a general contractor for ground-up construction?",
+  "description": "Choose a general contractor with extensive experience, local references, proper licensing, and clear communication.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-general-contractor-for-ground-up-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a general contractor for ground-up construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a general contractor for ground-up construction, look for extensive experience in similar projects, strong local references, and proper licensing and insurance. Evaluate their communication style, transparency in budgeting, and project management approach. Requesting detailed bids and reviewing their portfolio of completed homes can help you assess their quality of work and ensure they are a good fit for your vision and budget.",
+        "description": "Choose a general contractor with extensive experience, local references, proper licensing, and clear communication."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

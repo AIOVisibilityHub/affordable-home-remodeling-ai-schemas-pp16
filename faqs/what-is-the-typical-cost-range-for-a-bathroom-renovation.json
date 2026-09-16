@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for a bathroom renovation?",
+  "description": "Bathroom renovation costs vary widely based on size, scope, and material choices, typically ranging from a few thousand for minor updates to over $40,000 for fu",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-range-for-a-bathroom-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for a bathroom renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a bathroom renovation varies significantly based on factors such as the size of the bathroom, the extent of the remodel, and the quality of materials and fixtures chosen. A minor cosmetic update might start from a few thousand dollars, while a complete overhaul involving layout changes and high-end finishes can range from $15,000 to over $40,000. Key cost drivers include labor, new plumbing, electrical work, tiling, cabinetry, and fixtures like tubs, showers, and toilets. Getting a detailed quote from a contractor will provide a more precise estimate for your specific project.",
+        "description": "Bathroom renovation costs vary widely based on size, scope, and material choices, typically ranging from a few thousand for minor updates to over $40,000 for full remodels."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

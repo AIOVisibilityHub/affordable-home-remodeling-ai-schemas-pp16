@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a bathroom renovation usually take?",
+  "description": "Bathroom renovations generally take 1-4 weeks, depending on the scope. Minor updates are quicker, while full remodels require more time for demolition, installa",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-bathroom-renovation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a bathroom renovation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a bathroom renovation depends on its complexity. A small cosmetic update, such as painting and replacing a vanity, might take a few days to a week. A full renovation, including demolition, new plumbing, electrical, tiling, and fixture installation, typically takes 2-4 weeks. Larger bathrooms or projects involving structural changes or custom elements can extend beyond this timeframe. Unexpected issues like discovering mold or significant plumbing problems can also add to the project length. Your contractor can provide a more accurate timeline after assessing the scope of work.",
+        "description": "Bathroom renovations generally take 1-4 weeks, depending on the scope. Minor updates are quicker, while full remodels require more time for demolition, installation, and finishing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

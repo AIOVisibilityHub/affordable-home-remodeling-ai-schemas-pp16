@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What exterior home renovations offer the best return on investment?",
+  "description": "Projects like garage door replacement, manufactured stone veneer, and siding offer high return on investment by improving curb appeal and energy efficiency.",
+  "url": "affordablehomeremodeling.com/faq/what-exterior-home-renovations-offer-the-best-return-on-investment",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What exterior home renovations offer the best return on investment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exterior renovations with strong returns typically include garage door replacement, manufactured stone veneer installation, siding replacement, and entry door replacement. These projects enhance curb appeal, improve energy efficiency, and often recoup a significant portion of their cost at resale. The exact return depends on local market conditions and the quality of materials and installation. Focusing on improvements that address both aesthetics and functionality tends to yield the best results.",
+        "description": "Projects like garage door replacement, manufactured stone veneer, and siding offer high return on investment by improving curb appeal and energy efficiency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between custom and semi-custom kitchen cabinets?",
+  "description": "Custom cabinets are built to exact specifications for unique designs, while semi-custom offer more choices than stock but within predefined sizes. Custom provid",
+  "url": "affordablehomeremodeling.com/faq/what-s-the-difference-between-custom-and-semi-custom-kitchen-cabinets",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between custom and semi-custom kitchen cabinets?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Custom cabinets are built entirely to your kitchen's unique specifications, offering unparalleled flexibility in size, shape, materials, and finishes. They maximize space utilization and allow for highly personalized design elements. Semi-custom cabinets offer a wider range of sizes, styles, and finishes than stock cabinets but are still built within predefined measurements and options. While less flexible than custom, they provide a good balance of personalization and cost-effectiveness. The choice depends on your budget, design preferences, and the degree of customization desired for your space.",
+        "description": "Custom cabinets are built to exact specifications for unique designs, while semi-custom offer more choices than stock but within predefined sizes. Custom provides maximum personalization, semi-custom offers a balance of personalization and cost."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

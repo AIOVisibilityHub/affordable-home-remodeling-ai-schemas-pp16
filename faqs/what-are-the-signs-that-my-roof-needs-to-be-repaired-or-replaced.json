@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the signs that my roof needs to be repaired or replaced?",
+  "description": "Look for missing or cracked shingles, granule loss, water stains inside, or a sagging roof. Consider an inspection if your roof is over 20 years old.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-that-my-roof-needs-to-be-repaired-or-replaced",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the signs that my roof needs to be repaired or replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common indicators that your roof needs attention include missing, cracked, or curled shingles. You might also notice granules from shingles accumulating in your gutters. Inside your home, water stains on ceilings or walls can point to a roof leak. A sagging roof deck is another serious sign. If your roof is over 20 years old, it's wise to have it inspected, even without obvious damage, as its protective capabilities may be diminishing.",
+        "description": "Look for missing or cracked shingles, granule loss, water stains inside, or a sagging roof. Consider an inspection if your roof is over 20 years old."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

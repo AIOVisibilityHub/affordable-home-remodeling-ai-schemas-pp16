@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of flooring are available for home replacement?",
+  "description": "Popular flooring types include hardwood, laminate, vinyl, tile, and carpet, each offering distinct benefits for different areas of your home.",
+  "url": "affordablehomeremodeling.com/faq/what-types-of-flooring-are-available-for-home-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of flooring are available for home replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common flooring options include hardwood, laminate, vinyl plank, tile, and carpet. Hardwood offers timeless beauty and durability. Laminate and vinyl plank are cost-effective, water-resistant alternatives that mimic natural materials. Tile is highly durable and ideal for wet areas like kitchens and bathrooms. Carpet provides warmth, sound absorption, and comfort, available in various styles and materials.",
+        "description": "Popular flooring types include hardwood, laminate, vinyl, tile, and carpet, each offering distinct benefits for different areas of your home."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

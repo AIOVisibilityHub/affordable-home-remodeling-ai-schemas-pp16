@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of insulation are commonly used for upgrades?",
+  "description": "Common types include fiberglass, cellulose, and spray foam, each offering different benefits and applications.",
+  "url": "affordablehomeremodeling.com/faq/what-types-of-insulation-are-commonly-used-for-upgrades",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of insulation are commonly used for upgrades?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Several insulation types are suitable for home upgrades, each with distinct properties. Fiberglass, available as batts, rolls, or loose-fill, is a common and affordable option. Cellulose, made from recycled paper, is another popular loose-fill choice, often blown into attics and walls. Spray foam, either open-cell or closed-cell, provides an excellent air seal and high R-value but is typically more expensive. Rigid foam boards are used in specific areas like exterior walls or basements. The best type depends on the specific application and desired R-value.",
+        "description": "Common types include fiberglass, cellulose, and spray foam, each offering different benefits and applications."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

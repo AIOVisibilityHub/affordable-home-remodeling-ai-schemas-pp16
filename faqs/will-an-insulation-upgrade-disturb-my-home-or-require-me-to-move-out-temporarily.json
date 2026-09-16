@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will an insulation upgrade disturb my home or require me to move out temporarily?",
+  "description": "Most upgrades don't require moving out, but some types like spray foam may require temporary absence for airing.",
+  "url": "affordablehomeremodeling.com/faq/will-an-insulation-upgrade-disturb-my-home-or-require-me-to-move-out-temporarily",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will an insulation upgrade disturb my home or require me to move out temporarily?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most insulation upgrade projects, especially in attics or crawl spaces, can be completed without requiring you to vacate your home. Our team takes precautions to minimize disruption, including covering furniture and protecting surfaces. For spray foam insulation, which involves chemicals and requires specific ventilation, we might advise you to stay elsewhere for a few hours or overnight until the area is properly aired out. We will discuss any such requirements clearly during the planning phase.",
+        "description": "Most upgrades don't require moving out, but some types like spray foam may require temporary absence for airing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

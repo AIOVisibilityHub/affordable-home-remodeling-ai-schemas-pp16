@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does stucco replacement take?",
+  "description": "Stucco replacement for an average home typically takes two to four weeks. This includes time for curing between coats and depends on home size and weather.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-stucco-replacement-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does stucco replacement take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of stucco replacement depends on the size of the house, the complexity of the architectural details, and weather conditions. For an average-sized home, the project can take anywhere from two to four weeks. This timeframe accounts for proper drying and curing times between stucco coats, which are essential for durability. Unexpected issues like significant underlying damage can also extend the project timeline.",
+        "description": "Stucco replacement for an average home typically takes two to four weeks. This includes time for curing between coats and depends on home size and weather."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

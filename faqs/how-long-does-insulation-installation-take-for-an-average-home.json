@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does insulation installation take for an average home?",
+  "description": "Attic insulation usually takes 1-2 days. Projects involving walls, crawl spaces, or old insulation removal can take 3-5 days, depending on home size and complex",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-insulation-installation-take-for-an-average-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does insulation installation take for an average home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of insulation installation depends on the scope of the project. Insulating an attic in an average-sized home typically takes one to two days. If walls or crawl spaces also require insulation, or if old insulation needs to be removed first, the project could extend to three to five days. Factors like home size, insulation type, ease of access, and crew size all influence the timeline. Your contractor can provide a more precise schedule after assessing your home.",
+        "description": "Attic insulation usually takes 1-2 days. Projects involving walls, crawl spaces, or old insulation removal can take 3-5 days, depending on home size and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost of stucco repair?",
+  "description": "Stucco repair costs vary from a few hundred dollars for minor cracks to thousands for extensive damage, depending on scope and materials.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-of-stucco-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost of stucco repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of stucco repair varies significantly based on the size and type of damage, accessibility, and the materials needed. Minor crack repairs might cost a few hundred dollars. Larger repairs involving water damage, structural remediation, or re-stuccoing a significant portion of a wall could range from several hundred to thousands of dollars. Getting a detailed estimate from a qualified contractor is essential to understand the specific costs for your project.",
+        "description": "Stucco repair costs vary from a few hundred dollars for minor cracks to thousands for extensive damage, depending on scope and materials."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

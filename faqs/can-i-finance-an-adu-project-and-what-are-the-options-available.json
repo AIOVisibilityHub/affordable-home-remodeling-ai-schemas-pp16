@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I finance an ADU project, and what are the options available?",
+  "description": "ADU projects can be financed through home equity loans, HELOCs, construction loans, or cash-out refinances. Options depend on credit and equity.",
+  "url": "affordablehomeremodeling.com/faq/can-i-finance-an-adu-project-and-what-are-the-options-available",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I finance an ADU project, and what are the options available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, several financing options are available for ADU projects. These may include home equity loans, home equity lines of credit (HELOCs), construction loans, or cash-out refinances. Some lenders also offer specific ADU financing products. Eligibility and interest rates typically depend on your credit score, home equity, and debt-to-income ratio. It is advisable to explore options with financial institutions.",
+        "description": "ADU projects can be financed through home equity loans, HELOCs, construction loans, or cash-out refinances. Options depend on credit and equity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

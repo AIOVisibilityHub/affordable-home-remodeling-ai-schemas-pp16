@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the roof inspection process?",
+  "description": "A roof inspection checks for exterior damage like missing shingles and flashing integrity, and interior signs of leaks in the attic, followed by a detailed repo",
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-the-roof-inspection-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the roof inspection process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A professional roof inspection typically involves a thorough examination of your roof's exterior and interior. Externally, we check for damaged or missing shingles, flashing integrity, gutter condition, and overall roof structure. Inside, we look for signs of leaks, water damage, or poor ventilation in the attic. We then provide a detailed report outlining any issues, recommended repairs, and their estimated costs, helping you make informed decisions.",
+        "description": "A roof inspection checks for exterior damage like missing shingles and flashing integrity, and interior signs of leaks in the attic, followed by a detailed report."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

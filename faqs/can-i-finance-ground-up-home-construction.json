@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I finance ground-up home construction?",
+  "description": "Yes, ground-up home construction can be financed using a construction loan, which converts to a permanent mortgage upon completion.",
+  "url": "affordablehomeremodeling.com/faq/can-i-finance-ground-up-home-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I finance ground-up home construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, financing ground-up home construction typically involves a construction loan. This type of loan is structured differently from a traditional mortgage, with funds disbursed in stages as construction milestones are met. Once the home is complete, the construction loan is usually converted into or refinanced with a permanent mortgage. Lenders often require a detailed construction plan and budget.",
+        "description": "Yes, ground-up home construction can be financed using a construction loan, which converts to a permanent mortgage upon completion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

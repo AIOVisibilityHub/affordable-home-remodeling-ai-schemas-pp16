@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical exterior home renovation project take?",
+  "description": "Project duration varies by scope; minor updates take days, while larger renovations can take weeks to months, influenced by weather, materials, and permits.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-exterior-home-renovation-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical exterior home renovation project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an exterior home renovation project varies significantly based on its scope and complexity. Minor updates like painting or replacing a few windows might take a few days to a week. Larger projects such as full siding replacement, roof replacement, or extensive landscaping can extend from several weeks to a few months. Factors like weather conditions, material availability, and necessary permits also influence the timeline. A detailed project plan from your contractor will provide a more accurate estimate.",
+        "description": "Project duration varies by scope; minor updates take days, while larger renovations can take weeks to months, influenced by weather, materials, and permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

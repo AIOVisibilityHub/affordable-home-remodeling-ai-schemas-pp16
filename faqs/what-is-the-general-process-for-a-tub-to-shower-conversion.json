@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the general process for a tub-to-shower conversion?",
+  "description": "The process involves consultation, removal of the old tub, installation of a new shower pan and wall surrounds, new plumbing fixtures, and a shower door.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-general-process-for-a-tub-to-shower-conversion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the general process for a tub-to-shower conversion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The conversion process usually begins with an initial consultation and design planning, where we discuss your preferences, materials, and budget. Next, the existing bathtub and surrounding walls are carefully removed. This is followed by preparing the subfloor and installing the new shower pan or base, ensuring proper waterproofing and drainage. New wall surrounds, whether tile, acrylic, or other materials, are then installed, along with new plumbing fixtures like the showerhead and controls. Finally, a shower door or enclosure is installed, and finishing touches complete the transformation.",
+        "description": "The process involves consultation, removal of the old tub, installation of a new shower pan and wall surrounds, new plumbing fixtures, and a shower door."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

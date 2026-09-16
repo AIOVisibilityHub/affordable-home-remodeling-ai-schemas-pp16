@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What materials are typically used for walk-in shower walls and floors?",
+  "description": "Walls often use tile (ceramic, porcelain, stone) or solid surface panels. Floors typically feature mosaic tiles for non-slip and drainage.",
+  "url": "affordablehomeremodeling.com/faq/what-materials-are-typically-used-for-walk-in-shower-walls-and-floors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What materials are typically used for walk-in shower walls and floors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common materials for walk-in shower walls include ceramic, porcelain, or natural stone tiles, which offer durability and a wide range of aesthetic options. Solid surface panels, acrylic, or cultured marble are also popular for their seamless appearance and ease of cleaning. For flooring, mosaic tiles are frequently used for their non-slip properties and ability to conform to sloped shower pans. We can help you choose materials that match your style and budget.",
+        "description": "Walls often use tile (ceramic, porcelain, stone) or solid surface panels. Floors typically feature mosaic tiles for non-slip and drainage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

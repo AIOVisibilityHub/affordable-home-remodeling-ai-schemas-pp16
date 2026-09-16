@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for a primary suite addition?",
+  "description": "Yes, permits are required for a primary suite addition to ensure compliance with local building codes, safety standards, and zoning regulations.",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-a-primary-suite-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for a primary suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building permits are required for any primary suite addition. This is because it involves structural changes, plumbing, electrical work, and expanding the home's footprint. The permitting process ensures that the construction adheres to local building codes, safety standards, and zoning regulations. Your contractor will guide you through the permit application process, which typically includes submitting detailed architectural plans for approval by the local planning department.",
+        "description": "Yes, permits are required for a primary suite addition to ensure compliance with local building codes, safety standards, and zoning regulations."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

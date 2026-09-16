@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I add a second story to my house instead of a ground-level room addition?",
+  "description": "Yes, a second-story addition is possible, especially on small lots, but requires extensive structural work and may cost more with a longer timeline than a groun",
+  "url": "affordablehomeremodeling.com/faq/can-i-add-a-second-story-to-my-house-instead-of-a-ground-level-room-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I add a second story to my house instead of a ground-level room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Adding a second story is indeed an option for expanding your living space, especially on smaller lots where ground-level expansion might be limited by setbacks or available yard space. This type of addition involves more extensive structural work to ensure the existing foundation can support the additional weight. It also often requires relocating existing electrical, plumbing, and HVAC systems. While it can offer significant gains in square footage without reducing your yard, it typically costs more and has a longer construction timeline than a ground-level addition due to its complexity. Feasibility depends on your home's current structure and local zoning laws.",
+        "description": "Yes, a second-story addition is possible, especially on small lots, but requires extensive structural work and may cost more with a longer timeline than a ground-level addition."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

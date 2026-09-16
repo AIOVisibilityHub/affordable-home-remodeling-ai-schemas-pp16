@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for a home renovation project?",
+  "description": "Project timelines vary widely. A small refresh may take weeks, while major renovations can take months, depending on scope and factors like material availabilit",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-a-home-renovation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for a home renovation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a home renovation project varies significantly based on its scope and complexity. A small bathroom refresh might take 2-4 weeks, while a major kitchen remodel could span 6-12 weeks. Whole-home renovations, especially those involving structural changes or additions, can extend to several months or even a year. Factors influencing the timeline include material availability, unforeseen issues discovered during demolition, permit approval times, and the efficiency of project management. A detailed schedule will be provided after the initial design and planning phases are complete.",
+        "description": "Project timelines vary widely. A small refresh may take weeks, while major renovations can take months, depending on scope and factors like material availability and permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

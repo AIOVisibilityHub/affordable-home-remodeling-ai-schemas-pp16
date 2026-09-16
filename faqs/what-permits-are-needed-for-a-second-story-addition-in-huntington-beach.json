@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for a second-story addition in Huntington Beach?",
+  "description": "In Huntington Beach, a second-story addition requires building, electrical, plumbing, and mechanical permits. A contractor can help navigate local zoning and bu",
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-needed-for-a-second-story-addition-in-huntington-beach",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for a second-story addition in Huntington Beach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For a second-story addition in Huntington Beach, you will typically need several permits from the city's building department. These commonly include a building permit, electrical permit, plumbing permit, and mechanical permit. Depending on the scope, additional permits for grading or specific structural changes might be required. We assist with navigating the local permitting process, including submitting detailed plans and ensuring all work complies with Huntington Beach’s specific zoning ordinances and building codes. Early consultation with a contractor can streamline this process.",
+        "description": "In Huntington Beach, a second-story addition requires building, electrical, plumbing, and mechanical permits. A contractor can help navigate local zoning and building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

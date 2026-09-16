@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the signs that my stucco needs to be replaced?",
+  "description": "Signs include extensive cracks, crumbling, bubbling, detaching sections, stains, or mold growth. These often indicate water damage or structural issues.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-that-my-stucco-needs-to-be-replaced",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the signs that my stucco needs to be replaced?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common indicators that stucco replacement might be necessary include extensive cracking, crumbling, or bubbling. Large sections of stucco that are detaching from the wall, often caused by water intrusion behind the surface, are also critical signs. Stains, mold growth, or efflorescence (white mineral deposits) can point to underlying moisture problems that compromise the stucco's integrity. While minor repairs might fix small issues, widespread damage often necessitates full replacement to prevent further structural damage.",
+        "description": "Signs include extensive cracks, crumbling, bubbling, detaching sections, stains, or mold growth. These often indicate water damage or structural issues."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

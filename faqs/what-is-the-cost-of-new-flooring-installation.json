@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the cost of new flooring installation?",
+  "description": "Cost depends on flooring type, square footage, installation complexity, and subfloor prep. We provide detailed quotes after consultation.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-cost-of-new-flooring-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the cost of new flooring installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of new flooring installation is influenced by several factors: the type of material chosen, the total square footage of the area, the complexity of the installation, and any required subfloor preparation or old flooring removal. Premium materials like certain hardwoods or intricate tile designs will have a higher material cost. Labor costs vary depending on the specific flooring type and project scope. We provide detailed, transparent quotes after an initial consultation and on-site measurement to give you an accurate understanding of the investment.",
+        "description": "Cost depends on flooring type, square footage, installation complexity, and subfloor prep. We provide detailed quotes after consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps are involved in a kitchen renovation project?",
+  "description": "The process includes consultation, design, material selection, demolition, structural work, utility rough-ins, installation of cabinets, countertops, and applia",
+  "url": "affordablehomeremodeling.com/faq/what-steps-are-involved-in-a-kitchen-renovation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps are involved in a kitchen renovation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical kitchen renovation project follows several key steps. It begins with an initial consultation and design planning, where we discuss your vision, needs, and budget. Next, we finalize the design, select materials, and prepare detailed plans. This is followed by demolition of the existing kitchen. Then, structural work, plumbing, and electrical rough-ins are completed. Installation of new cabinets, countertops, flooring, and appliances follows. Finally, finishing touches like painting, backsplash installation, and fixture installation complete the project before a final walkthrough.",
+        "description": "The process includes consultation, design, material selection, demolition, structural work, utility rough-ins, installation of cabinets, countertops, and appliances, followed by finishing touches and a final walkthrough."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

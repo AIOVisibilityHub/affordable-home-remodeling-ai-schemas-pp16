@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the typical costs associated with designing and building an ADU?",
+  "description": "ADU costs vary based on size, construction type, finishes, site conditions, and permit fees. This includes design, materials, labor, and utility connections.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-typical-costs-associated-with-designing-and-building-an-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the typical costs associated with designing and building an ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of an ADU varies significantly based on factors such as size, construction type (e.g., new detached, garage conversion), quality of finishes, site conditions, and local permit fees. Design costs typically cover architectural plans and engineering. Construction costs include materials, labor, and utility connections. It is important to obtain detailed estimates for each phase of the project.",
+        "description": "ADU costs vary based on size, construction type, finishes, site conditions, and permit fees. This includes design, materials, labor, and utility connections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

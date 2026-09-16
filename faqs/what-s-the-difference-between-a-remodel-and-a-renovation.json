@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between a remodel and a renovation?",
+  "description": "Renovation often means cosmetic updates like painting or reflooring without structural changes. Remodeling typically involves altering the structure or layout,",
+  "url": "affordablehomeremodeling.com/faq/what-s-the-difference-between-a-remodel-and-a-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a remodel and a renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While often used interchangeably, 'renovation' typically refers to restoring something to a good state of repair, often involving cosmetic updates like repainting, reflooring, or replacing fixtures without altering the structure. 'Remodeling,' on the other hand, usually involves changing the structure or layout of a space, such as moving walls, reconfiguring a kitchen, or adding an extension. A remodel aims to create something new from the existing structure, potentially changing the purpose or design of a room.",
+        "description": "Renovation often means cosmetic updates like painting or reflooring without structural changes. Remodeling typically involves altering the structure or layout, like moving walls or reconfiguring a room."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

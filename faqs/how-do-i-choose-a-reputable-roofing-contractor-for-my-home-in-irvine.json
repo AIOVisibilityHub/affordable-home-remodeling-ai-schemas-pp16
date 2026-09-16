@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a reputable roofing contractor for my home in Irvine?",
+  "description": "Choose a reputable contractor in Irvine by checking for proper licensing, insurance, references, and detailed proposals.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-reputable-roofing-contractor-for-my-home-in-irvine",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a reputable roofing contractor for my home in Irvine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a roofing contractor in Irvine, look for companies with a strong local reputation, proper licensing, and comprehensive insurance. Verify their license with the Contractors State License Board (CSLB) to ensure they are legitimate. Ask for references from past clients and review their portfolio of completed projects. A reliable contractor will offer a detailed proposal outlining the scope of work, materials, timeline, and warranty information. We encourage you to ask questions and feel comfortable with their communication and professionalism.",
+        "description": "Choose a reputable contractor in Irvine by checking for proper licensing, insurance, references, and detailed proposals."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

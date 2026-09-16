@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost of an insulation upgrade in Orange County, CA?",
+  "description": "Costs vary based on area size, R-value, material type, and labor; a custom quote is necessary after an assessment.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-an-insulation-upgrade-in-orange-county-ca",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost of an insulation upgrade in Orange County, CA?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of an insulation upgrade in Orange County, CA, can vary significantly based on factors such as the size of the area to be insulated, the R-value desired, the type of insulation material selected, and any necessary preparation or removal of old insulation. For instance, spray foam insulation is generally more expensive per square foot than blown-in cellulose or fiberglass. We provide custom quotes after a thorough on-site assessment to ensure accuracy and address your specific needs.",
+        "description": "Costs vary based on area size, R-value, material type, and labor; a custom quote is necessary after an assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

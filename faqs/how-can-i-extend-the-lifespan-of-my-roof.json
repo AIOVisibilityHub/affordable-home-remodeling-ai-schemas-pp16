@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I extend the lifespan of my roof?",
+  "description": "Extend your roof's life by cleaning gutters, trimming trees, addressing minor repairs quickly, and scheduling regular professional inspections.",
+  "url": "affordablehomeremodeling.com/faq/how-can-i-extend-the-lifespan-of-my-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I extend the lifespan of my roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To maximize your roof's lifespan, regular maintenance is key. This includes keeping gutters clean and free of debris to prevent water buildup, trimming overhanging branches to avoid damage from falling limbs and minimizing moss or algae growth. Promptly address any minor repairs to prevent them from escalating into major issues. Periodic professional inspections can also identify potential problems early on.",
+        "description": "Extend your roof's life by cleaning gutters, trimming trees, addressing minor repairs quickly, and scheduling regular professional inspections."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance do new windows require?",
+  "description": "New windows require minimal maintenance. Regularly clean glass and frames with mild soap and water. Occasionally lubricate moving parts and check seals for wear",
+  "url": "affordablehomeremodeling.com/faq/what-maintenance-do-new-windows-require",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance do new windows require?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Modern replacement windows are designed for low maintenance. Generally, routine cleaning of the glass and frames with mild soap and water is sufficient to keep them looking good. For moving parts, occasional lubrication of hinges and locks can ensure smooth operation. It's also advisable to periodically check seals and weatherstripping for any signs of wear or damage to maintain energy efficiency. With proper care, quality windows can perform well for many years without requiring extensive upkeep.",
+        "description": "New windows require minimal maintenance. Regularly clean glass and frames with mild soap and water. Occasionally lubricate moving parts and check seals for wear to maintain performance."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

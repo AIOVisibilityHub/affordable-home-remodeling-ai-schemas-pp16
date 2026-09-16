@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in a roof repair inspection?",
+  "description": "An inspection checks shingles, flashing, gutters, and the attic for damage or weaknesses. A detailed report with findings and solutions is provided.",
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-a-roof-repair-inspection",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in a roof repair inspection?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A comprehensive roof repair inspection involves a thorough assessment of all roofing components. This includes checking shingles or tiles for damage, examining flashing around chimneys and vents, inspecting gutters and downspouts, and assessing the condition of the underlying deck and attic for signs of leaks or moisture. The inspector will look for potential weaknesses, wear and tear, and any areas that could compromise the roof's integrity. A detailed report with findings and recommended solutions will be provided.",
+        "description": "An inspection checks shingles, flashing, gutters, and the attic for damage or weaknesses. A detailed report with findings and solutions is provided."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

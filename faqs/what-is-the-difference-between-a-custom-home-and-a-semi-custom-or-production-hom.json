@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a custom home and a semi-custom or production home?",
+  "description": "Custom homes are uniquely designed to your specifications, unlike semi-custom (limited options) or production homes (standardized plans). Custom offers full per",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-custom-home-and-a-semi-custom-or-production-hom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a custom home and a semi-custom or production home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A custom home is uniquely designed and built from the ground up to meet specific homeowner preferences, offering complete control over layout, materials, and features. Semi-custom homes are built from pre-designed plans with limited options for customization, usually on developer-owned lots. Production homes are built in large quantities using standardized plans, offering very few choices for personalization. Custom homes allow for unparalleled personalization and architectural uniqueness, while production homes prioritize efficiency and cost-effectiveness. The choice depends on your desire for uniqueness versus budget and speed.",
+        "description": "Custom homes are uniquely designed to your specifications, unlike semi-custom (limited options) or production homes (standardized plans). Custom offers full personalization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

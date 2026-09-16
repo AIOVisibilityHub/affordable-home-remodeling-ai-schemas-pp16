@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a primary suite addition cost in Orange County?",
+  "description": "Costs for a primary suite addition in Orange County vary widely based on size, complexity, materials, and site conditions. A detailed estimate from a local cont",
+  "url": "affordablehomeremodeling.com/faq/how-much-does-a-primary-suite-addition-cost-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a primary suite addition cost in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a primary suite addition in Orange County varies significantly based on size, complexity, material choices, and site conditions. Factors like foundation work, roofing, plumbing for a new bathroom, electrical upgrades, and finishes (flooring, fixtures, cabinetry) all impact the final price. Due to these variables, it's essential to get a detailed estimate from a local contractor. Expect a significant investment, as it's a major home renovation project.",
+        "description": "Costs for a primary suite addition in Orange County vary widely based on size, complexity, materials, and site conditions. A detailed estimate from a local contractor is essential."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

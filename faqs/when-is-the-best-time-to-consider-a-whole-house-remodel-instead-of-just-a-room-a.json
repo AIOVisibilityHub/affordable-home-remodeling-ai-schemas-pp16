@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is the best time to consider a whole-house remodel instead of just a room addition?",
+  "description": "Choose a whole-house remodel when multiple systems are outdated or you need a complete aesthetic and functional refresh. A room addition suits specific space ne",
+  "url": "affordablehomeremodeling.com/faq/when-is-the-best-time-to-consider-a-whole-house-remodel-instead-of-just-a-room-a",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is the best time to consider a whole-house remodel instead of just a room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Consider a whole-house remodel if your home's overall layout is inefficient, multiple systems (plumbing, electrical) are outdated, or you desire a completely refreshed aesthetic and functionality throughout the entire property. A room addition is more suitable if you are generally happy with your home but simply need more space in a specific area. A whole-house remodel addresses consistency in design and infrastructure across the entire home, often resulting in a more cohesive and valuable outcome.",
+        "description": "Choose a whole-house remodel when multiple systems are outdated or you need a complete aesthetic and functional refresh. A room addition suits specific space needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

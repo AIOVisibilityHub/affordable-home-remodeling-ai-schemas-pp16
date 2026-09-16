@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does an insulation upgrade typically take?",
+  "description": "An upgrade can take from one day for an attic to several days for more extensive projects, depending on home size and scope.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-an-insulation-upgrade-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does an insulation upgrade typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of an insulation upgrade varies depending on the size of your home, the areas being insulated (attic, walls, crawl space), and the type of insulation chosen. A typical attic insulation upgrade for an average-sized home might be completed within one to two days. More extensive projects involving wall cavity insulation or multiple areas could take several days to a week. Our team will provide a detailed timeline after assessing your specific project requirements.",
+        "description": "An upgrade can take from one day for an attic to several days for more extensive projects, depending on home size and scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will new windows increase my home's value?",
+  "description": "New windows can increase home value, curb appeal, and security, while also reducing energy costs. This makes them a strong return on investment.",
+  "url": "affordablehomeremodeling.com/faq/will-new-windows-increase-my-home-s-value",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will new windows increase my home's value?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, installing new, energy-efficient windows can significantly increase your home's resale value. Potential buyers often look for updated features that improve comfort and reduce utility costs. Beyond value, new windows enhance your home's curb appeal, improve security, and can lead to substantial savings on heating and cooling bills, offering a strong return on investment.",
+        "description": "New windows can increase home value, curb appeal, and security, while also reducing energy costs. This makes them a strong return on investment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

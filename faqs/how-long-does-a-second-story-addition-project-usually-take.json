@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a second-story addition project usually take?",
+  "description": "A second-story addition usually takes 6 to 12 months, including design, permits, construction, and interior finishes. Project length can vary with complexity an",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-second-story-addition-project-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a second-story addition project usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a second-story addition typically ranges from 6 to 12 months, though larger or more complex projects can take longer. This duration includes time for architectural design, securing necessary permits, demolition of the existing roof, framing the new level, installing roofing and exterior finishes, and all interior work like plumbing, electrical, insulation, drywall, flooring, and painting. Factors such as weather delays, material availability, and the homeowner's decision-making speed can also influence the overall project schedule.",
+        "description": "A second-story addition usually takes 6 to 12 months, including design, permits, construction, and interior finishes. Project length can vary with complexity and other factors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

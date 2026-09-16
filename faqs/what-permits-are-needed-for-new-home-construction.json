@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for new home construction?",
+  "description": "New home construction requires various local permits, including building, zoning, electrical, and plumbing permits.",
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-needed-for-new-home-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for new home construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New home construction requires various permits from local municipal and county authorities. These typically include building permits, zoning permits, electrical permits, plumbing permits, mechanical permits, and sometimes grading or environmental permits. The specific permits needed depend on your location, the scope of the project, and local regulations. A qualified general contractor usually manages the permit acquisition process.",
+        "description": "New home construction requires various local permits, including building, zoning, electrical, and plumbing permits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

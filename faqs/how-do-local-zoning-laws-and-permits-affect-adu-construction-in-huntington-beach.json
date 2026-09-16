@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do local zoning laws and permits affect ADU construction in Huntington Beach?",
+  "description": "Local zoning in Huntington Beach affects ADU size, height, setbacks, and parking. Permits ensure compliance with these regulations and building codes.",
+  "url": "affordablehomeremodeling.com/faq/how-do-local-zoning-laws-and-permits-affect-adu-construction-in-huntington-beach",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do local zoning laws and permits affect ADU construction in Huntington Beach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Local zoning laws in areas like Huntington Beach dictate crucial aspects of ADU construction, such as maximum size, height, setbacks from property lines, and parking requirements. Permitting ensures compliance with these regulations, as well as building codes for safety and structural integrity. Understanding these local requirements early in the process is essential to avoid delays and ensure project feasibility.",
+        "description": "Local zoning in Huntington Beach affects ADU size, height, setbacks, and parking. Permits ensure compliance with these regulations and building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

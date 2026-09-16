@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prepare my home for window installation?",
+  "description": "Clear the areas around your windows, both inside and out. Remove window treatments and move furniture or valuables to ensure clear access and prevent damage.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-prepare-my-home-for-window-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prepare my home for window installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before our team arrives, we recommend clearing the areas around your windows, both inside and out, to provide clear access. Remove any window treatments like blinds or curtains, and move furniture, delicate items, or valuable decorations away from the windows to prevent damage. We'll protect your floors and belongings, but a clear workspace helps ensure a smoother and more efficient installation process.",
+        "description": "Clear the areas around your windows, both inside and out. Remove window treatments and move furniture or valuables to ensure clear access and prevent damage."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

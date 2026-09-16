@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I install a wider door or change the opening size?",
+  "description": "Yes, you can install a wider door or change the opening, but it may require structural modifications, framing work, and potentially permits, which we can assess",
+  "url": "affordablehomeremodeling.com/faq/can-i-install-a-wider-door-or-change-the-opening-size",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I install a wider door or change the opening size?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it is often possible to install a wider door or change the opening size, but this typically involves more extensive work than a simple door replacement. Enlarging a door opening, especially for exterior walls, may require modifications to the structural framing, headers, and possibly electrical wiring or plumbing. These types of projects are more complex and often necessitate permits to ensure structural integrity and compliance with building codes. Our team can assess your specific situation and advise on the feasibility and requirements.",
+        "description": "Yes, you can install a wider door or change the opening, but it may require structural modifications, framing work, and potentially permits, which we can assess."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

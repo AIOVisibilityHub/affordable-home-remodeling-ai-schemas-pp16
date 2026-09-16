@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long after countertop installation can I use my new kitchen?",
+  "description": "You can typically use your kitchen lightly after countertop installation, but avoid heavy use for 24-48 hours for adhesive curing, and follow specific material",
+  "url": "affordablehomeremodeling.com/faq/how-long-after-countertop-installation-can-i-use-my-new-kitchen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long after countertop installation can I use my new kitchen?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You can typically begin light use of your new kitchen immediately after countertop installation. However, it's recommended to avoid heavy use or placing excessive weight on the countertops for at least 24-48 hours, especially for certain materials that require adhesive curing. For stone countertops, it's also best to wait for any sealants to fully cure before heavy use or exposing them to moisture. Your installers will provide specific care instructions and a recommended timeline based on the materials used.",
+        "description": "You can typically use your kitchen lightly after countertop installation, but avoid heavy use for 24-48 hours for adhesive curing, and follow specific material guidelines."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

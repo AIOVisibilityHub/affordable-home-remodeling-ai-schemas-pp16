@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of home improvement services do you offer?",
+  "description": "We offer kitchen and bathroom remodeling, room additions, and general home upgrades.",
+  "url": "affordablehomeremodeling.com/faq/what-types-of-home-improvement-services-do-you-offer",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of home improvement services do you offer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We provide a comprehensive range of home improvement services, including kitchen remodeling, bathroom renovations, room additions, and general interior and exterior upgrades. Our team handles projects from design to completion, ensuring quality craftsmanship and adherence to your specifications. We focus on enhancing both the functionality and aesthetic appeal of your home.",
+        "description": "We offer kitchen and bathroom remodeling, room additions, and general home upgrades."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

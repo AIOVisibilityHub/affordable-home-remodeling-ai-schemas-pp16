@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost of exterior home renovations in Orange County?",
+  "description": "Costs for exterior renovations in Orange County vary widely; minor updates are a few thousand, while major projects like roofing or siding can exceed $15,000.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-exterior-home-renovations-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost of exterior home renovations in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of exterior home renovations in Orange County can range widely depending on the type and scale of the project, as well as material choices. For example, a minor refresh like exterior painting might cost a few thousand dollars, while a full roof replacement or extensive siding installation could range from $15,000 to over $50,000. High-end materials and custom designs will naturally increase expenses. Obtaining detailed quotes for your specific project is the best way to understand the potential investment.",
+        "description": "Costs for exterior renovations in Orange County vary widely; minor updates are a few thousand, while major projects like roofing or siding can exceed $15,000."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

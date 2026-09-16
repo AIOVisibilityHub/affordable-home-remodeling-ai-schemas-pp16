@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for replacing stucco on a house?",
+  "description": "The process involves removing old stucco, preparing the wall with moisture barriers and lath, applying new stucco in multiple coats, and finishing with proper s",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-replacing-stucco-on-a-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for replacing stucco on a house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stucco replacement typically begins with the removal of the old, damaged stucco and any compromised sheathing or framing underneath. This is followed by preparing the wall surface, which may involve installing new moisture barriers and lath (a mesh material). New stucco is then applied in multiple coats, usually a scratch coat, brown coat, and a finish coat, allowing each to cure properly. The process concludes with cleaning up the site and ensuring proper sealing around windows and doors.",
+        "description": "The process involves removing old stucco, preparing the wall with moisture barriers and lath, applying new stucco in multiple coats, and finishing with proper sealing."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

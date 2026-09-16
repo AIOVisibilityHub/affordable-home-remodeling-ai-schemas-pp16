@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the minimum requirements for a kitchen in a JADU?",
+  "description": "A JADU efficiency kitchen requires a cooking appliance, food preparation counter, and refrigerator, but not necessarily a full-sized sink or 240V outlets.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-minimum-requirements-for-a-kitchen-in-a-jadu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the minimum requirements for a kitchen in a JADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A JADU requires an 'efficiency kitchen,' which typically means it must include a cooking appliance, a food preparation counter, and a refrigerator. Unlike a full kitchen, it does not necessarily require a full-sized sink or 240-volt appliance outlets. The specific definitions and requirements for an efficiency kitchen can vary slightly by local jurisdiction, so it's important to consult local building codes in cities like Newport Beach or Lake Forest to ensure compliance. The goal is to provide basic cooking functionality.",
+        "description": "A JADU efficiency kitchen requires a cooking appliance, food preparation counter, and refrigerator, but not necessarily a full-sized sink or 240V outlets."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

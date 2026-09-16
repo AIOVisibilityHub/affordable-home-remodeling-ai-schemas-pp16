@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to empty my kitchen cabinets before installation day?",
+  "description": "Yes, completely empty all kitchen cabinets and clear countertops before installation day to ensure clear access and protect your belongings.",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-empty-my-kitchen-cabinets-before-installation-day",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to empty my kitchen cabinets before installation day?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, you should completely empty your kitchen cabinets and drawers before the installation team arrives. This includes removing all contents, dishes, food, and personal items. We also recommend clearing countertops of small appliances and decor. This ensures the installers have clear access to the workspace, helps protect your belongings from dust and damage during demolition and installation, and allows the process to proceed efficiently. Consider designating a temporary area for essential kitchen items.",
+        "description": "Yes, completely empty all kitchen cabinets and clear countertops before installation day to ensure clear access and protect your belongings."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Why should I consider converting my tub to a shower?",
+  "description": "Consider converting your tub to a shower for improved accessibility, a more modern bathroom aesthetic, increased perceived space, and potential water efficiency",
+  "url": "affordablehomeremodeling.com/faq/why-should-i-consider-converting-my-tub-to-a-shower",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why should I consider converting my tub to a shower?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Homeowners often convert tubs to showers for several reasons. Enhanced accessibility is a primary benefit, as stepping into a shower is easier and safer than stepping over a high tub wall, especially for aging individuals or those with mobility concerns. A shower can also create a more contemporary and spacious feel in the bathroom, particularly when paired with a glass enclosure. Additionally, showers are generally more water-efficient than baths, potentially leading to lower utility bills. It's a practical upgrade that can improve both the functionality and aesthetic appeal of your bathroom.",
+        "description": "Consider converting your tub to a shower for improved accessibility, a more modern bathroom aesthetic, increased perceived space, and potential water efficiency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

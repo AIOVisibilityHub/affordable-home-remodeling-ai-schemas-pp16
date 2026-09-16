@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for custom home construction in Orange County?",
+  "description": "Custom home construction in Orange County requires a building permit, plus potentially grading, plumbing, electrical, and other specialized permits depending on",
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-custom-home-construction-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for custom home construction in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Building a custom home in Orange County requires various permits, primarily a building permit from your city or county planning department. This permit ensures your plans comply with local zoning ordinances, building codes, and safety regulations. Depending on the project, you might also need permits for grading, demolition (if applicable), plumbing, electrical, mechanical, and sometimes environmental review or specific permits for hillside or coastal zones. Our team manages the entire permitting process, preparing and submitting all necessary documentation to ensure compliance and a smooth project start. Specific requirements can vary by city, such as Irvine or Orange.",
+        "description": "Custom home construction in Orange County requires a building permit, plus potentially grading, plumbing, electrical, and other specialized permits depending on the project and city."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

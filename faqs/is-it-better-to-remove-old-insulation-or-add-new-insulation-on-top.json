@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is it better to remove old insulation or add new insulation on top?",
+  "description": "Remove old insulation if it's damp, moldy, pest-infested, or compressed. If it's clean and dry, adding new insulation on top can be an effective way to increase",
+  "url": "affordablehomeremodeling.com/faq/is-it-better-to-remove-old-insulation-or-add-new-insulation-on-top",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is it better to remove old insulation or add new insulation on top?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Whether to remove old insulation or add new on top depends on the condition of the existing insulation. If the old insulation is damp, moldy, pest-infested, or severely compressed, removal is essential to prevent health issues and ensure effectiveness. However, if the existing insulation is dry, clean, and in good condition, adding new insulation on top is often a cost-effective way to boost the R-value without the added expense and labor of removal. A professional assessment can determine the best approach for your home.",
+        "description": "Remove old insulation if it's damp, moldy, pest-infested, or compressed. If it's clean and dry, adding new insulation on top can be an effective way to increase R-value."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will my homeowner's insurance cover roof repair?",
+  "description": "Homeowner's insurance usually covers damage from sudden events like storms or falling trees, not neglect or wear and tear. Check your policy details.",
+  "url": "affordablehomeremodeling.com/faq/will-my-homeowner-s-insurance-cover-roof-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will my homeowner's insurance cover roof repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Homeowner's insurance typically covers roof repairs for damage caused by sudden, unexpected events, such as severe storms, falling trees, or vandalism. It generally does not cover damage resulting from neglect, poor maintenance, or normal wear and tear due to the roof's age. It's important to review your specific policy to understand your coverage, deductibles, and the claims process. Documenting the damage with photos or videos can also help with your claim.",
+        "description": "Homeowner's insurance usually covers damage from sudden events like storms or falling trees, not neglect or wear and tear. Check your policy details."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

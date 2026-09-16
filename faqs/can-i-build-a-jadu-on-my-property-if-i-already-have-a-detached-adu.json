@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I build a JADU on my property if I already have a detached ADU?",
+  "description": "Yes, state law generally allows for both a JADU and a standard ADU on a single-family lot, provided all local zoning and building codes are met.",
+  "url": "affordablehomeremodeling.com/faq/can-i-build-a-jadu-on-my-property-if-i-already-have-a-detached-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I build a JADU on my property if I already have a detached ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "State law allows for the construction of both a Junior ADU and a standard ADU on the same single-family residential lot. This means that if you already have a detached ADU, you may still be able to convert space within your primary home to create a JADU, provided all local zoning and building code requirements are met for both units. This can offer significant flexibility for homeowners looking to maximize housing options or rental income on their property.",
+        "description": "Yes, state law generally allows for both a JADU and a standard ADU on a single-family lot, provided all local zoning and building codes are met."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

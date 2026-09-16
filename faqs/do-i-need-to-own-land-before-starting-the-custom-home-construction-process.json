@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to own land before starting the custom home construction process?",
+  "description": "Yes, you generally need to own the land or have a specific lot identified. The land's characteristics significantly impact design, costs, and permitting.",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-own-land-before-starting-the-custom-home-construction-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to own land before starting the custom home construction process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, generally, you should own the land or have a specific lot identified before initiating the custom home construction process. The land itself greatly influences the home's design, foundation requirements, utility connections, and overall project cost. Site-specific factors like topography, soil conditions, and local zoning ordinances will impact architectural plans and permitting. While initial design discussions can begin without land, detailed planning and accurate budgeting require a known site. We can offer guidance on site selection considerations during our initial consultation.",
+        "description": "Yes, you generally need to own the land or have a specific lot identified. The land's characteristics significantly impact design, costs, and permitting."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

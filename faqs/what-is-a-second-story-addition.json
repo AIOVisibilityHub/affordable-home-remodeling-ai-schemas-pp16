@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a second-story addition?",
+  "description": "A second-story addition builds a new floor on an existing single-story home, expanding living space vertically. It requires structural assessment and adherence",
+  "url": "affordablehomeremodeling.com/faq/what-is-a-second-story-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a second-story addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A second-story addition involves building an entirely new floor on top of an existing single-story home. This type of renovation significantly expands living space without encroaching on yard size. It typically includes adding new bedrooms, bathrooms, or living areas. The process requires careful planning, structural assessment, and adherence to local building codes to ensure the new level is properly supported and integrated with the existing structure. It's a comprehensive project often chosen by homeowners who need more space but have limited property for horizontal expansion.",
+        "description": "A second-story addition builds a new floor on an existing single-story home, expanding living space vertically. It requires structural assessment and adherence to building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

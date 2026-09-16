@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in a whole-house remodel?",
+  "description": "A whole-house remodel updates multiple areas of your home, including structural, plumbing, electrical, and aesthetic elements, for a cohesive new look and impro",
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-a-whole-house-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in a whole-house remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A whole-house remodel typically involves significant changes to multiple areas of your home, often including structural modifications, reconfiguring layouts, updating plumbing and electrical systems, and installing new finishes throughout. This comprehensive approach allows for a cohesive design and improved functionality across the entire property. It can range from minor cosmetic updates in every room to a complete overhaul, depending on the home's condition and the homeowner's goals. Our team handles everything from initial design to final construction.",
+        "description": "A whole-house remodel updates multiple areas of your home, including structural, plumbing, electrical, and aesthetic elements, for a cohesive new look and improved functionality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

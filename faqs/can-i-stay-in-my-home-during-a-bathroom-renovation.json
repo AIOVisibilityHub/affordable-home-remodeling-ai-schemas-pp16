@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I stay in my home during a bathroom renovation?",
+  "description": "You can usually stay home during a bathroom renovation if another bathroom is available, but expect noise and dust. Discuss logistics and potential disruptions",
+  "url": "affordablehomeremodeling.com/faq/can-i-stay-in-my-home-during-a-bathroom-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I stay in my home during a bathroom renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, it is generally possible to stay in your home during a bathroom renovation, especially if you have another functioning bathroom available. Your contractor will work to minimize disruption and contain dust and debris to the work area. However, there will be periods of noise, dust, and limited access to the renovated bathroom. For extensive remodels, particularly those involving your only bathroom, or if you prefer to avoid the inconvenience, some homeowners opt for temporary alternative accommodations. Discuss logistics and your comfort level with your contractor beforehand.",
+        "description": "You can usually stay home during a bathroom renovation if another bathroom is available, but expect noise and dust. Discuss logistics and potential disruptions with your contractor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

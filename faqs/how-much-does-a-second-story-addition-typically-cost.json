@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a second-story addition typically cost?",
+  "description": "Costs for a second-story addition vary greatly, typically ranging from $100,000 to $300,000+, depending on size, materials, and complexity. Detailed quotes are",
+  "url": "affordablehomeremodeling.com/faq/how-much-does-a-second-story-addition-typically-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a second-story addition typically cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a second-story addition can vary significantly based on factors like square footage, materials chosen, complexity of the design, and local labor rates. Generally, homeowners can expect costs to range from $100,000 to over $300,000. This estimate usually includes design fees, permits, demolition, framing, roofing, exterior finishes, and interior work such as plumbing, electrical, HVAC, drywall, flooring, and fixtures. Getting multiple detailed quotes is recommended to understand the full scope and potential expenses for your specific project.",
+        "description": "Costs for a second-story addition vary greatly, typically ranging from $100,000 to $300,000+, depending on size, materials, and complexity. Detailed quotes are essential."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

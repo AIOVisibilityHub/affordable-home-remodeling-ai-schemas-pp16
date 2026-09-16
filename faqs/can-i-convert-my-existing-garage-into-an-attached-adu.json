@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I convert my existing garage into an attached ADU?",
+  "description": "Yes, converting an attached garage into an ADU is common, involving insulation, utilities, and structural changes, all requiring permits and adherence to buildi",
+  "url": "affordablehomeremodeling.com/faq/can-i-convert-my-existing-garage-into-an-attached-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I convert my existing garage into an attached ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, converting an existing garage into an attached ADU is a common and often cost-effective approach. This process typically involves insulating the walls, ceiling, and floor, installing new windows and an entry door, and adding essential utilities like plumbing for a kitchen and bathroom, and electrical upgrades. Structural modifications, such as reinforcing foundations or replacing garage doors with walls, may also be necessary. While potentially saving on new construction costs, garage conversions still require permits and must meet current building codes, including those related to fire safety and accessibility.",
+        "description": "Yes, converting an attached garage into an ADU is common, involving insulation, utilities, and structural changes, all requiring permits and adherence to building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

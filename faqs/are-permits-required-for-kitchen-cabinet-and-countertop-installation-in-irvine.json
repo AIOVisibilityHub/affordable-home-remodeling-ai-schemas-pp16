@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are permits required for kitchen cabinet and countertop installation in Irvine?",
+  "description": "Permits in Irvine are generally not needed for basic cabinet and countertop replacement, but are required for structural changes or significant plumbing/electri",
+  "url": "affordablehomeremodeling.com/faq/are-permits-required-for-kitchen-cabinet-and-countertop-installation-in-irvine",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are permits required for kitchen cabinet and countertop installation in Irvine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For typical kitchen cabinet and countertop replacements that do not involve structural changes, significant plumbing or electrical re-routing, or expanding the kitchen footprint, permits are often not required in Irvine. However, if your project includes altering walls, relocating major appliances requiring new electrical circuits or gas lines, or extensive plumbing modifications, then permits from the City of Irvine Building Division would likely be necessary. We can help assess your specific project scope and advise on any required permits during our consultation.",
+        "description": "Permits in Irvine are generally not needed for basic cabinet and countertop replacement, but are required for structural changes or significant plumbing/electrical work."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

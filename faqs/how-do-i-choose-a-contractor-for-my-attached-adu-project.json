@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a contractor for my attached ADU project?",
+  "description": "Choose a licensed, insured contractor experienced in ADU construction, check their portfolio and references, and ensure they provide a detailed proposal and are",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-contractor-for-my-attached-adu-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a contractor for my attached ADU project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right contractor is crucial for a successful attached ADU project. Look for licensed and insured general contractors with specific experience in ADU construction, especially in your local area (e.g., Orange County). Request to see their portfolio of previous ADU projects and ask for references from past clients. A reputable contractor will provide a detailed proposal, including a clear scope of work, timeline, and cost breakdown. Ensure they are familiar with local zoning laws and building codes for ADUs. Communication style and transparency are also key factors to consider.",
+        "description": "Choose a licensed, insured contractor experienced in ADU construction, check their portfolio and references, and ensure they provide a detailed proposal and are familiar with local codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

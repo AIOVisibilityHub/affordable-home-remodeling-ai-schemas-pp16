@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for installing new windows?",
+  "description": "The process includes consultation, measurement, ordering, old window removal, new window installation with proper sealing, cleanup, and a final inspection.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-installing-new-windows",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for installing new windows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our window installation process typically begins with a consultation and measurement to understand your needs and provide an accurate quote. Once approved, we order your custom windows. On installation day, our team prepares the work area, removes old windows, prepares the opening, installs the new windows, ensures proper sealing and insulation, and conducts a thorough cleanup. We then perform a final inspection with you to ensure satisfaction.",
+        "description": "The process includes consultation, measurement, ordering, old window removal, new window installation with proper sealing, cleanup, and a final inspection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

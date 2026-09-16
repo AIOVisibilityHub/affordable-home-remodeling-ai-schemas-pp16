@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a contractor for a second-story addition?",
+  "description": "Select a licensed, insured contractor with experience in second-story additions. Check references, review their portfolio, and ensure they are familiar with loc",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-contractor-for-a-second-story-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a contractor for a second-story addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right contractor for a second-story addition involves careful research and due diligence. Look for a licensed and insured general contractor with extensive experience in similar vertical additions. Check their portfolio for relevant projects and ask for references from past clients. Ensure they are familiar with local building codes and permitting processes in your area. Obtain detailed, written proposals from multiple contractors that outline the scope of work, timeline, and cost breakdown. Clear communication and a strong track record are key indicators of a reliable partner.",
+        "description": "Select a licensed, insured contractor with experience in second-story additions. Check references, review their portfolio, and ensure they are familiar with local codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

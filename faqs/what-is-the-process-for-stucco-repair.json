@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for stucco repair?",
+  "description": "The process involves inspection, removing damaged stucco, addressing underlying issues, applying new lath/barrier, and then multiple coats of stucco.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-stucco-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for stucco repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The stucco repair process typically begins with an inspection to identify the cause and extent of the damage. Damaged or loose stucco is carefully removed, and any underlying issues, such as water damage or damaged lath, are addressed. New lath and a waterproof barrier may be applied if needed. Then, multiple coats of new stucco (scratch coat, brown coat, and finish coat) are applied, carefully matching the texture and color of the existing stucco. Finally, the repair is allowed to cure properly.",
+        "description": "The process involves inspection, removing damaged stucco, addressing underlying issues, applying new lath/barrier, and then multiple coats of stucco."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between ground-up construction and a major remodel?",
+  "description": "Ground-up construction builds a new home on vacant land; a major remodel significantly alters an existing structure.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-ground-up-construction-and-a-major-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between ground-up construction and a major remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ground-up construction involves building a completely new structure on vacant land, offering full design flexibility and the ability to customize every aspect. A major remodel, conversely, involves significant alterations to an existing structure, often retaining a substantial portion of the original foundation and framework. While remodels can be extensive, they are often limited by the existing footprint and structural elements, whereas ground-up construction starts with a blank slate.",
+        "description": "Ground-up construction builds a new home on vacant land; a major remodel significantly alters an existing structure."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

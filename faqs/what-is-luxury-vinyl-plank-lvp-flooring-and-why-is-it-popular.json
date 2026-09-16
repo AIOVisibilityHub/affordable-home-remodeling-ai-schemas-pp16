@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is luxury vinyl plank (LVP) flooring and why is it popular?",
+  "description": "LVP is a durable, water-resistant, multi-layered synthetic flooring that mimics wood or stone, popular for its versatility, comfort, and affordability.",
+  "url": "affordablehomeremodeling.com/faq/what-is-luxury-vinyl-plank-lvp-flooring-and-why-is-it-popular",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is luxury vinyl plank (LVP) flooring and why is it popular?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Luxury Vinyl Plank (LVP) is a multi-layered synthetic flooring product designed to mimic the appearance of natural wood or stone. It's composed of a core layer, a photographic print layer, and a clear protective wear layer. LVP is popular due to its exceptional durability, water resistance, and versatility, making it suitable for any room, including kitchens, bathrooms, and basements. It's also known for being comfortable underfoot, relatively easy to maintain, and more affordable than many natural flooring options while still offering a high-end look. Its robust nature makes it ideal for busy households.",
+        "description": "LVP is a durable, water-resistant, multi-layered synthetic flooring that mimics wood or stone, popular for its versatility, comfort, and affordability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

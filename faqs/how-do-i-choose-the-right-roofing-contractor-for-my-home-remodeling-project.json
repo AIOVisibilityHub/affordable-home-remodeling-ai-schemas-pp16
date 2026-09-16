@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right roofing contractor for my home remodeling project?",
+  "description": "Choose a licensed, insured, and reputable contractor with good reviews, clear estimates, and warranties. Verify their local experience and references.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-roofing-contractor-for-my-home-remodeling-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right roofing contractor for my home remodeling project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a roofing contractor, look for licensed and insured professionals with a strong local reputation. Check for positive customer reviews and ask for references. Ensure they provide a detailed written estimate outlining all costs and the project scope. A reputable contractor will also offer a warranty on their workmanship and materials. We are licensed, insured, and committed to transparency and quality.",
+        "description": "Choose a licensed, insured, and reputable contractor with good reviews, clear estimates, and warranties. Verify their local experience and references."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

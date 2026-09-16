@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for a flooring replacement project?",
+  "description": "The process involves consultation, material selection, quote, old flooring removal, subfloor prep, new flooring installation, and a final walkthrough.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-a-flooring-replacement-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for a flooring replacement project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The flooring replacement process typically begins with a consultation and measurement. Next, you select materials, and we provide a detailed quote. After approval, old flooring is removed, and the subfloor is prepared, which might include repairs or leveling. Then, the new flooring is installed according to manufacturer specifications. Finally, we conduct a walkthrough to ensure your satisfaction and address any finishing touches.",
+        "description": "The process involves consultation, material selection, quote, old flooring removal, subfloor prep, new flooring installation, and a final walkthrough."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

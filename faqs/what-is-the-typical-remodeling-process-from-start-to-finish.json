@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical remodeling process, from start to finish?",
+  "description": "The process involves consultation, design and planning, permit acquisition, construction (demolition, framing, systems, finishes), inspections, and a final walk",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-remodeling-process-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical remodeling process, from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The remodeling process generally begins with an initial consultation to discuss your vision and goals. This is followed by design and planning, where blueprints, material selections, and a detailed scope of work are developed. After design approval, permits are secured. Construction then commences, involving demolition, framing, system installations (electrical, plumbing), inspections, and finishing touches. The process concludes with a final walkthrough and project completion, ensuring everything meets your expectations.",
+        "description": "The process involves consultation, design and planning, permit acquisition, construction (demolition, framing, systems, finishes), inspections, and a final walkthrough."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

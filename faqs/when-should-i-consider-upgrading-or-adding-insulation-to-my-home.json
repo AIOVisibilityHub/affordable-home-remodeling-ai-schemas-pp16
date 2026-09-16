@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider upgrading or adding insulation to my home?",
+  "description": "Upgrade insulation if you have drafts, high energy bills, inconsistent temperatures, or if your home is old. It's also a smart upgrade during remodeling project",
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-upgrading-or-adding-insulation-to-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider upgrading or adding insulation to my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider upgrading or adding insulation if you experience drafts, inconsistent temperatures between rooms, high energy bills, or if your home is more than 10-15 years old and has never had an insulation inspection. Signs like ice dams on your roof in winter or excessive heat in your attic during summer also indicate poor insulation. Upgrading insulation is also a common and effective improvement during home remodeling projects, especially when replacing roofing or siding.",
+        "description": "Upgrade insulation if you have drafts, high energy bills, inconsistent temperatures, or if your home is old. It's also a smart upgrade during remodeling projects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

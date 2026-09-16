@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I prepare my home for a roof replacement?",
+  "description": "Prepare your home by clearing exterior areas, trimming branches, removing fragile interior items, and ensuring clear access for the work crew.",
+  "url": "affordablehomeremodeling.com/faq/how-can-i-prepare-my-home-for-a-roof-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I prepare my home for a roof replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare your home for a roof replacement, clear the area around your house where debris might fall, such as patio furniture, grills, and potted plants. Trim overhanging tree branches if possible. Inside, remove fragile items from walls and shelves, especially in attics or upper floors, as vibrations can cause them to fall. Ensure access for the work crew and their equipment, and discuss any specific concerns or access limitations with your contractor in advance.",
+        "description": "Prepare your home by clearing exterior areas, trimming branches, removing fragile interior items, and ensuring clear access for the work crew."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common uses for a detached ADU?",
+  "description": "Common uses include housing family, rental income, home offices, art studios, guest houses, or private gyms.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-common-uses-for-a-detached-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common uses for a detached ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Detached ADUs serve a variety of practical purposes for homeowners. Many use them to house aging parents or adult children, providing independent living space close to family. They are also popular as rental units, generating passive income. Other common uses include dedicated home offices, art studios, guest houses for visitors, private gyms, or even a quiet retreat space separate from the main home.",
+        "description": "Common uses include housing family, rental income, home offices, art studios, guest houses, or private gyms."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

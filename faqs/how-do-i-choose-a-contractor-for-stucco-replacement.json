@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a contractor for stucco replacement?",
+  "description": "Choose a contractor with a strong local reputation, stucco experience, proper licensing and insurance, and a detailed written estimate. Check references and por",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-contractor-for-stucco-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a contractor for stucco replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a stucco replacement contractor, look for one with a strong local reputation, proven experience specifically with stucco, and appropriate licensing and insurance. Check their portfolio for similar projects and ask for references. Ensure they provide a detailed, written estimate outlining all costs, materials, and project timelines. Communication skills and a clear understanding of your project's needs are also vital for a successful outcome.",
+        "description": "Choose a contractor with a strong local reputation, stucco experience, proper licensing and insurance, and a detailed written estimate. Check references and portfolio."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

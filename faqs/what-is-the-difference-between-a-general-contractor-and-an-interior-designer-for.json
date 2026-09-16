@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a general contractor and an interior designer for renovations?",
+  "description": "A general contractor executes the renovation, managing construction and trades, while an interior designer focuses on aesthetic and functional design choices.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-general-contractor-and-an-interior-designer-for",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a general contractor and an interior designer for renovations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A general contractor manages the construction and execution of a renovation project, overseeing trades, schedules, and budgets. An interior designer focuses on the aesthetic and functional design aspects, selecting materials, colors, and layouts. While a designer creates the vision, the contractor brings it to life. We often collaborate closely with designers or can assist with design elements as part of our service.",
+        "description": "A general contractor executes the renovation, managing construction and trades, while an interior designer focuses on aesthetic and functional design choices."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

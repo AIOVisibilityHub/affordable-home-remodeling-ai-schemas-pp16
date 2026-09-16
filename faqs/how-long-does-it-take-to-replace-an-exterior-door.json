@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does it take to replace an exterior door?",
+  "description": "A standard exterior door replacement typically takes 4 to 8 hours, usually completed within one day, depending on installation complexity.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-replace-an-exterior-door",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does it take to replace an exterior door?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most standard exterior door replacements can be completed within a single day, often taking between 4 to 8 hours. This timeframe can vary depending on the complexity of the installation, such as whether the frame needs significant modification, if the opening needs structural adjustments, or if custom fitting is required. More complex installations with sidelights or transoms may take longer.",
+        "description": "A standard exterior door replacement typically takes 4 to 8 hours, usually completed within one day, depending on installation complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

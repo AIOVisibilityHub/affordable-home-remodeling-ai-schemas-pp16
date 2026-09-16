@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the size limitations for a detached ADU in Huntington Beach?",
+  "description": "Huntington Beach typically limits detached ADUs to a maximum of 1,200 square feet, with specific rules on setbacks and proportion to the main house.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-size-limitations-for-a-detached-adu-in-huntington-beach",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the size limitations for a detached ADU in Huntington Beach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Huntington Beach, detached ADUs generally have specific size limitations, which can vary based on the primary dwelling size and lot size. Typically, the maximum size for a detached ADU is around 1,200 square feet, but it cannot exceed 50% of the existing main home's living area if the primary home is smaller. Setbacks from property lines and existing structures also apply. Specific regulations should be verified with the city's planning department or a qualified contractor.",
+        "description": "Huntington Beach typically limits detached ADUs to a maximum of 1,200 square feet, with specific rules on setbacks and proportion to the main house."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

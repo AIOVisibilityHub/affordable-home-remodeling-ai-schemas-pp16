@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for in a plot of land for new construction?",
+  "description": "Look for suitable zoning, topography, soil conditions, utility access, and research local building codes and potential challenges.",
+  "url": "affordablehomeremodeling.com/faq/what-should-i-look-for-in-a-plot-of-land-for-new-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for in a plot of land for new construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When evaluating a plot of land for new construction, consider factors like zoning restrictions, topography (slope), soil conditions, and access to utilities (water, sewer/septic, electricity). Research potential environmental concerns, local building codes, and proximity to desired amenities or services. A site survey and geotechnical report are crucial to understand the land's suitability and any potential development challenges before purchase.",
+        "description": "Look for suitable zoning, topography, soil conditions, utility access, and research local building codes and potential challenges."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

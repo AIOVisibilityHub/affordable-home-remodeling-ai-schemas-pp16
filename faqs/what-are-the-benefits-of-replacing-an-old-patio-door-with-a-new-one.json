@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of replacing an old patio door with a new one?",
+  "description": "Benefits include improved energy efficiency, enhanced security, better aesthetics, increased natural light, and smoother operation.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-replacing-an-old-patio-door-with-a-new-one",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of replacing an old patio door with a new one?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Replacing an old patio door offers several benefits. Modern patio doors provide better insulation, reducing energy loss and lowering heating and cooling costs. They often feature improved security mechanisms, enhancing home safety. New designs can also significantly update the aesthetic appeal of your home, allowing more natural light and improving functionality with smoother operation and better weather sealing.",
+        "description": "Benefits include improved energy efficiency, enhanced security, better aesthetics, increased natural light, and smoother operation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

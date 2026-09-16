@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the signs that my home needs an insulation upgrade?",
+  "description": "Signs include high energy bills, inconsistent room temperatures, drafts, and an HVAC system running constantly.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-that-my-home-needs-an-insulation-upgrade",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the signs that my home needs an insulation upgrade?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common indicators that your home may benefit from an insulation upgrade include inconsistent temperatures between rooms, high energy bills despite moderate usage, drafts, and ice dams forming on the roof in colder climates (though less common in Southern California). You might also notice your HVAC system running constantly to maintain the thermostat setting. Older homes often have outdated or insufficient insulation, which degrades over time, reducing its effectiveness.",
+        "description": "Signs include high energy bills, inconsistent room temperatures, drafts, and an HVAC system running constantly."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

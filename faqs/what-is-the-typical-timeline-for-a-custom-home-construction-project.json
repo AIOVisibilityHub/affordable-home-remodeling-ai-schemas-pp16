@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for a custom home construction project?",
+  "description": "Custom home construction typically takes 12 to 24 months, including design, permitting, and construction. This can vary based on project complexity and other fa",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-a-custom-home-construction-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for a custom home construction project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for custom home construction varies significantly based on factors like design complexity, material choices, site conditions, and permitting processes. Generally, a custom home project from initial design to move-in can take anywhere from 12 to 24 months. This includes several phases: design and architectural planning (3-6 months), permitting and approvals (1-3 months), and the actual construction phase (8-14 months). Unexpected delays due to weather, material availability, or inspections can also impact the overall schedule. A clear project schedule will be provided after the design phase is complete.",
+        "description": "Custom home construction typically takes 12 to 24 months, including design, permitting, and construction. This can vary based on project complexity and other factors."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

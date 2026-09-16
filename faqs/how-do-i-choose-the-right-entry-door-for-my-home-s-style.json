@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right entry door for my home's style?",
+  "description": "Match your entry door to your home's architectural style, considering material, color, hardware, and glass elements for a cohesive look.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-entry-door-for-my-home-s-style",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right entry door for my home's style?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right entry door involves considering your home's architectural style, your personal preferences, and functional needs. For traditional homes, wood or wood-look fiberglass doors with classic paneling may be suitable. Modern homes might benefit from sleek fiberglass or steel doors with clean lines and glass inserts. Consider color, hardware finishes, and any decorative glass elements to ensure the door complements your home's overall aesthetic and provides desired light and privacy.",
+        "description": "Match your entry door to your home's architectural style, considering material, color, hardware, and glass elements for a cohesive look."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of warranty should I expect for roof repair work?",
+  "description": "Expect separate material and labor warranties. Material warranties come from manufacturers, while labor warranties are from the contractor. Review terms careful",
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-warranty-should-i-expect-for-roof-repair-work",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of warranty should I expect for roof repair work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reputable roofing contractors typically offer warranties on their repair work, covering both materials and labor. Material warranties are often provided by the manufacturer and can vary in length. Labor warranties, offered by the contractor, usually cover the quality of the installation or repair. It's crucial to understand the terms, duration, and what specifically is covered by both warranties before work begins, as they protect your investment in the long term.",
+        "description": "Expect separate material and labor warranties. Material warranties come from manufacturers, while labor warranties are from the contractor. Review terms carefully."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

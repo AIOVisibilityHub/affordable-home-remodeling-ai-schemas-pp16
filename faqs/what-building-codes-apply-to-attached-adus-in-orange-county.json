@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What building codes apply to attached ADUs in Orange County?",
+  "description": "Attached ADUs in Orange County must adhere to state ADU laws and local building codes and zoning ordinances covering structural, utility, safety, and design asp",
+  "url": "affordablehomeremodeling.com/faq/what-building-codes-apply-to-attached-adus-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What building codes apply to attached ADUs in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Attached ADUs in Orange County must comply with state-mandated ADU laws, as well as local building codes and zoning ordinances specific to cities like Huntington Beach, Irvine, or Mission Viejo. These codes cover aspects such as structural integrity, electrical systems, plumbing, fire safety, energy efficiency, and accessibility. While state law has relaxed some requirements to encourage ADU development, local jurisdictions still enforce their own specific setbacks, height restrictions, and design guidelines. Your contractor or architect will ensure your plans meet all applicable state and local codes before submitting for permits.",
+        "description": "Attached ADUs in Orange County must adhere to state ADU laws and local building codes and zoning ordinances covering structural, utility, safety, and design aspects."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

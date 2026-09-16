@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common challenges homeowners face when building a JADU?",
+  "description": "Homeowners often face challenges with permitting, unexpected structural issues, and ensuring compliance with building codes when converting space for a JADU.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-common-challenges-homeowners-face-when-building-a-jadu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common challenges homeowners face when building a JADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common challenges for JADU projects include navigating complex local permitting processes and ensuring the proposed unit meets all building codes, especially regarding fire safety and egress. Converting existing space can sometimes uncover unforeseen structural or utility issues that add to costs and timelines. Homeowners also need to consider the impact on their primary residence, such as privacy and parking. Finding experienced contractors familiar with JADU regulations in areas like Fountain Valley or Anaheim is key to overcoming these hurdles.",
+        "description": "Homeowners often face challenges with permitting, unexpected structural issues, and ensuring compliance with building codes when converting space for a JADU."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

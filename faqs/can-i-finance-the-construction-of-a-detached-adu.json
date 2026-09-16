@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I finance the construction of a detached ADU?",
+  "description": "Yes, financing options include home equity loans, HELOCs, construction loans, cash-out refinancing, and specialized ADU loans.",
+  "url": "affordablehomeremodeling.com/faq/can-i-finance-the-construction-of-a-detached-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I finance the construction of a detached ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, there are several financing options available for detached ADU construction. Common methods include home equity loans, home equity lines of credit (HELOCs), construction loans, and cash-out refinancing. Some lenders also offer specific ADU loans. The best option depends on your current financial situation, home equity, and credit score. It's advisable to speak with a financial advisor or lender to explore the best financing solution for your project.",
+        "description": "Yes, financing options include home equity loans, HELOCs, construction loans, cash-out refinancing, and specialized ADU loans."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

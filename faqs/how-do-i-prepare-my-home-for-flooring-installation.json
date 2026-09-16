@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prepare my home for flooring installation?",
+  "description": "Clear furniture and belongings, remove wall decorations, and ensure clear pathways. We protect surrounding areas and discuss specific needs.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-prepare-my-home-for-flooring-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prepare my home for flooring installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare your home for flooring installation, we recommend clearing all furniture and personal belongings from the rooms where work will be done. This includes removing any wall decorations or fragile items that could be impacted. Ensure pathways to the work area are clear. If you are handling old flooring removal yourself, complete it before our team arrives. We will protect surrounding areas with appropriate coverings. Specific preparation details can be discussed during your pre-installation consultation to ensure a smooth and efficient process.",
+        "description": "Clear furniture and belongings, remove wall decorations, and ensure clear pathways. We protect surrounding areas and discuss specific needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

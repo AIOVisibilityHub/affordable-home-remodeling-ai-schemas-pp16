@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits and approvals are required for a room addition?",
+  "description": "Room additions typically require building, electrical, plumbing, and mechanical permits from your local building department. Your contractor should manage this",
+  "url": "affordablehomeremodeling.com/faq/what-permits-and-approvals-are-required-for-a-room-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits and approvals are required for a room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most room additions require various permits from your local city or county building department to ensure compliance with zoning laws, building codes, and safety standards. These often include building permits, and potentially electrical, plumbing, and mechanical permits, depending on the scope. The specific requirements can vary by municipality within our service areas, such as Huntington Beach or Irvine. Your general contractor should handle the submission of plans and necessary documentation to obtain all required permits before construction begins.",
+        "description": "Room additions typically require building, electrical, plumbing, and mechanical permits from your local building department. Your contractor should manage this process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

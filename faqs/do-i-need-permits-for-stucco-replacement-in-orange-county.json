@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for stucco replacement in Orange County?",
+  "description": "Yes, permits are typically required for stucco replacement in Orange County cities like Huntington Beach and Irvine. Consult your local building department or c",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-stucco-replacement-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for stucco replacement in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for stucco replacement projects in Orange County, including cities like Huntington Beach, Irvine, and Mission Viejo, permits are typically required. This is because stucco work involves altering the exterior envelope of the structure, which is subject to local building codes for safety, structural integrity, and energy efficiency. Always consult with your local building department or your contractor to ensure all necessary permits are obtained before starting any work.",
+        "description": "Yes, permits are typically required for stucco replacement in Orange County cities like Huntington Beach and Irvine. Consult your local building department or contractor."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

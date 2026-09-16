@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When is it necessary to replace my subfloor before new flooring installation?",
+  "description": "Subfloor replacement is needed for water damage, rot, warping, or squeaking. We assess its condition to ensure your new flooring's stability.",
+  "url": "affordablehomeremodeling.com/faq/when-is-it-necessary-to-replace-my-subfloor-before-new-flooring-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When is it necessary to replace my subfloor before new flooring installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Replacing your subfloor is necessary if it shows signs of damage, such as water damage, rot, significant warping, or excessive squeaking. An uneven or compromised subfloor can lead to issues with your new flooring, including premature wear, gaps, or an unstable feel. During our initial assessment, we thoroughly inspect the existing subfloor for any imperfections or structural weaknesses. If repairs or replacement are needed, we will clearly communicate these requirements and the associated costs before proceeding with the new flooring installation to ensure a durable and long-lasting finish.",
+        "description": "Subfloor replacement is needed for water damage, rot, warping, or squeaking. We assess its condition to ensure your new flooring's stability."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of return on investment can I expect from an interior kitchen or bathroom renovation?",
+  "description": "Kitchen and bathroom renovations often provide a high return on investment, typically recouping 60-80% or more of the cost, enhancing appeal and functionality.",
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-return-on-investment-can-i-expect-from-an-interior-kitchen-or-bathr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of return on investment can I expect from an interior kitchen or bathroom renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kitchen and bathroom renovations typically offer some of the highest returns on investment among interior home improvements. While exact figures vary, you can often recoup a significant portion of your investment, sometimes 60-80% or more, depending on the scope, quality of finishes, and local market conditions. These upgrades enhance both the aesthetic appeal and functionality of your home, attracting potential buyers.",
+        "description": "Kitchen and bathroom renovations often provide a high return on investment, typically recouping 60-80% or more of the cost, enhancing appeal and functionality."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

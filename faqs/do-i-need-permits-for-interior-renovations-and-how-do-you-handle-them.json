@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for interior renovations, and how do you handle them?",
+  "description": "Yes, many interior renovations require permits, especially for structural, plumbing, or electrical work. We handle all necessary permit acquisition and coordina",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-interior-renovations-and-how-do-you-handle-them",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for interior renovations, and how do you handle them?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most significant interior renovations, especially those involving structural changes, plumbing, or electrical work, require permits from your local city or county building department. For example, in Orange County cities like Mission Viejo or Yorba Linda, this is common. We manage the entire permitting process on your behalf, from preparing and submitting plans to coordinating with inspectors. This ensures your project complies with all local building codes and regulations.",
+        "description": "Yes, many interior renovations require permits, especially for structural, plumbing, or electrical work. We handle all necessary permit acquisition and coordination with local authorities."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to replace flooring in Orange County?",
+  "description": "Costs in Orange County vary, typically ranging from $3 to $20+ per square foot installed, depending on material and project complexity.",
+  "url": "affordablehomeremodeling.com/faq/how-much-does-it-cost-to-replace-flooring-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to replace flooring in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Flooring replacement costs in Orange County vary widely based on material choice, room size, and installation complexity. Basic laminate or vinyl can start from $3-$7 per square foot installed, while quality hardwood or tile might range from $8-$20+ per square foot. These estimates include labor and materials. Factors like subfloor preparation, old flooring removal, and custom patterns can also impact the final price. We provide detailed, itemized quotes after an on-site assessment.",
+        "description": "Costs in Orange County vary, typically ranging from $3 to $20+ per square foot installed, depending on material and project complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

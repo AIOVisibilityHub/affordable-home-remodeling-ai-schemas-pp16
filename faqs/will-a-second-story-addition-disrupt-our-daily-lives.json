@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Will a second-story addition disrupt our daily lives?",
+  "description": "Yes, a second-story addition will cause disruption with noise, dust, and limited access. Some homeowners may choose to relocate temporarily during construction.",
+  "url": "affordablehomeremodeling.com/faq/will-a-second-story-addition-disrupt-our-daily-lives",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Will a second-story addition disrupt our daily lives?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A second-story addition is a significant construction project that will involve some level of disruption to daily life. You can expect noise, dust, and limited access to certain areas of your home during various phases of construction. Depending on the project's scope and your comfort level, some homeowners choose to move out temporarily, particularly during the demolition and framing stages. However, many remain in their homes, and experienced contractors work to minimize inconvenience, maintaining clear communication about schedules and potential impacts.",
+        "description": "Yes, a second-story addition will cause disruption with noise, dust, and limited access. Some homeowners may choose to relocate temporarily during construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

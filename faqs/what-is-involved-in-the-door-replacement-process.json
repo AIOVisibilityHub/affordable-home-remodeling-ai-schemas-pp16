@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the door replacement process?",
+  "description": "The process involves removing the old door, preparing the opening, installing the new door frame and slab, making adjustments, and finishing with trim and hardw",
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-the-door-replacement-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the door replacement process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The door replacement process typically begins with removing the old door and frame. The opening is then prepared, ensuring it is level and plumb. The new door frame is installed, followed by the door slab itself. Adjustments are made to ensure proper fit, operation, and weather-sealing. Finally, trim and hardware are installed, and the surrounding area is cleaned. The process usually takes a few hours to a full day per door.",
+        "description": "The process involves removing the old door, preparing the opening, installing the new door frame and slab, making adjustments, and finishing with trim and hardware."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

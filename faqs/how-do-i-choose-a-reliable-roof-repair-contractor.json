@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a reliable roof repair contractor?",
+  "description": "Choose licensed, insured contractors with good reviews and references. Get detailed written estimates and ensure they understand local building codes.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-reliable-roof-repair-contractor",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a reliable roof repair contractor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a roof repair contractor, look for licensed and insured professionals with a strong local reputation. Check their reviews and ask for references from previous clients. Ensure they provide a detailed written estimate outlining the scope of work, materials, timeline, and warranty information. A reputable contractor will also be transparent about their process and able to answer all your questions clearly. Prioritize those familiar with local building codes.",
+        "description": "Choose licensed, insured contractors with good reviews and references. Get detailed written estimates and ensure they understand local building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

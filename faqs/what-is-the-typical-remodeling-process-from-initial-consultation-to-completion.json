@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical remodeling process, from initial consultation to completion?",
+  "description": "Our process involves an initial consultation, design and planning, securing permits, construction, and a final walkthrough to ensure your satisfaction.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-remodeling-process-from-initial-consultation-to-completion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical remodeling process, from initial consultation to completion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Our remodeling process typically begins with an initial consultation to discuss your vision, needs, and budget. Next, we move to design and planning, where we develop detailed plans and select materials. Once plans are approved and permits are secured, the construction phase begins. This involves demolition, rough-ins for plumbing and electrical, installation of new features, finishes, and final inspections. Throughout, we maintain open communication, provide regular updates, and ensure the project adheres to the timeline and budget. The project concludes with a final walkthrough to ensure your complete satisfaction.",
+        "description": "Our process involves an initial consultation, design and planning, securing permits, construction, and a final walkthrough to ensure your satisfaction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

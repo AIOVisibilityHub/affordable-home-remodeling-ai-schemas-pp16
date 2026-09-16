@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to get permits for window replacement in Orange County?",
+  "description": "Permits are usually not needed for minor window replacements that don't alter structural openings. Larger projects or new window additions typically require the",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-get-permits-for-window-replacement-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to get permits for window replacement in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In many cases, minor window replacements that don't alter the structural opening or framing do not require a permit in Orange County cities like Irvine or Huntington Beach. However, if you're enlarging an existing opening, adding new windows, or making significant structural changes, a permit is typically required. It's always best to verify with your specific city's building department. We can assist you in determining if a permit is needed for your project.",
+        "description": "Permits are usually not needed for minor window replacements that don't alter structural openings. Larger projects or new window additions typically require them. We can advise on specific city requirements in Orange County."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

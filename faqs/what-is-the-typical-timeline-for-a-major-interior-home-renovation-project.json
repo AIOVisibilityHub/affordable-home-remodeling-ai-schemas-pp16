@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for a major interior home renovation project?",
+  "description": "Major interior renovations typically range from 4 weeks for a bathroom to 6 months for a whole home, depending on project complexity and scope.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-a-major-interior-home-renovation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for a major interior home renovation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a major interior home renovation varies significantly based on scope. A kitchen remodel might take 6-10 weeks, while a bathroom remodel could be 4-8 weeks. Whole-home renovations often span 3-6 months or more, depending on structural changes, material availability, and permitting processes. We provide a detailed project schedule outlining each phase, from design to final inspection, to ensure transparency and timely completion.",
+        "description": "Major interior renovations typically range from 4 weeks for a bathroom to 6 months for a whole home, depending on project complexity and scope."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

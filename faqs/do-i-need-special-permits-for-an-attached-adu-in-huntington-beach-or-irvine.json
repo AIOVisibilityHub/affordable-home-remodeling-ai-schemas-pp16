@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need special permits for an attached ADU in Huntington Beach or Irvine?",
+  "description": "Yes, attached ADUs in Huntington Beach or Irvine require specific city permits and must comply with local zoning rules, even with state ADU streamlining.",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-special-permits-for-an-attached-adu-in-huntington-beach-or-irvine",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need special permits for an attached ADU in Huntington Beach or Irvine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, building an attached ADU in Huntington Beach or Irvine, like other cities, requires specific permits and adherence to local zoning ordinances. While state laws have streamlined ADU development, individual cities still have their own requirements regarding setbacks, height limits, parking, and design standards. You'll need to submit detailed architectural plans to your city's planning and building departments for review and approval. It's crucial to consult with a local contractor or planning department early in the process to ensure full compliance with all city-specific regulations.",
+        "description": "Yes, attached ADUs in Huntington Beach or Irvine require specific city permits and must comply with local zoning rules, even with state ADU streamlining."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

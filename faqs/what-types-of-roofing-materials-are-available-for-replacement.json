@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of roofing materials are available for replacement?",
+  "description": "Available materials include asphalt shingles, clay or concrete tiles, and metal roofing, each with unique benefits.",
+  "url": "affordablehomeremodeling.com/faq/what-types-of-roofing-materials-are-available-for-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of roofing materials are available for replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A variety of roofing materials are available, each offering different aesthetics, durability, and cost. Common options include asphalt shingles, which are popular for their affordability and versatility. Tile roofs, such as clay or concrete, offer excellent longevity and a distinct appearance, often preferred in Southern California. Metal roofing provides exceptional durability and energy efficiency. Other options like wood shakes or synthetic materials are also available. We can help you choose the best material to suit your home's style, budget, and local climate.",
+        "description": "Available materials include asphalt shingles, clay or concrete tiles, and metal roofing, each with unique benefits."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

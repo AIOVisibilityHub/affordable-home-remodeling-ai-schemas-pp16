@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider replacing my home's doors?",
+  "description": "Consider replacing doors if you observe drafts, damage, difficulty operating, poor security, or if they are outdated, affecting curb appeal and energy efficienc",
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-replacing-my-home-s-doors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider replacing my home's doors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider replacing your home's doors if you notice drafts, difficulty opening or closing, visible damage like rot or cracks, or if they no longer provide adequate security. Outdated doors can also detract from your home's curb appeal and energy efficiency. Upgrading to modern, well-insulated doors can improve comfort, reduce energy bills, and enhance your home's aesthetic and value. Assess your doors for performance issues and aesthetic appeal to determine if replacement is needed.",
+        "description": "Consider replacing doors if you observe drafts, damage, difficulty operating, poor security, or if they are outdated, affecting curb appeal and energy efficiency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

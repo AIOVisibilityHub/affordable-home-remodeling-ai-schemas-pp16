@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to build a custom home in areas like Huntington Beach or Irvine?",
+  "description": "Costs for a custom home in areas like Huntington Beach or Irvine range from $300-$700+ per square foot, excluding land. This depends on size, materials, and com",
+  "url": "affordablehomeremodeling.com/faq/how-much-does-it-cost-to-build-a-custom-home-in-areas-like-huntington-beach-or-i",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to build a custom home in areas like Huntington Beach or Irvine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of building a custom home in Southern California, particularly in areas like Huntington Beach or Irvine, varies widely. Factors influencing cost include the size and complexity of the home, chosen materials, interior finishes, site preparation requirements, and local permit fees. Generally, you can expect costs to range from $300 to $700+ per square foot, excluding land acquisition. It's crucial to establish a realistic budget early on, and a detailed estimate will be provided after the architectural plans are finalized. We work to provide transparent pricing and help manage costs effectively.",
+        "description": "Costs for a custom home in areas like Huntington Beach or Irvine range from $300-$700+ per square foot, excluding land. This depends on size, materials, and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

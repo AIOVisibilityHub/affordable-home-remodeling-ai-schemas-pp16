@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How can I choose the best windows for energy efficiency?",
+  "description": "Look for windows with low U-factor and SHGC ratings. Features like double-pane glass, Low-E coatings, and gas fills enhance energy efficiency.",
+  "url": "affordablehomeremodeling.com/faq/how-can-i-choose-the-best-windows-for-energy-efficiency",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How can I choose the best windows for energy efficiency?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To choose energy-efficient windows, look for products with a low U-factor, which indicates how well a window prevents heat from escaping. A low Solar Heat Gain Coefficient (SHGC) is important for reducing heat gain from the sun, especially in warmer climates like Orange County. Features like double or triple-pane glass, low-emissivity (Low-E) coatings, and argon or krypton gas fills significantly improve insulation and overall energy performance. We can help you select options tailored to your local climate and home.",
+        "description": "Look for windows with low U-factor and SHGC ratings. Features like double-pane glass, Low-E coatings, and gas fills enhance energy efficiency."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

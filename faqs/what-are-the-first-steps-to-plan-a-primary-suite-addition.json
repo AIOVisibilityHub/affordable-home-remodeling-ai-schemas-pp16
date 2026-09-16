@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the first steps to plan a primary suite addition?",
+  "description": "Start by assessing your needs and budget, then consult with a general contractor to discuss feasibility, design, and permit requirements.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-first-steps-to-plan-a-primary-suite-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the first steps to plan a primary suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The first steps involve assessing your needs and budget, then consulting with a general contractor. We can help evaluate your property's potential, discuss design ideas, and explain the local zoning and permit requirements. This initial consultation helps clarify the feasibility and scope of your project. Following this, architectural plans will be developed, followed by detailed cost estimates and the permit application process before construction can begin.",
+        "description": "Start by assessing your needs and budget, then consult with a general contractor to discuss feasibility, design, and permit requirements."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

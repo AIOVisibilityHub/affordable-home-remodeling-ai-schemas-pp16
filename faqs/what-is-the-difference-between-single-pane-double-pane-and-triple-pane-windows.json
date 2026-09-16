@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between single-pane, double-pane, and triple-pane windows?",
+  "description": "Single-pane windows have one glass layer, offering minimal insulation. Double-pane have two glass layers with an air/gas space for better insulation. Triple-pan",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-single-pane-double-pane-and-triple-pane-windows",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between single-pane, double-pane, and triple-pane windows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary difference lies in the number of glass layers and their insulating properties. Single-pane windows, the oldest type, have just one layer of glass and offer minimal insulation, leading to significant heat loss or gain. Double-pane windows feature two layers of glass separated by a sealed air or gas-filled space, greatly improving insulation and energy efficiency. Triple-pane windows add a third layer of glass and another air/gas space, providing the highest level of insulation, sound reduction, and energy savings, though at a higher cost.",
+        "description": "Single-pane windows have one glass layer, offering minimal insulation. Double-pane have two glass layers with an air/gas space for better insulation. Triple-pane adds a third layer, providing the best insulation and sound reduction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

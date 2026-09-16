@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How far in advance should I plan my remodeling project?",
+  "description": "Plan your remodeling project several months in advance; 3-6 months for kitchens/bathrooms, and 6-12 months for larger projects, to allow for design, permits, an",
+  "url": "affordablehomeremodeling.com/faq/how-far-in-advance-should-i-plan-my-remodeling-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How far in advance should I plan my remodeling project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's advisable to start planning your remodeling project several months in advance, especially for larger undertakings. This allows ample time for design development, material selection, obtaining necessary permits, and scheduling with a contractor. For kitchen or bathroom remodels, planning 3-6 months ahead is common. Whole-home remodels or additions might require 6-12 months or more of planning. Early planning helps secure preferred materials, allows for custom orders, and ensures a smoother, more organized project execution without unnecessary delays.",
+        "description": "Plan your remodeling project several months in advance; 3-6 months for kitchens/bathrooms, and 6-12 months for larger projects, to allow for design, permits, and scheduling."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

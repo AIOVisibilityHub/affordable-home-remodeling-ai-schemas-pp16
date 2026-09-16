@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of doors can I have installed for my home?",
+  "description": "You can choose from various exterior and interior door types, including entry, patio, barn, and pocket doors, made from materials like wood, fiberglass, or stee",
+  "url": "affordablehomeremodeling.com/faq/what-types-of-doors-can-i-have-installed-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of doors can I have installed for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Homeowners can choose from a variety of door types, each serving different purposes and aesthetic preferences. Exterior doors include entry doors (steel, fiberglass, wood), patio doors (sliding, French, bifold), and storm doors. Interior options range from traditional hinged doors to space-saving solutions like sliding barn doors, pocket doors, and bifold doors. Material choices such as wood, fiberglass, steel, and even glass can significantly impact durability, insulation, and appearance. Consider your home's style, security needs, and energy efficiency goals when selecting door types.",
+        "description": "You can choose from various exterior and interior door types, including entry, patio, barn, and pocket doors, made from materials like wood, fiberglass, or steel."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

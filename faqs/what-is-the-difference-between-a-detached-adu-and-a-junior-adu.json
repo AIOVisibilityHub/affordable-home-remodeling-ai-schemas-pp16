@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a detached ADU and a junior ADU?",
+  "description": "A detached ADU is a separate structure, while a Junior ADU (JADU) is built within an existing single-family home's footprint and is usually smaller.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-detached-adu-and-a-junior-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a detached ADU and a junior ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A detached ADU is a completely separate, standalone structure on the property, independent from the main house. It has its own entrance, kitchen, bathroom, and living space. A Junior ADU (JADU), on the other hand, is created within the existing footprint of a single-family home, typically within an attached garage or an existing bedroom. JADUs are generally smaller, often limited to 500 square feet, and may share a bathroom or have a smaller, efficiency kitchen.",
+        "description": "A detached ADU is a separate structure, while a Junior ADU (JADU) is built within an existing single-family home's footprint and is usually smaller."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I repair or replace my roof?",
+  "description": "Choose repair for localized damage on a newer roof. Consider replacement for old roofs, widespread damage, or multiple leaks.",
+  "url": "affordablehomeremodeling.com/faq/should-i-repair-or-replace-my-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I repair or replace my roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The decision to repair or replace your roof depends on its age, the extent of the damage, and its overall condition. If your roof is relatively new and has localized damage, a repair is usually more cost-effective. However, if your roof is old (typically 20+ years), has widespread damage, or multiple leaks, a full replacement might be the better long-term investment. A professional assessment can help determine the most economical and effective solution for your home.",
+        "description": "Choose repair for localized damage on a newer roof. Consider replacement for old roofs, widespread damage, or multiple leaks."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

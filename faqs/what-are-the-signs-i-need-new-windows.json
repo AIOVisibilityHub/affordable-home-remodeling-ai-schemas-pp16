@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the signs I need new windows?",
+  "description": "Look for drafts, high energy bills, condensation, or damaged frames. Difficulty operating windows or old single-pane glass also signal a need for replacement.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-i-need-new-windows",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the signs I need new windows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common indicators you might need new windows include noticeable drafts, increased energy bills, difficulty opening or closing windows, condensation between glass panes, or visible damage like rot or cracks in the frames. Older single-pane windows are also strong candidates for replacement due to their poor energy efficiency compared to modern options. Addressing these issues can improve your home's comfort, appearance, and energy performance.",
+        "description": "Look for drafts, high energy bills, condensation, or damaged frames. Difficulty operating windows or old single-pane glass also signal a need for replacement."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

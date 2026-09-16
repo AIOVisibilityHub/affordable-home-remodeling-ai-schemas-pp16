@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the process for an insulation upgrade project?",
+  "description": "Process includes consultation, assessment, proposal, old insulation removal (if needed), new insulation installation, and quality check.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-an-insulation-upgrade-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the process for an insulation upgrade project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The process begins with an initial consultation and assessment of your current insulation and specific needs. We then provide a detailed proposal outlining the recommended insulation type, R-value, scope of work, and cost. Upon approval, our team schedules the project, prepares the work area, and safely removes any old or damaged insulation if necessary. The new insulation is then installed according to industry best practices. Finally, we conduct a quality check and ensure the site is clean before project completion.",
+        "description": "Process includes consultation, assessment, proposal, old insulation removal (if needed), new insulation installation, and quality check."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

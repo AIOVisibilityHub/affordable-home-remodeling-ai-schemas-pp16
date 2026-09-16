@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are popular home renovation trends in Southern California?",
+  "description": "Popular Southern California renovation trends include open-concept living, indoor-outdoor flow, sustainable materials, and styles like modern farmhouse or minim",
+  "url": "affordablehomeremodeling.com/faq/what-are-popular-home-renovation-trends-in-southern-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are popular home renovation trends in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Southern California, current home renovation trends often emphasize open-concept living spaces, indoor-outdoor flow to maximize natural light and views, and sustainable, energy-efficient materials. Popular design aesthetics include modern farmhouse, minimalist contemporary, and Mediterranean-inspired styles that blend seamlessly with the regional climate and lifestyle. Smart home technology integration, spa-like bathrooms, and gourmet kitchens with large islands also remain highly sought-after features, reflecting a desire for both functionality and luxury.",
+        "description": "Popular Southern California renovation trends include open-concept living, indoor-outdoor flow, sustainable materials, and styles like modern farmhouse or minimalist contemporary. Smart home tech and luxurious kitchens/bathrooms are also popular."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of stucco finishes are available for replacement?",
+  "description": "Available stucco finishes include smooth, dash, Santa Barbara/Spanish lace, cat face, and simulated textures. The choice depends on aesthetics and architectural",
+  "url": "affordablehomeremodeling.com/faq/what-types-of-stucco-finishes-are-available-for-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of stucco finishes are available for replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When replacing stucco, a variety of finishes are available to achieve different aesthetic effects. Common options include smooth finishes, which offer a clean, modern look; dash finishes, which provide a textured, granular appearance; and Santa Barbara or Spanish lace finishes, known for their rustic, troweled textures. Other choices include cat face, worm finish, or simulated brick and stone. The choice depends on your home's architectural style and your personal preference.",
+        "description": "Available stucco finishes include smooth, dash, Santa Barbara/Spanish lace, cat face, and simulated textures. The choice depends on aesthetics and architectural style."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

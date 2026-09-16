@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does stucco repair typically take?",
+  "description": "Stucco repair can take a few hours for small issues or several days for extensive damage, depending on the scope and weather.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-stucco-repair-typically-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does stucco repair typically take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of stucco repair depends largely on the extent of the damage. Minor repairs, such as small crack filling or patching, might take a few hours to a day. More extensive damage, involving large sections of stucco, underlying wood, or moisture remediation, could take several days to a week. Weather conditions, especially for drying and curing, can also influence the timeline. Your contractor will provide a more precise estimate after assessing the specific repair needs.",
+        "description": "Stucco repair can take a few hours for small issues or several days for extensive damage, depending on the scope and weather."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

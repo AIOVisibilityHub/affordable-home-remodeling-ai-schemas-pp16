@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a typical door replacement project cost?",
+  "description": "Door replacement costs vary by material, style, size, hardware, and installation complexity. Custom doors cost more than basic options.",
+  "url": "affordablehomeremodeling.com/faq/how-much-does-a-typical-door-replacement-project-cost",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a typical door replacement project cost?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a door replacement project varies widely based on the door material, style, size, hardware, and installation complexity. A basic steel entry door might cost less than a custom-designed fiberglass or wood door with sidelights. Installation labor also contributes to the total cost. It is best to get a detailed quote based on your specific needs and chosen door.",
+        "description": "Door replacement costs vary by material, style, size, hardware, and installation complexity. Custom doors cost more than basic options."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

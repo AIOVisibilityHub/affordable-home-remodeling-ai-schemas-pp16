@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What maintenance is required for newly installed doors?",
+  "description": "Regularly clean door surfaces, inspect and replace worn weatherstripping, and lubricate hinges and hardware. For wood doors, periodically reapply finishes to pr",
+  "url": "affordablehomeremodeling.com/faq/what-maintenance-is-required-for-newly-installed-doors",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What maintenance is required for newly installed doors?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper maintenance ensures the longevity and performance of your newly installed doors. Regularly clean door surfaces with appropriate cleaners for the material (e.g., mild soap and water for fiberglass, wood cleaner for wood). Inspect weatherstripping and seals annually, replacing them if they show signs of wear or cracking to maintain energy efficiency. Lubricate hinges and moving parts of sliding doors or locks as needed. For wood doors, reapply finishes or paint periodically to protect against weather exposure. Adhering to these steps helps preserve your door's appearance and function.",
+        "description": "Regularly clean door surfaces, inspect and replace worn weatherstripping, and lubricate hinges and hardware. For wood doors, periodically reapply finishes to protect them."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

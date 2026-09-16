@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for building a Junior ADU?",
+  "description": "Typical JADU construction costs range from $40,000 to $100,000 or more, depending on the scope and location, as they utilize existing home space.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-range-for-building-a-junior-adu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for building a Junior ADU?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of building a Junior ADU can vary significantly depending on existing conditions, materials chosen, and the complexity of the conversion. Since JADUs are created within existing space, costs are generally lower than for detached ADUs. Homeowners might expect costs to range from $40,000 to $100,000, or more, in areas like Huntington Beach, Irvine, or Yorba Linda. This estimate usually covers design, permits, demolition, construction, and finishes. Obtaining multiple bids is recommended for accurate pricing.",
+        "description": "Typical JADU construction costs range from $40,000 to $100,000 or more, depending on the scope and location, as they utilize existing home space."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

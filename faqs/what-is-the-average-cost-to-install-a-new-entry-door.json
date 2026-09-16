@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost to install a new entry door?",
+  "description": "The cost of entry door installation varies based on material, features, hardware, and installation complexity. We provide detailed estimates after an on-site as",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-to-install-a-new-entry-door",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost to install a new entry door?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of installing a new entry door can vary significantly based on several factors. These include the door material (e.g., steel, fiberglass, wood), its features (e.g., glass inserts, custom sizing), hardware, and the complexity of the installation. For a standard replacement without major structural modifications, costs typically range to cover materials and labor. Projects requiring frame adjustments, new jambs, or extensive trim work will be at the higher end of the spectrum. We provide detailed estimates after an on-site assessment.",
+        "description": "The cost of entry door installation varies based on material, features, hardware, and installation complexity. We provide detailed estimates after an on-site assessment."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

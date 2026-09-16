@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of subfloor preparation is needed before new flooring installation?",
+  "description": "Subfloor preparation includes cleaning, repairing damage, leveling, and ensuring dryness. Underlayment may be installed for moisture or sound protection.",
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-subfloor-preparation-is-needed-before-new-flooring-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of subfloor preparation is needed before new flooring installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper subfloor preparation is crucial for a successful and long-lasting flooring installation. This often involves cleaning, repairing any damage, and ensuring the subfloor is level, dry, and structurally sound. Depending on the new flooring material, it may also require installing an underlayment for moisture protection, sound deadening, or added cushioning. Skipping this step can lead to issues like uneven surfaces, squeaks, or premature wear of the new flooring.",
+        "description": "Subfloor preparation includes cleaning, repairing damage, leveling, and ensuring dryness. Underlayment may be installed for moisture or sound protection."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

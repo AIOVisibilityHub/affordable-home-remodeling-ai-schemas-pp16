@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does a kitchen remodel typically cost in Orange County?",
+  "description": "Kitchen remodel costs in Orange County typically range from $25,000 for minor updates to over $80,000 for high-end renovations. Costs depend on size, material c",
+  "url": "affordablehomeremodeling.com/faq/how-much-does-a-kitchen-remodel-typically-cost-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does a kitchen remodel typically cost in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a kitchen remodel in Orange County can range from approximately $25,000 for a minor cosmetic update to over $80,000 for a complete high-end renovation. Factors influencing the cost include the size of your kitchen, the quality of materials chosen for cabinets, countertops, and appliances, and the extent of structural or layout changes. Custom features, electrical upgrades, and plumbing rerouting also impact the budget. We provide a detailed, itemized estimate after understanding your specific design preferences and project requirements.",
+        "description": "Kitchen remodel costs in Orange County typically range from $25,000 for minor updates to over $80,000 for high-end renovations. Costs depend on size, material choices, and complexity."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to remove old flooring myself before installation?",
+  "description": "No, we handle old flooring removal and disposal as part of our comprehensive installation service to ensure proper subfloor preparation.",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-remove-old-flooring-myself-before-installation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to remove old flooring myself before installation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, you do not need to remove old flooring yourself. Affordable Home Remodeling provides comprehensive flooring installation services that include the removal and disposal of your existing flooring. This service is part of our complete project management, ensuring proper preparation of the subfloor and a smooth transition to your new flooring. While you can opt to do it yourself to save on labor costs, our team is equipped to handle it efficiently and safely, minimizing disruption and ensuring the site is ready for the new installation.",
+        "description": "No, we handle old flooring removal and disposal as part of our comprehensive installation service to ensure proper subfloor preparation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a room addition and when should I consider one for my home?",
+  "description": "A room addition expands your home with new living space. Consider it when you need more room or want to increase property value, especially if moving isn't an o",
+  "url": "affordablehomeremodeling.com/faq/what-is-a-room-addition-and-when-should-i-consider-one-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a room addition and when should I consider one for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A room addition expands your home's footprint by adding new enclosed living space, such as an extra bedroom, bathroom, family room, or home office. You should consider a room addition when your current home no longer meets your needs due to a growing family, a desire for more functional space, or to increase your property value. It's an alternative to moving if you love your current location but require more square footage. Planning involves assessing your current property, local zoning regulations, and your specific space requirements.",
+        "description": "A room addition expands your home with new living space. Consider it when you need more room or want to increase property value, especially if moving isn't an option."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a primary suite addition and a remodel?",
+  "description": "An addition expands your home's footprint to create new space, while a remodel updates an existing space without increasing its size.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-primary-suite-addition-and-a-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a primary suite addition and a remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A primary suite addition involves expanding the physical footprint of your home to create new space, whereas a remodel alters an existing space without increasing its size. For example, converting an unused attic into a primary bedroom is an addition, while updating an existing primary bedroom and bathroom within their current walls is a remodel. Additions typically involve more extensive structural work, permitting, and a longer construction timeline due to creating new foundations and framing.",
+        "description": "An addition expands your home's footprint to create new space, while a remodel updates an existing space without increasing its size."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost of window replacement?",
+  "description": "Window replacement costs vary by type, style, size, and installation complexity. Expect prices ranging from a few hundred to over a thousand dollars per window.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-window-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost of window replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of window replacement varies widely based on factors such as window type (e.g., vinyl, wood, fiberglass), style (e.g., casement, double-hung, picture), size, glass options, and installation complexity. While a precise quote requires an on-site evaluation, homeowners can expect to invest anywhere from a few hundred to over a thousand dollars per window. We provide detailed, transparent estimates tailored to your project.",
+        "description": "Window replacement costs vary by type, style, size, and installation complexity. Expect prices ranging from a few hundred to over a thousand dollars per window."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

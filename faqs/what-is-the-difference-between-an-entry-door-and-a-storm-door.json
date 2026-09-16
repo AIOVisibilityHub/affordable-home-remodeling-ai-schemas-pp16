@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between an entry door and a storm door?",
+  "description": "An entry door is the primary exterior door for security and aesthetics; a storm door is a secondary door for weather protection, insulation, and ventilation.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-an-entry-door-and-a-storm-door",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between an entry door and a storm door?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An entry door is the primary exterior door of your home, providing security, insulation, and the main aesthetic impression. A storm door is a secondary door installed on the exterior side of your entry door. Its main purposes are to protect the entry door from weather, improve energy efficiency by creating an air pocket, and allow for ventilation through interchangeable glass and screen panels, especially during warmer months.",
+        "description": "An entry door is the primary exterior door for security and aesthetics; a storm door is a secondary door for weather protection, insulation, and ventilation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

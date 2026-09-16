@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Are there energy-efficient door options available?",
+  "description": "Yes, energy-efficient doors feature insulated cores, multi-pane glass, Low-E coatings, and good weatherstripping to reduce energy costs and improve comfort.",
+  "url": "affordablehomeremodeling.com/faq/are-there-energy-efficient-door-options-available",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Are there energy-efficient door options available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many energy-efficient door options are available to help reduce heating and cooling costs. Features to look for include insulated cores, multiple panes of glass (for doors with windows), low-emissivity (Low-E) coatings, and robust weatherstripping around the frame. Materials like fiberglass and steel with foam cores generally offer better insulation than solid wood. Investing in energy-efficient doors can improve your home's comfort, reduce drafts, and contribute to lower utility bills over time, especially in varying climates.",
+        "description": "Yes, energy-efficient doors feature insulated cores, multi-pane glass, Low-E coatings, and good weatherstripping to reduce energy costs and improve comfort."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

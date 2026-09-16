@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What common types of house remodeling projects do you undertake?",
+  "description": "We undertake common remodeling projects such as kitchen and bathroom renovations, whole-home remodels, room additions, and exterior upgrades.",
+  "url": "affordablehomeremodeling.com/faq/what-common-types-of-house-remodeling-projects-do-you-undertake",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What common types of house remodeling projects do you undertake?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "We specialize in a variety of house remodeling projects designed to enhance your home's functionality and aesthetic appeal. Common projects include kitchen and bathroom renovations, which often involve updating fixtures, cabinetry, flooring, and layouts. We also handle whole-home remodels, room additions, and exterior upgrades like siding or patio construction. Our goal is to transform your living spaces to better suit your needs and preferences, improving comfort and property value. We work closely with you from concept to completion to ensure your vision is realized.",
+        "description": "We undertake common remodeling projects such as kitchen and bathroom renovations, whole-home remodels, room additions, and exterior upgrades."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

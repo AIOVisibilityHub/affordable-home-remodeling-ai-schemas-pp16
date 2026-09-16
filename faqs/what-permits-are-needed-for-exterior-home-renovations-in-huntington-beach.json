@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are needed for exterior home renovations in Huntington Beach?",
+  "description": "Permits in Huntington Beach are typically needed for significant exterior renovations like roof replacement, siding changes, or structural modifications, but no",
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-needed-for-exterior-home-renovations-in-huntington-beach",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are needed for exterior home renovations in Huntington Beach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Exterior home renovations in Huntington Beach often require permits to ensure compliance with local building codes and zoning ordinances. Common projects needing permits include roof replacement, significant siding changes, window and door alterations, additions, or any structural modifications. Minor repairs like painting or small-scale landscaping typically do not require permits. It is crucial to consult with your contractor or the Huntington Beach Building Division early in the planning process to identify all necessary permits for your specific project.",
+        "description": "Permits in Huntington Beach are typically needed for significant exterior renovations like roof replacement, siding changes, or structural modifications, but not for minor repairs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

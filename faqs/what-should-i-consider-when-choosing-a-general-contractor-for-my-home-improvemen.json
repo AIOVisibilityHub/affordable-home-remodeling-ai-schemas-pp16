@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I consider when choosing a general contractor for my home improvement project?",
+  "description": "Consider experience, communication, licensing, insurance, detailed proposals, references, and understanding of local building codes.",
+  "url": "affordablehomeremodeling.com/faq/what-should-i-consider-when-choosing-a-general-contractor-for-my-home-improvemen",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I consider when choosing a general contractor for my home improvement project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a general contractor, prioritize experience, clear communication, and a strong portfolio of completed projects. Verify their licensing and insurance. Look for contractors who offer detailed proposals, transparent pricing, and can provide references. A good contractor should also demonstrate a solid understanding of local building codes and permits required in areas like Huntington Beach or Irvine.",
+        "description": "Consider experience, communication, licensing, insurance, detailed proposals, references, and understanding of local building codes."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I consider before starting an interior renovation project?",
+  "description": "Before starting, consider your long-term goals, budget, timeline, desired style, and potential disruption to daily life. Prioritize needs over wants.",
+  "url": "affordablehomeremodeling.com/faq/what-should-i-consider-before-starting-an-interior-renovation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I consider before starting an interior renovation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before starting, consider your long-term goals for the space, your budget, and a realistic timeline. Research design styles and materials you prefer. Think about how the renovation will impact your daily life and if you need to make temporary living arrangements. Most importantly, identify your needs versus wants to ensure the project aligns with both your vision and financial capacity.",
+        "description": "Before starting, consider your long-term goals, budget, timeline, desired style, and potential disruption to daily life. Prioritize needs over wants."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to add a new bathroom?",
+  "description": "Costs for adding a bathroom vary from $25,000 upwards, depending on size, materials, and complexity. A detailed estimate is provided after consultation.",
+  "url": "affordablehomeremodeling.com/faq/how-much-does-it-cost-to-add-a-new-bathroom",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to add a new bathroom?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of adding a new bathroom depends significantly on factors such as its size, fixture quality, material choices, and necessary plumbing or electrical extensions. A basic addition might start from $25,000, while a high-end, custom bathroom could exceed $50,000. We provide a transparent, detailed estimate after understanding your specific requirements and surveying the site.",
+        "description": "Costs for adding a bathroom vary from $25,000 upwards, depending on size, materials, and complexity. A detailed estimate is provided after consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is ground-up home construction?",
+  "description": "Ground-up home construction is building a new house from the foundation up on a vacant property, allowing for full customization.",
+  "url": "affordablehomeremodeling.com/faq/what-is-ground-up-home-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is ground-up home construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ground-up home construction refers to building a new house from its foundation to completion on a vacant plot of land. This process involves architectural design, site preparation, pouring the foundation, framing, roofing, installing utilities, and all interior and exterior finishes. It offers complete customization, allowing homeowners to design a residence that perfectly matches their needs, preferences, and lifestyle from the start.",
+        "description": "Ground-up home construction is building a new house from the foundation up on a vacant property, allowing for full customization."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

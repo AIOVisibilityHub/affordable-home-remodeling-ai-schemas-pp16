@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I look for when choosing a general contractor for my custom home project?",
+  "description": "Choose a contractor with custom home experience, local references, transparent communication, and proper licensing/insurance. Review their portfolio and project",
+  "url": "affordablehomeremodeling.com/faq/what-should-i-look-for-when-choosing-a-general-contractor-for-my-custom-home-pro",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I look for when choosing a general contractor for my custom home project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting a general contractor, look for experience specifically in custom home construction, strong local references, and a transparent communication style. Verify their licensing, insurance, and bond. Review their portfolio to ensure their style aligns with your vision. It's also important to assess their project management approach, their ability to stay within budget and timeline, and their warranty policies. A good contractor provides clear contracts, detailed estimates, and fosters a collaborative relationship. We encourage prospective clients to check our credentials and speak with past clients.",
+        "description": "Choose a contractor with custom home experience, local references, transparent communication, and proper licensing/insurance. Review their portfolio and project management approach."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

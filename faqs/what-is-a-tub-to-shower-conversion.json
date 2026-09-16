@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a tub-to-shower conversion?",
+  "description": "A tub-to-shower conversion transforms an existing bathtub area into a dedicated shower space by replacing the tub with a shower base and new wall surrounds.",
+  "url": "affordablehomeremodeling.com/faq/what-is-a-tub-to-shower-conversion",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a tub-to-shower conversion?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A tub-to-shower conversion transforms an existing bathtub area into a dedicated shower space. This typically involves removing the old tub, installing a new shower pan or base, adding new wall surrounds (like tile or acrylic panels), updating the plumbing fixtures, and often replacing the shower curtain with a glass enclosure or door. It's a popular remodeling choice for homeowners seeking improved accessibility, a more modern bathroom aesthetic, or to free up space in smaller bathrooms. The process can vary in complexity depending on the existing plumbing and the desired finishes.",
+        "description": "A tub-to-shower conversion transforms an existing bathtub area into a dedicated shower space by replacing the tub with a shower base and new wall surrounds."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

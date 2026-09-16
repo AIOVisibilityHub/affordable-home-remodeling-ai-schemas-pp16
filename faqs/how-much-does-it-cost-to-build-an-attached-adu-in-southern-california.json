@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does it cost to build an attached ADU in Southern California?",
+  "description": "Costs for an attached ADU in Southern California typically range from $100,000 to $250,000+, depending on size, design, materials, and whether it's new construc",
+  "url": "affordablehomeremodeling.com/faq/how-much-does-it-cost-to-build-an-attached-adu-in-southern-california",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does it cost to build an attached ADU in Southern California?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of building an attached ADU in Southern California varies significantly based on factors such as its size, the complexity of the design, the quality of materials, and local permitting fees. Generally, you can expect costs to range from $100,000 to $250,000 or more for a new attached unit. Converting an existing space, like a garage, can sometimes be less expensive, but still involves significant plumbing, electrical, and structural work. It's essential to get detailed quotes from licensed contractors to understand the specific costs for your project.",
+        "description": "Costs for an attached ADU in Southern California typically range from $100,000 to $250,000+, depending on size, design, materials, and whether it's new construction or a conversion."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

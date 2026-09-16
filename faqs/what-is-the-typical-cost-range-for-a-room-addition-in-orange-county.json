@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical cost range for a room addition in Orange County?",
+  "description": "Room addition costs in Orange County typically range from $250-$600+ per square foot, depending on size, complexity, and materials. A detailed estimate requires",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-range-for-a-room-addition-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical cost range for a room addition in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a room addition in areas like Orange County can vary significantly based on several factors. These include the size and complexity of the addition, the types of materials chosen, the specific room function (e.g., bathroom vs. simple bedroom), and any necessary site preparations or utility extensions. Generally, costs can range from $250 to $600 per square foot or more. A simple 200 sq ft room might start around $50,000, while a larger, more complex addition with high-end finishes could easily exceed $150,000. For an accurate estimate, a detailed consultation with a general contractor is essential.",
+        "description": "Room addition costs in Orange County typically range from $250-$600+ per square foot, depending on size, complexity, and materials. A detailed estimate requires a consultation."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

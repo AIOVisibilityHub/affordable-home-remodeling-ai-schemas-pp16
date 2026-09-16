@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the typical timeline for an ADU design and build project?",
+  "description": "An ADU project typically takes 6 months to over a year, encompassing design, permitting, and construction phases.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-typical-timeline-for-an-adu-design-and-build-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the typical timeline for an ADU design and build project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for an ADU project can range from several months to over a year, depending on its complexity. The process typically involves initial consultation, design and architectural plan development (1-3 months), permitting and approvals (1-6 months, varies by jurisdiction), and construction (3-9 months). Unforeseen site conditions or design changes can extend these timelines.",
+        "description": "An ADU project typically takes 6 months to over a year, encompassing design, permitting, and construction phases."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

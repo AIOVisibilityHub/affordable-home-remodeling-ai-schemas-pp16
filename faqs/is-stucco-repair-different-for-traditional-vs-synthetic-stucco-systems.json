@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Is stucco repair different for traditional vs. synthetic stucco systems?",
+  "description": "Repair methods differ; traditional stucco uses cement-based patches, while synthetic stucco (EIFS) requires specialized, compatible materials and attention to i",
+  "url": "affordablehomeremodeling.com/faq/is-stucco-repair-different-for-traditional-vs-synthetic-stucco-systems",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is stucco repair different for traditional vs. synthetic stucco systems?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, stucco repair can differ significantly between traditional (hard coat) stucco and synthetic stucco (EIFS - Exterior Insulation and Finish Systems). Traditional stucco repairs typically involve patching with similar cement-based materials, often requiring multiple layers to match. EIFS repairs are more specialized, often requiring compatible synthetic materials and careful attention to the system's moisture drainage plane. Improper repair of either system, especially EIFS, can compromise its performance, leading to moisture issues. A professional will identify the stucco type to ensure appropriate repair methods are used.",
+        "description": "Repair methods differ; traditional stucco uses cement-based patches, while synthetic stucco (EIFS) requires specialized, compatible materials and attention to its drainage system."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

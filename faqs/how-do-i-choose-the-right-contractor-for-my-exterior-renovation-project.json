@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for my exterior renovation project?",
+  "description": "Choose a contractor who is licensed, insured, has relevant experience, good references, clear communication, and provides detailed written estimates and warrant",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-my-exterior-renovation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for my exterior renovation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right contractor involves several key steps. Look for licensed and insured professionals with a strong portfolio of exterior renovation projects similar to yours. Check their references, read online reviews, and ensure they have a clear communication process. Request detailed written estimates that outline the scope of work, materials, timeline, and payment schedule. A reputable contractor will also discuss necessary permits and offer warranties on their work.",
+        "description": "Choose a contractor who is licensed, insured, has relevant experience, good references, clear communication, and provides detailed written estimates and warranties."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

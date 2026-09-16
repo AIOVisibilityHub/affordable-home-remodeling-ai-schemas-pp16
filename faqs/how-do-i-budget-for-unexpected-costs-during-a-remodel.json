@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I budget for unexpected costs during a remodel?",
+  "description": "Allocate 10-20% of your budget for a contingency fund to cover unexpected issues like hidden damage or structural surprises, preventing delays.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-budget-for-unexpected-costs-during-a-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I budget for unexpected costs during a remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It's prudent to allocate a contingency fund, typically 10-20% of your total project budget, specifically for unexpected costs. These can arise from unforeseen issues discovered during demolition, such as outdated wiring, hidden water damage, or structural surprises. A contingency fund helps prevent project delays and ensures you can address these issues without halting progress or compromising on essential elements. Clear communication with your contractor about potential risks is also key.",
+        "description": "Allocate 10-20% of your budget for a contingency fund to cover unexpected issues like hidden damage or structural surprises, preventing delays."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

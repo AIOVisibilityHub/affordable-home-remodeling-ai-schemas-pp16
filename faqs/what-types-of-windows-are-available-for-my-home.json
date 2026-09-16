@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of windows are available for my home?",
+  "description": "Common window types include double-hung, casement, sliding, and picture windows. Materials like vinyl, wood, and fiberglass are also available.",
+  "url": "affordablehomeremodeling.com/faq/what-types-of-windows-are-available-for-my-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of windows are available for my home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "There is a wide variety of window types to suit different needs and aesthetics. Popular options include double-hung windows, which open from the top or bottom; casement windows, which crank open outward; sliding windows; and picture windows, which are fixed and provide expansive views. We also offer specialty shapes, bay, and bow windows. Material options typically include vinyl, wood, and fiberglass, each with distinct benefits in terms of durability, maintenance, and insulation.",
+        "description": "Common window types include double-hung, casement, sliding, and picture windows. Materials like vinyl, wood, and fiberglass are also available."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

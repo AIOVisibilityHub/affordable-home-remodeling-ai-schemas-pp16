@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How much does an interior home renovation cost in areas like Irvine or Huntington Beach?",
+  "description": "Costs for interior renovations in Irvine or Huntington Beach vary based on project scope and materials, ranging from $15,000 for a basic bathroom to over $70,00",
+  "url": "affordablehomeremodeling.com/faq/how-much-does-an-interior-home-renovation-cost-in-areas-like-irvine-or-huntingto",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How much does an interior home renovation cost in areas like Irvine or Huntington Beach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Interior home renovation costs in Irvine or Huntington Beach can vary widely. Factors include the size of the space, the quality of materials selected, and the complexity of the design. A basic bathroom remodel might start around $15,000, while a high-end kitchen can exceed $70,000. Whole-home renovations often start from $75,000 and go upward. We provide detailed estimates after a consultation to align with your budget and vision.",
+        "description": "Costs for interior renovations in Irvine or Huntington Beach vary based on project scope and materials, ranging from $15,000 for a basic bathroom to over $70,000 for a high-end kitchen."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What's the difference between a full bathroom renovation and a partial update?",
+  "description": "A full renovation is a complete overhaul, including structural and system changes, while a partial update refreshes aesthetics without altering major layouts or",
+  "url": "affordablehomeremodeling.com/faq/what-s-the-difference-between-a-full-bathroom-renovation-and-a-partial-update",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What's the difference between a full bathroom renovation and a partial update?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A full bathroom renovation typically involves a complete overhaul, often including demolition down to the studs, changing the layout, and replacing all fixtures, flooring, cabinetry, and potentially reconfiguring plumbing and electrical. This process is more extensive, costly, and time-consuming. A partial update, also known as a cosmetic renovation, focuses on refreshing the look without altering the core structure or major systems. This might include painting, replacing a vanity, upgrading light fixtures, or retiling without changing the tub or shower location. Partial updates are quicker and more budget-friendly.",
+        "description": "A full renovation is a complete overhaul, including structural and system changes, while a partial update refreshes aesthetics without altering major layouts or plumbing/electrical systems."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

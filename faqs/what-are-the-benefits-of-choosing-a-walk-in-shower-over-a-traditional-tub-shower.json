@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of choosing a walk-in shower over a traditional tub/shower combo?",
+  "description": "Walk-in showers improve accessibility, offer a spacious modern aesthetic, can be easier to maintain, and provide design flexibility.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-choosing-a-walk-in-shower-over-a-traditional-tub-shower",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of choosing a walk-in shower over a traditional tub/shower combo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Walk-in showers offer enhanced accessibility, making them ideal for aging in place or for individuals with mobility concerns, as they eliminate the high threshold of a tub. They also provide a more spacious and open feel to a bathroom, contributing to a modern aesthetic. Maintenance can be simpler without a shower curtain or framed door, and they often offer greater design flexibility for a personalized look. In some cases, they can increase home value and appeal.",
+        "description": "Walk-in showers improve accessibility, offer a spacious modern aesthetic, can be easier to maintain, and provide design flexibility."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

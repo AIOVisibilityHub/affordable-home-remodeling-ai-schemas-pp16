@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of flooring can be installed by Affordable Home Remodeling?",
+  "description": "We install hardwood, laminate, luxury vinyl plank (LVP), tile, and carpet flooring to meet diverse aesthetic and functional needs.",
+  "url": "affordablehomeremodeling.com/faq/what-types-of-flooring-can-be-installed-by-affordable-home-remodeling",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of flooring can be installed by Affordable Home Remodeling?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Affordable Home Remodeling installs a variety of flooring types to suit different needs and aesthetics. Our services include the installation of hardwood, laminate, luxury vinyl plank (LVP), tile, and carpet. Each option offers unique benefits in terms of durability, maintenance, and appearance. For instance, hardwood provides classic elegance, while LVP is known for its water resistance and versatility. Tile is a durable choice for high-moisture areas, and carpet offers warmth and sound absorption. We can help you select the best material for your specific room and lifestyle requirements.",
+        "description": "We install hardwood, laminate, luxury vinyl plank (LVP), tile, and carpet flooring to meet diverse aesthetic and functional needs."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

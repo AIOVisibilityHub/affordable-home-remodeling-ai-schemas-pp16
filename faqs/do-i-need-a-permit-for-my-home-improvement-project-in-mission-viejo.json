@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need a permit for my home improvement project in Mission Viejo?",
+  "description": "Permits are often required in Mission Viejo for structural, plumbing, electrical, or significant addition projects. We assist with this process.",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-my-home-improvement-project-in-mission-viejo",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need a permit for my home improvement project in Mission Viejo?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many home improvement projects in Mission Viejo, particularly those involving structural changes, plumbing, electrical work, or significant additions, require permits from the city. Minor cosmetic updates typically do not. We will help identify necessary permits for your specific project and assist with the application process to ensure compliance with local regulations and building codes.",
+        "description": "Permits are often required in Mission Viejo for structural, plumbing, electrical, or significant addition projects. We assist with this process."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

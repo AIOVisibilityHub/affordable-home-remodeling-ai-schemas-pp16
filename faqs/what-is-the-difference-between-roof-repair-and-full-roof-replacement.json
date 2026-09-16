@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between roof repair and full roof replacement?",
+  "description": "Repair fixes localized damage; replacement involves installing an entirely new roof when damage is widespread or the roof is past its lifespan.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-roof-repair-and-full-roof-replacement",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between roof repair and full roof replacement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The primary difference lies in the extent of the work. Roof repair addresses localized damage, such as a few missing shingles, a small leak, or minor flashing issues. It's suitable when the overall roof structure is sound and the majority of the material is still in good condition. Full roof replacement, however, involves removing all existing roofing materials down to the deck and installing an entirely new system. This is necessary when there's widespread damage, the roof is beyond its lifespan, or if repairs become too frequent and costly.",
+        "description": "Repair fixes localized damage; replacement involves installing an entirely new roof when damage is widespread or the roof is past its lifespan."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What steps are involved in planning a room addition?",
+  "description": "Planning a room addition involves consultation, site evaluation, design, permits, material selection, and construction.",
+  "url": "affordablehomeremodeling.com/faq/what-steps-are-involved-in-planning-a-room-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What steps are involved in planning a room addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Planning a room addition involves several key steps: initial consultation for needs assessment and budget, site evaluation for feasibility, architectural design and blueprint creation, securing necessary permits from the city, material selection, and finally, construction. We guide you through each stage, ensuring a seamless expansion that integrates well with your existing home.",
+        "description": "Planning a room addition involves consultation, site evaluation, design, permits, material selection, and construction."
+      }
+    }
+  ],
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  }
+}
