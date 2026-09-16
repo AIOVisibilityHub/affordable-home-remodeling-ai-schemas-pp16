@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/can-i-make-changes-to-the-design-during-new-home-construction",
-  "name": "Can I make changes to the design during new home construction?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I make changes to the design during new home construction?",
+  "description": "Minor design changes may be possible during construction but can add cost and time; major changes are often difficult and expensive.",
+  "url": "affordablehomeremodeling.com/faq/can-i-make-changes-to-the-design-during-new-home-construction",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I make changes to the design during new home construction?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While it's best to finalize all design decisions before construction begins, minor changes may be possible during the build process, though they often incur additional costs and can extend the project timeline. Significant structural changes are usually difficult and expensive once framing is complete. It's important to communicate any desired changes with your contractor immediately to understand the implications and receive a change order outlining costs and schedule adjustments before work proceeds.",
+        "description": "Minor design changes may be possible during construction but can add cost and time; major changes are often difficult and expensive."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "Can I make changes to the design during new home construction?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "While it is possible to make changes during new home construction, it's generally best to finalize all design elements before breaking ground. Changes made after construction has started, often called change orders, can significantly impact the project's timeline and budget. They may require re-drawing plans, re-ordering materials, and re-doing completed work. We work closely with you during the design phase to minimize the need for changes later on, but we can accommodate necessary adjustments with clear communication about their potential implications.",
-        "@type": "Answer",
-        "description": "Changes during construction are possible but can impact timeline and budget; it's best to finalize designs beforehand to minimize costly alterations."
-      }
-    }
-  ],
-  "description": "Changes during construction are possible but can impact timeline and budget; it's best to finalize designs beforehand to minimize costly alterations."
+  }
 }

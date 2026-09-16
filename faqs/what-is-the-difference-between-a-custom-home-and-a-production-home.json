@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-custom-home-and-a-production-home",
-  "name": "What is the difference between a custom home and a production home?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between a custom home and a production home?",
+  "description": "Custom homes are uniquely designed for an individual homeowner, while production homes are built from pre-set plans in communities.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-a-custom-home-and-a-production-home",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between a custom home and a production home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A custom home is uniquely designed and built to the homeowner's specific preferences, offering full control over layout, materials, and features. It typically involves an architect and a general contractor, resulting in a unique residence. A production home, on the other hand, is built by a developer in a community using pre-designed floor plans and a limited selection of finishes. While often more cost-effective and quicker to build, production homes offer less customization. Custom homes provide unparalleled personalization.",
+        "description": "Custom homes are uniquely designed for an individual homeowner, while production homes are built from pre-set plans in communities."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What is the difference between a custom home and a production home?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "A custom home is uniquely designed and built to the specific preferences of a single homeowner on a particular piece of land. It offers unparalleled flexibility in architectural style, layout, materials, and finishes. In contrast, a production home (or spec home) is built by a developer on a pre-selected lot, often as part of a larger community, using standardized plans and limited customization options. Production homes are typically less expensive and quicker to build, while custom homes offer bespoke quality and design.",
-        "@type": "Answer",
-        "description": "A custom home is uniquely designed for an individual homeowner, offering full personalization. A production home uses standardized plans in a development with limited customization."
-      }
-    }
-  ],
-  "description": "A custom home is uniquely designed for an individual homeowner, offering full personalization. A production home uses standardized plans in a development with l"
+  }
 }

@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-an-adu-and-a-junior-adu-jadu",
-  "name": "What is the difference between an ADU and a junior ADU (JADU)?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between an ADU and a Junior ADU (JADU)?",
+  "description": "A JADU is a small ADU (up to 500 sq ft) within an existing home with an efficiency kitchen, potentially sharing a bathroom. ADUs are more flexible.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-an-adu-and-a-junior-adu-jadu",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between an ADU and a Junior ADU (JADU)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A Junior ADU (JADU) is a specific type of ADU that is no more than 500 square feet, contained entirely within an existing single-family structure, and includes an efficiency kitchen. Unlike a standard ADU, a JADU may share bathroom facilities with the main dwelling and does not require additional parking. Standard ADUs have broader size and location flexibility, often built as detached structures.",
+        "description": "A JADU is a small ADU (up to 500 sq ft) within an existing home with an efficiency kitchen, potentially sharing a bathroom. ADUs are more flexible."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What is the difference between an ADU and a junior ADU (JADU)?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The primary differences between an ADU and a Junior ADU (JADU) lie in their size, amenities, and location. A JADU is typically smaller, up to 500 square feet, and must be created within the existing walls of a proposed or existing single-family dwelling, often within a bedroom. It may or may not have its own separate bathroom and often shares a kitchen or requires a small kitchen area with limited cooking facilities. An ADU can be larger, up to 1200 square feet, and can be attached, detached, or a garage conversion, always with its own separate kitchen and bathroom.",
-        "@type": "Answer",
-        "description": "JADUs are smaller (up to 500 sq ft) and created within an existing home, possibly sharing kitchens. ADUs are larger (up to 1200 sq ft), can be detached or garage conversions, and always have separate kitchens and bathrooms."
-      }
-    }
-  ],
-  "description": "JADUs are smaller (up to 500 sq ft) and created within an existing home, possibly sharing kitchens. ADUs are larger (up to 1200 sq ft), can be detached or garag"
+  }
 }

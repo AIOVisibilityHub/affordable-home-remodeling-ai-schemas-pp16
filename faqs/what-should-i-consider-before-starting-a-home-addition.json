@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-should-i-consider-before-starting-a-home-addition",
-  "name": "What should I consider before starting a home addition?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What should I consider before starting a home addition?",
+  "description": "Before an addition, consider budget, purpose, local zoning laws, design integration, and whether existing utilities can support the new space.",
+  "url": "affordablehomeremodeling.com/faq/what-should-i-consider-before-starting-a-home-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should I consider before starting a home addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Before starting a home addition, consider several key factors. First, evaluate your budget, as additions are typically significant investments. Think about the purpose of the new space and how it will integrate with your existing home's design and structure. Research local zoning laws and setbacks in your area, like Mission Viejo or Lake Forest, as these dictate what you can build. Consult with an architect or designer to develop plans, and ensure your chosen contractor has experience with similar projects. Also, assess if your current utilities can support the expanded footprint.",
+        "description": "Before an addition, consider budget, purpose, local zoning laws, design integration, and whether existing utilities can support the new space."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What should I consider before starting a home addition?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Before starting a home addition, consider several key factors. First, evaluate your budget and secure financing. Next, assess your current needs and how the addition will address them, such as needing more space, improving functionality, or increasing property value. Research local zoning laws and setback requirements specific to your city (e.g., Mission Viejo or Lake Forest) to understand what is permissible on your property. Finally, plan for the disruption construction will cause to your household and ensure you have a clear vision of the desired outcome to communicate effectively with your design and build team.",
-        "@type": "Answer",
-        "description": "Before starting, consider budget, your specific needs, local zoning laws, potential construction disruption, and have a clear vision for the outcome."
-      }
-    }
-  ],
-  "description": "Before starting, consider budget, your specific needs, local zoning laws, potential construction disruption, and have a clear vision for the outcome."
+  }
 }

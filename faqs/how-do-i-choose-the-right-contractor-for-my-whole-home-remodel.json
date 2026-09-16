@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-my-whole-home-remodel",
-  "name": "How do I choose the right contractor for my whole-home remodel?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for my whole-home remodel?",
+  "description": "Choose a contractor by verifying their license, insurance, and portfolio of whole-home remodels. Check references, review proposals, and ensure they communicate",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-my-whole-home-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for my whole-home remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right contractor involves several key steps. Look for a licensed and insured general contractor with a strong portfolio of whole-home remodels, particularly in your local area. Check references, read client testimonials, and review their communication style. Ensure they provide clear, detailed proposals that outline costs, timelines, and scope of work. A reputable contractor will also have experience navigating local permitting requirements and will offer a transparent process for managing your project from start to finish. Prioritize trust, experience, and clear communication.",
+        "description": "Choose a contractor by verifying their license, insurance, and portfolio of whole-home remodels. Check references, review proposals, and ensure they communicate clearly and understand local permitting."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How do I choose the right contractor for my whole-home remodel?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Choosing the right contractor involves several key steps. Look for licensed and insured professionals with a strong portfolio of whole-home remodeling projects similar to yours. Check their references, read client testimonials, and review their communication style. Request detailed bids that clearly outline the scope of work, materials, and payment schedules. A reliable contractor will also demonstrate a clear understanding of local building codes and permitting processes in areas like Mission Viejo or Yorba Linda, ensuring a smooth project from start to finish.",
-        "@type": "Answer",
-        "description": "Choose a contractor by checking licenses, insurance, portfolio, references, and communication. Ensure they understand local codes and provide detailed bids for a successful whole-home remodel."
-      }
-    }
-  ],
-  "description": "Choose a contractor by checking licenses, insurance, portfolio, references, and communication. Ensure they understand local codes and provide detailed bids for"
+  }
 }

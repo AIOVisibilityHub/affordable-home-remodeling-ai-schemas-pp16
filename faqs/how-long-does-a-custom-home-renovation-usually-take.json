@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-long-does-a-custom-home-renovation-usually-take",
-  "name": "How long does a custom home renovation usually take?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a custom home renovation usually take?",
+  "description": "Project duration depends on scope; smaller renovations may take weeks, while whole-home remodels can take several months.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-custom-home-renovation-usually-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a custom home renovation usually take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a custom home renovation varies significantly based on the project's scope and complexity. A smaller renovation, such as a single bathroom, might take 4-8 weeks, while a major whole-home remodel could span 6-12 months or even longer. Factors like design finalization, material lead times, permitting processes, and unforeseen structural issues can influence the timeline. A detailed project schedule will be provided after the design phase is complete, offering a more accurate estimate.",
+        "description": "Project duration depends on scope; smaller renovations may take weeks, while whole-home remodels can take several months."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How long does a custom home renovation usually take?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The duration of a custom home renovation varies significantly based on its scope, complexity, and size. Minor renovations, like a single room remodel, might take 4-8 weeks. Larger projects, such as whole-house remodels or significant additions, can extend from 4 months to over a year. Factors like design changes, material availability, and permit approval times also influence the timeline. We provide a detailed project schedule during the planning phase.",
-        "@type": "Answer",
-        "description": "Timelines vary from 4 weeks for minor projects to over a year for major renovations, depending on scope and complexity."
-      }
-    }
-  ],
-  "description": "Timelines vary from 4 weeks for minor projects to over a year for major renovations, depending on scope and complexity."
+  }
 }

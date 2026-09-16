@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-my-kitchen-remodel",
-  "name": "How do I choose the right contractor for my kitchen remodel?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for my kitchen remodel?",
+  "description": "Choose a contractor by verifying their license and insurance, checking references, reviewing their portfolio, and ensuring clear communication and transparent p",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-my-kitchen-remodel",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for my kitchen remodel?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right contractor involves researching their experience, checking references, and reviewing their portfolio of past kitchen projects. Look for contractors who are licensed, insured, and have a strong track record of clear communication and adherence to timelines and budgets. Get detailed quotes from multiple contractors and ensure they understand your vision. Prioritize those who offer transparent pricing and demonstrate a commitment to quality craftsmanship and customer satisfaction.",
+        "description": "Choose a contractor by verifying their license and insurance, checking references, reviewing their portfolio, and ensuring clear communication and transparent pricing."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How do I choose the right contractor for my kitchen remodel?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "When selecting a contractor for your kitchen remodel, look for experience, strong communication, and transparent pricing. Verify their license and insurance, check references, and review their portfolio of past kitchen projects. A reputable contractor should provide a detailed contract outlining the scope of work, timeline, and payment schedule. Consider their responsiveness and whether their design vision aligns with yours. We emphasize clear communication and detailed project planning to ensure your satisfaction throughout the remodeling process.",
-        "@type": "Answer",
-        "description": "Choose a contractor based on experience, communication, transparent pricing, verified license and insurance, references, and a portfolio of past kitchen projects."
-      }
-    }
-  ],
-  "description": "Choose a contractor based on experience, communication, transparent pricing, verified license and insurance, references, and a portfolio of past kitchen project"
+  }
 }

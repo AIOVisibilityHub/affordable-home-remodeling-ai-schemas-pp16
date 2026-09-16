@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-window-replacement-project-take",
-  "name": "How long does a typical window replacement project take?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical window replacement project take?",
+  "description": "A typical window replacement project for a standard home usually takes one to three days, depending on the number and size of windows. Larger projects may take",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-window-replacement-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical window replacement project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a window replacement project varies based on the number of windows, their size, and the complexity of the installation. For a standard home, most replacements can be completed within one to three days. This includes removing old windows, preparing openings, installing new units, and finishing trim work. Larger projects or those requiring structural modifications will naturally take longer. We provide a detailed timeline during the initial consultation to set clear expectations for your specific project.",
+        "description": "A typical window replacement project for a standard home usually takes one to three days, depending on the number and size of windows. Larger projects may take longer."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How long does a typical window replacement project take?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The duration of a window replacement project depends on the number of windows, their size, the type of installation (full-frame or insert), and any unexpected structural issues. For an average-sized home with 10-15 windows, installation can typically be completed within one to three days. Larger projects or those requiring significant frame repair might take longer. Your contractor will provide a more accurate timeline after an on-site assessment.",
-        "@type": "Answer",
-        "description": "An average window replacement for 10-15 windows typically takes one to three days, depending on project scope and complexity."
-      }
-    }
-  ],
-  "description": "An average window replacement for 10-15 windows typically takes one to three days, depending on project scope and complexity."
+  }
 }
