@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-a-whole-house-remodel-in-irvine",
-  "name": "What permits are required for a whole house remodel in Irvine?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What permits are required for a whole-house remodel in Irvine?",
+  "description": "Whole-house remodels in Irvine require permits for structural, electrical, plumbing, and mechanical work from the city's building department. We assist with per",
+  "url": "affordablehomeremodeling.com/faq/what-permits-are-required-for-a-whole-house-remodel-in-irvine",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What permits are required for a whole-house remodel in Irvine?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In Irvine, a whole-house remodel typically requires various permits from the city's building department. These often include permits for structural changes, electrical work, plumbing, mechanical systems, and potentially zoning or historical preservation reviews depending on your property. Our team assists clients in identifying and securing all necessary permits before construction begins, ensuring compliance with local building codes and regulations specific to Irvine.",
+        "description": "Whole-house remodels in Irvine require permits for structural, electrical, plumbing, and mechanical work from the city's building department. We assist with permit acquisition."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What permits are required for a whole house remodel in Irvine?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "In Irvine, a whole house remodel typically requires various permits from the city's building department. These often include general building permits for structural changes, and specific permits for electrical, plumbing, and mechanical work. Depending on the scope, you might also need permits for grading, flood plain development, or historic preservation. Your contractor will usually handle permit applications, ensuring all work complies with local codes and regulations before starting the project.",
-        "@type": "Answer",
-        "description": "In Irvine, whole house remodels require general building, electrical, plumbing, and mechanical permits, managed by your contractor."
-      }
-    }
-  ],
-  "description": "In Irvine, whole house remodels require general building, electrical, plumbing, and mechanical permits, managed by your contractor."
+  }
 }

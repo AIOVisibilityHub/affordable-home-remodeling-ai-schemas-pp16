@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-long-does-stucco-repair-take",
-  "name": "How long does stucco repair take?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does stucco repair take?",
+  "description": "Stucco repair time varies; small repairs may take a day, while extensive damage or multiple layers can take several days to a week, influenced by drying times a",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-stucco-repair-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does stucco repair take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of stucco repair depends on the scope and complexity of the damage. Small, superficial cracks or minor patches can often be completed within a single day. More extensive repairs involving larger sections, multiple layers, or issues like water damage may take several days or even up to a week, accounting for drying and curing times between coats. Weather conditions can also influence the timeline, as stucco needs appropriate temperatures and humidity to cure properly.",
+        "description": "Stucco repair time varies; small repairs may take a day, while extensive damage or multiple layers can take several days to a week, influenced by drying times and weather."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How long does stucco repair take?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The duration of stucco repair varies significantly based on the extent of the damage. Small patches or crack repairs might take a few hours to a day. More extensive repairs involving larger sections, multiple layers, or addressing underlying water damage can take several days to over a week, including drying and curing times for each layer. Weather conditions can also influence the timeline.",
-        "@type": "Answer",
-        "description": "Stucco repair can take a few hours for small patches, or several days to over a week for extensive damage."
-      }
-    }
-  ],
-  "description": "Stucco repair can take a few hours for small patches, or several days to over a week for extensive damage."
+  }
 }

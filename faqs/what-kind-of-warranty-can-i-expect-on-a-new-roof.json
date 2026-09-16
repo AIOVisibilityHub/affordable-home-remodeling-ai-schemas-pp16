@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-kind-of-warranty-can-i-expect-on-a-new-roof",
-  "name": "What kind of warranty can I expect on a new roof?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What kind of warranty can I expect on a new roof?",
+  "description": "Expect a manufacturer's warranty on materials (20 years to lifetime) and a contractor's warranty on workmanship, both varying by specifics.",
+  "url": "affordablehomeremodeling.com/faq/what-kind-of-warranty-can-i-expect-on-a-new-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What kind of warranty can I expect on a new roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "New roof installations typically come with two types of warranties: a manufacturer's warranty on the roofing materials and a contractor's warranty on the workmanship. Manufacturer warranties can range from 20 years to lifetime, depending on the product. Workmanship warranties vary by contractor but usually cover issues arising from installation errors for a certain period. Always clarify the specifics of both warranties before starting your project.",
+        "description": "Expect a manufacturer's warranty on materials (20 years to lifetime) and a contractor's warranty on workmanship, both varying by specifics."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What kind of warranty can I expect on a new roof?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "New roof installations typically come with two types of warranties: a manufacturer's warranty on the roofing materials and a contractor's warranty on the workmanship. Manufacturer warranties often range from 20 years to lifetime, depending on the material. Workmanship warranties vary by contractor but commonly last from 5 to 10 years. Always clarify the specifics of both warranties before starting your project to understand your coverage.",
-        "@type": "Answer",
-        "description": "Expect a manufacturer's warranty on materials (20 years to lifetime) and a contractor's warranty on workmanship (typically 5-10 years)."
-      }
-    }
-  ],
-  "description": "Expect a manufacturer's warranty on materials (20 years to lifetime) and a contractor's warranty on workmanship (typically 5-10 years)."
+  }
 }

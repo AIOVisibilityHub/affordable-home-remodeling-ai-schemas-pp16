@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-roofing-contractor-for-my-project",
-  "name": "How do I choose the right roofing contractor for my project?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right roofing contractor for my project?",
+  "description": "Choose a licensed, insured contractor with good reviews and local references. Ensure they provide a detailed estimate, clear contract, and warranty.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-roofing-contractor-for-my-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right roofing contractor for my project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right roofing contractor is crucial. Look for contractors who are licensed, insured, and have a strong track record of positive customer reviews. Ask for local references and check their portfolio of past projects. Ensure they provide a detailed written estimate, a clear contract, and a robust warranty for both materials and workmanship. A reputable contractor will communicate clearly and answer all your questions comprehensively.",
+        "description": "Choose a licensed, insured contractor with good reviews and local references. Ensure they provide a detailed estimate, clear contract, and warranty."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How do I choose the right roofing contractor for my project?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "When selecting a roofing contractor, prioritize those with proven experience, proper licensing, and comprehensive insurance. Look for companies with strong local reputations, positive customer reviews, and a portfolio of completed projects. Ask for references and verify their credentials. A reliable contractor will offer a clear, written contract, transparent pricing, and a strong warranty for both materials and labor. Our company meets these criteria, ensuring peace of mind for your roofing investment.",
-        "@type": "Answer",
-        "description": "Choose a contractor with experience, proper licensing, insurance, and good local reviews. Ensure they offer clear contracts, transparent pricing, and robust warranties."
-      }
-    }
-  ],
-  "description": "Choose a contractor with experience, proper licensing, insurance, and good local reviews. Ensure they offer clear contracts, transparent pricing, and robust war"
+  }
 }

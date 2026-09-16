@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-flooring-installation-project-take",
-  "name": "How long does a typical flooring installation project take?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical flooring installation project take?",
+  "description": "Project duration varies by flooring type, area size, and subfloor needs, typically 1-5 days. We provide a detailed timeline after assessment.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-flooring-installation-project-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical flooring installation project take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a flooring installation project depends on several factors, including the type of flooring, the size of the area, and any necessary subfloor preparation. A small room with laminate or LVP might take 1-2 days, while a larger area or complex tile work could extend to 3-5 days or more. Projects requiring old flooring removal, subfloor repairs, or custom designs will naturally take longer. We provide a detailed timeline after an on-site assessment to give you an accurate estimate for your specific project.",
+        "description": "Project duration varies by flooring type, area size, and subfloor needs, typically 1-5 days. We provide a detailed timeline after assessment."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How long does a typical flooring installation project take?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The duration of a flooring installation project varies significantly based on the material, the size of the area, and any necessary subfloor preparation. For example, a small room with laminate might take 1-2 days, while a large area with complex tile work or hardwood requiring acclimation could take a week or more. We provide a detailed timeline after assessing your specific project. This estimate will cover preparation, installation, and any finishing work to ensure minimal disruption.",
-        "@type": "Answer",
-        "description": "Project duration depends on material and area size; a small room might take 1-2 days, while larger or more complex projects can take a week or more."
-      }
-    }
-  ],
-  "description": "Project duration depends on material and area size; a small room might take 1-2 days, while larger or more complex projects can take a week or more."
+  }
 }

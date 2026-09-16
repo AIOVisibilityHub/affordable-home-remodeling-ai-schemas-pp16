@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-contractor-for-my-primary-suite-addition",
-  "name": "How do I choose a contractor for my primary suite addition?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose a contractor for my primary suite addition?",
+  "description": "Choose a contractor with experience in home additions, verify their license and insurance, check references, and ensure clear communication and detailed proposa",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-a-contractor-for-my-primary-suite-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose a contractor for my primary suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When choosing a contractor, look for experience specifically in home additions, especially in your local area. Verify their licensing and insurance, and check references or reviews from previous clients. A good contractor should communicate clearly, provide detailed proposals, and have a solid understanding of local building codes and permit processes. Schedule consultations with a few reputable firms to compare their approach, pricing, and project management style.",
+        "description": "Choose a contractor with experience in home additions, verify their license and insurance, check references, and ensure clear communication and detailed proposals."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How do I choose a contractor for my primary suite addition?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Choosing a contractor for your primary suite addition involves several steps to ensure a successful project. Look for licensed, insured, and experienced general contractors specializing in home additions. Request references from previous clients and check online reviews. Obtain detailed bids from at least three different contractors, ensuring they provide a clear scope of work, timeline, and cost breakdown. Prioritize clear communication, professionalism, and a good rapport, as you'll be working closely with them throughout the project.",
-        "@type": "Answer",
-        "description": "Choose a contractor by verifying licenses and insurance, checking references and reviews, comparing detailed bids, and prioritizing clear communication."
-      }
-    }
-  ],
-  "description": "Choose a contractor by verifying licenses and insurance, checking references and reviews, comparing detailed bids, and prioritizing clear communication."
+  }
 }

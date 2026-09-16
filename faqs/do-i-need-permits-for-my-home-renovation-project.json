@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-my-home-renovation-project",
-  "name": "Do I need permits for my home renovation project?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for my home renovation project?",
+  "description": "Permits are often needed for structural, electrical, or plumbing changes, but not for minor cosmetic updates. We can help determine and secure required permits",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-my-home-renovation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for my home renovation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Many home renovation projects, especially those involving structural changes, electrical work, plumbing modifications, or significant additions, require permits from your local city or county building department. Minor cosmetic updates like painting or replacing flooring typically do not. Obtaining the necessary permits ensures that your project complies with local building codes and safety standards. Our team can help determine which permits are required for your specific renovation and assist with the application process.",
+        "description": "Permits are often needed for structural, electrical, or plumbing changes, but not for minor cosmetic updates. We can help determine and secure required permits for your project."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "Do I need permits for my home renovation project?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Many home renovation projects require permits, especially those involving structural changes, electrical work, plumbing modifications, or significant additions. The specific requirements depend on your city or county building codes. Projects like changing window sizes, adding or moving walls, or altering the roofline typically need permits. Minor cosmetic updates, such as painting or replacing flooring, usually do not. We can help assess your project's permit needs and assist with the application process to ensure compliance.",
-        "@type": "Answer",
-        "description": "Most home renovation projects involving structural, electrical, or plumbing changes require permits, depending on local building codes. We can help with this process."
-      }
-    }
-  ],
-  "description": "Most home renovation projects involving structural, electrical, or plumbing changes require permits, depending on local building codes. We can help with this pr"
+  }
 }

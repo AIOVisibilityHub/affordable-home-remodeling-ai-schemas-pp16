@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/can-i-repair-stucco-myself-or-should-i-hire-a-professional",
-  "name": "Can I repair stucco myself, or should I hire a professional?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Can I repair stucco myself, or should I hire a professional?",
+  "description": "Minor stucco repairs can be DIY, but significant damage or structural concerns warrant hiring a professional for proper assessment, material matching, and durab",
+  "url": "affordablehomeremodeling.com/faq/can-i-repair-stucco-myself-or-should-i-hire-a-professional",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I repair stucco myself, or should I hire a professional?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Minor stucco repairs, such as filling hairline cracks with patching compound, can sometimes be a DIY project for experienced homeowners. However, matching texture and color can be challenging, and improper application can lead to an uneven finish or recurring issues. For significant damage, water intrusion, or any repair involving structural integrity, hiring a professional is recommended. Professionals have the tools, expertise, and experience to correctly assess the damage, ensure proper material matching, and achieve a durable, aesthetically pleasing result.",
+        "description": "Minor stucco repairs can be DIY, but significant damage or structural concerns warrant hiring a professional for proper assessment, material matching, and durable results."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "Can I repair stucco myself, or should I hire a professional?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "While minor stucco cracks can sometimes be patched by a homeowner, extensive damage, moisture intrusion, or issues requiring texture matching are best handled by a professional. Professionals have the expertise, tools, and materials to properly diagnose underlying problems, ensure structural integrity, prevent future issues, and achieve a seamless, durable finish that matches your existing stucco.",
-        "@type": "Answer",
-        "description": "Hire a professional for extensive stucco damage, moisture issues, or when precise texture matching is needed; DIY is only for minor cracks."
-      }
-    }
-  ],
-  "description": "Hire a professional for extensive stucco damage, moisture issues, or when precise texture matching is needed; DIY is only for minor cracks."
+  }
 }

@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-roof-repair-take",
-  "name": "How long does a typical roof repair take?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical roof repair take?",
+  "description": "Repair time varies based on damage severity and roof type. Minor repairs take hours, while extensive work can take several days.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-roof-repair-take",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical roof repair take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The duration of a roof repair depends significantly on the extent of the damage, the type of roofing material, and weather conditions. Minor repairs, such as replacing a few shingles or sealing a small leak, might take only a few hours. More extensive repairs involving larger sections of the roof or structural issues could take several days. A thorough inspection by a professional contractor can provide a more accurate time estimate for your specific situation.",
+        "description": "Repair time varies based on damage severity and roof type. Minor repairs take hours, while extensive work can take several days."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How long does a typical roof repair take?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The duration of a roof repair depends entirely on the scope of the damage. Small repairs, such as replacing a few damaged shingles or sealing a minor leak, might be completed within a few hours to one day. More extensive repairs involving larger sections of the roof, flashing replacement, or structural fixes could take several days. We prioritize efficient and thorough work to minimize disruption to your home while ensuring lasting quality.",
-        "@type": "Answer",
-        "description": "Small roof repairs can take a few hours to one day, while more extensive repairs may require several days to complete."
-      }
-    }
-  ],
-  "description": "Small roof repairs can take a few hours to one day, while more extensive repairs may require several days to complete."
+  }
 }

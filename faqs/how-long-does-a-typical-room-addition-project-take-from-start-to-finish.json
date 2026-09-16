@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-room-addition-project-take-from-start-to-finish",
-  "name": "How long does a typical room addition project take from start to finish?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How long does a typical room addition project take from start to finish?",
+  "description": "A typical room addition can take 1-3 months for design and permits, followed by 3-6 months for construction, depending on project scope and unforeseen factors.",
+  "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-room-addition-project-take-from-start-to-finish",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How long does a typical room addition project take from start to finish?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The timeline for a room addition project depends on its scope and complexity, as well as the permit approval process. Generally, design and permitting can take 1-3 months. The construction phase itself for a standard room addition, such as a master suite or a new family room, typically ranges from 3 to 6 months. Factors like weather delays, material availability, and unforeseen structural issues can extend this timeframe. A clear project schedule provided by your contractor will outline key milestones and expected completion dates.",
+        "description": "A typical room addition can take 1-3 months for design and permits, followed by 3-6 months for construction, depending on project scope and unforeseen factors."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How long does a typical room addition project take from start to finish?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The duration of a room addition project varies based on its size, complexity, and local permitting processes. Generally, a small single-story addition might take 3-6 months, while larger or second-story additions could extend to 6-12 months or more. This timeline includes design, permitting, construction, and final inspections. We work to provide a clear timeline estimate after the initial design phase, factoring in all necessary steps.",
-        "@type": "Answer",
-        "description": "Project timelines vary, but a typical room addition can take 3-12 months, depending on size, complexity, and permitting."
-      }
-    }
-  ],
-  "description": "Project timelines vary, but a typical room addition can take 3-12 months, depending on size, complexity, and permitting."
+  }
 }

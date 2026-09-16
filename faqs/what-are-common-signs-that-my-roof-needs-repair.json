@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-are-common-signs-that-my-roof-needs-repair",
-  "name": "What are common signs that my roof needs repair?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are common signs that my roof needs repair?",
+  "description": "Look for missing shingles, leaks, water stains, granules in gutters, or a sagging roof. These are key indicators your roof may need attention.",
+  "url": "affordablehomeremodeling.com/faq/what-are-common-signs-that-my-roof-needs-repair",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are common signs that my roof needs repair?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common signs indicating your roof may need repair include missing or cracked shingles, visible leaks or water stains on your ceilings and walls, granules from shingles accumulating in gutters, and a sagging roof deck. You might also notice higher energy bills due to poor insulation or ventilation caused by roof damage. Regular inspections can help identify minor issues before they become major problems, preserving your roof's integrity and extending its lifespan.",
+        "description": "Look for missing shingles, leaks, water stains, granules in gutters, or a sagging roof. These are key indicators your roof may need attention."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What are common signs that my roof needs repair?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Look for cracked, curled, or missing shingles, especially after strong winds. Granules from asphalt shingles accumulating in gutters are another indicator. Indoors, water stains on ceilings or walls, and persistent drips suggest a leak. Visible sagging in the roof deck or damaged flashing around chimneys and vents also point to a need for professional inspection and repair. Addressing these issues early can prevent more extensive and costly damage.",
-        "@type": "Answer",
-        "description": "Common signs include cracked or missing shingles, granules in gutters, water stains on ceilings, and visible roof sagging."
-      }
-    }
-  ],
-  "description": "Common signs include cracked or missing shingles, granules in gutters, water stains on ceilings, and visible roof sagging."
+  }
 }

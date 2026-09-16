@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-that-i-need-a-new-roof",
-  "name": "What are the signs that I need a new roof?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the signs that I need a new roof?",
+  "description": "Signs include damaged or missing shingles, granules in gutters, interior water stains, or a roof over 20-25 years old.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-signs-that-i-need-a-new-roof",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the signs that I need a new roof?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common indicators that your roof may need replacement include missing, cracked, or curled shingles. You might also notice granules from shingles accumulating in gutters, indicating wear. Water stains on your ceilings or walls are a strong sign of a leak, which could necessitate a full replacement. Additionally, if your roof is over 20-25 years old, even without obvious damage, it might be nearing the end of its lifespan. A professional inspection can accurately assess its condition and recommend the best course of action.",
+        "description": "Signs include damaged or missing shingles, granules in gutters, interior water stains, or a roof over 20-25 years old."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What are the signs that I need a new roof?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Common signs indicating a roof replacement is needed include missing, cracked, or curled shingles; visible leaks or water stains on your ceilings; granules from asphalt shingles accumulating in gutters; and a sagging roof deck. If your roof is over 20-25 years old, especially an asphalt shingle roof, it's also a good idea to have it inspected by a professional. Early detection of these issues can prevent more extensive and costly damage to your home's structure.",
-        "@type": "Answer",
-        "description": "Look for missing or cracked shingles, leaks, granules in gutters, or a sagging roof. An old roof, typically over 20-25 years, also indicates a need for inspection."
-      }
-    }
-  ],
-  "description": "Look for missing or cracked shingles, leaks, granules in gutters, or a sagging roof. An old roof, typically over 20-25 years, also indicates a need for inspecti"
+  }
 }

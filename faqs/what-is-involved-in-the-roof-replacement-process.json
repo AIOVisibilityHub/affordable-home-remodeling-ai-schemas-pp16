@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-the-roof-replacement-process",
-  "name": "What is involved in the roof replacement process?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in the roof replacement process?",
+  "description": "The process involves inspection, removal of old roof, deck repair, underlayment installation, new roof installation, and cleanup.",
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-the-roof-replacement-process",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in the roof replacement process?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The roof replacement process typically begins with a thorough inspection and detailed estimate. Once approved, the existing roofing materials are carefully removed down to the roof deck. Any damaged or rotted decking is repaired or replaced. Next, new underlayment is installed to provide an additional layer of protection. Finally, the new roofing material is installed according to manufacturer specifications and local building codes. The process concludes with a final inspection and thorough cleanup of the work area.",
+        "description": "The process involves inspection, removal of old roof, deck repair, underlayment installation, new roof installation, and cleanup."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What is involved in the roof replacement process?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The roof replacement process typically begins with a thorough inspection and a detailed proposal. Once approved, the existing roofing materials are removed down to the roof deck. Any damaged decking or underlying structures are repaired or replaced. A new underlayment is then installed, followed by flashing around chimneys and vents, and finally, the new roofing material itself. The process concludes with a comprehensive cleanup of debris and a final inspection to ensure quality and compliance. The timeline varies by roof size and material, but most residential replacements are completed within a few days to a week.",
-        "@type": "Answer",
-        "description": "The process involves removing old materials, repairing the deck, installing underlayment and flashing, then applying new roofing. It concludes with cleanup and inspection."
-      }
-    }
-  ],
-  "description": "The process involves removing old materials, repairing the deck, installing underlayment and flashing, then applying new roofing. It concludes with cleanup and"
+  }
 }

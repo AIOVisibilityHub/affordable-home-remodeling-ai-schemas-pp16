@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-is-the-r-value-and-why-is-it-important-for-insulation",
-  "name": "What is the R-value, and why is it important for insulation?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the R-value, and why is it important for insulation?",
+  "description": "R-value indicates insulation's heat flow resistance; higher R-values mean better thermal performance. It's crucial for energy efficiency and compliance with cli",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-r-value-and-why-is-it-important-for-insulation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the R-value, and why is it important for insulation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "R-value measures an insulation material's resistance to heat flow. A higher R-value indicates greater insulating power and better thermal performance. The appropriate R-value for your home depends on your climate zone and the specific area being insulated (e.g., attic, walls). For instance, attics generally require higher R-values than walls. Choosing the correct R-value ensures optimal energy efficiency, comfort, and compliance with local building codes, leading to lower energy bills and a more comfortable indoor environment.",
+        "description": "R-value indicates insulation's heat flow resistance; higher R-values mean better thermal performance. It's crucial for energy efficiency and compliance with climate zone recommendations."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What is the R-value, and why is it important for insulation?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "R-value is a measure of thermal resistance, indicating how well an insulation material resists the conductive flow of heat. A higher R-value means better insulating performance. The appropriate R-value for your home depends on your climate zone, the specific area being insulated (e.g., attic, walls, floor), and local building codes. In Southern California, recommended R-values for attics are typically between R-30 and R-60. Understanding R-value helps ensure you choose insulation that provides adequate thermal performance for maximum energy efficiency and comfort.",
-        "@type": "Answer",
-        "description": "R-value measures insulation's resistance to heat flow; a higher R-value means better performance. Required R-values vary by climate and area of home."
-      }
-    }
-  ],
-  "description": "R-value measures insulation's resistance to heat flow; a higher R-value means better performance. Required R-values vary by climate and area of home."
+  }
 }
