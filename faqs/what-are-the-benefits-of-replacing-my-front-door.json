@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-replacing-my-front-door",
-  "name": "What are the benefits of replacing my front door?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of replacing my front door?",
+  "description": "Benefits include improved energy efficiency, enhanced curb appeal, better security, and reduced noise.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-replacing-my-front-door",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of replacing my front door?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Replacing your front door can significantly improve your home's energy efficiency by reducing drafts and heat loss, especially with modern insulated doors. It also enhances curb appeal, increasing your home's aesthetic value and potentially its market value. Newer doors offer improved security features, providing better protection for your family and belongings. Additionally, a new door can reduce outside noise and update your home's overall look and feel.",
+        "description": "Benefits include improved energy efficiency, enhanced curb appeal, better security, and reduced noise."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What are the benefits of replacing my front door?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Replacing your front door can offer several advantages, including improved energy efficiency due to better insulation and sealing, enhanced home security from modern locking systems and durable materials, and a significant boost to your home's curb appeal. A new door can also increase natural light if it includes glass panels and reduce noise transfer from outside. Over time, these benefits can contribute to increased property value and a more comfortable living environment.",
-        "@type": "Answer",
-        "description": "Benefits include improved energy efficiency, enhanced security, better curb appeal, and increased home value."
-      }
-    }
-  ],
-  "description": "Benefits include improved energy efficiency, enhanced security, better curb appeal, and increased home value."
+  }
 }

@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-new-window-installation-in-orange-county",
-  "name": "Do I need permits for new window installation in Orange County?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for new window installation in Orange County?",
+  "description": "Yes, permits are generally required for new window installations in Orange County, especially for structural changes. We handle the permitting process.",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-new-window-installation-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for new window installation in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, for most new window installations in Orange County, a building permit is typically required, especially if structural changes are involved or if you are modifying the size or type of the opening. This ensures compliance with local building codes and safety standards. We manage the permitting process for you, streamlining the project from start to finish.",
+        "description": "Yes, permits are generally required for new window installations in Orange County, especially for structural changes. We handle the permitting process."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "Do I need permits for new window installation in Orange County?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Permit requirements for new window installation can vary by city and the scope of the project. Generally, if the window openings are not being structurally altered, permits may not be required for like-for-like replacements. However, it's always best to verify with your local building department or consult with our team, as we are familiar with local regulations in areas like Huntington Beach, Irvine, and Mission Viejo.",
-        "@type": "Answer",
-        "description": "Permit requirements for window installation vary by city and project scope. We can help clarify local regulations for Orange County areas like Huntington Beach and Irvine."
-      }
-    }
-  ],
-  "description": "Permit requirements for window installation vary by city and project scope. We can help clarify local regulations for Orange County areas like Huntington Beach"
+  }
 }

@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/do-energy-efficient-windows-qualify-for-any-rebates-or-tax-credits",
-  "name": "Do energy-efficient windows qualify for any rebates or tax credits?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do energy-efficient windows qualify for any rebates or tax credits?",
+  "description": "Federal tax credits and local utility rebates may be available for energy-efficient windows, but eligibility varies and is subject to change. Check current prog",
+  "url": "affordablehomeremodeling.com/faq/do-energy-efficient-windows-qualify-for-any-rebates-or-tax-credits",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do energy-efficient windows qualify for any rebates or tax credits?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While federal tax credits for energy-efficient home improvements vary and may be subject to legislative changes, there have been federal incentives in the past for specific products meeting certain energy performance criteria. Additionally, local utility companies or state programs in California sometimes offer rebates for upgrading to energy-efficient windows. We recommend checking current federal and local programs or consulting with a tax professional to understand any available incentives at the time of your purchase.",
+        "description": "Federal tax credits and local utility rebates may be available for energy-efficient windows, but eligibility varies and is subject to change. Check current programs."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "Do energy-efficient windows qualify for any rebates or tax credits?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "While federal tax credits for energy-efficient home improvements can change, and state/local programs vary, it's always worth researching current incentives. Homeowners in California may find opportunities through utility company rebate programs or other state-level initiatives designed to promote energy efficiency. These incentives can help offset the initial cost of installing new windows. We recommend checking with your local utility provider and reviewing current federal and state energy efficiency program websites for the most up-to-date information on available rebates or credits that you may qualify for.",
-        "@type": "Answer",
-        "description": "Check with your local utility provider and federal/state energy efficiency program websites for current rebates or tax credits for energy-efficient window installations."
-      }
-    }
-  ],
-  "description": "Check with your local utility provider and federal/state energy efficiency program websites for current rebates or tax credits for energy-efficient window insta"
+  }
 }

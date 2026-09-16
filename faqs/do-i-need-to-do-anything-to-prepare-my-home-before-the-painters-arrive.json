@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/do-i-need-to-do-anything-to-prepare-my-home-before-the-painters-arrive",
-  "name": "Do I need to do anything to prepare my home before the painters arrive?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need to do anything to prepare my home before the painters arrive?",
+  "description": "Before painters arrive, remove small, delicate items and clear pathways. Moving larger furniture away from walls can also help streamline the preparation proces",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-to-do-anything-to-prepare-my-home-before-the-painters-arrive",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need to do anything to prepare my home before the painters arrive?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "While professional painters will handle much of the preparation, there are steps you can take to help streamline the process. It's helpful to remove small, delicate, or valuable items from the rooms being painted, such as picture frames, wall decor, and collectibles. Clearing pathways and moving larger furniture away from walls, if possible, can also be beneficial. This allows the painting crew to set up drop cloths and begin work more efficiently, ensuring a smoother project start.",
+        "description": "Before painters arrive, remove small, delicate items and clear pathways. Moving larger furniture away from walls can also help streamline the preparation process."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "Do I need to do anything to prepare my home before the painters arrive?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "While our team handles most of the preparation, a few steps from your side can help ensure a smooth and efficient painting process. We recommend removing small, fragile, or valuable items from the rooms to be painted. Clearing shelves, taking down wall hangings, and storing personal items in another room is also helpful. We will move larger furniture to the center of the room and cover it, but clearing pathways helps our team work effectively.",
-        "@type": "Answer",
-        "description": "Before painters arrive, remove small, fragile items, clear shelves, and take down wall hangings. We will handle moving and covering larger furniture."
-      }
-    }
-  ],
-  "description": "Before painters arrive, remove small, fragile items, clear shelves, and take down wall hangings. We will handle moving and covering larger furniture."
+  }
 }

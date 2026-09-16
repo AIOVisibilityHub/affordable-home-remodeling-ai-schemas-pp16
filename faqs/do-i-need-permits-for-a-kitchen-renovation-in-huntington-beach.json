@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-a-kitchen-renovation-in-huntington-beach",
-  "name": "Do I need permits for a kitchen renovation in Huntington Beach?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for a kitchen renovation in Huntington Beach?",
+  "description": "Permits are usually required for kitchen renovations in Huntington Beach involving structural, plumbing, or electrical changes. Minor cosmetic updates often do",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-a-kitchen-renovation-in-huntington-beach",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for a kitchen renovation in Huntington Beach?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes, many kitchen renovation projects in Huntington Beach require permits, especially if the work involves changes to the structural layout, plumbing, or electrical systems. Minor cosmetic updates like painting or replacing cabinet doors typically do not require permits. However, moving walls, reconfiguring plumbing lines, or adding new electrical circuits will necessitate obtaining the proper permits from the City of Huntington Beach Building Department. Our team assists clients in identifying and securing all necessary permits to ensure compliance with local building codes.",
+        "description": "Permits are usually required for kitchen renovations in Huntington Beach involving structural, plumbing, or electrical changes. Minor cosmetic updates often do not need permits."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "Do I need permits for a kitchen renovation in Huntington Beach?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Yes, permits are often required for kitchen renovations, especially if the project involves altering the structural integrity of your home, changing plumbing or electrical layouts, or expanding the kitchen's footprint. Even minor changes might require permits depending on local regulations. In Huntington Beach, the city's building department reviews renovation plans to ensure they meet safety and building codes. Your general contractor can help determine specific permit requirements for your project and assist with the application process.",
-        "@type": "Answer",
-        "description": "Permits are usually needed for kitchen renovations in Huntington Beach if structural, plumbing, or electrical changes are involved. A contractor can assist with this process."
-      }
-    }
-  ],
-  "description": "Permits are usually needed for kitchen renovations in Huntington Beach if structural, plumbing, or electrical changes are involved. A contractor can assist with"
+  }
 }

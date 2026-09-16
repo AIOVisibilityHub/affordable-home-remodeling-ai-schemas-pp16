@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-is-a-primary-suite-addition",
-  "name": "What is a primary suite addition?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a primary suite addition?",
+  "description": "A primary suite addition expands your home to create a new, private living area, typically including a larger bedroom, en-suite bathroom, and walk-in closet.",
+  "url": "affordablehomeremodeling.com/faq/what-is-a-primary-suite-addition",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a primary suite addition?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A primary suite addition involves expanding your home to create a new, dedicated private living area. This typically includes a larger bedroom, an en-suite bathroom, and often a walk-in closet or sitting area. It can be built as a horizontal extension on the ground floor or a vertical addition above an existing structure, depending on lot size, zoning regulations, and structural feasibility. The goal is to enhance comfort, privacy, and overall home value.",
+        "description": "A primary suite addition expands your home to create a new, private living area, typically including a larger bedroom, en-suite bathroom, and walk-in closet."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What is a primary suite addition?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "A primary suite addition involves expanding your home to create a new, dedicated space that typically includes a bedroom, a private bathroom, and often a walk-in closet. This type of addition can be built as a ground-level extension or a second-story addition, depending on your property and zoning regulations. The goal is to enhance comfort, privacy, and functionality, often leading to increased home value and improved living space.",
-        "@type": "Answer",
-        "description": "A primary suite addition expands your home to create a new bedroom, private bathroom, and often a walk-in closet, enhancing comfort and value."
-      }
-    }
-  ],
-  "description": "A primary suite addition expands your home to create a new bedroom, private bathroom, and often a walk-in closet, enhancing comfort and value."
+  }
 }

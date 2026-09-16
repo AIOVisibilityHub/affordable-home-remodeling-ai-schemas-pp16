@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-replacing-my-windows",
-  "name": "When should I consider replacing my windows?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider replacing my windows?",
+  "description": "Replace windows if you notice drafts, condensation, operational issues, high energy bills, or visible damage like rot or cracks.",
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-replacing-my-windows",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider replacing my windows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider replacing your windows if you notice drafts, condensation between panes, difficulty opening or closing them, or if your energy bills are unusually high. Visible damage like rot, cracks, or warped frames also indicates a need for replacement. Upgrading can improve comfort, efficiency, and the overall aesthetic of your home.",
+        "description": "Replace windows if you notice drafts, condensation, operational issues, high energy bills, or visible damage like rot or cracks."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "When should I consider replacing my windows?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "You should consider replacing your windows if you notice drafts, condensation between panes, difficulty operating them, increased energy bills, or visible damage like rot or warping. New windows can also significantly improve your home's curb appeal, noise reduction, and overall comfort, making it a worthwhile upgrade even without major issues.",
-        "@type": "Answer",
-        "description": "Consider replacing windows if you notice drafts, condensation, difficulty operating them, high energy bills, or visible damage. New windows also improve home value and comfort."
-      }
-    }
-  ],
-  "description": "Consider replacing windows if you notice drafts, condensation, difficulty operating them, high energy bills, or visible damage. New windows also improve home va"
+  }
 }

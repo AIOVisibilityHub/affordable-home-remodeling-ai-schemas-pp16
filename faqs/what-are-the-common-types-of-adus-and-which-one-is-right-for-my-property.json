@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-are-the-common-types-of-adus-and-which-one-is-right-for-my-property",
-  "name": "What are the common types of ADUs and which one is right for my property?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the common types of ADUs and which one is right for my property?",
+  "description": "ADU types include detached, attached, and converted. The best choice depends on lot size, zoning, existing structures, and needs.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-common-types-of-adus-and-which-one-is-right-for-my-property",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the common types of ADUs and which one is right for my property?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common ADU types include detached (freestanding in the backyard), attached (an addition to the existing home), and converted (e.g., garage conversion, basement conversion). The best type for your property depends on lot size, local zoning regulations, existing structures, and your specific needs. A detached ADU offers more privacy, while a garage conversion can be more cost-effective.",
+        "description": "ADU types include detached, attached, and converted. The best choice depends on lot size, zoning, existing structures, and needs."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What are the common types of ADUs and which one is right for my property?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Common ADU types include detached (new separate structure), attached (an addition to the main home), and garage conversions (transforming an existing garage). The best type depends on your property's size, existing structures, local zoning rules, and your specific needs. Detached ADUs offer more privacy, attached ADUs can be more cost-effective, and garage conversions often minimize construction time and expense. A site assessment by a professional can help determine the most suitable option.",
-        "@type": "Answer",
-        "description": "ADU types include detached, attached, and garage conversions. The best choice depends on your property, local rules, and needs. A professional assessment can guide your decision."
-      }
-    }
-  ],
-  "description": "ADU types include detached, attached, and garage conversions. The best choice depends on your property, local rules, and needs. A professional assessment can gu"
+  }
 }

@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-replacing-old-windows-during-an-exterior-renovation",
-  "name": "What are the benefits of replacing old windows during an exterior renovation?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of replacing old windows during an exterior renovation?",
+  "description": "Replacing old windows improves energy efficiency, reduces utility costs, enhances sound insulation, boosts security, and updates curb appeal.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-replacing-old-windows-during-an-exterior-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of replacing old windows during an exterior renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Replacing old windows offers multiple benefits that enhance both your home's aesthetics and functionality. New windows significantly improve energy efficiency by reducing heat transfer, leading to lower heating and cooling costs. They also provide better sound insulation, increased security, and improved curb appeal with modern styles and frames. Additionally, advancements in glass technology can protect your interior furnishings from UV damage and reduce condensation.",
+        "description": "Replacing old windows improves energy efficiency, reduces utility costs, enhances sound insulation, boosts security, and updates curb appeal."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What are the benefits of replacing old windows during an exterior renovation?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Replacing old windows offers multiple benefits for your home. Modern, energy-efficient windows significantly improve insulation, reducing heating and cooling costs. They also enhance your home's aesthetic appeal, both internally and externally, and can increase its resale value. New windows often provide better sound dampening, increased security features, and easier maintenance compared to older models. Upgrading them during an exterior renovation can be a cost-effective way to improve overall home performance.",
-        "@type": "Answer",
-        "description": "Replacing old windows improves energy efficiency, reduces utility costs, enhances curb appeal, increases home value, and offers better sound insulation and security."
-      }
-    }
-  ],
-  "description": "Replacing old windows improves energy efficiency, reduces utility costs, enhances curb appeal, increases home value, and offers better sound insulation and secu"
+  }
 }

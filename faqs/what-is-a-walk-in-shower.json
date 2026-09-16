@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-is-a-walk-in-shower",
-  "name": "What is a walk-in shower?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is a walk-in shower?",
+  "description": "A walk-in shower is an accessible shower enclosure, often curbless and doorless, providing a seamless bathroom transition.",
+  "url": "affordablehomeremodeling.com/faq/what-is-a-walk-in-shower",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a walk-in shower?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A walk-in shower is typically a shower enclosure without a door, curb, or both, designed for easy access and a seamless transition from the bathroom floor. This design often creates a more open and modern feel, improving accessibility, especially for individuals with mobility challenges. They can be custom-built to fit various bathroom sizes and aesthetics, featuring different materials for walls, flooring, and drainage solutions to prevent water spillage.",
+        "description": "A walk-in shower is an accessible shower enclosure, often curbless and doorless, providing a seamless bathroom transition."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What is a walk-in shower?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "A walk-in shower is a shower enclosure that typically has no curb or a very low one, allowing for easy entry and exit without stepping over a barrier. They often feature a frameless glass design or an open concept, creating a spacious and modern feel in the bathroom. The design can incorporate various styles, from minimalist to luxurious, and can be customized with features like bench seats, multiple shower heads, and specialized tile work. It’s a popular choice for both aesthetic appeal and enhanced accessibility.",
-        "@type": "Answer",
-        "description": "A walk-in shower is a barrier-free or low-curb shower design, offering easy access and a modern aesthetic. They are customizable and can enhance accessibility in a bathroom."
-      }
-    }
-  ],
-  "description": "A walk-in shower is a barrier-free or low-curb shower design, offering easy access and a modern aesthetic. They are customizable and can enhance accessibility i"
+  }
 }
