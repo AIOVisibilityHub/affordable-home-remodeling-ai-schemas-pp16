@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-do-i-prepare-my-home-for-a-kitchen-renovation",
-  "name": "How do I prepare my home for a kitchen renovation?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prepare my home for a kitchen renovation?",
+  "description": "Prepare your home by emptying the kitchen, covering adjacent furniture, clearing pathways, securing pets, and coordinating utility shut-offs. This protects belo",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-prepare-my-home-for-a-kitchen-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prepare my home for a kitchen renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Preparing your home for a kitchen renovation involves several steps to protect your belongings and facilitate the work. Start by emptying all kitchen cabinets, drawers, and the pantry, storing items in another room. Disconnect and remove small appliances. Protect adjacent areas by covering furniture and doorways with plastic sheeting to minimize dust spread. Clear a path for workers and materials, and ensure pets are secured away from the construction zone. Discuss utility shut-off schedules with your contractor to minimize inconvenience.",
+        "description": "Prepare your home by emptying the kitchen, covering adjacent furniture, clearing pathways, securing pets, and coordinating utility shut-offs. This protects belongings and aids workers."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How do I prepare my home for a kitchen renovation?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Preparing your home for a kitchen renovation involves several steps to protect your belongings and facilitate the contractor's work. First, clear out all kitchen contents, including food, dishes, and small appliances. Designate a temporary kitchen area for essentials. Next, protect surrounding areas by covering furniture, flooring, and doorways with plastic sheeting or drop cloths to contain dust. Remove any wall decor or window treatments in nearby rooms. Ensure a clear path for workers and material delivery. Discuss with your contractor any utilities that need to be shut off and where to set up their equipment.",
-        "@type": "Answer",
-        "description": "Prepare your home by clearing the kitchen, setting up a temporary cooking space, protecting surrounding areas from dust, and ensuring clear access for workers."
-      }
-    }
-  ],
-  "description": "Prepare your home by clearing the kitchen, setting up a temporary cooking space, protecting surrounding areas from dust, and ensuring clear access for workers."
+  }
 }

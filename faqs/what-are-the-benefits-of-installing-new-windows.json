@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-installing-new-windows",
-  "name": "What are the benefits of installing new windows?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What are the benefits of installing new windows?",
+  "description": "New windows improve energy efficiency, enhance curb appeal, reduce noise, and increase security and home value.",
+  "url": "affordablehomeremodeling.com/faq/what-are-the-benefits-of-installing-new-windows",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the benefits of installing new windows?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Installing new windows can significantly improve your home's energy efficiency by reducing drafts and heat transfer, leading to lower utility bills. Modern windows also offer enhanced curb appeal, noise reduction, and increased security through stronger frames and locking mechanisms. Upgrading windows can also boost your home's value and provide better UV protection for your interior furnishings.",
+        "description": "New windows improve energy efficiency, enhance curb appeal, reduce noise, and increase security and home value."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What are the benefits of installing new windows?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "New windows can significantly improve your home's energy efficiency by reducing drafts and heat transfer, leading to lower utility bills. They also enhance your home's curb appeal, increase property value, and can reduce outside noise. Modern windows offer improved security features and are easier to maintain than older models, providing a more comfortable and quieter indoor environment.",
-        "@type": "Answer",
-        "description": "New windows improve energy efficiency, enhance curb appeal, increase property value, reduce noise, and offer better security."
-      }
-    }
-  ],
-  "description": "New windows improve energy efficiency, enhance curb appeal, increase property value, reduce noise, and offer better security."
+  }
 }

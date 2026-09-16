@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-a-new-roof-in-orange-county",
-  "name": "What is the average cost of a new roof in Orange County?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the average cost of a new roof in Orange County?",
+  "description": "The average cost of a new roof in Orange County varies. Factors include roof size, material choice, complexity, and necessary repairs. We provide free, detailed",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-average-cost-of-a-new-roof-in-orange-county",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the average cost of a new roof in Orange County?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The cost of a new roof in Orange County varies significantly based on several factors, including the size of your home, the materials you select (e.g., asphalt shingles, tile, metal), the roof's pitch and complexity, and any necessary structural repairs. While we can't give a universal average, a professional estimate will provide a precise cost for your specific project. We offer free, detailed quotes to help you understand the investment.",
+        "description": "The average cost of a new roof in Orange County varies. Factors include roof size, material choice, complexity, and necessary repairs. We provide free, detailed quotes."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What is the average cost of a new roof in Orange County?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "The cost of a new roof in Orange County can vary significantly based on material choice, roof size, pitch, and accessibility. Asphalt shingles are typically the most budget-friendly option, while tile, metal, or flat roofing systems can be more expensive. To provide an accurate estimate, we offer free, no-obligation consultations where we assess your specific needs and provide a detailed quote. This allows us to account for all variables unique to your home and location.",
-        "@type": "Answer",
-        "description": "The average cost for a new roof in Orange County varies by material, roof size, and complexity. We offer free estimates for accurate pricing."
-      }
-    }
-  ],
-  "description": "The average cost for a new roof in Orange County varies by material, roof size, and complexity. We offer free estimates for accurate pricing."
+  }
 }

@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-ceramic-and-porcelain-tile",
-  "name": "What is the difference between ceramic and porcelain tile?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is the difference between ceramic and porcelain tile?",
+  "description": "Porcelain is denser, more water-resistant, and durable, while ceramic is softer, easier to cut, and generally more affordable for indoor use.",
+  "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-ceramic-and-porcelain-tile",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between ceramic and porcelain tile?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ceramic and porcelain tiles are both made from clay but differ in their manufacturing process and properties. Porcelain tiles are fired at higher temperatures and are denser, less porous, and more water-resistant, making them ideal for high-traffic areas and outdoor use. Ceramic tiles are softer, easier to cut, and generally more affordable, suitable for most indoor applications with less wear. Both offer a wide range of styles.",
+        "description": "Porcelain is denser, more water-resistant, and durable, while ceramic is softer, easier to cut, and generally more affordable for indoor use."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What is the difference between ceramic and porcelain tile?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "While both are made from clay, porcelain tile is denser, less porous, and more durable than ceramic tile. Porcelain is fired at higher temperatures and for longer, resulting in a tile that is more water-resistant, making it ideal for high-moisture areas like bathrooms and outdoor use. Ceramic tile is generally softer, easier to cut, and often more budget-friendly, suitable for various indoor applications with less foot traffic.",
-        "@type": "Answer",
-        "description": "Porcelain tile is denser, more water-resistant, and more durable than ceramic, making it suitable for high-moisture and high-traffic areas. Ceramic is softer, easier to cut, and often more affordable."
-      }
-    }
-  ],
-  "description": "Porcelain tile is denser, more water-resistant, and more durable than ceramic, making it suitable for high-moisture and high-traffic areas. Ceramic is softer, e"
+  }
 }
