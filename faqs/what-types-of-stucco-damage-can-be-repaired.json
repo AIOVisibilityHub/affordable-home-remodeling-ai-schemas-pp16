@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-types-of-stucco-damage-can-be-repaired",
-  "name": "What types of stucco damage can be repaired?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What types of stucco damage can be repaired?",
+  "description": "Most stucco damage, from hairline cracks and holes to water damage and crumbling, can be repaired to restore integrity and appearance.",
+  "url": "affordablehomeremodeling.com/faq/what-types-of-stucco-damage-can-be-repaired",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What types of stucco damage can be repaired?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most types of stucco damage can be repaired. This includes minor hairline cracks, larger structural cracks, holes, impact damage, and areas affected by water intrusion, efflorescence, or crumbling. Even extensive damage where stucco has detached from the substrate can often be remedied. The key is timely intervention; addressing issues early can prevent them from escalating into more complex and costly repairs, preserving the integrity and appearance of your home.",
+        "description": "Most stucco damage, from hairline cracks and holes to water damage and crumbling, can be repaired to restore integrity and appearance."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What types of stucco damage can be repaired?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Most common types of stucco damage can be repaired, including hairline cracks, spiderweb cracks, impact holes, chipping, and areas affected by moisture intrusion leading to soft spots or delamination. Even larger sections of missing stucco can be replaced. The repair method varies based on the type and severity of the damage, often involving patching, re-coating, or full section replacement to restore integrity.",
-        "@type": "Answer",
-        "description": "Most stucco damage, including cracks, chips, holes, and moisture-related issues, can be repaired through patching or re-coating."
-      }
-    }
-  ],
-  "description": "Most stucco damage, including cracks, chips, holes, and moisture-related issues, can be repaired through patching or re-coating."
+  }
 }

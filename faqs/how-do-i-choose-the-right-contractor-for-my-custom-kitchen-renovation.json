@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-my-custom-kitchen-renovation",
-  "name": "How do I choose the right contractor for my custom kitchen renovation?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I choose the right contractor for my custom kitchen renovation?",
+  "description": "Choose a licensed and insured contractor with a strong portfolio, positive references, transparent pricing, and clear communication for your custom kitchen reno",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-my-custom-kitchen-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I choose the right contractor for my custom kitchen renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Choosing the right contractor is crucial for a successful custom kitchen renovation. Look for a licensed and insured general contractor with a strong portfolio of custom kitchen projects. Check their references, read client testimonials, and ensure they have a clear communication process. A good contractor will offer transparent pricing, provide a detailed contract, and demonstrate expertise in managing custom projects from design to completion, ensuring quality and adherence to your vision.",
+        "description": "Choose a licensed and insured contractor with a strong portfolio, positive references, transparent pricing, and clear communication for your custom kitchen renovation."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How do I choose the right contractor for my custom kitchen renovation?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Choosing the right contractor is crucial for a successful custom kitchen renovation. Look for licensed, insured contractors with a strong portfolio of custom kitchen projects and positive client testimonials. Ensure they have experience working in your specific service area, such as Irvine or Yorba Linda. Schedule consultations with multiple contractors to compare their approaches, communication styles, and detailed proposals. Prioritize transparent pricing, clear contracts, and a good rapport to ensure a smooth partnership throughout the project.",
-        "@type": "Answer",
-        "description": "Select a licensed, insured contractor with a strong portfolio, positive reviews, and local experience. Compare proposals and prioritize clear communication and transparent pricing."
-      }
-    }
-  ],
-  "description": "Select a licensed, insured contractor with a strong portfolio, positive reviews, and local experience. Compare proposals and prioritize clear communication and"
+  }
 }

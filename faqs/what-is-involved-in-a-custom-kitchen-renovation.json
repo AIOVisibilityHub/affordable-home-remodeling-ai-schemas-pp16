@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-a-custom-kitchen-renovation",
-  "name": "What is involved in a custom kitchen renovation?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in a custom kitchen renovation?",
+  "description": "A custom kitchen renovation involves a complete redesign tailored to your specific needs, including new cabinetry, countertops, and appliances.",
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-a-custom-kitchen-renovation",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in a custom kitchen renovation?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A custom kitchen renovation typically involves a comprehensive redesign of your kitchen space. This includes planning, demolition, and installation of new cabinetry, countertops, flooring, lighting, plumbing, and appliances. Unlike a standard remodel, a custom renovation is tailored specifically to your lifestyle, aesthetic preferences, and functional needs, often incorporating unique materials, layouts, and features to create a truly personalized culinary environment. We work closely with you from concept to completion to ensure every detail meets your vision.",
+        "description": "A custom kitchen renovation involves a complete redesign tailored to your specific needs, including new cabinetry, countertops, and appliances."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What is involved in a custom kitchen renovation?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "A custom kitchen renovation involves designing and building a kitchen tailored specifically to your preferences, space, and lifestyle. This typically includes a detailed consultation to understand your needs, professional design services, selection of materials (cabinets, countertops, flooring, fixtures), demolition of existing structures, installation of new components, plumbing, electrical work, and finishing touches. The process is collaborative, ensuring the final result perfectly matches your vision for functionality and aesthetics.",
-        "@type": "Answer",
-        "description": "A custom kitchen renovation tailors your kitchen's design, materials, and layout to your specific needs and preferences. It includes design, material selection, demolition, and installation."
-      }
-    }
-  ],
-  "description": "A custom kitchen renovation tailors your kitchen's design, materials, and layout to your specific needs and preferences. It includes design, material selection,"
+  }
 }

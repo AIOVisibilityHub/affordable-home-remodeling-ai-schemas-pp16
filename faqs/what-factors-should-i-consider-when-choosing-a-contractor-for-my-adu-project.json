@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-factors-should-i-consider-when-choosing-a-contractor-for-my-adu-project",
-  "name": "What factors should I consider when choosing a contractor for my ADU project?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What factors should I consider when choosing a contractor for my ADU project?",
+  "description": "Choose a contractor based on ADU experience, licensing, insurance, portfolio, communication, transparency, and local regulation knowledge.",
+  "url": "affordablehomeremodeling.com/faq/what-factors-should-i-consider-when-choosing-a-contractor-for-my-adu-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What factors should I consider when choosing a contractor for my ADU project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "When selecting an ADU contractor, consider their experience with ADU projects specifically, their licensing and insurance status, and their portfolio of completed work. Evaluate their communication style, transparency in bidding, and customer references. A contractor familiar with local regulations in your area can also be highly beneficial for navigating the permitting process efficiently.",
+        "description": "Choose a contractor based on ADU experience, licensing, insurance, portfolio, communication, transparency, and local regulation knowledge."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What factors should I consider when choosing a contractor for my ADU project?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "When selecting an ADU contractor, prioritize experience with ADU projects specifically. Look for a licensed and insured contractor with a strong portfolio of completed ADUs. Check references from previous clients and read online reviews. Ensure they are familiar with local zoning laws and permitting processes in your specific area. Communication style, transparency in bidding, and a clear contract are also vital for a successful partnership and project outcome.",
-        "@type": "Answer",
-        "description": "Choose an ADU contractor based on their specific ADU experience, license, insurance, references, local code familiarity, transparent bidding, and clear communication."
-      }
-    }
-  ],
-  "description": "Choose an ADU contractor based on their specific ADU experience, license, insurance, references, local code familiarity, transparent bidding, and clear communic"
+  }
 }

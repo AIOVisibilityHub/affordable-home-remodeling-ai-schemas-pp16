@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-replacing-my-home-s-flooring",
-  "name": "When should I consider replacing my home's flooring?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "When should I consider replacing my home's flooring?",
+  "description": "Consider replacing flooring due to significant wear, damage, outdated style, or if it negatively impacts indoor air quality.",
+  "url": "affordablehomeremodeling.com/faq/when-should-i-consider-replacing-my-home-s-flooring",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "When should I consider replacing my home's flooring?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "You should consider replacing your flooring when it shows significant wear and tear, such as deep scratches, fading, buckling, or persistent stains. Outdated styles can also be a reason for replacement, especially if you're renovating or selling your home. Beyond aesthetics, replacement is often necessary if there's structural damage, water damage, or if allergens trapped in old carpets are affecting indoor air quality.",
+        "description": "Consider replacing flooring due to significant wear, damage, outdated style, or if it negatively impacts indoor air quality."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "When should I consider replacing my home's flooring?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "You should consider replacing your flooring if it shows significant wear and tear such as deep scratches, fading, buckling, or persistent stains that cannot be cleaned. Health concerns like excessive dust from old carpets, or structural issues like creaking or uneven subfloors, are also clear indicators. Beyond damage, a desire to update your home's aesthetic, improve energy efficiency, or increase property value are common reasons for a flooring replacement. Regular maintenance can extend flooring life, but eventually, replacement becomes the most practical option.",
-        "@type": "Answer",
-        "description": "Replace flooring due to significant wear, damage, health concerns (e.g., old carpet dust), structural issues, or to update aesthetics and improve home value."
-      }
-    }
-  ],
-  "description": "Replace flooring due to significant wear, damage, health concerns (e.g., old carpet dust), structural issues, or to update aesthetics and improve home value."
+  }
 }

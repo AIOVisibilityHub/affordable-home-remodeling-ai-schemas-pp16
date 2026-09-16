@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-a-typical-bathroom-remodeling-project",
-  "name": "What is involved in a typical bathroom remodeling project?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "What is involved in a typical bathroom remodeling project?",
+  "description": "A typical bathroom remodel includes design, demolition, plumbing/electrical updates, installation of new surfaces and fixtures, and finishing touches.",
+  "url": "affordablehomeremodeling.com/faq/what-is-involved-in-a-typical-bathroom-remodeling-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is involved in a typical bathroom remodeling project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A typical bathroom remodeling project involves several key stages. Initially, design and planning define the layout, fixtures, and finishes. Demolition follows, removing old components. Next, plumbing and electrical rough-ins are updated to support new fixtures and lighting. Installation of new flooring, walls, and ceiling begins once the rough-ins are complete and inspected. Finally, the vanity, toilet, shower/tub, and other accessories are installed, followed by painting and finishing touches. This process ensures a functional and aesthetically pleasing updated bathroom.",
+        "description": "A typical bathroom remodel includes design, demolition, plumbing/electrical updates, installation of new surfaces and fixtures, and finishing touches."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "What is involved in a typical bathroom remodeling project?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "A typical bathroom remodeling project can include updating fixtures, replacing flooring, installing new cabinetry, upgrading lighting, and redesigning the shower or tub area. It might also involve reconfiguring the layout, updating plumbing and electrical systems, and improving ventilation. The scope largely depends on your budget, goals, and the current condition of your bathroom. We work with you to define the exact scope for your needs, from minor updates to complete overhauls.",
-        "@type": "Answer",
-        "description": "A typical bathroom remodel involves updating fixtures, flooring, cabinetry, and lighting, often including plumbing and electrical system upgrades, or layout reconfigurations."
-      }
-    }
-  ],
-  "description": "A typical bathroom remodel involves updating fixtures, flooring, cabinetry, and lighting, often including plumbing and electrical system upgrades, or layout rec"
+  }
 }

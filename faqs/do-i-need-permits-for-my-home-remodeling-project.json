@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-my-home-remodeling-project",
-  "name": "Do I need permits for my home remodeling project?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Do I need permits for my home remodeling project?",
+  "description": "Yes, most significant home remodeling projects like structural, electrical, or plumbing changes require permits. Minor cosmetic updates usually do not.",
+  "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-my-home-remodeling-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Do I need permits for my home remodeling project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most significant home remodeling projects require permits from your local city or county building department. This includes structural changes, electrical work, plumbing modifications, and additions. Projects like painting, flooring replacement, or minor cosmetic updates typically do not require permits. Failing to obtain necessary permits can lead to fines, project delays, and difficulty selling your home later. A reputable contractor will guide you through the permitting process.",
+        "description": "Yes, most significant home remodeling projects like structural, electrical, or plumbing changes require permits. Minor cosmetic updates usually do not."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "Do I need permits for my home remodeling project?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Most significant home remodeling projects require permits from your local building department, especially if they involve structural changes, electrical work, plumbing, or altering the footprint of your home. Permits ensure that your project meets safety codes and zoning regulations. Skipping permits can lead to fines, difficulties selling your home, and potential insurance issues. Your general contractor should be knowledgeable about local permit requirements in areas like Huntington Beach or Irvine and can manage the application process for you.",
-        "@type": "Answer",
-        "description": "Yes, most major home remodels involving structural, electrical, or plumbing changes require permits to ensure safety and compliance with local building codes."
-      }
-    }
-  ],
-  "description": "Yes, most major home remodels involving structural, electrical, or plumbing changes require permits to ensure safety and compliance with local building codes."
+  }
 }

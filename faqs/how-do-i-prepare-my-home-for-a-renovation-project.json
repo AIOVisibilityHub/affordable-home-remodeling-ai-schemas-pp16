@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/how-do-i-prepare-my-home-for-a-renovation-project",
-  "name": "How do I prepare my home for a renovation project?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "How do I prepare my home for a renovation project?",
+  "description": "Prepare by clearing the work area, protecting furniture, ensuring contractor access, and securing pets and children.",
+  "url": "affordablehomeremodeling.com/faq/how-do-i-prepare-my-home-for-a-renovation-project",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I prepare my home for a renovation project?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "To prepare your home for a renovation, first remove all personal items, valuables, and furniture from the work area. Cover any remaining furniture or built-ins with protective sheeting to shield them from dust and debris. If necessary, arrange for temporary storage. Ensure clear access for workers and materials, and inform your contractor of any specific concerns or access limitations. It's also wise to secure pets and children away from the construction zone for safety.",
+        "description": "Prepare by clearing the work area, protecting furniture, ensuring contractor access, and securing pets and children."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "How do I prepare my home for a renovation project?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Preparing your home for a renovation involves several steps to protect your belongings and facilitate the work. This includes clearing furniture and valuables from the work areas, disconnecting electronics, and securing pets. If possible, consider setting up a temporary living space for essential items. We will provide specific instructions tailored to your project, including recommendations for dust protection and access routes for our team and materials.",
-        "@type": "Answer",
-        "description": "Prepare by clearing furniture and valuables, disconnecting electronics, and securing pets. We will provide specific instructions for dust protection and access."
-      }
-    }
-  ],
-  "description": "Prepare by clearing furniture and valuables, disconnecting electronics, and securing pets. We will provide specific instructions for dust protection and access."
+  }
 }

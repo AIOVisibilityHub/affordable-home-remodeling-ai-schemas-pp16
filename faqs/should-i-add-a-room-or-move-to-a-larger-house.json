@@ -1,8 +1,20 @@
 {
-  "url": "affordablehomeremodeling.com/faq/should-i-add-a-room-or-move-to-a-larger-house",
-  "name": "Should I add a room or move to a larger house?",
-  "@type": "FAQPage",
   "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "name": "Should I add a room or move to a larger house?",
+  "description": "Decide between adding a room or moving by comparing costs like real estate fees versus renovation expenses. An addition allows customization and staying in your",
+  "url": "affordablehomeremodeling.com/faq/should-i-add-a-room-or-move-to-a-larger-house",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Should I add a room or move to a larger house?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The decision to add a room versus moving to a larger house depends on several personal and financial factors. Consider the costs associated with moving, such as real estate commissions, closing costs, and the emotional impact of leaving your current neighborhood. A room addition can be more cost-effective if you love your current location, school district, and community. It also allows you to customize the new space exactly to your needs. Evaluate your budget, desired living space, and long-term plans before making a choice.",
+        "description": "Decide between adding a room or moving by comparing costs like real estate fees versus renovation expenses. An addition allows customization and staying in your desired location."
+      }
+    }
+  ],
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -11,17 +23,5 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  },
-  "mainEntity": [
-    {
-      "name": "Should I add a room or move to a larger house?",
-      "@type": "Question",
-      "acceptedAnswer": {
-        "text": "Deciding between a room addition and moving involves considering various factors. An addition allows you to stay in your current neighborhood, avoid moving costs, and customize the new space to your exact needs. Moving offers a potentially fresh start and possibly more space immediately, but comes with relocation expenses and the challenge of finding a new home. Evaluate your long-term needs, budget, and attachment to your current location.",
-        "@type": "Answer",
-        "description": "Choose between adding a room or moving by weighing factors like moving costs, neighborhood preference, customization needs, and your long-term living plans."
-      }
-    }
-  ],
-  "description": "Choose between adding a room or moving by weighing factors like moving costs, neighborhood preference, customization needs, and your long-term living plans."
+  }
 }
