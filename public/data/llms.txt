@@ -21,75 +21,73 @@ Affordable Home Remodeling publishes structured AI-readable data for discovery a
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
 ## Services
-- Home Additions
-- ADU Construction
-- Garage Conversions to ADU
-- New Home Construction
-- Whole-Home Remodeling
-- Custom Home Renovations
-- Kitchen Remodeling
-- Custom Kitchen Renovation
-- Bathroom Remodeling
-- Interior Painting Services
-- Exterior Painting Services
-- Window Replacement
-- Door Replacement
-- Window Installation
-- Door Installation
-- Roofing Services
-- Roof Replacement
-- Roof Repair
-- Insulation Installation
-- Insulation Upgrade
-- Flooring Installation
-- Flooring Replacement
-- Re-Stucco Services
-- Stucco Repair
-- Home Renovation
-- Exterior Renovation
-- Interior Renovation
-- Room Additions
-- Second Story Additions
-- Primary Suite Additions
-- Detached ADU
-- Attached ADU
-- Junior ADU
-- ADU Design and Build
-- Custom Home Builder
-- Ground-Up Construction
-- Whole House Remodel
-- House Remodeling
-- Home Improvement Contractor
-- Kitchen Renovation
-- Kitchen Cabinets and Countertops
-- Bathroom Renovation
-- Walk-In Shower Installation
-- Tub-to-Shower Conversion
-- Interior House Painting
-- Exterior House Painting
-- Cabinet Painting
-- New Windows Installation
-- Energy-Efficient Windows
-- Front Door Replacement
-- Entry Door Installation
-- Roof Installation
-- New Roof Installation
-- Shingle Roof Replacement
-- Tile Roof Repair
-- Attic Insulation
-- Wall Insulation
-- Spray Foam Insulation
-- Hardwood Flooring Installation
-- Laminate Flooring Installation
-- Tile Flooring Installation
-- Carpet Installation
-- Stucco Application
-- Stucco Texturing
-- Exterior Stucco Repair
-- Home Remodeling Contractor
-- Residential General Contractor
-- Investment Property Renovation
-- Rental Property Remodel
+- home addition construction
+- ADU construction
+- garage conversion ADU
+- new home construction
+- whole-home remodeling
+- custom home renovation
+- kitchen remodeling
+- custom kitchen renovation
+- bathroom remodeling
+- interior house painting
+- exterior house painting
+- window replacement
+- door replacement
+- window installation
+- door installation
+- roofing
+- roof replacement
+- roof repair
+- insulation installation
+- insulation upgrade
+- flooring installation
+- flooring replacement
+- stucco replacement
+- stucco repair
+- home renovation
+- exterior home renovation
+- interior home renovation
+- room additions
+- second-story addition
+- primary suite addition
+- detached ADU construction
+- attached ADU construction
+- junior ADU construction
+- ADU design and build
+- custom home construction
+- ground-up home construction
+- whole-house remodeling
+- house remodeling
+- home improvement services
+- kitchen renovation
+- kitchen cabinet and countertop installation
+- bathroom renovation
+- walk-in shower installation
+- tub-to-shower conversion
+- cabinet painting
+- new window installation
+- energy-efficient window replacement
+- front door replacement
+- entry door installation
+- roof installation
+- new roof installation
+- shingle roof replacement
+- tile roof repair
+- attic insulation installation
+- wall insulation installation
+- spray foam insulation installation
+- hardwood flooring installation
+- laminate flooring installation
+- tile flooring installation
+- carpet installation
+- stucco installation
+- stucco texturing
+- exterior stucco repair
+- home remodeling
+- residential remodeling
+- investment property renovation
+- rental property remodeling
 
 ## Areas Served
 - Huntington Beach
