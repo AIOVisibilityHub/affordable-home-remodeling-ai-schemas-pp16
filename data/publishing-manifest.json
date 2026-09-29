@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-29T23:32:55.883Z",
+  "generatedAt": "2026-09-29T23:47:03.409Z",
   "client": {
     "name": "Affordable Home Remodeling",
     "canonicalUrl": "https://affordablehomeremodeling.aiovisibility.net",
@@ -130,7 +130,7 @@
   },
   "package": {
     "totalFiles": 2224,
-    "totalBytes": 9113958,
+    "totalBytes": 9120163,
     "stats": {
       "qna": 0,
       "faqs": 1787,
@@ -11236,7 +11236,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 3450,
+        "bytes": 4076,
         "purpose": "LLM hint"
       },
       {
@@ -11256,32 +11256,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1737,
+        "bytes": 3406,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1012770,
+        "bytes": 1014176,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 293886,
+        "bytes": 294512,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 293886,
+        "bytes": 294512,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3394,
+        "bytes": 4020,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 342310,
+        "bytes": 342936,
         "purpose": "Repository README"
       },
       {
@@ -11301,6 +11301,20 @@
       "url": "https://github.com/AIOVisibilityHub/affordable-home-remodeling-ai-schemas-pp16",
       "pagesUrl": "http://affordablehomeremodeling.aiovisibility.net/",
       "repo": "AIOVisibilityHub/affordable-home-remodeling-ai-schemas-pp16"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/affordable-home-remodeling-ai-schemas-ica3",
+      "pagesUrl": "https://affordable-home-remodeling-ai-schemas-ica3-023d40.gitlab.io/"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/affordable-home-remodeling-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23048803"
     }
   }
 }

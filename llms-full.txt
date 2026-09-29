@@ -19,6 +19,12 @@ Package contents:
 - [ai-data-hub] Affordable Home Remodeling — AI Data Hub — https://affordablehomeremodeling.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/affordable-home-remodeling-ai-schemas-pp16
 - [mirror-pages] GitHub — AI Data Hub mirror — http://affordablehomeremodeling.aiovisibility.net/ai-data.html
+- [mirror-repo] GitLab repository — https://gitlab.com/aiovisibilityhub/affordable-home-remodeling-ai-schemas-ica3
+- [mirror-pages] GitLab — AI Data Hub mirror — https://affordable-home-remodeling-ai-schemas-ica3-023d40.gitlab.io/ai-data.html
+- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/affordable-home-remodeling-ai-schemas
+- [mirror-repo] SourceHut repository — https://aiovisibilityhub.srht.site/
+- [mirror-pages] SourceHut — AI Data Hub mirror — https://aiovisibilityhub.srht.site/ai-data.html
+- [mirror-repo] Zenodo repository — https://zenodo.org/record/23048803
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
