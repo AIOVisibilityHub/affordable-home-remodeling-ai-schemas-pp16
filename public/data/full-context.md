@@ -12,7 +12,7 @@ Affordable Home Remodeling publishes a structured AI Data Package designed for h
 - **69** services
 - **1** locations
 - **16** personnel
-- **236** helpArticles
+- **284** helpArticles
 - **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources

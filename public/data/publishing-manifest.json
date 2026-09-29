@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-29T23:25:34.492Z",
+  "generatedAt": "2026-09-29T23:32:25.608Z",
   "client": {
     "name": "Affordable Home Remodeling",
     "canonicalUrl": "https://affordablehomeremodeling.aiovisibility.net",
@@ -129,13 +129,13 @@
     ]
   },
   "package": {
-    "totalFiles": 2176,
-    "totalBytes": 8657638,
+    "totalFiles": 2224,
+    "totalBytes": 9197573,
     "stats": {
       "qna": 0,
       "faqs": 1787,
       "press": 0,
-      "total": 2215,
+      "total": 2263,
       "awards": 0,
       "reviews": 35,
       "products": 0,
@@ -145,7 +145,7 @@
       "locations": 1,
       "personnel": 16,
       "caseStudies": 0,
-      "helpArticles": 236,
+      "helpArticles": 284,
       "organization": 1
     }
   },
@@ -1782,6 +1782,246 @@
       {
         "path": "help/mistakes-to-avoid-when-getting-a-new-roof.json",
         "bytes": 3607,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/deciding-on-interior-house-painting-when-to-bring-in-the-pros.json",
+        "bytes": 3420,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/preparing-your-walls-for-interior-painting-a-simple-checklist.json",
+        "bytes": 6162,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-interior-paint-job-might-not-last-common-mistakes-to-avoid.json",
+        "bytes": 4016,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-your-exterior-paint-job-needs-more-than-just-a-new-coat.json",
+        "bytes": 3727,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-the-best-time-for-exterior-house-painting-in-southern-california.json",
+        "bytes": 3785,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/protecting-your-home-a-checklist-for-exterior-paint-preparation.json",
+        "bytes": 6808,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-are-my-energy-bills-so-high-understanding-insulation-issues.json",
+        "bytes": 4119,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-know-before-installing-new-insulation.json",
+        "bytes": 4394,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/preparing-your-home-for-an-insulation-installation-project.json",
+        "bytes": 4321,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/should-i-upgrade-my-home-s-insulation-signs-it-s-time.json",
+        "bytes": 4371,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-when-upgrading-attic-insulation.json",
+        "bytes": 4759,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-adding-insulation-worthwhile-or-should-old-insulation-be-removed.json",
+        "bytes": 4921,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/choosing-the-right-flooring-installation-what-to-consider-for-your-home.json",
+        "bytes": 3133,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/flooring-installation-common-mistakes-to-avoid-for-a-smooth-process.json",
+        "bytes": 3837,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-a-professional-flooring-installation-project.json",
+        "bytes": 3666,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-replace-your-flooring-signs-you-need-an-upgrade.json",
+        "bytes": 3734,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/flooring-replacement-after-water-damage-when-to-call-a-pro.json",
+        "bytes": 3897,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-during-a-professional-flooring-replacement-project.json",
+        "bytes": 3840,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-stucco-cracks-signal-a-bigger-problem.json",
+        "bytes": 3497,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-mistakes-in-stucco-repair-projects.json",
+        "bytes": 4210,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-ask-a-contractor-about-stucco-repair-quality.json",
+        "bytes": 4266,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-replace-stucco-vs-just-repair-it.json",
+        "bytes": 4652,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/preparing-for-stucco-replacement-what-homeowners-need-to-know.json",
+        "bytes": 4785,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-plan-for-extensive-stucco-replacement.json",
+        "bytes": 8783,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/room-addition-mistakes-to-avoid.json",
+        "bytes": 4084,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-room-addition-right-for-your-expanding-family.json",
+        "bytes": 3975,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/your-room-addition-project-what-to-expect.json",
+        "bytes": 3598,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-your-home-ready-for-a-second-story-addition.json",
+        "bytes": 4077,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-your-second-story-addition-timeline.json",
+        "bytes": 4659,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/planning-your-second-story-addition-a-checklist.json",
+        "bytes": 9164,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/primary-suite-addition-choosing-the-right-contractor.json",
+        "bytes": 3649,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-a-primary-suite-addition-needs-an-expert-eye.json",
+        "bytes": 3812,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/primary-suite-addition-preparing-your-home-for-construction.json",
+        "bytes": 4160,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/detached-adu-construction-is-your-lot-ready.json",
+        "bytes": 3571,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/detached-adu-mistakes-to-avoid-during-planning.json",
+        "bytes": 4315,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-detached-adu-regulations-what-to-check-first.json",
+        "bytes": 3636,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/attached-adu-construction-what-qualifies-as-an-attached-adu.json",
+        "bytes": 4566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/junior-adu-construction-how-to-maximize-your-space.json",
+        "bytes": 4806,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/attached-adu-construction-avoiding-common-permitting-pitfalls.json",
+        "bytes": 4631,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/junior-adu-construction-navigating-owner-occupancy-rules.json",
+        "bytes": 4581,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/attached-adu-construction-when-do-you-need-an-architect.json",
+        "bytes": 4844,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/junior-adu-construction-preparing-for-your-permit-application.json",
+        "bytes": 5219,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-design-why-your-project-might-get-stuck-in-permitting.json",
+        "bytes": 3927,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/ground-up-construction-what-to-consider-before-buying-a-lot.json",
+        "bytes": 4275,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-build-how-to-avoid-common-site-and-utility-snags.json",
+        "bytes": 4146,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/new-home-construction-when-to-bring-in-a-professional-team.json",
+        "bytes": 4509,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/adu-project-what-you-need-to-prepare-for-a-smooth-start.json",
+        "bytes": 4364,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/building-a-new-home-how-to-budget-effectively-for-unexpected-costs.json",
+        "bytes": 4557,
         "purpose": "schema"
       }
     ],
@@ -10914,77 +11154,77 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 20387,
+        "bytes": 26159,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 156113,
+        "bytes": 161737,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 80163,
+        "bytes": 85786,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 48817,
+        "bytes": 54239,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 18789,
+        "bytes": 24302,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1305741,
+        "bytes": 1311268,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 20370,
+        "bytes": 25892,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 147096,
+        "bytes": 152571,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 108099,
+        "bytes": 165093,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 94815,
+        "bytes": 107900,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 222608,
+        "bytes": 298408,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 229406,
+        "bytes": 273961,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 69599,
+        "bytes": 83508,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 44080,
+        "bytes": 67304,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 9975,
+        "bytes": 15484,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -11021,17 +11261,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 991166,
+        "bytes": 1012770,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 287645,
+        "bytes": 293886,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 287645,
+        "bytes": 293886,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -11041,12 +11281,12 @@
       },
       {
         "path": "README.md",
-        "bytes": 335012,
+        "bytes": 342310,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 308110,
+        "bytes": 314879,
         "purpose": "AI sitemap"
       },
       {

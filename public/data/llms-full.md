@@ -11,7 +11,7 @@ Package contents:
 - 69 services
 - 1 locations
 - 16 personnel
-- 236 helpArticles
+- 284 helpArticles
 - 1 organization
 
 ## Cross-Destination Index — Related AI Data Sources
@@ -2018,28 +2018,44 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/faqs/will-the-repaired-stucco-match-my-existing-home-exterior.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/faqs/will-the-repaired-stucco-match-the-existing-color-and-texture.json — schema
 
-### Help Articles (236)
+### Help Articles (284)
+- https://affordablehomeremodeling.aiovisibility.net/help/adu-build-how-to-avoid-common-site-and-utility-snags.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/adu-design-why-your-project-might-get-stuck-in-permitting.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/adu-project-what-you-need-to-prepare-for-a-smooth-start.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/are-my-old-windows-costing-me-too-much.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/are-my-windows-letting-money-fly-out.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/are-you-making-these-common-kitchen-remodeling-mistakes.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/attached-adu-construction-avoiding-common-permitting-pitfalls.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/attached-adu-construction-what-qualifies-as-an-attached-adu.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/attached-adu-construction-when-do-you-need-an-architect.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/avoiding-budget-surprises-during-your-home-addition.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/avoiding-common-mistakes-in-stucco-repair-projects.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/avoiding-common-pitfalls-in-adu-construction.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/avoiding-common-pitfalls-in-custom-kitchen-design.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/avoiding-common-pitfalls-in-door-replacement.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/avoiding-common-pitfalls-in-garage-adu-projects.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/avoiding-common-pitfalls-in-your-custom-home-project.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/avoiding-paint-project-pitfalls.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/building-a-new-home-how-to-budget-effectively-for-unexpected-costs.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/can-replacing-windows-really-boost-my-home-s-value.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/choosing-the-right-flooring-installation-what-to-consider-for-your-home.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/common-adu-mistakes-that-can-cost-you-time-and-money.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/common-mistakes-to-steer-clear-of-in-new-home-construction.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/common-mistakes-when-planning-a-whole-home-remodel.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/common-mistakes-when-upgrading-attic-insulation.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/common-pitfalls-in-custom-home-renovation-projects.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/confused-about-adu-regulations-what-you-need-to-know.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/deciding-on-interior-house-painting-when-to-bring-in-the-pros.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/detached-adu-construction-is-your-lot-ready.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/detached-adu-mistakes-to-avoid-during-planning.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/don-t-let-these-mistakes-derail-your-garage-to-adu-conversion.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/exterior-painting-project-timeline.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/flooring-installation-common-mistakes-to-avoid-for-a-smooth-process.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/flooring-replacement-after-water-damage-when-to-call-a-pro.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/getting-started-with-your-adu-a-step-by-step-guide.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/getting-started-with-your-door-installation-project.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/getting-your-walls-ready-for-a-fresh-coat.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/ground-up-construction-what-to-consider-before-buying-a-lot.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/how-can-i-make-my-custom-kitchen-unique-but-still-functional.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/how-can-i-plan-a-bathroom-remodel-that-truly-fits-my-needs.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/how-can-i-prevent-drafts-around-my-entry-doors.json — schema
@@ -2064,6 +2080,7 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/help/how-to-get-started-with-a-new-home-build.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/how-to-maximize-your-adu-s-rental-potential.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/how-to-plan-for-a-major-roof-replacement.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/how-to-plan-for-extensive-stucco-replacement.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/how-to-plan-your-custom-home-renovation.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/how-to-plan-your-door-installation-project.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/how-to-plan-your-dream-bathroom-remodel.json — schema
@@ -2091,7 +2108,9 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/help/is-a-full-kitchen-remodel-the-right-move-for-my-home-in-southern-california.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/is-a-garage-conversion-to-adu-right-for-my-property.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/is-a-kitchen-remodel-right-for-my-home-in-southern-california.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/is-a-room-addition-right-for-your-expanding-family.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/is-a-whole-home-remodel-right-for-my-family.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/is-adding-insulation-worthwhile-or-should-old-insulation-be-removed.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/is-affordable-home-remodeling-the-right-choice-for-your-window-replacement.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/is-an-adu-right-for-my-property-in-southern-california.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/is-an-adu-right-for-my-property-what-to-consider.json — schema
@@ -2107,8 +2126,12 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/help/is-my-roof-ready-for-an-upgrade.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/is-professional-interior-painting-worth-the-investment.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/is-your-bathroom-ready-for-an-upgrade.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/is-your-home-ready-for-a-second-story-addition.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/is-your-roof-showing-signs-of-trouble.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/is-your-whole-home-remodel-project-getting-overwhelming.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/junior-adu-construction-how-to-maximize-your-space.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/junior-adu-construction-navigating-owner-occupancy-rules.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/junior-adu-construction-preparing-for-your-permit-application.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/mapping-out-your-custom-home-renovation-journey.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/mistakes-to-avoid-during-your-whole-home-remodel.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/mistakes-to-avoid-in-new-home-construction.json — schema
@@ -2134,8 +2157,20 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/help/my-new-home-build-is-over-budget-what-went-wrong.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/my-roof-looks-old-what-s-next.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/my-walls-look-dull-and-tired-what-should-i-do.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/navigating-detached-adu-regulations-what-to-check-first.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/navigating-your-second-story-addition-timeline.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/new-home-construction-when-to-bring-in-a-professional-team.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/planning-your-second-story-addition-a-checklist.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/preparing-for-a-new-door-installation.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/preparing-for-stucco-replacement-what-homeowners-need-to-know.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/preparing-your-home-for-an-insulation-installation-project.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/preparing-your-walls-for-interior-painting-a-simple-checklist.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/primary-suite-addition-choosing-the-right-contractor.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/primary-suite-addition-preparing-your-home-for-construction.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/protecting-your-home-a-checklist-for-exterior-paint-preparation.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/ready-for-a-new-look-what-to-know-about-interior-painting.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/room-addition-mistakes-to-avoid.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/should-i-upgrade-my-home-s-insulation-signs-it-s-time.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/signs-your-home-needs-a-fresh-coat-of-interior-paint.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/signs-your-whole-home-remodel-needs-professional-help.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/struggling-with-space-common-mistakes-in-planning-a-home-addition.json — schema
@@ -2169,6 +2204,7 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/help/what-s-the-process-for-a-custom-kitchen-design-and-build.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/what-s-the-process-for-a-professional-window-replacement.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/what-s-the-process-for-getting-new-doors-installed.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/what-to-ask-a-contractor-about-stucco-repair-quality.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/what-to-avoid-during-your-whole-home-remodel.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/what-to-consider-before-converting-your-garage-into-an-adu.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/what-to-consider-before-your-bathroom-remodel.json — schema
@@ -2181,13 +2217,17 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/help/what-to-expect-during-a-full-roof-replacement.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/what-to-expect-during-a-major-home-renovation.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/what-to-expect-during-a-major-roofing-project.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/what-to-expect-during-a-professional-flooring-installation-project.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/what-to-expect-during-a-professional-flooring-replacement-project.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/what-to-expect-during-a-roof-replacement-project.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/what-to-expect-during-the-adu-construction-process.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/what-to-expect-during-your-adu-construction-project.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/what-to-expect-during-your-custom-kitchen-renovation-project.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/what-to-expect-during-your-garage-to-adu-project.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/what-to-know-before-installing-new-insulation.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/what-to-know-before-starting-interior-painting.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/what-to-know-before-your-new-doors-are-installed.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/when-a-primary-suite-addition-needs-an-expert-eye.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-is-a-garage-conversion-an-adu-a-smart-move-for-your-home.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-is-a-home-addition-the-right-move-for-you.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-is-it-time-for-a-new-interior-paint-job.json — schema
@@ -2197,6 +2237,7 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/help/when-is-it-time-to-replace-a-door.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-is-it-time-to-update-your-kitchen.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-is-new-home-construction-the-best-option-for-you.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/when-is-the-best-time-for-exterior-house-painting-in-southern-california.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-is-the-right-time-for-a-custom-kitchen-renovation.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-is-the-right-time-for-a-whole-home-remodel.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-is-the-right-time-to-add-onto-my-house.json — schema
@@ -2219,6 +2260,7 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/help/when-should-you-consider-replacing-your-windows.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-should-you-convert-your-garage-to-an-adu.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-should-you-upgrade-your-bathroom.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/when-stucco-cracks-signal-a-bigger-problem.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-to-bring-in-a-pro-for-your-custom-home-renovation.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-to-call-a-pro-for-window-replacement.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-to-call-a-pro-for-your-bathroom-renovation.json — schema
@@ -2228,8 +2270,11 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/help/when-to-call-for-window-replacement.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-to-consider-custom-home-renovations-over-standard-upgrades.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/when-to-consider-replacing-your-home-s-windows.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/when-to-replace-stucco-vs-just-repair-it.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/when-to-replace-your-flooring-signs-you-need-an-upgrade.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/whole-home-remodel-a-step-by-step-guide-to-transforming-your-space.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/why-are-my-doors-drafty.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/why-are-my-energy-bills-so-high-understanding-insulation-issues.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/why-are-my-energy-bills-so-high.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/why-are-my-new-windows-still-drafty.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/why-are-my-windows-drafty.json — schema
@@ -2248,6 +2293,8 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/help/why-your-bathroom-remodel-might-be-taking-too-long.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/why-your-doors-might-need-replacing-sooner-than-you-think.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/why-your-exterior-paint-job-might-not-last.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/why-your-exterior-paint-job-needs-more-than-just-a-new-coat.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/why-your-interior-paint-job-might-not-last-common-mistakes-to-avoid.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/why-your-kitchen-remodel-might-be-over-budget.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/why-your-kitchen-renovation-costs-are-spiraling-out-of-control.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/why-your-new-door-installation-might-be-lagging.json — schema
@@ -2255,6 +2302,7 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/help/worried-your-garage-conversion-won-t-meet-adu-standards.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/worried-your-home-addition-won-t-blend-in.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/your-bathroom-remodel-what-to-expect-from-start-to-finish.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/your-room-addition-project-what-to-expect.json — schema
 
 ### Public Pages (15)
 - https://affordablehomeremodeling.aiovisibility.net/about.html — LLM-optimized public page
