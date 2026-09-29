@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I replace or paint my old cabinets?",
-  "description": "Paint if your cabinets are structurally sound and you like their layout; replace if they are damaged or you want a new layout.",
   "url": "affordablehomeremodeling.com/faq/should-i-replace-or-paint-my-old-cabinets",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I replace or paint my old cabinets?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The decision to paint or replace cabinets depends on their structural integrity and your budget. If your cabinet boxes are structurally sound, functional, and you are satisfied with their layout, painting is a cost-effective way to update their appearance. Painting can significantly transform a kitchen for a fraction of the cost of new cabinets. However, if your cabinets are damaged, have an outdated layout, or you desire a complete change in functionality, replacement may be a better long-term investment.",
-        "description": "Paint if your cabinets are structurally sound and you like their layout; replace if they are damaged or you want a new layout."
-      }
-    }
-  ],
+  "name": "Should I replace or paint my old cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace or paint my old cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to paint or replace cabinets depends on their structural integrity and your budget. If your cabinet boxes are structurally sound, functional, and you are satisfied with their layout, painting is a cost-effective way to update their appearance. Painting can significantly transform a kitchen for a fraction of the cost of new cabinets. However, if your cabinets are damaged, have an outdated layout, or you desire a complete change in functionality, replacement may be a better long-term investment.",
+        "@type": "Answer",
+        "description": "Paint if your cabinets are structurally sound and you like their layout; replace if they are damaged or you want a new layout."
+      }
+    }
+  ],
+  "description": "Paint if your cabinets are structurally sound and you like their layout; replace if they are damaged or you want a new layout."
 }

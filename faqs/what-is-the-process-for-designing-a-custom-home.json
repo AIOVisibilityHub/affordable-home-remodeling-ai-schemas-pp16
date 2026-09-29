@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for designing a custom home?",
-  "description": "The design process starts with your vision, moving to conceptual drawings, refinement, and final construction documents. We collaborate with you and design prof",
   "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-designing-a-custom-home",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for designing a custom home?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The custom home design process typically begins with an initial consultation to discuss your vision, needs, and budget. Next, an architect or designer creates preliminary conceptual drawings based on your input. These concepts are refined through several iterations, incorporating your feedback until a final design is approved. This phase includes developing floor plans, elevations, and selecting key materials. Once the design is finalized, detailed construction documents are prepared, which are essential for permitting and construction. Our team collaborates closely with you and the design professionals throughout this entire process.",
-        "description": "The design process starts with your vision, moving to conceptual drawings, refinement, and final construction documents. We collaborate with you and design professionals."
-      }
-    }
-  ],
+  "name": "What is the process for designing a custom home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing a custom home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The custom home design process typically begins with an initial consultation to discuss your vision, needs, and budget. Next, an architect or designer creates preliminary conceptual drawings based on your input. These concepts are refined through several iterations, incorporating your feedback until a final design is approved. This phase includes developing floor plans, elevations, and selecting key materials. Once the design is finalized, detailed construction documents are prepared, which are essential for permitting and construction. Our team collaborates closely with you and the design professionals throughout this entire process.",
+        "@type": "Answer",
+        "description": "The design process starts with your vision, moving to conceptual drawings, refinement, and final construction documents. We collaborate with you and design professionals."
+      }
+    }
+  ],
+  "description": "The design process starts with your vision, moving to conceptual drawings, refinement, and final construction documents. We collaborate with you and design prof"
 }

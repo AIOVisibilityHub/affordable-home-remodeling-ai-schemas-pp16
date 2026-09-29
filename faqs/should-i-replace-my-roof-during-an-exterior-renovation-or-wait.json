@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I replace my roof during an exterior renovation or wait?",
-  "description": "Replace your roof during an exterior renovation if it's old, damaged, or nearing its lifespan to prevent future issues and integrate with other upgrades.",
   "url": "affordablehomeremodeling.com/faq/should-i-replace-my-roof-during-an-exterior-renovation-or-wait",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I replace my roof during an exterior renovation or wait?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Whether to replace your roof during an exterior renovation depends on its current condition, age, and your long-term goals. If your roof is nearing the end of its lifespan, shows signs of significant wear, or has active leaks, replacing it during the renovation is a proactive choice that can prevent future problems and integrate seamlessly with other upgrades. Waiting could lead to unexpected expenses and potential damage to your home's interior if its condition deteriorates. A professional inspection can help determine the best course of action.",
-        "description": "Replace your roof during an exterior renovation if it's old, damaged, or nearing its lifespan to prevent future issues and integrate with other upgrades."
-      }
-    }
-  ],
+  "name": "Should I replace my roof during an exterior renovation or wait?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace my roof during an exterior renovation or wait?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether to replace your roof during an exterior renovation depends on its current condition, age, and your long-term goals. If your roof is nearing the end of its lifespan, shows signs of significant wear, or has active leaks, replacing it during the renovation is a proactive choice that can prevent future problems and integrate seamlessly with other upgrades. Waiting could lead to unexpected expenses and potential damage to your home's interior if its condition deteriorates. A professional inspection can help determine the best course of action.",
+        "@type": "Answer",
+        "description": "Replace your roof during an exterior renovation if it's old, damaged, or nearing its lifespan to prevent future issues and integrate with other upgrades."
+      }
+    }
+  ],
+  "description": "Replace your roof during an exterior renovation if it's old, damaged, or nearing its lifespan to prevent future issues and integrate with other upgrades."
 }

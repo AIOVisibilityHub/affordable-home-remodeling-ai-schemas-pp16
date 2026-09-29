@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What should I look for when hiring a contractor for kitchen remodeling in Orange County?",
-  "description": "Look for an experienced, licensed, and insured contractor with a strong portfolio, positive reviews, and a clear contract. Verify their CSLB license and insuran",
   "url": "affordablehomeremodeling.com/faq/what-should-i-look-for-when-hiring-a-contractor-for-kitchen-remodeling-in-orange",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What should I look for when hiring a contractor for kitchen remodeling in Orange County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When hiring a contractor for kitchen remodeling in Orange County, prioritize experience, proper licensing, and insurance. Look for contractors with a strong portfolio of kitchen projects, positive client testimonials, and transparent communication. Verify their California contractor's license (CSLB) and ensure they carry liability insurance. It's also important to get a detailed, written contract outlining the scope of work, timeline, and payment schedule. Ask about warranties on workmanship and materials to ensure long-term satisfaction.",
-        "description": "Look for an experienced, licensed, and insured contractor with a strong portfolio, positive reviews, and a clear contract. Verify their CSLB license and insurance."
-      }
-    }
-  ],
+  "name": "What should I look for when hiring a contractor for kitchen remodeling in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when hiring a contractor for kitchen remodeling in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When hiring a contractor for kitchen remodeling in Orange County, prioritize experience, proper licensing, and insurance. Look for contractors with a strong portfolio of kitchen projects, positive client testimonials, and transparent communication. Verify their California contractor's license (CSLB) and ensure they carry liability insurance. It's also important to get a detailed, written contract outlining the scope of work, timeline, and payment schedule. Ask about warranties on workmanship and materials to ensure long-term satisfaction.",
+        "@type": "Answer",
+        "description": "Look for an experienced, licensed, and insured contractor with a strong portfolio, positive reviews, and a clear contract. Verify their CSLB license and insurance."
+      }
+    }
+  ],
+  "description": "Look for an experienced, licensed, and insured contractor with a strong portfolio, positive reviews, and a clear contract. Verify their CSLB license and insuran"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the first steps when considering ground-up home construction?",
-  "description": "First steps include securing financing, acquiring land, and assembling your team, including an architect and general contractor.",
   "url": "affordablehomeremodeling.com/faq/what-are-the-first-steps-when-considering-ground-up-home-construction",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the first steps when considering ground-up home construction?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The initial steps involve securing financing, acquiring a suitable plot of land, and assembling your project team. This team typically includes an architect to design the home and a general contractor experienced in ground-up construction. Defining your budget and wish list early helps guide the design and material selection process. Researching local zoning laws and obtaining necessary permits are also crucial early considerations.",
-        "description": "First steps include securing financing, acquiring land, and assembling your team, including an architect and general contractor."
-      }
-    }
-  ],
+  "name": "What are the first steps when considering ground-up home construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps when considering ground-up home construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial steps involve securing financing, acquiring a suitable plot of land, and assembling your project team. This team typically includes an architect to design the home and a general contractor experienced in ground-up construction. Defining your budget and wish list early helps guide the design and material selection process. Researching local zoning laws and obtaining necessary permits are also crucial early considerations.",
+        "@type": "Answer",
+        "description": "First steps include securing financing, acquiring land, and assembling your team, including an architect and general contractor."
+      }
+    }
+  ],
+  "description": "First steps include securing financing, acquiring land, and assembling your team, including an architect and general contractor."
 }

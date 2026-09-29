@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of warranty should I expect for a new shingle roof?",
-  "description": "Expect a manufacturer's warranty for materials (20 years to lifetime) and a contractor's warranty for workmanship (5-25 years).",
   "url": "affordablehomeremodeling.com/faq/what-kind-of-warranty-should-i-expect-for-a-new-shingle-roof",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of warranty should I expect for a new shingle roof?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A new shingle roof typically comes with two types of warranties: a manufacturer's warranty for the roofing materials and a contractor's warranty for the workmanship. Manufacturer warranties on asphalt shingles can range from 20 years to lifetime, covering defects in the shingles themselves. Workmanship warranties from reputable contractors usually last between 5 to 25 years and cover issues related to the installation. It's crucial to understand the terms and conditions of both warranties, including what they cover, how long they last, and what actions might void them.",
-        "description": "Expect a manufacturer's warranty for materials (20 years to lifetime) and a contractor's warranty for workmanship (5-25 years)."
-      }
-    }
-  ],
+  "name": "What kind of warranty should I expect for a new shingle roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty should I expect for a new shingle roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new shingle roof typically comes with two types of warranties: a manufacturer's warranty for the roofing materials and a contractor's warranty for the workmanship. Manufacturer warranties on asphalt shingles can range from 20 years to lifetime, covering defects in the shingles themselves. Workmanship warranties from reputable contractors usually last between 5 to 25 years and cover issues related to the installation. It's crucial to understand the terms and conditions of both warranties, including what they cover, how long they last, and what actions might void them.",
+        "@type": "Answer",
+        "description": "Expect a manufacturer's warranty for materials (20 years to lifetime) and a contractor's warranty for workmanship (5-25 years)."
+      }
+    }
+  ],
+  "description": "Expect a manufacturer's warranty for materials (20 years to lifetime) and a contractor's warranty for workmanship (5-25 years)."
 }

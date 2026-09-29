@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit for a walk-in shower installation in Orange County, CA?",
-  "description": "Yes, permits are generally required in Orange County for plumbing or structural changes during a walk-in shower installation to ensure code compliance.",
   "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-a-walk-in-shower-installation-in-orange-county-ca",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit for a walk-in shower installation in Orange County, CA?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, plumbing alterations, significant structural changes, or modifications to electrical systems for new lighting or ventilation associated with a walk-in shower installation typically require permits in Orange County and surrounding areas. These permits ensure the work complies with local building codes and safety standards. Our team handles the permit application process as part of our service to ensure all work is compliant and properly inspected.",
-        "description": "Yes, permits are generally required in Orange County for plumbing or structural changes during a walk-in shower installation to ensure code compliance."
-      }
-    }
-  ],
+  "name": "Do I need a permit for a walk-in shower installation in Orange County, CA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a walk-in shower installation in Orange County, CA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, plumbing alterations, significant structural changes, or modifications to electrical systems for new lighting or ventilation associated with a walk-in shower installation typically require permits in Orange County and surrounding areas. These permits ensure the work complies with local building codes and safety standards. Our team handles the permit application process as part of our service to ensure all work is compliant and properly inspected.",
+        "@type": "Answer",
+        "description": "Yes, permits are generally required in Orange County for plumbing or structural changes during a walk-in shower installation to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Yes, permits are generally required in Orange County for plumbing or structural changes during a walk-in shower installation to ensure code compliance."
 }

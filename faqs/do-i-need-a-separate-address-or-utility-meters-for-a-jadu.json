@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a separate address or utility meters for a JADU?",
-  "description": "A JADU generally shares the primary home's address and utility meters, but local regulations might allow or require sub-metering.",
   "url": "affordablehomeremodeling.com/faq/do-i-need-a-separate-address-or-utility-meters-for-a-jadu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a separate address or utility meters for a JADU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A Junior ADU (JADU) is generally not required to have a separate address or separate utility meters. It is typically permitted to share the address of the primary dwelling. For utilities, a JADU can often share existing water, sewer, and electrical connections with the main house. However, local regulations may allow or even encourage sub-metering for easier tenant billing. It's crucial to check specific city requirements in places like Costa Mesa or Laguna Niguel for the most accurate information on utilities and addressing.",
-        "description": "A JADU generally shares the primary home's address and utility meters, but local regulations might allow or require sub-metering."
-      }
-    }
-  ],
+  "name": "Do I need a separate address or utility meters for a JADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a separate address or utility meters for a JADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Junior ADU (JADU) is generally not required to have a separate address or separate utility meters. It is typically permitted to share the address of the primary dwelling. For utilities, a JADU can often share existing water, sewer, and electrical connections with the main house. However, local regulations may allow or even encourage sub-metering for easier tenant billing. It's crucial to check specific city requirements in places like Costa Mesa or Laguna Niguel for the most accurate information on utilities and addressing.",
+        "@type": "Answer",
+        "description": "A JADU generally shares the primary home's address and utility meters, but local regulations might allow or require sub-metering."
+      }
+    }
+  ],
+  "description": "A JADU generally shares the primary home's address and utility meters, but local regulations might allow or require sub-metering."
 }

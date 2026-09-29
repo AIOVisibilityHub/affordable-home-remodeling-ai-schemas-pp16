@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if my shingle roof needs to be replaced?",
-  "description": "Signs include cracked or missing shingles, granule loss, moss growth, and leaks in the attic or ceilings. A professional inspection can confirm the need for rep",
   "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-my-shingle-roof-needs-to-be-replaced",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if my shingle roof needs to be replaced?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Several signs indicate your shingle roof may need replacement. Look for cracked, curled, or missing shingles, especially after severe weather. Granule loss, where the protective coating on shingles wears away, can also be a key indicator. You might also notice dark streaks or moss growth, which suggest moisture issues. Leaks in your attic or water stains on your ceilings are clear signs of roof failure. A professional inspection can accurately assess the condition and lifespan of your current roof and recommend if replacement is necessary.",
-        "description": "Signs include cracked or missing shingles, granule loss, moss growth, and leaks in the attic or ceilings. A professional inspection can confirm the need for replacement."
-      }
-    }
-  ],
+  "name": "How do I know if my shingle roof needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my shingle roof needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your shingle roof may need replacement. Look for cracked, curled, or missing shingles, especially after severe weather. Granule loss, where the protective coating on shingles wears away, can also be a key indicator. You might also notice dark streaks or moss growth, which suggest moisture issues. Leaks in your attic or water stains on your ceilings are clear signs of roof failure. A professional inspection can accurately assess the condition and lifespan of your current roof and recommend if replacement is necessary.",
+        "@type": "Answer",
+        "description": "Signs include cracked or missing shingles, granule loss, moss growth, and leaks in the attic or ceilings. A professional inspection can confirm the need for replacement."
+      }
+    }
+  ],
+  "description": "Signs include cracked or missing shingles, granule loss, moss growth, and leaks in the attic or ceilings. A professional inspection can confirm the need for rep"
 }

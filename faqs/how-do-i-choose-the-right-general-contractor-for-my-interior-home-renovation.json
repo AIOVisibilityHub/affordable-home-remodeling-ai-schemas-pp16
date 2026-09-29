@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right general contractor for my interior home renovation?",
-  "description": "Choose a contractor with experience, good communication, proper licensing/insurance, and positive client references. Look for clear contracts and transparent pr",
   "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-general-contractor-for-my-interior-home-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right general contractor for my interior home renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting a general contractor, look for experience, strong communication skills, and a portfolio of completed projects. Verify their licensing and insurance. Request references and speak with past clients about their satisfaction and project management. A good contractor provides clear contracts, detailed timelines, and transparent pricing. We invite you to review our portfolio and client testimonials.",
-        "description": "Choose a contractor with experience, good communication, proper licensing/insurance, and positive client references. Look for clear contracts and transparent pricing."
-      }
-    }
-  ],
+  "name": "How do I choose the right general contractor for my interior home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right general contractor for my interior home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a general contractor, look for experience, strong communication skills, and a portfolio of completed projects. Verify their licensing and insurance. Request references and speak with past clients about their satisfaction and project management. A good contractor provides clear contracts, detailed timelines, and transparent pricing. We invite you to review our portfolio and client testimonials.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, good communication, proper licensing/insurance, and positive client references. Look for clear contracts and transparent pricing."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, good communication, proper licensing/insurance, and positive client references. Look for clear contracts and transparent pr"
 }

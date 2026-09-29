@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the primary differences between a JADU and a standard ADU?",
-  "description": "JADUs are smaller (max 500 sq ft), located within the main home, and require an efficiency kitchen, while standard ADUs can be larger, detached, or attached, wi",
   "url": "affordablehomeremodeling.com/faq/what-are-the-primary-differences-between-a-jadu-and-a-standard-adu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the primary differences between a JADU and a standard ADU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The main differences lie in size, location, and amenity requirements. A JADU is limited to 500 square feet and must be within the existing footprint of the primary home, while a standard ADU can be larger and built as a detached structure, an attached addition, or converted from an existing structure. JADUs require an efficiency kitchen, whereas standard ADUs typically need a full kitchen and bathroom. JADUs often have fewer parking requirements and impact fees, making them a more accessible option for some homeowners.",
-        "description": "JADUs are smaller (max 500 sq ft), located within the main home, and require an efficiency kitchen, while standard ADUs can be larger, detached, or attached, with full kitchen and bath."
-      }
-    }
-  ],
+  "name": "What are the primary differences between a JADU and a standard ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary differences between a JADU and a standard ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main differences lie in size, location, and amenity requirements. A JADU is limited to 500 square feet and must be within the existing footprint of the primary home, while a standard ADU can be larger and built as a detached structure, an attached addition, or converted from an existing structure. JADUs require an efficiency kitchen, whereas standard ADUs typically need a full kitchen and bathroom. JADUs often have fewer parking requirements and impact fees, making them a more accessible option for some homeowners.",
+        "@type": "Answer",
+        "description": "JADUs are smaller (max 500 sq ft), located within the main home, and require an efficiency kitchen, while standard ADUs can be larger, detached, or attached, with full kitchen and bath."
+      }
+    }
+  ],
+  "description": "JADUs are smaller (max 500 sq ft), located within the main home, and require an efficiency kitchen, while standard ADUs can be larger, detached, or attached, wi"
 }

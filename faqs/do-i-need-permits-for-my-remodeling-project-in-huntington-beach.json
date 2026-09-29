@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need permits for my remodeling project in Huntington Beach?",
-  "description": "Significant remodeling projects in Huntington Beach, such as structural changes or major plumbing/electrical work, typically require permits for safety and code",
   "url": "affordablehomeremodeling.com/faq/do-i-need-permits-for-my-remodeling-project-in-huntington-beach",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need permits for my remodeling project in Huntington Beach?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most significant remodeling projects in Huntington Beach require permits to ensure compliance with local building codes, safety standards, and zoning regulations. Projects that typically need permits include structural changes, additions, major plumbing or electrical work, and extensive alterations to your home's footprint or exterior. Minor cosmetic updates like painting or flooring replacement usually do not require permits. We can assist you in determining if your specific project needs permits and can manage the permit application process on your behalf, ensuring all work is legally compliant.",
-        "description": "Significant remodeling projects in Huntington Beach, such as structural changes or major plumbing/electrical work, typically require permits for safety and code compliance."
-      }
-    }
-  ],
+  "name": "Do I need permits for my remodeling project in Huntington Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for my remodeling project in Huntington Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most significant remodeling projects in Huntington Beach require permits to ensure compliance with local building codes, safety standards, and zoning regulations. Projects that typically need permits include structural changes, additions, major plumbing or electrical work, and extensive alterations to your home's footprint or exterior. Minor cosmetic updates like painting or flooring replacement usually do not require permits. We can assist you in determining if your specific project needs permits and can manage the permit application process on your behalf, ensuring all work is legally compliant.",
+        "@type": "Answer",
+        "description": "Significant remodeling projects in Huntington Beach, such as structural changes or major plumbing/electrical work, typically require permits for safety and code compliance."
+      }
+    }
+  ],
+  "description": "Significant remodeling projects in Huntington Beach, such as structural changes or major plumbing/electrical work, typically require permits for safety and code"
 }

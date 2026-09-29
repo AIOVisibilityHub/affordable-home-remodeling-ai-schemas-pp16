@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to install an entry door?",
-  "description": "Most standard entry door installations take one day. Complex projects with structural adjustments may require two days.",
   "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-install-an-entry-door",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to install an entry door?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most standard entry door installations can be completed within a single day. This typically includes removing the old door and frame, preparing the opening, installing the new pre-hung door unit, and finishing the trim. More complex projects involving structural adjustments, custom door sizes, or extensive frame damage might require two days. We will provide a precise timeline after assessing your specific installation needs.",
-        "description": "Most standard entry door installations take one day. Complex projects with structural adjustments may require two days."
-      }
-    }
-  ],
+  "name": "How long does it take to install an entry door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install an entry door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard entry door installations can be completed within a single day. This typically includes removing the old door and frame, preparing the opening, installing the new pre-hung door unit, and finishing the trim. More complex projects involving structural adjustments, custom door sizes, or extensive frame damage might require two days. We will provide a precise timeline after assessing your specific installation needs.",
+        "@type": "Answer",
+        "description": "Most standard entry door installations take one day. Complex projects with structural adjustments may require two days."
+      }
+    }
+  ],
+  "description": "Most standard entry door installations take one day. Complex projects with structural adjustments may require two days."
 }

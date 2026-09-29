@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right material for my new entry door?",
-  "description": "Select material based on security, maintenance, aesthetics, and budget; steel offers security, fiberglass durability, and wood classic appeal.",
   "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-material-for-my-new-entry-door",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right material for my new entry door?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right entry door material depends on your priorities for security, maintenance, aesthetics, and budget. Steel doors offer superior security and are low maintenance, but can dent. Fiberglass doors are durable, energy-efficient, and can mimic wood grain with minimal upkeep. Wood doors provide a classic look but require more maintenance and are generally more expensive. We can help you weigh these factors to find the best fit for your home.",
-        "description": "Select material based on security, maintenance, aesthetics, and budget; steel offers security, fiberglass durability, and wood classic appeal."
-      }
-    }
-  ],
+  "name": "How do I choose the right material for my new entry door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right material for my new entry door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right entry door material depends on your priorities for security, maintenance, aesthetics, and budget. Steel doors offer superior security and are low maintenance, but can dent. Fiberglass doors are durable, energy-efficient, and can mimic wood grain with minimal upkeep. Wood doors provide a classic look but require more maintenance and are generally more expensive. We can help you weigh these factors to find the best fit for your home.",
+        "@type": "Answer",
+        "description": "Select material based on security, maintenance, aesthetics, and budget; steel offers security, fiberglass durability, and wood classic appeal."
+      }
+    }
+  ],
+  "description": "Select material based on security, maintenance, aesthetics, and budget; steel offers security, fiberglass durability, and wood classic appeal."
 }

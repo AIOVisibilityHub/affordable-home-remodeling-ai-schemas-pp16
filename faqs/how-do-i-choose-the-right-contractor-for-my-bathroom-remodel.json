@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right contractor for my bathroom remodel?",
-  "description": "Choose a contractor by verifying their experience, licensing, and insurance. Compare multiple detailed bids, check references, and prioritize clear communicatio",
   "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-my-bathroom-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right contractor for my bathroom remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right contractor is crucial for a successful bathroom remodel. Look for contractors with specific experience in bathroom renovations and a strong portfolio of completed projects. Verify their licensing and insurance to ensure they are legitimate and protected. Request multiple detailed bids and compare them not just on price, but also on the scope of work included, materials, and timeline. Check references from past clients and read online reviews. Effective communication, transparency, and a good working relationship are key factors to consider for a smooth project.",
-        "description": "Choose a contractor by verifying their experience, licensing, and insurance. Compare multiple detailed bids, check references, and prioritize clear communication and a good working relationship."
-      }
-    }
-  ],
+  "name": "How do I choose the right contractor for my bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor is crucial for a successful bathroom remodel. Look for contractors with specific experience in bathroom renovations and a strong portfolio of completed projects. Verify their licensing and insurance to ensure they are legitimate and protected. Request multiple detailed bids and compare them not just on price, but also on the scope of work included, materials, and timeline. Check references from past clients and read online reviews. Effective communication, transparency, and a good working relationship are key factors to consider for a smooth project.",
+        "@type": "Answer",
+        "description": "Choose a contractor by verifying their experience, licensing, and insurance. Compare multiple detailed bids, check references, and prioritize clear communication and a good working relationship."
+      }
+    }
+  ],
+  "description": "Choose a contractor by verifying their experience, licensing, and insurance. Compare multiple detailed bids, check references, and prioritize clear communicatio"
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will painted cabinets last, and how do I maintain them?",
-  "description": "Properly painted cabinets can last 5-10+ years. Maintain them with regular cleaning using a mild, non-abrasive cleaner and avoid harsh chemicals.",
   "url": "affordablehomeremodeling.com/faq/will-painted-cabinets-last-and-how-do-i-maintain-them",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will painted cabinets last, and how do I maintain them?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Properly painted cabinets, using high-quality materials and professional application techniques, can last for many years, often 5-10 years or more before needing touch-ups. To maintain them, regular cleaning with a soft cloth and a mild, non-abrasive cleaner is recommended. Avoid harsh chemicals, excessive moisture, and abrasive scrubbers which can damage the finish. Promptly wipe away spills and grease to preserve the paint's integrity and appearance.",
-        "description": "Properly painted cabinets can last 5-10+ years. Maintain them with regular cleaning using a mild, non-abrasive cleaner and avoid harsh chemicals."
-      }
-    }
-  ],
+  "name": "Will painted cabinets last, and how do I maintain them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will painted cabinets last, and how do I maintain them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Properly painted cabinets, using high-quality materials and professional application techniques, can last for many years, often 5-10 years or more before needing touch-ups. To maintain them, regular cleaning with a soft cloth and a mild, non-abrasive cleaner is recommended. Avoid harsh chemicals, excessive moisture, and abrasive scrubbers which can damage the finish. Promptly wipe away spills and grease to preserve the paint's integrity and appearance.",
+        "@type": "Answer",
+        "description": "Properly painted cabinets can last 5-10+ years. Maintain them with regular cleaning using a mild, non-abrasive cleaner and avoid harsh chemicals."
+      }
+    }
+  ],
+  "description": "Properly painted cabinets can last 5-10+ years. Maintain them with regular cleaning using a mild, non-abrasive cleaner and avoid harsh chemicals."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I repair or replace my stucco?",
-  "description": "Repair minor damage, but replace stucco if damage is widespread, includes large detachments, or indicates significant water intrusion and underlying issues.",
   "url": "affordablehomeremodeling.com/faq/should-i-repair-or-replace-my-stucco",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I repair or replace my stucco?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The decision to repair or replace stucco depends on the extent and nature of the damage. Minor cracks, small holes, or localized aesthetic issues can often be effectively repaired. However, if the damage is widespread, includes large sections detaching, indicates significant water intrusion, or has led to underlying structural problems, full replacement is usually the more cost-effective and durable solution. An experienced contractor can assess the damage and recommend the best course of action.",
-        "description": "Repair minor damage, but replace stucco if damage is widespread, includes large detachments, or indicates significant water intrusion and underlying issues."
-      }
-    }
-  ],
+  "name": "Should I repair or replace my stucco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my stucco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace stucco depends on the extent and nature of the damage. Minor cracks, small holes, or localized aesthetic issues can often be effectively repaired. However, if the damage is widespread, includes large sections detaching, indicates significant water intrusion, or has led to underlying structural problems, full replacement is usually the more cost-effective and durable solution. An experienced contractor can assess the damage and recommend the best course of action.",
+        "@type": "Answer",
+        "description": "Repair minor damage, but replace stucco if damage is widespread, includes large detachments, or indicates significant water intrusion and underlying issues."
+      }
+    }
+  ],
+  "description": "Repair minor damage, but replace stucco if damage is widespread, includes large detachments, or indicates significant water intrusion and underlying issues."
 }
