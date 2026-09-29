@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the process for installing a walk-in shower?",
-  "description": "Installation involves consultation and design, demolition, plumbing adjustments, waterproofing, tile/panel installation, and fixture fitting.",
   "url": "affordablehomeremodeling.com/faq/what-is-the-process-for-installing-a-walk-in-shower",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the process for installing a walk-in shower?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The process begins with an initial consultation and design planning, followed by demolition of the existing shower or tub. Next, plumbing rough-in adjustments are made, and the subfloor is prepared for proper drainage. Waterproofing is then applied, especially crucial for curbless designs, followed by tile installation or paneling. Finally, fixtures like showerheads and controls are installed, and any glass enclosures or doors are fitted.",
-        "description": "Installation involves consultation and design, demolition, plumbing adjustments, waterproofing, tile/panel installation, and fixture fitting."
-      }
-    }
-  ],
+  "name": "What is the process for installing a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation and design planning, followed by demolition of the existing shower or tub. Next, plumbing rough-in adjustments are made, and the subfloor is prepared for proper drainage. Waterproofing is then applied, especially crucial for curbless designs, followed by tile installation or paneling. Finally, fixtures like showerheads and controls are installed, and any glass enclosures or doors are fitted.",
+        "@type": "Answer",
+        "description": "Installation involves consultation and design, demolition, plumbing adjustments, waterproofing, tile/panel installation, and fixture fitting."
+      }
+    }
+  ],
+  "description": "Installation involves consultation and design, demolition, plumbing adjustments, waterproofing, tile/panel installation, and fixture fitting."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the typical cost range for a kitchen remodel?",
-  "description": "Kitchen remodel costs range from $15,000 for minor updates to over $75,000 for major renovations, depending on scope and materials.",
   "url": "affordablehomeremodeling.com/faq/what-is-the-typical-cost-range-for-a-kitchen-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the typical cost range for a kitchen remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Kitchen remodel costs vary significantly based on the scope, materials chosen, and the size of your kitchen. A minor remodel, updating surfaces and appliances without changing the layout, might range from $15,000 to $30,000. A mid-range remodel, involving new cabinetry, countertops, and some layout changes, could be $30,000 to $60,000. High-end or major remodels, with custom elements and significant structural changes, can exceed $75,000. We provide detailed quotes after an initial consultation to understand your specific needs and vision.",
-        "description": "Kitchen remodel costs range from $15,000 for minor updates to over $75,000 for major renovations, depending on scope and materials."
-      }
-    }
-  ],
+  "name": "What is the typical cost range for a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen remodel costs vary significantly based on the scope, materials chosen, and the size of your kitchen. A minor remodel, updating surfaces and appliances without changing the layout, might range from $15,000 to $30,000. A mid-range remodel, involving new cabinetry, countertops, and some layout changes, could be $30,000 to $60,000. High-end or major remodels, with custom elements and significant structural changes, can exceed $75,000. We provide detailed quotes after an initial consultation to understand your specific needs and vision.",
+        "@type": "Answer",
+        "description": "Kitchen remodel costs range from $15,000 for minor updates to over $75,000 for major renovations, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Kitchen remodel costs range from $15,000 for minor updates to over $75,000 for major renovations, depending on scope and materials."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will a primary suite addition increase my home's value?",
-  "description": "Yes, a well-designed primary suite addition can increase your home's value and appeal to buyers, enhancing functionality and luxury.",
   "url": "affordablehomeremodeling.com/faq/will-a-primary-suite-addition-increase-my-home-s-value",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will a primary suite addition increase my home's value?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A well-designed and constructed primary suite addition can significantly increase your home's value and appeal. Modern buyers often prioritize homes with comfortable, private primary suites. The return on investment depends on the quality of the addition, its integration with the existing home, and local market conditions. It generally enhances functionality and luxury, making your home more attractive to potential buyers, though specific ROI varies.",
-        "description": "Yes, a well-designed primary suite addition can increase your home's value and appeal to buyers, enhancing functionality and luxury."
-      }
-    }
-  ],
+  "name": "Will a primary suite addition increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will a primary suite addition increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and constructed primary suite addition can significantly increase your home's value and appeal. Modern buyers often prioritize homes with comfortable, private primary suites. The return on investment depends on the quality of the addition, its integration with the existing home, and local market conditions. It generally enhances functionality and luxury, making your home more attractive to potential buyers, though specific ROI varies.",
+        "@type": "Answer",
+        "description": "Yes, a well-designed primary suite addition can increase your home's value and appeal to buyers, enhancing functionality and luxury."
+      }
+    }
+  ],
+  "description": "Yes, a well-designed primary suite addition can increase your home's value and appeal to buyers, enhancing functionality and luxury."
 }

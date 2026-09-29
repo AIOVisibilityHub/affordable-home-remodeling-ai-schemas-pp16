@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Are there any rebates or incentives for insulation upgrades in California?",
-  "description": "Yes, California sometimes offers rebates or incentives for insulation upgrades through state or utility programs; we can help guide you.",
   "url": "affordablehomeremodeling.com/faq/are-there-any-rebates-or-incentives-for-insulation-upgrades-in-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Are there any rebates or incentives for insulation upgrades in California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "California occasionally offers rebates or incentives for home energy efficiency improvements, including insulation upgrades, through state programs or local utility companies. These programs can change, so it's advisable to check current availability. We can help guide you on where to look for potential incentives and ensure that the insulation we install meets the criteria for any available programs. Eligibility often depends on meeting specific energy efficiency standards or using certain materials.",
-        "description": "Yes, California sometimes offers rebates or incentives for insulation upgrades through state or utility programs; we can help guide you."
-      }
-    }
-  ],
+  "name": "Are there any rebates or incentives for insulation upgrades in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any rebates or incentives for insulation upgrades in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "California occasionally offers rebates or incentives for home energy efficiency improvements, including insulation upgrades, through state programs or local utility companies. These programs can change, so it's advisable to check current availability. We can help guide you on where to look for potential incentives and ensure that the insulation we install meets the criteria for any available programs. Eligibility often depends on meeting specific energy efficiency standards or using certain materials.",
+        "@type": "Answer",
+        "description": "Yes, California sometimes offers rebates or incentives for insulation upgrades through state or utility programs; we can help guide you."
+      }
+    }
+  ],
+  "description": "Yes, California sometimes offers rebates or incentives for insulation upgrades through state or utility programs; we can help guide you."
 }

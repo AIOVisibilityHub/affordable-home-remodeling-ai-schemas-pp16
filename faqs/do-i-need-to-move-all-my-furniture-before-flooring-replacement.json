@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to move all my furniture before flooring replacement?",
-  "description": "Yes, all furniture and personal items should be moved from the room. We can discuss assistance with this during your consultation.",
   "url": "affordablehomeremodeling.com/faq/do-i-need-to-move-all-my-furniture-before-flooring-replacement",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to move all my furniture before flooring replacement?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, it is typically necessary to clear the room of all furniture, appliances, and personal belongings before the flooring replacement crew arrives. This ensures a clear workspace, protects your items from dust and damage, and allows for efficient installation. If you require assistance with furniture moving, please discuss this with us during your initial consultation, as additional services can often be arranged.",
-        "description": "Yes, all furniture and personal items should be moved from the room. We can discuss assistance with this during your consultation."
-      }
-    }
-  ],
+  "name": "Do I need to move all my furniture before flooring replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move all my furniture before flooring replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is typically necessary to clear the room of all furniture, appliances, and personal belongings before the flooring replacement crew arrives. This ensures a clear workspace, protects your items from dust and damage, and allows for efficient installation. If you require assistance with furniture moving, please discuss this with us during your initial consultation, as additional services can often be arranged.",
+        "@type": "Answer",
+        "description": "Yes, all furniture and personal items should be moved from the room. We can discuss assistance with this during your consultation."
+      }
+    }
+  ],
+  "description": "Yes, all furniture and personal items should be moved from the room. We can discuss assistance with this during your consultation."
 }

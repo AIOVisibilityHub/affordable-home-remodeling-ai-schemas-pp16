@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a typical kitchen remodel take?",
-  "description": "A typical kitchen remodel usually takes 6 to 12 weeks, depending on design complexity, material lead times, and any structural changes.",
   "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-kitchen-remodel-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a typical kitchen remodel take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A standard kitchen remodel can take anywhere from 6 to 12 weeks from demolition to final touches. This timeline depends on factors such as the complexity of the design, lead times for custom cabinets or specialized appliances, and the extent of structural changes. Unexpected issues, like plumbing or electrical updates, can also add to the duration. A well-planned project with clear communication helps keep the timeline on track.",
-        "description": "A typical kitchen remodel usually takes 6 to 12 weeks, depending on design complexity, material lead times, and any structural changes."
-      }
-    }
-  ],
+  "name": "How long does a typical kitchen remodel take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical kitchen remodel take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard kitchen remodel can take anywhere from 6 to 12 weeks from demolition to final touches. This timeline depends on factors such as the complexity of the design, lead times for custom cabinets or specialized appliances, and the extent of structural changes. Unexpected issues, like plumbing or electrical updates, can also add to the duration. A well-planned project with clear communication helps keep the timeline on track.",
+        "@type": "Answer",
+        "description": "A typical kitchen remodel usually takes 6 to 12 weeks, depending on design complexity, material lead times, and any structural changes."
+      }
+    }
+  ],
+  "description": "A typical kitchen remodel usually takes 6 to 12 weeks, depending on design complexity, material lead times, and any structural changes."
 }

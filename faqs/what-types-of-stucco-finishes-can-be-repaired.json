@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of stucco finishes can be repaired?",
-  "description": "Most stucco finishes like smooth, sand, dash, lace, and Santa Barbara can be repaired by matching texture and aggregate, though a perfect match can be challengi",
   "url": "affordablehomeremodeling.com/faq/what-types-of-stucco-finishes-can-be-repaired",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of stucco finishes can be repaired?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most common stucco finishes can be repaired, including smooth, sand, dash, lace, and Santa Barbara finishes. The key to a successful repair is matching the texture and aggregate size of the existing stucco. Professional contractors carry a variety of tools and can mix materials to replicate different finishes as closely as possible. While achieving a perfect, invisible match can be challenging, skilled application significantly minimizes the appearance of the repair.",
-        "description": "Most stucco finishes like smooth, sand, dash, lace, and Santa Barbara can be repaired by matching texture and aggregate, though a perfect match can be challenging."
-      }
-    }
-  ],
+  "name": "What types of stucco finishes can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of stucco finishes can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most common stucco finishes can be repaired, including smooth, sand, dash, lace, and Santa Barbara finishes. The key to a successful repair is matching the texture and aggregate size of the existing stucco. Professional contractors carry a variety of tools and can mix materials to replicate different finishes as closely as possible. While achieving a perfect, invisible match can be challenging, skilled application significantly minimizes the appearance of the repair.",
+        "@type": "Answer",
+        "description": "Most stucco finishes like smooth, sand, dash, lace, and Santa Barbara can be repaired by matching texture and aggregate, though a perfect match can be challenging."
+      }
+    }
+  ],
+  "description": "Most stucco finishes like smooth, sand, dash, lace, and Santa Barbara can be repaired by matching texture and aggregate, though a perfect match can be challengi"
 }
