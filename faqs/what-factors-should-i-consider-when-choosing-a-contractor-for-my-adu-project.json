@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What factors should I consider when choosing a contractor for my ADU project?",
-  "description": "Choose a contractor based on ADU experience, licensing, insurance, portfolio, communication, transparency, and local regulation knowledge.",
   "url": "affordablehomeremodeling.com/faq/what-factors-should-i-consider-when-choosing-a-contractor-for-my-adu-project",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What factors should I consider when choosing a contractor for my ADU project?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "When selecting an ADU contractor, consider their experience with ADU projects specifically, their licensing and insurance status, and their portfolio of completed work. Evaluate their communication style, transparency in bidding, and customer references. A contractor familiar with local regulations in your area can also be highly beneficial for navigating the permitting process efficiently.",
-        "description": "Choose a contractor based on ADU experience, licensing, insurance, portfolio, communication, transparency, and local regulation knowledge."
-      }
-    }
-  ],
+  "name": "What factors should I consider when choosing a contractor for my ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a contractor for my ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting an ADU contractor, consider their experience with ADU projects specifically, their licensing and insurance status, and their portfolio of completed work. Evaluate their communication style, transparency in bidding, and customer references. A contractor familiar with local regulations in your area can also be highly beneficial for navigating the permitting process efficiently.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on ADU experience, licensing, insurance, portfolio, communication, transparency, and local regulation knowledge."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on ADU experience, licensing, insurance, portfolio, communication, transparency, and local regulation knowledge."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is an ADU and what are its common uses?",
-  "description": "An ADU is a secondary housing unit on a single-family lot, used for independent living, home offices, or rental income.",
   "url": "affordablehomeremodeling.com/faq/what-is-an-adu-and-what-are-its-common-uses",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is an ADU and what are its common uses?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot. Common uses include providing independent living space for family members, serving as a home office, or generating rental income. ADUs are typically smaller than the primary residence and can be attached to the existing home, built as a standalone structure in the backyard, or created by converting an existing garage or other space.",
-        "description": "An ADU is a secondary housing unit on a single-family lot, used for independent living, home offices, or rental income."
-      }
-    }
-  ],
+  "name": "What is an ADU and what are its common uses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is an ADU and what are its common uses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Accessory Dwelling Unit (ADU) is a secondary housing unit on a single-family residential lot. Common uses include providing independent living space for family members, serving as a home office, or generating rental income. ADUs are typically smaller than the primary residence and can be attached to the existing home, built as a standalone structure in the backyard, or created by converting an existing garage or other space.",
+        "@type": "Answer",
+        "description": "An ADU is a secondary housing unit on a single-family lot, used for independent living, home offices, or rental income."
+      }
+    }
+  ],
+  "description": "An ADU is a secondary housing unit on a single-family lot, used for independent living, home offices, or rental income."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a typical door installation take?",
-  "description": "Installation time varies; a simple interior door might take a few hours, while complex exterior or custom doors can take one to two days.",
   "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-door-installation-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a typical door installation take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a door installation varies depending on the type of door and the complexity of the project. A standard pre-hung interior door replacement might take a few hours, while an exterior entry door replacement with frame modifications could take a full day. Custom door installations, or those requiring structural changes, can extend to two days or more. Factors like existing frame condition, trim work, and hardware installation also influence the timeline. Our team aims for efficient installation while maintaining quality workmanship.",
-        "description": "Installation time varies; a simple interior door might take a few hours, while complex exterior or custom doors can take one to two days."
-      }
-    }
-  ],
+  "name": "How long does a typical door installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical door installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a door installation varies depending on the type of door and the complexity of the project. A standard pre-hung interior door replacement might take a few hours, while an exterior entry door replacement with frame modifications could take a full day. Custom door installations, or those requiring structural changes, can extend to two days or more. Factors like existing frame condition, trim work, and hardware installation also influence the timeline. Our team aims for efficient installation while maintaining quality workmanship.",
+        "@type": "Answer",
+        "description": "Installation time varies; a simple interior door might take a few hours, while complex exterior or custom doors can take one to two days."
+      }
+    }
+  ],
+  "description": "Installation time varies; a simple interior door might take a few hours, while complex exterior or custom doors can take one to two days."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What causes stucco to crack?",
-  "description": "Stucco cracks due to house settling, temperature changes, improper application, moisture intrusion, or external vibrations.",
   "url": "affordablehomeremodeling.com/faq/what-causes-stucco-to-crack",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What causes stucco to crack?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Stucco can crack for various reasons, including normal house settling, thermal expansion and contraction due to temperature changes, and improper application during installation. Moisture infiltration, especially from leaks around windows or roofs, can also lead to cracking and delamination. Earthquakes or nearby construction vibrations can cause stress cracks. Understanding the cause is crucial for effective and long-lasting repair, as it helps prevent recurring issues.",
-        "description": "Stucco cracks due to house settling, temperature changes, improper application, moisture intrusion, or external vibrations."
-      }
-    }
-  ],
+  "name": "What causes stucco to crack?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What causes stucco to crack?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco can crack for various reasons, including normal house settling, thermal expansion and contraction due to temperature changes, and improper application during installation. Moisture infiltration, especially from leaks around windows or roofs, can also lead to cracking and delamination. Earthquakes or nearby construction vibrations can cause stress cracks. Understanding the cause is crucial for effective and long-lasting repair, as it helps prevent recurring issues.",
+        "@type": "Answer",
+        "description": "Stucco cracks due to house settling, temperature changes, improper application, moisture intrusion, or external vibrations."
+      }
+    }
+  ],
+  "description": "Stucco cracks due to house settling, temperature changes, improper application, moisture intrusion, or external vibrations."
 }

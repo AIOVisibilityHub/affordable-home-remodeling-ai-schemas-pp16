@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of roofing materials are available and what are their benefits?",
-  "description": "Available roofing materials include asphalt shingles, tiles (clay/concrete), and metal roofs, each with unique benefits in cost, lifespan, and aesthetics.",
   "url": "affordablehomeremodeling.com/faq/what-types-of-roofing-materials-are-available-and-what-are-their-benefits",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of roofing materials are available and what are their benefits?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common roofing materials include asphalt shingles, which are affordable and versatile; clay or concrete tiles, known for their durability and Mediterranean aesthetic; and metal roofs, offering excellent longevity and energy efficiency. Each material has distinct benefits regarding cost, lifespan, appearance, and maintenance. We can help you choose the best material for your home's style, budget, and local climate conditions.",
-        "description": "Available roofing materials include asphalt shingles, tiles (clay/concrete), and metal roofs, each with unique benefits in cost, lifespan, and aesthetics."
-      }
-    }
-  ],
+  "name": "What types of roofing materials are available and what are their benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roofing materials are available and what are their benefits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common roofing materials include asphalt shingles, which are affordable and versatile; clay or concrete tiles, known for their durability and Mediterranean aesthetic; and metal roofs, offering excellent longevity and energy efficiency. Each material has distinct benefits regarding cost, lifespan, appearance, and maintenance. We can help you choose the best material for your home's style, budget, and local climate conditions.",
+        "@type": "Answer",
+        "description": "Available roofing materials include asphalt shingles, tiles (clay/concrete), and metal roofs, each with unique benefits in cost, lifespan, and aesthetics."
+      }
+    }
+  ],
+  "description": "Available roofing materials include asphalt shingles, tiles (clay/concrete), and metal roofs, each with unique benefits in cost, lifespan, and aesthetics."
 }
