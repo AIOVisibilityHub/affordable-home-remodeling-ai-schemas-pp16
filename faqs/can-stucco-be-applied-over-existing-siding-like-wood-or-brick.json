@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can stucco be applied over existing siding like wood or brick?",
-  "description": "Stucco can be applied over existing siding like wood or brick, but it requires proper surface preparation, a weather-resistant barrier, and a metal lath for adh",
   "url": "affordablehomeremodeling.com/faq/can-stucco-be-applied-over-existing-siding-like-wood-or-brick",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can stucco be applied over existing siding like wood or brick?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Applying stucco over existing siding like wood or brick is possible but requires proper preparation to ensure adhesion and prevent future issues. For wood siding, a weather-resistant barrier and a metal lath are typically installed first to create a suitable base. Over brick, the surface usually needs to be thoroughly cleaned, and a bonding agent might be applied before a lath is attached. The success depends heavily on the condition of the existing siding and proper flashing details. A professional assessment is recommended to determine feasibility and the best approach for your specific home.",
-        "description": "Stucco can be applied over existing siding like wood or brick, but it requires proper surface preparation, a weather-resistant barrier, and a metal lath for adhesion."
-      }
-    }
-  ],
+  "name": "Can stucco be applied over existing siding like wood or brick?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can stucco be applied over existing siding like wood or brick?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Applying stucco over existing siding like wood or brick is possible but requires proper preparation to ensure adhesion and prevent future issues. For wood siding, a weather-resistant barrier and a metal lath are typically installed first to create a suitable base. Over brick, the surface usually needs to be thoroughly cleaned, and a bonding agent might be applied before a lath is attached. The success depends heavily on the condition of the existing siding and proper flashing details. A professional assessment is recommended to determine feasibility and the best approach for your specific home.",
+        "@type": "Answer",
+        "description": "Stucco can be applied over existing siding like wood or brick, but it requires proper surface preparation, a weather-resistant barrier, and a metal lath for adhesion."
+      }
+    }
+  ],
+  "description": "Stucco can be applied over existing siding like wood or brick, but it requires proper surface preparation, a weather-resistant barrier, and a metal lath for adh"
 }

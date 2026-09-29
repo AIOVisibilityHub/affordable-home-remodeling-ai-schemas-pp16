@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to install laminate flooring in an average-sized room?",
-  "description": "For an average room, laminate flooring installation typically takes one to two days. This includes preparation and laying the new floor.",
   "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-install-laminate-flooring-in-an-average-sized-room",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to install laminate flooring in an average-sized room?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The time required for laminate flooring installation varies based on room size, subfloor condition, and any necessary furniture moving or old flooring removal. For an average-sized room (e.g., 200-300 sq ft), professional installation can typically be completed in one to two days. This estimate includes preparation, laying the new flooring, and finishing touches. Larger areas or rooms with complex layouts, such as multiple angles or doorways, may take longer.",
-        "description": "For an average room, laminate flooring installation typically takes one to two days. This includes preparation and laying the new floor."
-      }
-    }
-  ],
+  "name": "How long does it take to install laminate flooring in an average-sized room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install laminate flooring in an average-sized room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time required for laminate flooring installation varies based on room size, subfloor condition, and any necessary furniture moving or old flooring removal. For an average-sized room (e.g., 200-300 sq ft), professional installation can typically be completed in one to two days. This estimate includes preparation, laying the new flooring, and finishing touches. Larger areas or rooms with complex layouts, such as multiple angles or doorways, may take longer.",
+        "@type": "Answer",
+        "description": "For an average room, laminate flooring installation typically takes one to two days. This includes preparation and laying the new floor."
+      }
+    }
+  ],
+  "description": "For an average room, laminate flooring installation typically takes one to two days. This includes preparation and laying the new floor."
 }

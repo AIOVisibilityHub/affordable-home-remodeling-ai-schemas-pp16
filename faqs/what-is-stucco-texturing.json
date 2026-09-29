@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is stucco texturing?",
-  "description": "Stucco texturing involves applying a final stucco coat in a specific pattern to exterior walls for aesthetic appeal and durability.",
   "url": "affordablehomeremodeling.com/faq/what-is-stucco-texturing",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is stucco texturing?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Stucco texturing is the application of a final coat of stucco material in a specific pattern or finish to exterior walls. This process enhances the aesthetic appeal of a home while providing a durable, weather-resistant surface. Different textures can create unique visual effects, ranging from smooth and modern to rustic and traditional, impacting both the look and feel of the property's exterior. It's a key step in both new stucco installations and stucco repair projects.",
-        "description": "Stucco texturing involves applying a final stucco coat in a specific pattern to exterior walls for aesthetic appeal and durability."
-      }
-    }
-  ],
+  "name": "What is stucco texturing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is stucco texturing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco texturing is the application of a final coat of stucco material in a specific pattern or finish to exterior walls. This process enhances the aesthetic appeal of a home while providing a durable, weather-resistant surface. Different textures can create unique visual effects, ranging from smooth and modern to rustic and traditional, impacting both the look and feel of the property's exterior. It's a key step in both new stucco installations and stucco repair projects.",
+        "@type": "Answer",
+        "description": "Stucco texturing involves applying a final stucco coat in a specific pattern to exterior walls for aesthetic appeal and durability."
+      }
+    }
+  ],
+  "description": "Stucco texturing involves applying a final stucco coat in a specific pattern to exterior walls for aesthetic appeal and durability."
 }

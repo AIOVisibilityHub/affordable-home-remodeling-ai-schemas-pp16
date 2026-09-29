@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can tile flooring be installed over existing flooring?",
-  "description": "Typically, we recommend removing existing flooring for better adhesion and stability, though we assess each project individually.",
   "url": "affordablehomeremodeling.com/faq/can-tile-flooring-be-installed-over-existing-flooring",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can tile flooring be installed over existing flooring?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In most cases, we recommend removing existing flooring before installing new tile. Installing over old flooring can lead to issues like unevenness, adhesion problems, and potential cracking of the new tiles due to instability. While it might seem like a shortcut, proper subfloor preparation by removing old materials ensures a more durable and long-lasting tile installation. We assess each situation individually to determine the best approach.",
-        "description": "Typically, we recommend removing existing flooring for better adhesion and stability, though we assess each project individually."
-      }
-    }
-  ],
+  "name": "Can tile flooring be installed over existing flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can tile flooring be installed over existing flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, we recommend removing existing flooring before installing new tile. Installing over old flooring can lead to issues like unevenness, adhesion problems, and potential cracking of the new tiles due to instability. While it might seem like a shortcut, proper subfloor preparation by removing old materials ensures a more durable and long-lasting tile installation. We assess each situation individually to determine the best approach.",
+        "@type": "Answer",
+        "description": "Typically, we recommend removing existing flooring for better adhesion and stability, though we assess each project individually."
+      }
+    }
+  ],
+  "description": "Typically, we recommend removing existing flooring for better adhesion and stability, though we assess each project individually."
 }

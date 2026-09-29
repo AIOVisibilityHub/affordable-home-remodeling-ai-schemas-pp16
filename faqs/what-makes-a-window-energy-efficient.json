@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What makes a window energy-efficient?",
-  "description": "Energy-efficient windows feature multiple panes, inert gas fills, and Low-E coatings to minimize heat transfer and improve insulation.",
   "url": "affordablehomeremodeling.com/faq/what-makes-a-window-energy-efficient",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What makes a window energy-efficient?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Energy-efficient windows are designed to minimize heat transfer, keeping your home cooler in summer and warmer in winter. Key features include multiple panes of glass (double or triple-pane), inert gas fills like argon or krypton between the panes, and low-emissivity (Low-E) coatings. These coatings reflect infrared light, reducing heat gain and loss while allowing visible light to pass through. Frames made from materials like vinyl, fiberglass, or wood with insulated cores also contribute to better thermal performance compared to older aluminum frames.",
-        "description": "Energy-efficient windows feature multiple panes, inert gas fills, and Low-E coatings to minimize heat transfer and improve insulation."
-      }
-    }
-  ],
+  "name": "What makes a window energy-efficient?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What makes a window energy-efficient?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Energy-efficient windows are designed to minimize heat transfer, keeping your home cooler in summer and warmer in winter. Key features include multiple panes of glass (double or triple-pane), inert gas fills like argon or krypton between the panes, and low-emissivity (Low-E) coatings. These coatings reflect infrared light, reducing heat gain and loss while allowing visible light to pass through. Frames made from materials like vinyl, fiberglass, or wood with insulated cores also contribute to better thermal performance compared to older aluminum frames.",
+        "@type": "Answer",
+        "description": "Energy-efficient windows feature multiple panes, inert gas fills, and Low-E coatings to minimize heat transfer and improve insulation."
+      }
+    }
+  ],
+  "description": "Energy-efficient windows feature multiple panes, inert gas fills, and Low-E coatings to minimize heat transfer and improve insulation."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I know if I need a new front door?",
-  "description": "Look for drafts, damage, difficulty operating, or poor security. A new door can also improve energy efficiency and curb appeal.",
   "url": "affordablehomeremodeling.com/faq/how-do-i-know-if-i-need-a-new-front-door",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I know if I need a new front door?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Consider replacing your front door if you notice drafts, rattling, or difficulty opening and closing, which can indicate structural issues or poor insulation. Visible damage like cracks, rot, rust, or peeling paint are also clear signs of wear that compromise both appearance and function. If your door offers poor security or you're looking to update your home's aesthetics and energy efficiency, a replacement might be beneficial.",
-        "description": "Look for drafts, damage, difficulty operating, or poor security. A new door can also improve energy efficiency and curb appeal."
-      }
-    }
-  ],
+  "name": "How do I know if I need a new front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a new front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider replacing your front door if you notice drafts, rattling, or difficulty opening and closing, which can indicate structural issues or poor insulation. Visible damage like cracks, rot, rust, or peeling paint are also clear signs of wear that compromise both appearance and function. If your door offers poor security or you're looking to update your home's aesthetics and energy efficiency, a replacement might be beneficial.",
+        "@type": "Answer",
+        "description": "Look for drafts, damage, difficulty operating, or poor security. A new door can also improve energy efficiency and curb appeal."
+      }
+    }
+  ],
+  "description": "Look for drafts, damage, difficulty operating, or poor security. A new door can also improve energy efficiency and curb appeal."
 }

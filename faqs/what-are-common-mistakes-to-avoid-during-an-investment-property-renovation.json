@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common mistakes to avoid during an investment property renovation?",
-  "description": "Avoid underbudgeting, skipping permits, using low-quality materials, not vetting contractors, and over-improving the property for the local market.",
   "url": "affordablehomeremodeling.com/faq/what-are-common-mistakes-to-avoid-during-an-investment-property-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common mistakes to avoid during an investment property renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common mistakes include underestimating the budget and not having a contingency fund, failing to obtain necessary permits, choosing materials based solely on cost rather than durability, and neglecting to properly vet contractors. Another frequent error is over-improving the property beyond what the local rental market supports. Ensure your renovations align with market expectations to maximize your return. Clear communication with your contractor and regular site visits are also crucial to prevent misunderstandings.",
-        "description": "Avoid underbudgeting, skipping permits, using low-quality materials, not vetting contractors, and over-improving the property for the local market."
-      }
-    }
-  ],
+  "name": "What are common mistakes to avoid during an investment property renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common mistakes to avoid during an investment property renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common mistakes include underestimating the budget and not having a contingency fund, failing to obtain necessary permits, choosing materials based solely on cost rather than durability, and neglecting to properly vet contractors. Another frequent error is over-improving the property beyond what the local rental market supports. Ensure your renovations align with market expectations to maximize your return. Clear communication with your contractor and regular site visits are also crucial to prevent misunderstandings.",
+        "@type": "Answer",
+        "description": "Avoid underbudgeting, skipping permits, using low-quality materials, not vetting contractors, and over-improving the property for the local market."
+      }
+    }
+  ],
+  "description": "Avoid underbudgeting, skipping permits, using low-quality materials, not vetting contractors, and over-improving the property for the local market."
 }

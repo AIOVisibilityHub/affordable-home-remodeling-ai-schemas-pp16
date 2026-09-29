@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider replacing my entry door?",
-  "description": "Replace your entry door if it has drafts, rot, rust, cracks, or operating issues, as these impact energy efficiency, security, and curb appeal.",
   "url": "affordablehomeremodeling.com/faq/when-should-i-consider-replacing-my-entry-door",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider replacing my entry door?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider replacing your entry door if it shows signs of wear and tear, such as drafts, rotting wood, rust, cracks, or difficulty operating. An old, damaged door can compromise your home's energy efficiency, security, and curb appeal. Replacing it can improve insulation, enhance safety, and update your home's aesthetic. A new door can also increase your property value.",
-        "description": "Replace your entry door if it has drafts, rot, rust, cracks, or operating issues, as these impact energy efficiency, security, and curb appeal."
-      }
-    }
-  ],
+  "name": "When should I consider replacing my entry door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my entry door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your entry door if it shows signs of wear and tear, such as drafts, rotting wood, rust, cracks, or difficulty operating. An old, damaged door can compromise your home's energy efficiency, security, and curb appeal. Replacing it can improve insulation, enhance safety, and update your home's aesthetic. A new door can also increase your property value.",
+        "@type": "Answer",
+        "description": "Replace your entry door if it has drafts, rot, rust, cracks, or operating issues, as these impact energy efficiency, security, and curb appeal."
+      }
+    }
+  ],
+  "description": "Replace your entry door if it has drafts, rot, rust, cracks, or operating issues, as these impact energy efficiency, security, and curb appeal."
 }

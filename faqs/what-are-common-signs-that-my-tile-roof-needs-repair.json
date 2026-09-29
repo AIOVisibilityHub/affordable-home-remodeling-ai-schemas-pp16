@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are common signs that my tile roof needs repair?",
-  "description": "Look for cracked, broken, or missing tiles, water stains inside your home, or a sagging roofline. Granules in gutters can also be a sign of wear.",
   "url": "affordablehomeremodeling.com/faq/what-are-common-signs-that-my-tile-roof-needs-repair",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are common signs that my tile roof needs repair?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common signs indicating your tile roof may need repair include cracked, broken, or missing tiles. You might also notice discolored ceilings or walls indoors, which suggests a leak. Granules collecting in gutters can indicate wear, and a visible sag in the roofline points to underlying structural issues. Inspecting your attic for water stains or dampness after rain can also confirm a leak source. Addressing these issues early can prevent more extensive and costly damage to your home's structure.",
-        "description": "Look for cracked, broken, or missing tiles, water stains inside your home, or a sagging roofline. Granules in gutters can also be a sign of wear."
-      }
-    }
-  ],
+  "name": "What are common signs that my tile roof needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my tile roof needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating your tile roof may need repair include cracked, broken, or missing tiles. You might also notice discolored ceilings or walls indoors, which suggests a leak. Granules collecting in gutters can indicate wear, and a visible sag in the roofline points to underlying structural issues. Inspecting your attic for water stains or dampness after rain can also confirm a leak source. Addressing these issues early can prevent more extensive and costly damage to your home's structure.",
+        "@type": "Answer",
+        "description": "Look for cracked, broken, or missing tiles, water stains inside your home, or a sagging roofline. Granules in gutters can also be a sign of wear."
+      }
+    }
+  ],
+  "description": "Look for cracked, broken, or missing tiles, water stains inside your home, or a sagging roofline. Granules in gutters can also be a sign of wear."
 }

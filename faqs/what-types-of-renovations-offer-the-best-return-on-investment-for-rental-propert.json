@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of renovations offer the best return on investment for rental properties?",
-  "description": "Kitchen and bathroom updates, along with exterior improvements and energy-efficient upgrades, generally offer the best return on investment for rental propertie",
   "url": "affordablehomeremodeling.com/faq/what-types-of-renovations-offer-the-best-return-on-investment-for-rental-propert",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of renovations offer the best return on investment for rental properties?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For rental properties, renovations that enhance functionality, durability, and curb appeal typically yield the best returns. Kitchen and bathroom updates are often top contenders, focusing on practical improvements like new fixtures, fresh paint, and durable flooring rather than high-end luxury. Exterior improvements such as landscaping, a new front door, or fresh paint can also significantly boost appeal. Consider updates that reduce maintenance for landlords and utility costs for tenants, like energy-efficient windows or HVAC systems.",
-        "description": "Kitchen and bathroom updates, along with exterior improvements and energy-efficient upgrades, generally offer the best return on investment for rental properties."
-      }
-    }
-  ],
+  "name": "What types of renovations offer the best return on investment for rental properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of renovations offer the best return on investment for rental properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For rental properties, renovations that enhance functionality, durability, and curb appeal typically yield the best returns. Kitchen and bathroom updates are often top contenders, focusing on practical improvements like new fixtures, fresh paint, and durable flooring rather than high-end luxury. Exterior improvements such as landscaping, a new front door, or fresh paint can also significantly boost appeal. Consider updates that reduce maintenance for landlords and utility costs for tenants, like energy-efficient windows or HVAC systems.",
+        "@type": "Answer",
+        "description": "Kitchen and bathroom updates, along with exterior improvements and energy-efficient upgrades, generally offer the best return on investment for rental properties."
+      }
+    }
+  ],
+  "description": "Kitchen and bathroom updates, along with exterior improvements and energy-efficient upgrades, generally offer the best return on investment for rental propertie"
 }
