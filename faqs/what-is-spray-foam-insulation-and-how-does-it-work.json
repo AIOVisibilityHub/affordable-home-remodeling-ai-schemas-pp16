@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is spray foam insulation and how does it work?",
-  "description": "Spray foam insulation is a liquid foam that expands to create an airtight seal, preventing air leakage and heat transfer, thus improving energy efficiency.",
   "url": "affordablehomeremodeling.com/faq/what-is-spray-foam-insulation-and-how-does-it-work",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is spray foam insulation and how does it work?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Spray foam insulation is a type of liquid foam that expands significantly after being sprayed, creating an airtight seal. It works by filling cavities, cracks, and crevices, preventing air leakage and heat transfer. This reduces energy consumption by maintaining a more consistent indoor temperature. It also acts as a barrier against moisture and outside pollutants, improving indoor air quality. There are two main types: open-cell and closed-cell, each with distinct properties suited for different applications.",
-        "description": "Spray foam insulation is a liquid foam that expands to create an airtight seal, preventing air leakage and heat transfer, thus improving energy efficiency."
-      }
-    }
-  ],
+  "name": "What is spray foam insulation and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is spray foam insulation and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Spray foam insulation is a type of liquid foam that expands significantly after being sprayed, creating an airtight seal. It works by filling cavities, cracks, and crevices, preventing air leakage and heat transfer. This reduces energy consumption by maintaining a more consistent indoor temperature. It also acts as a barrier against moisture and outside pollutants, improving indoor air quality. There are two main types: open-cell and closed-cell, each with distinct properties suited for different applications.",
+        "@type": "Answer",
+        "description": "Spray foam insulation is a liquid foam that expands to create an airtight seal, preventing air leakage and heat transfer, thus improving energy efficiency."
+      }
+    }
+  ],
+  "description": "Spray foam insulation is a liquid foam that expands to create an airtight seal, preventing air leakage and heat transfer, thus improving energy efficiency."
 }

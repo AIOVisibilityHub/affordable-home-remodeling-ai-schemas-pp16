@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the first steps to plan a bathroom renovation?",
-  "description": "Start planning by defining your needs, preferences, and budget. Gather inspiration, set a realistic budget, then research and contact local contractors for quot",
   "url": "affordablehomeremodeling.com/faq/what-are-the-first-steps-to-plan-a-bathroom-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the first steps to plan a bathroom renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The initial steps for a bathroom renovation involve defining your needs, preferences, and budget. Start by considering what you dislike about your current bathroom and what you hope to achieve with the renovation. Collect inspiration photos and create a list of desired features and materials. Next, establish a realistic budget, including a contingency fund for unexpected issues. Finally, research and contact reputable local contractors, like those serving Huntington Beach, Irvine, and Orange, to discuss your ideas, obtain quotes, and verify their licensing and insurance.",
-        "description": "Start planning by defining your needs, preferences, and budget. Gather inspiration, set a realistic budget, then research and contact local contractors for quotes and consultations."
-      }
-    }
-  ],
+  "name": "What are the first steps to plan a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to plan a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial steps for a bathroom renovation involve defining your needs, preferences, and budget. Start by considering what you dislike about your current bathroom and what you hope to achieve with the renovation. Collect inspiration photos and create a list of desired features and materials. Next, establish a realistic budget, including a contingency fund for unexpected issues. Finally, research and contact reputable local contractors, like those serving Huntington Beach, Irvine, and Orange, to discuss your ideas, obtain quotes, and verify their licensing and insurance.",
+        "@type": "Answer",
+        "description": "Start planning by defining your needs, preferences, and budget. Gather inspiration, set a realistic budget, then research and contact local contractors for quotes and consultations."
+      }
+    }
+  ],
+  "description": "Start planning by defining your needs, preferences, and budget. Gather inspiration, set a realistic budget, then research and contact local contractors for quot"
 }

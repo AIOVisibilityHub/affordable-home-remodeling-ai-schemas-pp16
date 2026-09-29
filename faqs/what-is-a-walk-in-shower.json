@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is a walk-in shower?",
-  "description": "A walk-in shower is an accessible shower enclosure, often curbless and doorless, providing a seamless bathroom transition.",
   "url": "affordablehomeremodeling.com/faq/what-is-a-walk-in-shower",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is a walk-in shower?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A walk-in shower is typically a shower enclosure without a door, curb, or both, designed for easy access and a seamless transition from the bathroom floor. This design often creates a more open and modern feel, improving accessibility, especially for individuals with mobility challenges. They can be custom-built to fit various bathroom sizes and aesthetics, featuring different materials for walls, flooring, and drainage solutions to prevent water spillage.",
-        "description": "A walk-in shower is an accessible shower enclosure, often curbless and doorless, providing a seamless bathroom transition."
-      }
-    }
-  ],
+  "name": "What is a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A walk-in shower is typically a shower enclosure without a door, curb, or both, designed for easy access and a seamless transition from the bathroom floor. This design often creates a more open and modern feel, improving accessibility, especially for individuals with mobility challenges. They can be custom-built to fit various bathroom sizes and aesthetics, featuring different materials for walls, flooring, and drainage solutions to prevent water spillage.",
+        "@type": "Answer",
+        "description": "A walk-in shower is an accessible shower enclosure, often curbless and doorless, providing a seamless bathroom transition."
+      }
+    }
+  ],
+  "description": "A walk-in shower is an accessible shower enclosure, often curbless and doorless, providing a seamless bathroom transition."
 }

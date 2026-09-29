@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a typical roof installation take?",
-  "description": "Most residential roof installations take 3 to 7 days, depending on roof size, complexity, material, and weather.",
   "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-roof-installation-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a typical roof installation take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a roof installation varies based on the roof's size, complexity, weather conditions, and the type of material being installed. Most residential roof replacements are completed within 3 to 7 days. Larger or more complex roofs, or those requiring extensive repairs to the underlying structure, may take longer. We aim to minimize disruption and will provide a detailed timeline after assessing your specific project.",
-        "description": "Most residential roof installations take 3 to 7 days, depending on roof size, complexity, material, and weather."
-      }
-    }
-  ],
+  "name": "How long does a typical roof installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof installation varies based on the roof's size, complexity, weather conditions, and the type of material being installed. Most residential roof replacements are completed within 3 to 7 days. Larger or more complex roofs, or those requiring extensive repairs to the underlying structure, may take longer. We aim to minimize disruption and will provide a detailed timeline after assessing your specific project.",
+        "@type": "Answer",
+        "description": "Most residential roof installations take 3 to 7 days, depending on roof size, complexity, material, and weather."
+      }
+    }
+  ],
+  "description": "Most residential roof installations take 3 to 7 days, depending on roof size, complexity, material, and weather."
 }

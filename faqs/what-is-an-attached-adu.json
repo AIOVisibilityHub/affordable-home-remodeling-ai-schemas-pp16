@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is an attached ADU?",
-  "description": "An attached ADU is a secondary, independent living unit that shares a wall with the main house, featuring its own entrance, kitchen, and bathroom.",
   "url": "affordablehomeremodeling.com/faq/what-is-an-attached-adu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is an attached ADU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "An attached Accessory Dwelling Unit (ADU) is a secondary housing unit that shares a common wall with the primary residence. Unlike detached ADUs, attached units are physically connected to the main house but must maintain their own separate entrance, kitchen, bathroom, and living areas. They are designed to be independent living spaces, providing flexibility for homeowners, such as accommodating family members, serving as a home office, or generating rental income. Building an attached ADU typically involves converting existing space, like a garage, or adding new construction adjacent to the main home.",
-        "description": "An attached ADU is a secondary, independent living unit that shares a wall with the main house, featuring its own entrance, kitchen, and bathroom."
-      }
-    }
-  ],
+  "name": "What is an attached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is an attached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached Accessory Dwelling Unit (ADU) is a secondary housing unit that shares a common wall with the primary residence. Unlike detached ADUs, attached units are physically connected to the main house but must maintain their own separate entrance, kitchen, bathroom, and living areas. They are designed to be independent living spaces, providing flexibility for homeowners, such as accommodating family members, serving as a home office, or generating rental income. Building an attached ADU typically involves converting existing space, like a garage, or adding new construction adjacent to the main home.",
+        "@type": "Answer",
+        "description": "An attached ADU is a secondary, independent living unit that shares a wall with the main house, featuring its own entrance, kitchen, and bathroom."
+      }
+    }
+  ],
+  "description": "An attached ADU is a secondary, independent living unit that shares a wall with the main house, featuring its own entrance, kitchen, and bathroom."
 }

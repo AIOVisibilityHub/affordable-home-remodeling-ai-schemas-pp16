@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need to empty my cabinets before painting?",
-  "description": "Yes, empty your cabinets completely to protect contents from paint/dust, allow for thorough cleaning, and provide clear access for painters.",
   "url": "affordablehomeremodeling.com/faq/do-i-need-to-empty-my-cabinets-before-painting",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need to empty my cabinets before painting?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, it is highly recommended to completely empty your cabinets before painting. This prevents paint splatter or dust from contaminating your dishes and stored items. Emptying also allows for thorough cleaning of all cabinet surfaces, ensuring proper paint adhesion and a professional finish. Additionally, it provides clear access for painters to work efficiently and protects your belongings from any potential damage during the painting process.",
-        "description": "Yes, empty your cabinets completely to protect contents from paint/dust, allow for thorough cleaning, and provide clear access for painters."
-      }
-    }
-  ],
+  "name": "Do I need to empty my cabinets before painting?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to empty my cabinets before painting?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to completely empty your cabinets before painting. This prevents paint splatter or dust from contaminating your dishes and stored items. Emptying also allows for thorough cleaning of all cabinet surfaces, ensuring proper paint adhesion and a professional finish. Additionally, it provides clear access for painters to work efficiently and protects your belongings from any potential damage during the painting process.",
+        "@type": "Answer",
+        "description": "Yes, empty your cabinets completely to protect contents from paint/dust, allow for thorough cleaning, and provide clear access for painters."
+      }
+    }
+  ],
+  "description": "Yes, empty your cabinets completely to protect contents from paint/dust, allow for thorough cleaning, and provide clear access for painters."
 }

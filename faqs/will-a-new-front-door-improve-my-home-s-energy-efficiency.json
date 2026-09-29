@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Will a new front door improve my home's energy efficiency?",
-  "description": "Yes, a new, insulated front door improves energy efficiency by reducing air leaks and heat transfer, potentially lowering utility bills.",
   "url": "affordablehomeremodeling.com/faq/will-a-new-front-door-improve-my-home-s-energy-efficiency",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Will a new front door improve my home's energy efficiency?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, replacing an old, inefficient front door with a new, insulated model can significantly improve your home's energy efficiency. Modern doors are designed with better weatherstripping, thermal breaks, and insulated cores that minimize air leaks and heat transfer. This can lead to reduced energy consumption for heating and cooling, potentially lowering your utility bills. Energy Star certified doors offer even greater efficiency.",
-        "description": "Yes, a new, insulated front door improves energy efficiency by reducing air leaks and heat transfer, potentially lowering utility bills."
-      }
-    }
-  ],
+  "name": "Will a new front door improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Will a new front door improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing an old, inefficient front door with a new, insulated model can significantly improve your home's energy efficiency. Modern doors are designed with better weatherstripping, thermal breaks, and insulated cores that minimize air leaks and heat transfer. This can lead to reduced energy consumption for heating and cooling, potentially lowering your utility bills. Energy Star certified doors offer even greater efficiency.",
+        "@type": "Answer",
+        "description": "Yes, a new, insulated front door improves energy efficiency by reducing air leaks and heat transfer, potentially lowering utility bills."
+      }
+    }
+  ],
+  "description": "Yes, a new, insulated front door improves energy efficiency by reducing air leaks and heat transfer, potentially lowering utility bills."
 }

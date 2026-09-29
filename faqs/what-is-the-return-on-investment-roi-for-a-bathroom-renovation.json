@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the return on investment (ROI) for a bathroom renovation?",
-  "description": "Bathroom renovations offer a good ROI, typically recouping 60-75% or more of their cost at resale, in addition to improving home value and daily living.",
   "url": "affordablehomeremodeling.com/faq/what-is-the-return-on-investment-roi-for-a-bathroom-renovation",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the return on investment (ROI) for a bathroom renovation?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Bathroom renovations consistently offer a strong return on investment, making them a valuable upgrade for homeowners. While the exact ROI can vary based on location, quality of materials, and the extent of the remodel, minor to mid-range bathroom remodels typically recoup a significant portion of their cost, often ranging from 60% to 75% or even more, at resale. Beyond monetary return, a renovated bathroom enhances daily living, improves home functionality, and boosts overall aesthetic appeal, which can also contribute to a faster sale.",
-        "description": "Bathroom renovations offer a good ROI, typically recouping 60-75% or more of their cost at resale, in addition to improving home value and daily living."
-      }
-    }
-  ],
+  "name": "What is the return on investment (ROI) for a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the return on investment (ROI) for a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bathroom renovations consistently offer a strong return on investment, making them a valuable upgrade for homeowners. While the exact ROI can vary based on location, quality of materials, and the extent of the remodel, minor to mid-range bathroom remodels typically recoup a significant portion of their cost, often ranging from 60% to 75% or even more, at resale. Beyond monetary return, a renovated bathroom enhances daily living, improves home functionality, and boosts overall aesthetic appeal, which can also contribute to a faster sale.",
+        "@type": "Answer",
+        "description": "Bathroom renovations offer a good ROI, typically recouping 60-75% or more of their cost at resale, in addition to improving home value and daily living."
+      }
+    }
+  ],
+  "description": "Bathroom renovations offer a good ROI, typically recouping 60-75% or more of their cost at resale, in addition to improving home value and daily living."
 }

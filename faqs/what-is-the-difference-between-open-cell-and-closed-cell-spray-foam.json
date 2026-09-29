@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between open-cell and closed-cell spray foam?",
-  "description": "Open-cell foam is less dense, flexible, and allows moisture passage, suitable for interiors. Closed-cell foam is dense, rigid, a vapor barrier, and suitable for",
   "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-open-cell-and-closed-cell-spray-foam",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between open-cell and closed-cell spray foam?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Open-cell and closed-cell spray foams differ primarily in their cell structure and density. Open-cell foam is lighter, less dense, and more flexible, allowing moisture to pass through. It's often used for interior walls and attics for sound dampening and insulation. Closed-cell foam is denser, more rigid, and acts as a vapor barrier, preventing moisture and air infiltration. It has a higher R-value per inch and is suitable for exterior walls, crawl spaces, and areas needing structural enhancement.",
-        "description": "Open-cell foam is less dense, flexible, and allows moisture passage, suitable for interiors. Closed-cell foam is dense, rigid, a vapor barrier, and suitable for exteriors and structural needs."
-      }
-    }
-  ],
+  "name": "What is the difference between open-cell and closed-cell spray foam?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between open-cell and closed-cell spray foam?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Open-cell and closed-cell spray foams differ primarily in their cell structure and density. Open-cell foam is lighter, less dense, and more flexible, allowing moisture to pass through. It's often used for interior walls and attics for sound dampening and insulation. Closed-cell foam is denser, more rigid, and acts as a vapor barrier, preventing moisture and air infiltration. It has a higher R-value per inch and is suitable for exterior walls, crawl spaces, and areas needing structural enhancement.",
+        "@type": "Answer",
+        "description": "Open-cell foam is less dense, flexible, and allows moisture passage, suitable for interiors. Closed-cell foam is dense, rigid, a vapor barrier, and suitable for exteriors and structural needs."
+      }
+    }
+  ],
+  "description": "Open-cell foam is less dense, flexible, and allows moisture passage, suitable for interiors. Closed-cell foam is dense, rigid, a vapor barrier, and suitable for"
 }

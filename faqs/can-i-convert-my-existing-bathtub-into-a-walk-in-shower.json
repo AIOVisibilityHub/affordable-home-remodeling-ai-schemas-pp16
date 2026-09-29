@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I convert my existing bathtub into a walk-in shower?",
-  "description": "Yes, converting a bathtub into a walk-in shower is common, involving tub removal, plumbing modification, and new shower installation.",
   "url": "affordablehomeremodeling.com/faq/can-i-convert-my-existing-bathtub-into-a-walk-in-shower",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I convert my existing bathtub into a walk-in shower?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, converting an existing bathtub space into a walk-in shower is a common remodeling project. This typically involves removing the tub, modifying the plumbing for a shower pan and drain, and then installing new walls and fixtures. This conversion can significantly improve accessibility and update the bathroom's aesthetic. The complexity and cost will depend on whether you opt for a standard shower base or a custom tiled curbless design.",
-        "description": "Yes, converting a bathtub into a walk-in shower is common, involving tub removal, plumbing modification, and new shower installation."
-      }
-    }
-  ],
+  "name": "Can I convert my existing bathtub into a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my existing bathtub into a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting an existing bathtub space into a walk-in shower is a common remodeling project. This typically involves removing the tub, modifying the plumbing for a shower pan and drain, and then installing new walls and fixtures. This conversion can significantly improve accessibility and update the bathroom's aesthetic. The complexity and cost will depend on whether you opt for a standard shower base or a custom tiled curbless design.",
+        "@type": "Answer",
+        "description": "Yes, converting a bathtub into a walk-in shower is common, involving tub removal, plumbing modification, and new shower installation."
+      }
+    }
+  ],
+  "description": "Yes, converting a bathtub into a walk-in shower is common, involving tub removal, plumbing modification, and new shower installation."
 }

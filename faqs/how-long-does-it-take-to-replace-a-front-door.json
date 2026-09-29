@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does it take to replace a front door?",
-  "description": "Most standard front door replacements can be completed in one day. Complex installations may take longer.",
   "url": "affordablehomeremodeling.com/faq/how-long-does-it-take-to-replace-a-front-door",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does it take to replace a front door?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most standard front door replacements can be completed in a single day. The process involves removing the old door and frame, preparing the opening, installing the new door unit, and finishing with trim work and hardware installation. More complex installations, such as those requiring significant frame modifications or custom sizing, may take longer. We aim to minimize disruption and complete the work efficiently.",
-        "description": "Most standard front door replacements can be completed in one day. Complex installations may take longer."
-      }
-    }
-  ],
+  "name": "How long does it take to replace a front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace a front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard front door replacements can be completed in a single day. The process involves removing the old door and frame, preparing the opening, installing the new door unit, and finishing with trim work and hardware installation. More complex installations, such as those requiring significant frame modifications or custom sizing, may take longer. We aim to minimize disruption and complete the work efficiently.",
+        "@type": "Answer",
+        "description": "Most standard front door replacements can be completed in one day. Complex installations may take longer."
+      }
+    }
+  ],
+  "description": "Most standard front door replacements can be completed in one day. Complex installations may take longer."
 }
