@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What kind of paint is best for my house's exterior in Southern California?",
-  "description": "Acrylic latex paints are generally best for Southern California exteriors due to their durability and resistance to sun and cracking.",
   "url": "affordablehomeremodeling.com/faq/what-kind-of-paint-is-best-for-my-house-s-exterior-in-southern-california",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What kind of paint is best for my house's exterior in Southern California?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For Southern California climates, acrylic latex paints are generally recommended for their durability, flexibility, and resistance to fading, cracking, and mildew. These paints hold up well to sun exposure and temperature fluctuations. While oil-based paints offer good adhesion, their tendency to become brittle makes them less ideal for long-term flexibility in sunny conditions. Consider paints specifically formulated for UV resistance.",
-        "description": "Acrylic latex paints are generally best for Southern California exteriors due to their durability and resistance to sun and cracking."
-      }
-    }
-  ],
+  "name": "What kind of paint is best for my house's exterior in Southern California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of paint is best for my house's exterior in Southern California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For Southern California climates, acrylic latex paints are generally recommended for their durability, flexibility, and resistance to fading, cracking, and mildew. These paints hold up well to sun exposure and temperature fluctuations. While oil-based paints offer good adhesion, their tendency to become brittle makes them less ideal for long-term flexibility in sunny conditions. Consider paints specifically formulated for UV resistance.",
+        "@type": "Answer",
+        "description": "Acrylic latex paints are generally best for Southern California exteriors due to their durability and resistance to sun and cracking."
+      }
+    }
+  ],
+  "description": "Acrylic latex paints are generally best for Southern California exteriors due to their durability and resistance to sun and cracking."
 }

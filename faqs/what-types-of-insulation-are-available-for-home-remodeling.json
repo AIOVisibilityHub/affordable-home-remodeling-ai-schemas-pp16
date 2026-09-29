@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of insulation are available for home remodeling?",
-  "description": "Common types are fiberglass, cellulose, spray foam, and rigid foam boards, each suited for different applications and offering varying thermal performance.",
   "url": "affordablehomeremodeling.com/faq/what-types-of-insulation-are-available-for-home-remodeling",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of insulation are available for home remodeling?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common insulation types include fiberglass, cellulose, spray foam, and rigid foam boards. Fiberglass is widely used for attics and walls, available in batts or blown-in form. Cellulose, made from recycled paper, is dense and effective, often blown into cavities. Spray foam (open-cell or closed-cell) expands to create an airtight seal, offering excellent thermal performance. Rigid foam boards are suitable for specific applications like basement walls or exterior sheathing, providing high R-value per inch. The best choice depends on the area being insulated, budget, and desired R-value.",
-        "description": "Common types are fiberglass, cellulose, spray foam, and rigid foam boards, each suited for different applications and offering varying thermal performance."
-      }
-    }
-  ],
+  "name": "What types of insulation are available for home remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of insulation are available for home remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common insulation types include fiberglass, cellulose, spray foam, and rigid foam boards. Fiberglass is widely used for attics and walls, available in batts or blown-in form. Cellulose, made from recycled paper, is dense and effective, often blown into cavities. Spray foam (open-cell or closed-cell) expands to create an airtight seal, offering excellent thermal performance. Rigid foam boards are suitable for specific applications like basement walls or exterior sheathing, providing high R-value per inch. The best choice depends on the area being insulated, budget, and desired R-value.",
+        "@type": "Answer",
+        "description": "Common types are fiberglass, cellulose, spray foam, and rigid foam boards, each suited for different applications and offering varying thermal performance."
+      }
+    }
+  ],
+  "description": "Common types are fiberglass, cellulose, spray foam, and rigid foam boards, each suited for different applications and offering varying thermal performance."
 }

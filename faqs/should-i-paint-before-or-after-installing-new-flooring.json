@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I paint before or after installing new flooring?",
-  "description": "It is generally recommended to paint before installing new flooring to avoid damaging the new floors with paint drips or splatters, allowing for a cleaner and m",
   "url": "affordablehomeremodeling.com/faq/should-i-paint-before-or-after-installing-new-flooring",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I paint before or after installing new flooring?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It is generally recommended to paint the interior walls before installing new flooring. Painting first reduces the risk of paint drips or splatters damaging new floors, which can be costly and difficult to clean. If painting after, you would need extensive masking and protection for the new flooring. Painting prior allows painters to work more freely and efficiently, ensuring a clean finish without concerns about damaging freshly laid surfaces. This sequence helps protect your investment in new flooring.",
-        "description": "It is generally recommended to paint before installing new flooring to avoid damaging the new floors with paint drips or splatters, allowing for a cleaner and more efficient process."
-      }
-    }
-  ],
+  "name": "Should I paint before or after installing new flooring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I paint before or after installing new flooring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to paint the interior walls before installing new flooring. Painting first reduces the risk of paint drips or splatters damaging new floors, which can be costly and difficult to clean. If painting after, you would need extensive masking and protection for the new flooring. Painting prior allows painters to work more freely and efficiently, ensuring a clean finish without concerns about damaging freshly laid surfaces. This sequence helps protect your investment in new flooring.",
+        "@type": "Answer",
+        "description": "It is generally recommended to paint before installing new flooring to avoid damaging the new floors with paint drips or splatters, allowing for a cleaner and more efficient process."
+      }
+    }
+  ],
+  "description": "It is generally recommended to paint before installing new flooring to avoid damaging the new floors with paint drips or splatters, allowing for a cleaner and m"
 }

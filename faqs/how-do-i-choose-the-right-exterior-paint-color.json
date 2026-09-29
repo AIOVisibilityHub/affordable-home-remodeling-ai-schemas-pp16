@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right exterior paint color?",
-  "description": "Consider your home's style, landscaping, and fixed elements, then test swatches to choose the right exterior paint color.",
   "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-exterior-paint-color",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right exterior paint color?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right exterior paint color involves considering your home's architectural style, landscaping, and fixed elements like roofing or stonework. Look at surrounding homes for inspiration, but also consider your personal preference. Test swatches on different parts of your house to see how colors appear in varying light throughout the day. Your contractor might also offer color consultation.",
-        "description": "Consider your home's style, landscaping, and fixed elements, then test swatches to choose the right exterior paint color."
-      }
-    }
-  ],
+  "name": "How do I choose the right exterior paint color?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right exterior paint color?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right exterior paint color involves considering your home's architectural style, landscaping, and fixed elements like roofing or stonework. Look at surrounding homes for inspiration, but also consider your personal preference. Test swatches on different parts of your house to see how colors appear in varying light throughout the day. Your contractor might also offer color consultation.",
+        "@type": "Answer",
+        "description": "Consider your home's style, landscaping, and fixed elements, then test swatches to choose the right exterior paint color."
+      }
+    }
+  ],
+  "description": "Consider your home's style, landscaping, and fixed elements, then test swatches to choose the right exterior paint color."
 }

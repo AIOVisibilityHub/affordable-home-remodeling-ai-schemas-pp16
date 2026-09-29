@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Do I need a permit for door replacement in Orange County?",
-  "description": "A permit is usually not needed for standard door replacements in Orange County unless you alter the opening size or make structural changes.",
   "url": "affordablehomeremodeling.com/faq/do-i-need-a-permit-for-door-replacement-in-orange-county",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Do I need a permit for door replacement in Orange County?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "For most standard door replacements in Orange County, a building permit is generally not required if you are simply replacing an existing door within the same opening and not altering the structural integrity of the wall. However, if you are enlarging the opening, adding a new door, or making structural changes, a permit may be necessary. It's always advisable to consult with your contractor or local building department to confirm specific requirements for your project.",
-        "description": "A permit is usually not needed for standard door replacements in Orange County unless you alter the opening size or make structural changes."
-      }
-    }
-  ],
+  "name": "Do I need a permit for door replacement in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for door replacement in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most standard door replacements in Orange County, a building permit is generally not required if you are simply replacing an existing door within the same opening and not altering the structural integrity of the wall. However, if you are enlarging the opening, adding a new door, or making structural changes, a permit may be necessary. It's always advisable to consult with your contractor or local building department to confirm specific requirements for your project.",
+        "@type": "Answer",
+        "description": "A permit is usually not needed for standard door replacements in Orange County unless you alter the opening size or make structural changes."
+      }
+    }
+  ],
+  "description": "A permit is usually not needed for standard door replacements in Orange County unless you alter the opening size or make structural changes."
 }

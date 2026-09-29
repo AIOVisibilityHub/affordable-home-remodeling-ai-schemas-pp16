@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of renovations increase rental property value the most?",
-  "description": "Kitchen and bathroom updates, flooring, fresh paint, and curb appeal enhancements typically offer the highest return on investment for rental properties.",
   "url": "affordablehomeremodeling.com/faq/what-types-of-renovations-increase-rental-property-value-the-most",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of renovations increase rental property value the most?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Renovations that offer a high return on investment for rental properties often focus on durability, low maintenance, and broad appeal. Kitchen and bathroom updates are frequently cited as top value-add projects, especially with modern, energy-efficient fixtures. Flooring upgrades, fresh paint, and improved curb appeal through landscaping or exterior repairs also significantly enhance a property's attractiveness to prospective tenants and can justify higher rental rates. Prioritize improvements that reduce future maintenance costs and align with local market expectations.",
-        "description": "Kitchen and bathroom updates, flooring, fresh paint, and curb appeal enhancements typically offer the highest return on investment for rental properties."
-      }
-    }
-  ],
+  "name": "What types of renovations increase rental property value the most?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of renovations increase rental property value the most?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovations that offer a high return on investment for rental properties often focus on durability, low maintenance, and broad appeal. Kitchen and bathroom updates are frequently cited as top value-add projects, especially with modern, energy-efficient fixtures. Flooring upgrades, fresh paint, and improved curb appeal through landscaping or exterior repairs also significantly enhance a property's attractiveness to prospective tenants and can justify higher rental rates. Prioritize improvements that reduce future maintenance costs and align with local market expectations.",
+        "@type": "Answer",
+        "description": "Kitchen and bathroom updates, flooring, fresh paint, and curb appeal enhancements typically offer the highest return on investment for rental properties."
+      }
+    }
+  ],
+  "description": "Kitchen and bathroom updates, flooring, fresh paint, and curb appeal enhancements typically offer the highest return on investment for rental properties."
 }

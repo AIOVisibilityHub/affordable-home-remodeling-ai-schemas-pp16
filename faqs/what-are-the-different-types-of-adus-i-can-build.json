@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the different types of ADUs I can build?",
-  "description": "You can build detached ADUs, attached ADUs, garage conversions, or Junior ADUs (JADUs), each with unique characteristics and suitability.",
   "url": "affordablehomeremodeling.com/faq/what-are-the-different-types-of-adus-i-can-build",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the different types of ADUs I can build?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "There are several common types of ADUs. Detached ADUs are freestanding structures separate from the main house. Attached ADUs are connected to the main house but have their own entrance. Garage conversions transform an existing garage into a living space. Junior ADUs (JADUs) are smaller units created within an existing single-family home. The best type depends on your property, budget, and needs.",
-        "description": "You can build detached ADUs, attached ADUs, garage conversions, or Junior ADUs (JADUs), each with unique characteristics and suitability."
-      }
-    }
-  ],
+  "name": "What are the different types of ADUs I can build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different types of ADUs I can build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several common types of ADUs. Detached ADUs are freestanding structures separate from the main house. Attached ADUs are connected to the main house but have their own entrance. Garage conversions transform an existing garage into a living space. Junior ADUs (JADUs) are smaller units created within an existing single-family home. The best type depends on your property, budget, and needs.",
+        "@type": "Answer",
+        "description": "You can build detached ADUs, attached ADUs, garage conversions, or Junior ADUs (JADUs), each with unique characteristics and suitability."
+      }
+    }
+  ],
+  "description": "You can build detached ADUs, attached ADUs, garage conversions, or Junior ADUs (JADUs), each with unique characteristics and suitability."
 }

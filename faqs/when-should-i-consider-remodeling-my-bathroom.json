@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider remodeling my bathroom?",
-  "description": "Consider remodeling if your bathroom is worn out, functionally inadequate, aesthetically outdated, or if you want to increase your home's value and appeal.",
   "url": "affordablehomeremodeling.com/faq/when-should-i-consider-remodeling-my-bathroom",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider remodeling my bathroom?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider remodeling your bathroom if it shows significant signs of wear and tear, such as cracked tiles, outdated fixtures, or persistent leaks. A remodel can also improve functionality and accessibility, especially if your family's needs have changed. Additionally, updating an aesthetically outdated bathroom can significantly increase your home's value and appeal. If you're looking to enhance comfort, efficiency, or simply modernize your space, it's a good time to consider a renovation.",
-        "description": "Consider remodeling if your bathroom is worn out, functionally inadequate, aesthetically outdated, or if you want to increase your home's value and appeal."
-      }
-    }
-  ],
+  "name": "When should I consider remodeling my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider remodeling my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider remodeling your bathroom if it shows significant signs of wear and tear, such as cracked tiles, outdated fixtures, or persistent leaks. A remodel can also improve functionality and accessibility, especially if your family's needs have changed. Additionally, updating an aesthetically outdated bathroom can significantly increase your home's value and appeal. If you're looking to enhance comfort, efficiency, or simply modernize your space, it's a good time to consider a renovation.",
+        "@type": "Answer",
+        "description": "Consider remodeling if your bathroom is worn out, functionally inadequate, aesthetically outdated, or if you want to increase your home's value and appeal."
+      }
+    }
+  ],
+  "description": "Consider remodeling if your bathroom is worn out, functionally inadequate, aesthetically outdated, or if you want to increase your home's value and appeal."
 }

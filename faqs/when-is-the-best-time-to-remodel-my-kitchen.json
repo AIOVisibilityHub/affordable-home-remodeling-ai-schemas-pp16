@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When is the best time to remodel my kitchen?",
-  "description": "The best time to remodel your kitchen is typically when it best suits your personal schedule and ability to manage temporary disruption.",
   "url": "affordablehomeremodeling.com/faq/when-is-the-best-time-to-remodel-my-kitchen",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When is the best time to remodel my kitchen?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The best time to remodel your kitchen often depends on your personal schedule and preferences. Many homeowners choose to remodel during off-peak seasons, such as late fall or winter, to potentially avoid delays caused by high demand, though this isn't always a factor. Considering when you can best accommodate temporary kitchen disruption is key. We can schedule your project to minimize inconvenience, regardless of the season.",
-        "description": "The best time to remodel your kitchen is typically when it best suits your personal schedule and ability to manage temporary disruption."
-      }
-    }
-  ],
+  "name": "When is the best time to remodel my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to remodel my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to remodel your kitchen often depends on your personal schedule and preferences. Many homeowners choose to remodel during off-peak seasons, such as late fall or winter, to potentially avoid delays caused by high demand, though this isn't always a factor. Considering when you can best accommodate temporary kitchen disruption is key. We can schedule your project to minimize inconvenience, regardless of the season.",
+        "@type": "Answer",
+        "description": "The best time to remodel your kitchen is typically when it best suits your personal schedule and ability to manage temporary disruption."
+      }
+    }
+  ],
+  "description": "The best time to remodel your kitchen is typically when it best suits your personal schedule and ability to manage temporary disruption."
 }
