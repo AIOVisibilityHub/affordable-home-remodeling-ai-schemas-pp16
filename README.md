@@ -14,9 +14,9 @@ Canonical AI Data Package for Affordable Home Remodeling.
 - 69 services
 - 1 locations
 - 16 personnel
-- 236 helpArticles
+- 284 helpArticles
 - 1 organization
-- **2215** total
+- **2263** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Affordable Home Remodeling — canonical website — https://affordablehomeremodeling.aiovisibility.net
@@ -1923,28 +1923,44 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/will-the-repaired-stucco-match-my-existing-home-exterior.json`](./faqs/will-the-repaired-stucco-match-my-existing-home-exterior.json) — schema
 - [`faqs/will-the-repaired-stucco-match-the-existing-color-and-texture.json`](./faqs/will-the-repaired-stucco-match-the-existing-color-and-texture.json) — schema
 
-### Help Articles (236)
+### Help Articles (284)
+- [`help/adu-build-how-to-avoid-common-site-and-utility-snags.json`](./help/adu-build-how-to-avoid-common-site-and-utility-snags.json) — schema
+- [`help/adu-design-why-your-project-might-get-stuck-in-permitting.json`](./help/adu-design-why-your-project-might-get-stuck-in-permitting.json) — schema
+- [`help/adu-project-what-you-need-to-prepare-for-a-smooth-start.json`](./help/adu-project-what-you-need-to-prepare-for-a-smooth-start.json) — schema
 - [`help/are-my-old-windows-costing-me-too-much.json`](./help/are-my-old-windows-costing-me-too-much.json) — schema
 - [`help/are-my-windows-letting-money-fly-out.json`](./help/are-my-windows-letting-money-fly-out.json) — schema
 - [`help/are-you-making-these-common-kitchen-remodeling-mistakes.json`](./help/are-you-making-these-common-kitchen-remodeling-mistakes.json) — schema
+- [`help/attached-adu-construction-avoiding-common-permitting-pitfalls.json`](./help/attached-adu-construction-avoiding-common-permitting-pitfalls.json) — schema
+- [`help/attached-adu-construction-what-qualifies-as-an-attached-adu.json`](./help/attached-adu-construction-what-qualifies-as-an-attached-adu.json) — schema
+- [`help/attached-adu-construction-when-do-you-need-an-architect.json`](./help/attached-adu-construction-when-do-you-need-an-architect.json) — schema
 - [`help/avoiding-budget-surprises-during-your-home-addition.json`](./help/avoiding-budget-surprises-during-your-home-addition.json) — schema
+- [`help/avoiding-common-mistakes-in-stucco-repair-projects.json`](./help/avoiding-common-mistakes-in-stucco-repair-projects.json) — schema
 - [`help/avoiding-common-pitfalls-in-adu-construction.json`](./help/avoiding-common-pitfalls-in-adu-construction.json) — schema
 - [`help/avoiding-common-pitfalls-in-custom-kitchen-design.json`](./help/avoiding-common-pitfalls-in-custom-kitchen-design.json) — schema
 - [`help/avoiding-common-pitfalls-in-door-replacement.json`](./help/avoiding-common-pitfalls-in-door-replacement.json) — schema
 - [`help/avoiding-common-pitfalls-in-garage-adu-projects.json`](./help/avoiding-common-pitfalls-in-garage-adu-projects.json) — schema
 - [`help/avoiding-common-pitfalls-in-your-custom-home-project.json`](./help/avoiding-common-pitfalls-in-your-custom-home-project.json) — schema
 - [`help/avoiding-paint-project-pitfalls.json`](./help/avoiding-paint-project-pitfalls.json) — schema
+- [`help/building-a-new-home-how-to-budget-effectively-for-unexpected-costs.json`](./help/building-a-new-home-how-to-budget-effectively-for-unexpected-costs.json) — schema
 - [`help/can-replacing-windows-really-boost-my-home-s-value.json`](./help/can-replacing-windows-really-boost-my-home-s-value.json) — schema
+- [`help/choosing-the-right-flooring-installation-what-to-consider-for-your-home.json`](./help/choosing-the-right-flooring-installation-what-to-consider-for-your-home.json) — schema
 - [`help/common-adu-mistakes-that-can-cost-you-time-and-money.json`](./help/common-adu-mistakes-that-can-cost-you-time-and-money.json) — schema
 - [`help/common-mistakes-to-steer-clear-of-in-new-home-construction.json`](./help/common-mistakes-to-steer-clear-of-in-new-home-construction.json) — schema
 - [`help/common-mistakes-when-planning-a-whole-home-remodel.json`](./help/common-mistakes-when-planning-a-whole-home-remodel.json) — schema
+- [`help/common-mistakes-when-upgrading-attic-insulation.json`](./help/common-mistakes-when-upgrading-attic-insulation.json) — schema
 - [`help/common-pitfalls-in-custom-home-renovation-projects.json`](./help/common-pitfalls-in-custom-home-renovation-projects.json) — schema
 - [`help/confused-about-adu-regulations-what-you-need-to-know.json`](./help/confused-about-adu-regulations-what-you-need-to-know.json) — schema
+- [`help/deciding-on-interior-house-painting-when-to-bring-in-the-pros.json`](./help/deciding-on-interior-house-painting-when-to-bring-in-the-pros.json) — schema
+- [`help/detached-adu-construction-is-your-lot-ready.json`](./help/detached-adu-construction-is-your-lot-ready.json) — schema
+- [`help/detached-adu-mistakes-to-avoid-during-planning.json`](./help/detached-adu-mistakes-to-avoid-during-planning.json) — schema
 - [`help/don-t-let-these-mistakes-derail-your-garage-to-adu-conversion.json`](./help/don-t-let-these-mistakes-derail-your-garage-to-adu-conversion.json) — schema
 - [`help/exterior-painting-project-timeline.json`](./help/exterior-painting-project-timeline.json) — schema
+- [`help/flooring-installation-common-mistakes-to-avoid-for-a-smooth-process.json`](./help/flooring-installation-common-mistakes-to-avoid-for-a-smooth-process.json) — schema
+- [`help/flooring-replacement-after-water-damage-when-to-call-a-pro.json`](./help/flooring-replacement-after-water-damage-when-to-call-a-pro.json) — schema
 - [`help/getting-started-with-your-adu-a-step-by-step-guide.json`](./help/getting-started-with-your-adu-a-step-by-step-guide.json) — schema
 - [`help/getting-started-with-your-door-installation-project.json`](./help/getting-started-with-your-door-installation-project.json) — schema
 - [`help/getting-your-walls-ready-for-a-fresh-coat.json`](./help/getting-your-walls-ready-for-a-fresh-coat.json) — schema
+- [`help/ground-up-construction-what-to-consider-before-buying-a-lot.json`](./help/ground-up-construction-what-to-consider-before-buying-a-lot.json) — schema
 - [`help/how-can-i-make-my-custom-kitchen-unique-but-still-functional.json`](./help/how-can-i-make-my-custom-kitchen-unique-but-still-functional.json) — schema
 - [`help/how-can-i-plan-a-bathroom-remodel-that-truly-fits-my-needs.json`](./help/how-can-i-plan-a-bathroom-remodel-that-truly-fits-my-needs.json) — schema
 - [`help/how-can-i-prevent-drafts-around-my-entry-doors.json`](./help/how-can-i-prevent-drafts-around-my-entry-doors.json) — schema
@@ -1969,6 +1985,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/how-to-get-started-with-a-new-home-build.json`](./help/how-to-get-started-with-a-new-home-build.json) — schema
 - [`help/how-to-maximize-your-adu-s-rental-potential.json`](./help/how-to-maximize-your-adu-s-rental-potential.json) — schema
 - [`help/how-to-plan-for-a-major-roof-replacement.json`](./help/how-to-plan-for-a-major-roof-replacement.json) — schema
+- [`help/how-to-plan-for-extensive-stucco-replacement.json`](./help/how-to-plan-for-extensive-stucco-replacement.json) — schema
 - [`help/how-to-plan-your-custom-home-renovation.json`](./help/how-to-plan-your-custom-home-renovation.json) — schema
 - [`help/how-to-plan-your-door-installation-project.json`](./help/how-to-plan-your-door-installation-project.json) — schema
 - [`help/how-to-plan-your-dream-bathroom-remodel.json`](./help/how-to-plan-your-dream-bathroom-remodel.json) — schema
@@ -1996,7 +2013,9 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/is-a-full-kitchen-remodel-the-right-move-for-my-home-in-southern-california.json`](./help/is-a-full-kitchen-remodel-the-right-move-for-my-home-in-southern-california.json) — schema
 - [`help/is-a-garage-conversion-to-adu-right-for-my-property.json`](./help/is-a-garage-conversion-to-adu-right-for-my-property.json) — schema
 - [`help/is-a-kitchen-remodel-right-for-my-home-in-southern-california.json`](./help/is-a-kitchen-remodel-right-for-my-home-in-southern-california.json) — schema
+- [`help/is-a-room-addition-right-for-your-expanding-family.json`](./help/is-a-room-addition-right-for-your-expanding-family.json) — schema
 - [`help/is-a-whole-home-remodel-right-for-my-family.json`](./help/is-a-whole-home-remodel-right-for-my-family.json) — schema
+- [`help/is-adding-insulation-worthwhile-or-should-old-insulation-be-removed.json`](./help/is-adding-insulation-worthwhile-or-should-old-insulation-be-removed.json) — schema
 - [`help/is-affordable-home-remodeling-the-right-choice-for-your-window-replacement.json`](./help/is-affordable-home-remodeling-the-right-choice-for-your-window-replacement.json) — schema
 - [`help/is-an-adu-right-for-my-property-in-southern-california.json`](./help/is-an-adu-right-for-my-property-in-southern-california.json) — schema
 - [`help/is-an-adu-right-for-my-property-what-to-consider.json`](./help/is-an-adu-right-for-my-property-what-to-consider.json) — schema
@@ -2012,8 +2031,12 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/is-my-roof-ready-for-an-upgrade.json`](./help/is-my-roof-ready-for-an-upgrade.json) — schema
 - [`help/is-professional-interior-painting-worth-the-investment.json`](./help/is-professional-interior-painting-worth-the-investment.json) — schema
 - [`help/is-your-bathroom-ready-for-an-upgrade.json`](./help/is-your-bathroom-ready-for-an-upgrade.json) — schema
+- [`help/is-your-home-ready-for-a-second-story-addition.json`](./help/is-your-home-ready-for-a-second-story-addition.json) — schema
 - [`help/is-your-roof-showing-signs-of-trouble.json`](./help/is-your-roof-showing-signs-of-trouble.json) — schema
 - [`help/is-your-whole-home-remodel-project-getting-overwhelming.json`](./help/is-your-whole-home-remodel-project-getting-overwhelming.json) — schema
+- [`help/junior-adu-construction-how-to-maximize-your-space.json`](./help/junior-adu-construction-how-to-maximize-your-space.json) — schema
+- [`help/junior-adu-construction-navigating-owner-occupancy-rules.json`](./help/junior-adu-construction-navigating-owner-occupancy-rules.json) — schema
+- [`help/junior-adu-construction-preparing-for-your-permit-application.json`](./help/junior-adu-construction-preparing-for-your-permit-application.json) — schema
 - [`help/mapping-out-your-custom-home-renovation-journey.json`](./help/mapping-out-your-custom-home-renovation-journey.json) — schema
 - [`help/mistakes-to-avoid-during-your-whole-home-remodel.json`](./help/mistakes-to-avoid-during-your-whole-home-remodel.json) — schema
 - [`help/mistakes-to-avoid-in-new-home-construction.json`](./help/mistakes-to-avoid-in-new-home-construction.json) — schema
@@ -2039,8 +2062,20 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/my-new-home-build-is-over-budget-what-went-wrong.json`](./help/my-new-home-build-is-over-budget-what-went-wrong.json) — schema
 - [`help/my-roof-looks-old-what-s-next.json`](./help/my-roof-looks-old-what-s-next.json) — schema
 - [`help/my-walls-look-dull-and-tired-what-should-i-do.json`](./help/my-walls-look-dull-and-tired-what-should-i-do.json) — schema
+- [`help/navigating-detached-adu-regulations-what-to-check-first.json`](./help/navigating-detached-adu-regulations-what-to-check-first.json) — schema
+- [`help/navigating-your-second-story-addition-timeline.json`](./help/navigating-your-second-story-addition-timeline.json) — schema
+- [`help/new-home-construction-when-to-bring-in-a-professional-team.json`](./help/new-home-construction-when-to-bring-in-a-professional-team.json) — schema
+- [`help/planning-your-second-story-addition-a-checklist.json`](./help/planning-your-second-story-addition-a-checklist.json) — schema
 - [`help/preparing-for-a-new-door-installation.json`](./help/preparing-for-a-new-door-installation.json) — schema
+- [`help/preparing-for-stucco-replacement-what-homeowners-need-to-know.json`](./help/preparing-for-stucco-replacement-what-homeowners-need-to-know.json) — schema
+- [`help/preparing-your-home-for-an-insulation-installation-project.json`](./help/preparing-your-home-for-an-insulation-installation-project.json) — schema
+- [`help/preparing-your-walls-for-interior-painting-a-simple-checklist.json`](./help/preparing-your-walls-for-interior-painting-a-simple-checklist.json) — schema
+- [`help/primary-suite-addition-choosing-the-right-contractor.json`](./help/primary-suite-addition-choosing-the-right-contractor.json) — schema
+- [`help/primary-suite-addition-preparing-your-home-for-construction.json`](./help/primary-suite-addition-preparing-your-home-for-construction.json) — schema
+- [`help/protecting-your-home-a-checklist-for-exterior-paint-preparation.json`](./help/protecting-your-home-a-checklist-for-exterior-paint-preparation.json) — schema
 - [`help/ready-for-a-new-look-what-to-know-about-interior-painting.json`](./help/ready-for-a-new-look-what-to-know-about-interior-painting.json) — schema
+- [`help/room-addition-mistakes-to-avoid.json`](./help/room-addition-mistakes-to-avoid.json) — schema
+- [`help/should-i-upgrade-my-home-s-insulation-signs-it-s-time.json`](./help/should-i-upgrade-my-home-s-insulation-signs-it-s-time.json) — schema
 - [`help/signs-your-home-needs-a-fresh-coat-of-interior-paint.json`](./help/signs-your-home-needs-a-fresh-coat-of-interior-paint.json) — schema
 - [`help/signs-your-whole-home-remodel-needs-professional-help.json`](./help/signs-your-whole-home-remodel-needs-professional-help.json) — schema
 - [`help/struggling-with-space-common-mistakes-in-planning-a-home-addition.json`](./help/struggling-with-space-common-mistakes-in-planning-a-home-addition.json) — schema
@@ -2074,6 +2109,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/what-s-the-process-for-a-custom-kitchen-design-and-build.json`](./help/what-s-the-process-for-a-custom-kitchen-design-and-build.json) — schema
 - [`help/what-s-the-process-for-a-professional-window-replacement.json`](./help/what-s-the-process-for-a-professional-window-replacement.json) — schema
 - [`help/what-s-the-process-for-getting-new-doors-installed.json`](./help/what-s-the-process-for-getting-new-doors-installed.json) — schema
+- [`help/what-to-ask-a-contractor-about-stucco-repair-quality.json`](./help/what-to-ask-a-contractor-about-stucco-repair-quality.json) — schema
 - [`help/what-to-avoid-during-your-whole-home-remodel.json`](./help/what-to-avoid-during-your-whole-home-remodel.json) — schema
 - [`help/what-to-consider-before-converting-your-garage-into-an-adu.json`](./help/what-to-consider-before-converting-your-garage-into-an-adu.json) — schema
 - [`help/what-to-consider-before-your-bathroom-remodel.json`](./help/what-to-consider-before-your-bathroom-remodel.json) — schema
@@ -2086,13 +2122,17 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/what-to-expect-during-a-full-roof-replacement.json`](./help/what-to-expect-during-a-full-roof-replacement.json) — schema
 - [`help/what-to-expect-during-a-major-home-renovation.json`](./help/what-to-expect-during-a-major-home-renovation.json) — schema
 - [`help/what-to-expect-during-a-major-roofing-project.json`](./help/what-to-expect-during-a-major-roofing-project.json) — schema
+- [`help/what-to-expect-during-a-professional-flooring-installation-project.json`](./help/what-to-expect-during-a-professional-flooring-installation-project.json) — schema
+- [`help/what-to-expect-during-a-professional-flooring-replacement-project.json`](./help/what-to-expect-during-a-professional-flooring-replacement-project.json) — schema
 - [`help/what-to-expect-during-a-roof-replacement-project.json`](./help/what-to-expect-during-a-roof-replacement-project.json) — schema
 - [`help/what-to-expect-during-the-adu-construction-process.json`](./help/what-to-expect-during-the-adu-construction-process.json) — schema
 - [`help/what-to-expect-during-your-adu-construction-project.json`](./help/what-to-expect-during-your-adu-construction-project.json) — schema
 - [`help/what-to-expect-during-your-custom-kitchen-renovation-project.json`](./help/what-to-expect-during-your-custom-kitchen-renovation-project.json) — schema
 - [`help/what-to-expect-during-your-garage-to-adu-project.json`](./help/what-to-expect-during-your-garage-to-adu-project.json) — schema
+- [`help/what-to-know-before-installing-new-insulation.json`](./help/what-to-know-before-installing-new-insulation.json) — schema
 - [`help/what-to-know-before-starting-interior-painting.json`](./help/what-to-know-before-starting-interior-painting.json) — schema
 - [`help/what-to-know-before-your-new-doors-are-installed.json`](./help/what-to-know-before-your-new-doors-are-installed.json) — schema
+- [`help/when-a-primary-suite-addition-needs-an-expert-eye.json`](./help/when-a-primary-suite-addition-needs-an-expert-eye.json) — schema
 - [`help/when-is-a-garage-conversion-an-adu-a-smart-move-for-your-home.json`](./help/when-is-a-garage-conversion-an-adu-a-smart-move-for-your-home.json) — schema
 - [`help/when-is-a-home-addition-the-right-move-for-you.json`](./help/when-is-a-home-addition-the-right-move-for-you.json) — schema
 - [`help/when-is-it-time-for-a-new-interior-paint-job.json`](./help/when-is-it-time-for-a-new-interior-paint-job.json) — schema
@@ -2102,6 +2142,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/when-is-it-time-to-replace-a-door.json`](./help/when-is-it-time-to-replace-a-door.json) — schema
 - [`help/when-is-it-time-to-update-your-kitchen.json`](./help/when-is-it-time-to-update-your-kitchen.json) — schema
 - [`help/when-is-new-home-construction-the-best-option-for-you.json`](./help/when-is-new-home-construction-the-best-option-for-you.json) — schema
+- [`help/when-is-the-best-time-for-exterior-house-painting-in-southern-california.json`](./help/when-is-the-best-time-for-exterior-house-painting-in-southern-california.json) — schema
 - [`help/when-is-the-right-time-for-a-custom-kitchen-renovation.json`](./help/when-is-the-right-time-for-a-custom-kitchen-renovation.json) — schema
 - [`help/when-is-the-right-time-for-a-whole-home-remodel.json`](./help/when-is-the-right-time-for-a-whole-home-remodel.json) — schema
 - [`help/when-is-the-right-time-to-add-onto-my-house.json`](./help/when-is-the-right-time-to-add-onto-my-house.json) — schema
@@ -2124,6 +2165,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/when-should-you-consider-replacing-your-windows.json`](./help/when-should-you-consider-replacing-your-windows.json) — schema
 - [`help/when-should-you-convert-your-garage-to-an-adu.json`](./help/when-should-you-convert-your-garage-to-an-adu.json) — schema
 - [`help/when-should-you-upgrade-your-bathroom.json`](./help/when-should-you-upgrade-your-bathroom.json) — schema
+- [`help/when-stucco-cracks-signal-a-bigger-problem.json`](./help/when-stucco-cracks-signal-a-bigger-problem.json) — schema
 - [`help/when-to-bring-in-a-pro-for-your-custom-home-renovation.json`](./help/when-to-bring-in-a-pro-for-your-custom-home-renovation.json) — schema
 - [`help/when-to-call-a-pro-for-window-replacement.json`](./help/when-to-call-a-pro-for-window-replacement.json) — schema
 - [`help/when-to-call-a-pro-for-your-bathroom-renovation.json`](./help/when-to-call-a-pro-for-your-bathroom-renovation.json) — schema
@@ -2133,8 +2175,11 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/when-to-call-for-window-replacement.json`](./help/when-to-call-for-window-replacement.json) — schema
 - [`help/when-to-consider-custom-home-renovations-over-standard-upgrades.json`](./help/when-to-consider-custom-home-renovations-over-standard-upgrades.json) — schema
 - [`help/when-to-consider-replacing-your-home-s-windows.json`](./help/when-to-consider-replacing-your-home-s-windows.json) — schema
+- [`help/when-to-replace-stucco-vs-just-repair-it.json`](./help/when-to-replace-stucco-vs-just-repair-it.json) — schema
+- [`help/when-to-replace-your-flooring-signs-you-need-an-upgrade.json`](./help/when-to-replace-your-flooring-signs-you-need-an-upgrade.json) — schema
 - [`help/whole-home-remodel-a-step-by-step-guide-to-transforming-your-space.json`](./help/whole-home-remodel-a-step-by-step-guide-to-transforming-your-space.json) — schema
 - [`help/why-are-my-doors-drafty.json`](./help/why-are-my-doors-drafty.json) — schema
+- [`help/why-are-my-energy-bills-so-high-understanding-insulation-issues.json`](./help/why-are-my-energy-bills-so-high-understanding-insulation-issues.json) — schema
 - [`help/why-are-my-energy-bills-so-high.json`](./help/why-are-my-energy-bills-so-high.json) — schema
 - [`help/why-are-my-new-windows-still-drafty.json`](./help/why-are-my-new-windows-still-drafty.json) — schema
 - [`help/why-are-my-windows-drafty.json`](./help/why-are-my-windows-drafty.json) — schema
@@ -2153,6 +2198,8 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/why-your-bathroom-remodel-might-be-taking-too-long.json`](./help/why-your-bathroom-remodel-might-be-taking-too-long.json) — schema
 - [`help/why-your-doors-might-need-replacing-sooner-than-you-think.json`](./help/why-your-doors-might-need-replacing-sooner-than-you-think.json) — schema
 - [`help/why-your-exterior-paint-job-might-not-last.json`](./help/why-your-exterior-paint-job-might-not-last.json) — schema
+- [`help/why-your-exterior-paint-job-needs-more-than-just-a-new-coat.json`](./help/why-your-exterior-paint-job-needs-more-than-just-a-new-coat.json) — schema
+- [`help/why-your-interior-paint-job-might-not-last-common-mistakes-to-avoid.json`](./help/why-your-interior-paint-job-might-not-last-common-mistakes-to-avoid.json) — schema
 - [`help/why-your-kitchen-remodel-might-be-over-budget.json`](./help/why-your-kitchen-remodel-might-be-over-budget.json) — schema
 - [`help/why-your-kitchen-renovation-costs-are-spiraling-out-of-control.json`](./help/why-your-kitchen-renovation-costs-are-spiraling-out-of-control.json) — schema
 - [`help/why-your-new-door-installation-might-be-lagging.json`](./help/why-your-new-door-installation-might-be-lagging.json) — schema
@@ -2160,6 +2207,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/worried-your-garage-conversion-won-t-meet-adu-standards.json`](./help/worried-your-garage-conversion-won-t-meet-adu-standards.json) — schema
 - [`help/worried-your-home-addition-won-t-blend-in.json`](./help/worried-your-home-addition-won-t-blend-in.json) — schema
 - [`help/your-bathroom-remodel-what-to-expect-from-start-to-finish.json`](./help/your-bathroom-remodel-what-to-expect-from-start-to-finish.json) — schema
+- [`help/your-room-addition-project-what-to-expect.json`](./help/your-room-addition-project-what-to-expect.json) — schema
 
 ### Public Pages (15)
 - [`about.html`](./about.html) — LLM-optimized public page
