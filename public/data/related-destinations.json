@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-29T23:25:04.160Z",
+  "generatedAt": "2026-09-29T23:25:34.471Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -36,13 +36,13 @@
       "role": "mirror-pages",
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.github.io/affordable-home-remodeling-ai-schemas-pp16/ai-data.html"
+      "url": "http://affordablehomeremodeling.aiovisibility.net/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/affordable-home-remodeling-ai-schemas-pp16",
-      "pagesUrl": "https://aiovisibilityhub.github.io/affordable-home-remodeling-ai-schemas-pp16/",
+      "pagesUrl": "http://affordablehomeremodeling.aiovisibility.net/",
       "repo": "AIOVisibilityHub/affordable-home-remodeling-ai-schemas-pp16"
     }
   }
