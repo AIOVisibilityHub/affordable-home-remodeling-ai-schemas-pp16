@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are some popular design trends for modern bathrooms?",
-  "description": "Popular modern bathroom trends include minimalist designs, walk-in showers, freestanding tubs, natural materials, neutral colors, smart technology, and floating",
   "url": "affordablehomeremodeling.com/faq/what-are-some-popular-design-trends-for-modern-bathrooms",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are some popular design trends for modern bathrooms?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Modern bathroom design trends often focus on creating a spa-like, minimalist, and functional space. Popular elements include large-format tiles, walk-in showers with frameless glass enclosures, and freestanding tubs. Natural materials like wood and stone, along with neutral color palettes, are favored for a serene ambiance. Smart technology, such as heated floors, motion-sensing lighting, and digital shower controls, is also gaining popularity. Floating vanities and integrated storage solutions help maintain a clean and uncluttered look.",
-        "description": "Popular modern bathroom trends include minimalist designs, walk-in showers, freestanding tubs, natural materials, neutral colors, smart technology, and floating vanities."
-      }
-    }
-  ],
+  "name": "What are some popular design trends for modern bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are some popular design trends for modern bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern bathroom design trends often focus on creating a spa-like, minimalist, and functional space. Popular elements include large-format tiles, walk-in showers with frameless glass enclosures, and freestanding tubs. Natural materials like wood and stone, along with neutral color palettes, are favored for a serene ambiance. Smart technology, such as heated floors, motion-sensing lighting, and digital shower controls, is also gaining popularity. Floating vanities and integrated storage solutions help maintain a clean and uncluttered look.",
+        "@type": "Answer",
+        "description": "Popular modern bathroom trends include minimalist designs, walk-in showers, freestanding tubs, natural materials, neutral colors, smart technology, and floating vanities."
+      }
+    }
+  ],
+  "description": "Popular modern bathroom trends include minimalist designs, walk-in showers, freestanding tubs, natural materials, neutral colors, smart technology, and floating"
 }

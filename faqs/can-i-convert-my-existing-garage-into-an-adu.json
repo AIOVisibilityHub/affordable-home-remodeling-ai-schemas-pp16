@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Can I convert my existing garage into an ADU?",
-  "description": "Yes, garage conversions are a popular ADU option, involving insulation, utilities, and interior finishes to create a habitable space, provided the existing stru",
   "url": "affordablehomeremodeling.com/faq/can-i-convert-my-existing-garage-into-an-adu",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can I convert my existing garage into an ADU?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Yes, converting an existing garage into an ADU is a popular and often more affordable option. This typically involves insulating, adding windows and doors, updating electrical and plumbing, and finishing the interior to create a habitable living space. The foundation and structure of the garage must be sound and meet current building codes. A site assessment helps determine feasibility and necessary upgrades.",
-        "description": "Yes, garage conversions are a popular ADU option, involving insulation, utilities, and interior finishes to create a habitable space, provided the existing structure is sound."
-      }
-    }
-  ],
+  "name": "Can I convert my existing garage into an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my existing garage into an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting an existing garage into an ADU is a popular and often more affordable option. This typically involves insulating, adding windows and doors, updating electrical and plumbing, and finishing the interior to create a habitable living space. The foundation and structure of the garage must be sound and meet current building codes. A site assessment helps determine feasibility and necessary upgrades.",
+        "@type": "Answer",
+        "description": "Yes, garage conversions are a popular ADU option, involving insulation, utilities, and interior finishes to create a habitable space, provided the existing structure is sound."
+      }
+    }
+  ],
+  "description": "Yes, garage conversions are a popular ADU option, involving insulation, utilities, and interior finishes to create a habitable space, provided the existing stru"
 }

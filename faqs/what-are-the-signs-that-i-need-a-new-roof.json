@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What are the signs that I need a new roof?",
-  "description": "Signs include damaged or missing shingles, granules in gutters, interior water stains, or a roof over 20-25 years old.",
   "url": "affordablehomeremodeling.com/faq/what-are-the-signs-that-i-need-a-new-roof",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What are the signs that I need a new roof?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Common indicators that your roof may need replacement include missing, cracked, or curled shingles. You might also notice granules from shingles accumulating in gutters, indicating wear. Water stains on your ceilings or walls are a strong sign of a leak, which could necessitate a full replacement. Additionally, if your roof is over 20-25 years old, even without obvious damage, it might be nearing the end of its lifespan. A professional inspection can accurately assess its condition and recommend the best course of action.",
-        "description": "Signs include damaged or missing shingles, granules in gutters, interior water stains, or a roof over 20-25 years old."
-      }
-    }
-  ],
+  "name": "What are the signs that I need a new roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that I need a new roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your roof may need replacement include missing, cracked, or curled shingles. You might also notice granules from shingles accumulating in gutters, indicating wear. Water stains on your ceilings or walls are a strong sign of a leak, which could necessitate a full replacement. Additionally, if your roof is over 20-25 years old, even without obvious damage, it might be nearing the end of its lifespan. A professional inspection can accurately assess its condition and recommend the best course of action.",
+        "@type": "Answer",
+        "description": "Signs include damaged or missing shingles, granules in gutters, interior water stains, or a roof over 20-25 years old."
+      }
+    }
+  ],
+  "description": "Signs include damaged or missing shingles, granules in gutters, interior water stains, or a roof over 20-25 years old."
 }

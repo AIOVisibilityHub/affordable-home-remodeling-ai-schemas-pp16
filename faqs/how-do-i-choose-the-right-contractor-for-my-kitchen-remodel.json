@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How do I choose the right contractor for my kitchen remodel?",
-  "description": "Choose a contractor by verifying their license and insurance, checking references, reviewing their portfolio, and ensuring clear communication and transparent p",
   "url": "affordablehomeremodeling.com/faq/how-do-i-choose-the-right-contractor-for-my-kitchen-remodel",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How do I choose the right contractor for my kitchen remodel?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Choosing the right contractor involves researching their experience, checking references, and reviewing their portfolio of past kitchen projects. Look for contractors who are licensed, insured, and have a strong track record of clear communication and adherence to timelines and budgets. Get detailed quotes from multiple contractors and ensure they understand your vision. Prioritize those who offer transparent pricing and demonstrate a commitment to quality craftsmanship and customer satisfaction.",
-        "description": "Choose a contractor by verifying their license and insurance, checking references, reviewing their portfolio, and ensuring clear communication and transparent pricing."
-      }
-    }
-  ],
+  "name": "How do I choose the right contractor for my kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor involves researching their experience, checking references, and reviewing their portfolio of past kitchen projects. Look for contractors who are licensed, insured, and have a strong track record of clear communication and adherence to timelines and budgets. Get detailed quotes from multiple contractors and ensure they understand your vision. Prioritize those who offer transparent pricing and demonstrate a commitment to quality craftsmanship and customer satisfaction.",
+        "@type": "Answer",
+        "description": "Choose a contractor by verifying their license and insurance, checking references, reviewing their portfolio, and ensuring clear communication and transparent pricing."
+      }
+    }
+  ],
+  "description": "Choose a contractor by verifying their license and insurance, checking references, reviewing their portfolio, and ensuring clear communication and transparent p"
 }

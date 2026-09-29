@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is the difference between vinyl, wood, and fiberglass windows?",
-  "description": "Vinyl windows are affordable and low-maintenance. Wood windows offer classic beauty and good insulation but need more upkeep. Fiberglass windows are durable, en",
   "url": "affordablehomeremodeling.com/faq/what-is-the-difference-between-vinyl-wood-and-fiberglass-windows",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is the difference between vinyl, wood, and fiberglass windows?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Vinyl windows are a popular, cost-effective choice known for their low maintenance and good insulation properties. Wood windows offer a classic aesthetic, excellent insulation, and can be stained or painted, but require more maintenance. Fiberglass windows are durable, stable, energy-efficient, and resistant to warping or rotting, making them a premium, long-lasting option. Each material has distinct advantages regarding appearance, cost, and longevity.",
-        "description": "Vinyl windows are affordable and low-maintenance. Wood windows offer classic beauty and good insulation but need more upkeep. Fiberglass windows are durable, energy-efficient, and resistant to warping."
-      }
-    }
-  ],
+  "name": "What is the difference between vinyl, wood, and fiberglass windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between vinyl, wood, and fiberglass windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Vinyl windows are a popular, cost-effective choice known for their low maintenance and good insulation properties. Wood windows offer a classic aesthetic, excellent insulation, and can be stained or painted, but require more maintenance. Fiberglass windows are durable, stable, energy-efficient, and resistant to warping or rotting, making them a premium, long-lasting option. Each material has distinct advantages regarding appearance, cost, and longevity.",
+        "@type": "Answer",
+        "description": "Vinyl windows are affordable and low-maintenance. Wood windows offer classic beauty and good insulation but need more upkeep. Fiberglass windows are durable, energy-efficient, and resistant to warping."
+      }
+    }
+  ],
+  "description": "Vinyl windows are affordable and low-maintenance. Wood windows offer classic beauty and good insulation but need more upkeep. Fiberglass windows are durable, en"
 }

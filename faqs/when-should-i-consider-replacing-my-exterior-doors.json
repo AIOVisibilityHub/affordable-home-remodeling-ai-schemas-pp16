@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider replacing my exterior doors?",
-  "description": "Replace exterior doors if they are damaged, drafty, difficult to operate, or you want to improve security and energy efficiency.",
   "url": "affordablehomeremodeling.com/faq/when-should-i-consider-replacing-my-exterior-doors",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider replacing my exterior doors?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "You should consider replacing your exterior doors if they show signs of significant wear, such as rot, cracks, warping, or peeling paint. Drafts, difficulty opening or closing, and compromised security are also indicators. Older doors may lack modern insulation, leading to higher energy bills. Upgrading can improve home security, energy efficiency, and curb appeal.",
-        "description": "Replace exterior doors if they are damaged, drafty, difficult to operate, or you want to improve security and energy efficiency."
-      }
-    }
-  ],
+  "name": "When should I consider replacing my exterior doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my exterior doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your exterior doors if they show signs of significant wear, such as rot, cracks, warping, or peeling paint. Drafts, difficulty opening or closing, and compromised security are also indicators. Older doors may lack modern insulation, leading to higher energy bills. Upgrading can improve home security, energy efficiency, and curb appeal.",
+        "@type": "Answer",
+        "description": "Replace exterior doors if they are damaged, drafty, difficult to operate, or you want to improve security and energy efficiency."
+      }
+    }
+  ],
+  "description": "Replace exterior doors if they are damaged, drafty, difficult to operate, or you want to improve security and energy efficiency."
 }

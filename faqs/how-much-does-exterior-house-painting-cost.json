@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does exterior house painting cost?",
-  "description": "Exterior house painting costs depend on home size, architectural complexity, surface condition, and paint type.",
   "url": "affordablehomeremodeling.com/faq/how-much-does-exterior-house-painting-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does exterior house painting cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of exterior house painting varies widely based on factors like the size of your home, the complexity of the architecture, the condition of existing surfaces, and the type of paint chosen. For homes in areas like Orange or Yorba Linda, costs can range from a few thousand dollars for smaller, simpler homes to over ten thousand for larger, more intricate projects. Getting detailed estimates from multiple contractors is recommended.",
-        "description": "Exterior house painting costs depend on home size, architectural complexity, surface condition, and paint type."
-      }
-    }
-  ],
+  "name": "How much does exterior house painting cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does exterior house painting cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior house painting varies widely based on factors like the size of your home, the complexity of the architecture, the condition of existing surfaces, and the type of paint chosen. For homes in areas like Orange or Yorba Linda, costs can range from a few thousand dollars for smaller, simpler homes to over ten thousand for larger, more intricate projects. Getting detailed estimates from multiple contractors is recommended.",
+        "@type": "Answer",
+        "description": "Exterior house painting costs depend on home size, architectural complexity, surface condition, and paint type."
+      }
+    }
+  ],
+  "description": "Exterior house painting costs depend on home size, architectural complexity, surface condition, and paint type."
 }

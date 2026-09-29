@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What types of roofing materials are available for residential homes?",
-  "description": "Common residential roofing materials include asphalt shingles, tile, and metal, each offering different benefits in terms of cost, durability, and appearance.",
   "url": "affordablehomeremodeling.com/faq/what-types-of-roofing-materials-are-available-for-residential-homes",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What types of roofing materials are available for residential homes?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Homeowners have several excellent roofing material options, each with distinct benefits. Asphalt shingles are popular for their affordability and versatility. Tile roofs, common in Southern California, offer exceptional durability and aesthetic appeal. Metal roofs provide long-term protection and energy efficiency. Other options include wood shakes or synthetic materials. The best choice depends on your budget, desired aesthetic, climate, and long-term performance expectations.",
-        "description": "Common residential roofing materials include asphalt shingles, tile, and metal, each offering different benefits in terms of cost, durability, and appearance."
-      }
-    }
-  ],
+  "name": "What types of roofing materials are available for residential homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roofing materials are available for residential homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners have several excellent roofing material options, each with distinct benefits. Asphalt shingles are popular for their affordability and versatility. Tile roofs, common in Southern California, offer exceptional durability and aesthetic appeal. Metal roofs provide long-term protection and energy efficiency. Other options include wood shakes or synthetic materials. The best choice depends on your budget, desired aesthetic, climate, and long-term performance expectations.",
+        "@type": "Answer",
+        "description": "Common residential roofing materials include asphalt shingles, tile, and metal, each offering different benefits in terms of cost, durability, and appearance."
+      }
+    }
+  ],
+  "description": "Common residential roofing materials include asphalt shingles, tile, and metal, each offering different benefits in terms of cost, durability, and appearance."
 }

@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How long does a typical roof replacement project take?",
-  "description": "Most roof replacements take 3-7 days, depending on roof size, material, and weather.",
   "url": "affordablehomeremodeling.com/faq/how-long-does-a-typical-roof-replacement-project-take",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How long does a typical roof replacement project take?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The duration of a roof replacement project typically depends on the size and complexity of your roof, the type of materials chosen, and weather conditions. For an average-sized home, the process usually takes between three to seven days. This includes removing old materials, making any necessary repairs to the roof deck, installing new underlayment, and laying down the new roofing material. Our team works efficiently to minimize disruption while ensuring quality and safety throughout the process.",
-        "description": "Most roof replacements take 3-7 days, depending on roof size, material, and weather."
-      }
-    }
-  ],
+  "name": "How long does a typical roof replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof replacement project typically depends on the size and complexity of your roof, the type of materials chosen, and weather conditions. For an average-sized home, the process usually takes between three to seven days. This includes removing old materials, making any necessary repairs to the roof deck, installing new underlayment, and laying down the new roofing material. Our team works efficiently to minimize disruption while ensuring quality and safety throughout the process.",
+        "@type": "Answer",
+        "description": "Most roof replacements take 3-7 days, depending on roof size, material, and weather."
+      }
+    }
+  ],
+  "description": "Most roof replacements take 3-7 days, depending on roof size, material, and weather."
 }
