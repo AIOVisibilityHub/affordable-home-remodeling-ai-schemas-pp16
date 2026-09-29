@@ -1,0 +1,142 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "ADU Design: Why Your Project Might Get Stuck in Permitting",
+  "publisher": {
+    "url": "affordablehomeremodeling.com",
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about adding an ADU to your property? It's a fantastic way to boost value and create extra space, but navigating the permitting process can feel like a maze. One of the biggest reasons ADU projects get delayed or stuck is submitting incomplete plans. Each local jurisdiction has its own specific requirements for height, setbacks, unit size, and lot coverage, and if your initial submission is missing critical details or doesn't meet those standards, you're looking at significant holdups.\n\nThen there's the challenge of understanding site constraints and utility capacities. Many homeowners overlook whether their existing electrical, water, or sewer lines can handle an additional unit, or if the property's grading might complicate construction. These aren't just minor details; they can require substantial re-designs or costly infrastructure upgrades, adding both time and expense to your project. It’s also a common mistake to assume state rules eliminate all local requirements. While California law streamlines some aspects, local agencies still have a say in specifics, like architectural review or parking. Starting work before permits are issued is another major red flag, potentially leading to fines and forced demolition.\n\n**Common Mistakes to Avoid**\n\n- Submitting incomplete plans: Make sure every detail, from setbacks to utility connections, is clearly outlined and compliant with local and state regulations.\n- Overlooking site constraints: Get a thorough assessment of your property's unique challenges, like slopes, drainage, or existing utility lines, early in the process.\n- Ignoring local requirements: Even with state-level ADU streamlining, local zoning and design standards still apply and need to be met.\n- Starting work prematurely: Always wait for your permits to be officially issued before any construction begins to avoid penalties.\n- Changing plans mid-stream: Any modifications to materials or layouts after approval require new revisions and can cause significant delays.\n\nUnderstanding these potential pitfalls upfront can save you a lot of headaches and keep your ADU project on track. When you're ready to get started, having an experienced team who knows the local permitting agencies inside and out can make all the difference. Ready to discuss your ADU project? Reach out to us for a consultation.",
+  "datePublished": "2026-09-29"
+}

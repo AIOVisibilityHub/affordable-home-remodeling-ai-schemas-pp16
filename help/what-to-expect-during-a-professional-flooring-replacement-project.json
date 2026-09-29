@@ -1,0 +1,171 @@
+{
+  "name": "What to Expect During a Professional Flooring Replacement Project",
+  "step": [
+    {
+      "name": "Step 1: Damage Assessment and Scope Definition",
+      "text": "First, we'll thoroughly assess the existing flooring and subfloor to pinpoint the cause and extent of any damage. This helps us determine if repairs are feasible or if full replacement is the best option, and clearly define the project's scope.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Removal of Existing Flooring",
+      "text": "Next, the old flooring is carefully removed. This step can generate dust and debris, so we take precautions to minimize impact on your living space. We also handle the proper disposal of the removed materials.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Subfloor Inspection, Repair, and Remediation",
+      "text": "This is a critical phase. With the old flooring gone, we inspect the subfloor and joists for any damage, moisture, or structural issues. We'll correct any leaks or moisture sources, repair or replace damaged substrate sections, and ensure the surface is clean, dry, and level for the new installation.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Product Acclimation (if applicable)",
+      "text": "For certain flooring types, especially those made of wood, the materials need to acclimate to your home's indoor environment. This helps prevent future issues like warping or gapping. We'll ensure the product is acclimated for the manufacturer's recommended time, usually at least 48 hours.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: New Flooring Installation",
+      "text": "Once the subfloor is perfectly prepared and the new materials are acclimated, our skilled installers will meticulously lay your chosen flooring. We follow all manufacturer guidelines and best practices to ensure a flawless, long-lasting finish.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Finishing Touches and Site Cleanup",
+      "text": "Finally, we install any necessary trim, baseboards, or transitions to create a seamless look. We then conduct a thorough cleanup of the work area, leaving you with a beautiful, refreshed space ready for immediate enjoyment. What to Do Next Ready to get started with a professional flooring replacement? Contact Affordable Home Remodeling today to discuss your needs and schedule a consultation.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "First, we'll thoroughly assess the existing flooring and subfloor to pinpoint the cause and extent of any damage. This helps us determine if repairs are feasible or if full replacement is the best opt"
+}

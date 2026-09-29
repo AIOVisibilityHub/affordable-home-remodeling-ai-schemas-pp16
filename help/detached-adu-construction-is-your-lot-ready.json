@@ -1,0 +1,142 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Detached ADU Construction: Is Your Lot Ready?",
+  "publisher": {
+    "url": "affordablehomeremodeling.com",
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Building a detached Accessory Dwelling Unit (ADU) can be an excellent investment or provide much-needed space, but it’s not always a straightforward process. Before you get too excited about floor plans, it’s crucial to figure out if your property is actually suitable for one. Many homeowners jump the gun on design only to find out their lot has restrictions they weren't aware of.\n\nThe very first step is verifying your zoning and site eligibility. Not every property can host an ADU, and local regulations in places like Cerritos, Orange, or Pasadena can vary significantly. You'll need to understand rules around property lines, easements, existing utilities, and access points. Sometimes, you might even need a survey to accurately map these constraints. Will your existing water, sewer, electrical, and stormwater systems handle the additional load, or will new or upgraded connections be necessary? This is a huge factor because utility planning is an early feasibility issue that can trigger separate permits, inspections, and significant costs. Don't forget about specific requirements for setbacks, height, maximum size, parking, fire separation, and even occupancy rules that differ by jurisdiction.\n\nQuestions to Ask Before You Decide\n1. Is a detached ADU explicitly allowed on my specific lot zoning? What are the local regulations regarding its use (e.g., rental restrictions)?\n2. What are the exact setback requirements from all property lines and the primary residence?\n3. Can my existing utility connections (water, sewer, electrical, gas) support an additional dwelling, or will I need costly upgrades or new meters?\n4. Are there any easements on my property (e.g., utility, access) that would restrict the ADU’s placement or size?\n5. What are the maximum height and square footage allowed for a detached ADU on my lot?\n\nAffordable Home Remodeling has strong local knowledge of ADU regulations and can help assess your property's readiness. Contact us to start your project off right.",
+  "datePublished": "2026-09-29"
+}

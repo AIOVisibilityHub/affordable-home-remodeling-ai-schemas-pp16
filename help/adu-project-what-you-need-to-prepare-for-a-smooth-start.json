@@ -1,0 +1,142 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "ADU Project: What You Need to Prepare for a Smooth Start",
+  "publisher": {
+    "url": "affordablehomeremodeling.com",
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Embarking on an ADU project is an exciting venture, but a smooth start often boils down to thorough preparation. Before you even think about breaking ground, there are several key pieces of information you'll want to have ready. Understanding the specifics of your property is paramount. Do you know your lot's dimensions, existing setbacks, and any easements? These details directly influence what size and placement of an ADU are even feasible. Having a current survey of your property is incredibly helpful here, as it provides a clear picture of your boundaries and any topographical features.\n\nNext, consider your existing utilities. A big question for ADU builds is how the new unit will connect to water, sewer, and electrical systems. Knowing the capacity of your current service and the location of your main lines can give a contractor a head start on planning. It's not uncommon for ADUs to require upgrades to these systems, so having an idea of your current setup can inform initial discussions. Also, think about your specific goals for the ADU – is it for rental income, an aging parent, or a home office? Your intended use will guide design choices and help ensure the unit meets your long-term needs.\n\n**What to Prepare Before You Start**\n\n- **Property Information:** Gather your property deed, any existing surveys, and details on current setbacks and easements. This helps determine eligible ADU size and placement.\n- **Utility Assessment:** Understand your existing water, sewer, and electrical service capacity and locations. This informs potential connection complexities and upgrade needs.\n- **Clear Project Goals:** Define the primary purpose of your ADU (e.g., rental, family housing, home office) to guide design decisions and ensure it meets your long-term vision.\n- **Preliminary Budget Ideas:** Have a rough idea of your financial comfort zone. This helps contractors suggest appropriate designs, materials, and scopes that align with your investment.\n- **Inspiration & Preferences:** Collect images or ideas of ADUs, layouts, or finishes you like. This communicates your aesthetic and functional preferences to the design team.\n- **Questions for Your Contractor:** Prepare a list of questions regarding their ADU experience, local permitting knowledge, and process for design, budgeting, and construction.\n- **Accessibility Needs:** If the ADU is for an aging parent or someone with mobility challenges, document any specific accessibility requirements from the outset.\n\nGetting these items in order helps streamline the consultation process and ensures your contractor can provide the most accurate and helpful guidance. It sets the stage for a well-planned and executed project. Ready to take the next step? Reach out to us to schedule your consultation.",
+  "datePublished": "2026-09-29"
+}

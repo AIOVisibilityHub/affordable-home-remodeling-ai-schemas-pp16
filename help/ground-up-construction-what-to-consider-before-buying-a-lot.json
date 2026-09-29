@@ -1,0 +1,142 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Ground-Up Construction: What to Consider Before Buying a Lot",
+  "publisher": {
+    "url": "affordablehomeremodeling.com",
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dreaming of building your perfect home from the ground up? It's an exciting journey, but the success often hinges on the lot you choose. One of the biggest mistakes people make is buying a piece of land without confirming if it's actually buildable. You might love the view, but if local zoning prohibits residential construction, or if access to essential utilities like water, sewer, and electricity isn't available or prohibitively expensive, that dream lot can quickly become a nightmare. A thorough feasibility investigation, including looking into zoning, utility access, and any environmental constraints, is absolutely critical before you commit.\n\nThen there's the question of site conditions. Slopes, unstable or expansive soils, or areas prone to drainage issues or flooding can dramatically increase your construction costs and timeline. This is where professional help really shines; a geotechnical consultant or an experienced general contractor can assess these factors upfront, saving you from unexpected expenses down the road. Another often-underestimated cost is permitting. Beyond the purchase price of the land, you’ll have fees for surveys, engineering, and various permits that can add up quickly. Each jurisdiction has its own unique requirements, and what applies in Huntington Beach might be different in Pasadena.\n\n**What You Need to Prepare Before You Start**\n\n- **Zoning and Land Use Research:** Before making an offer, verify the lot's zoning designation and permitted uses. Does it allow for single-family residential? Are there any height restrictions or setback requirements?\n- **Utility Access Confirmation:** Investigate the availability and cost of connecting to public water, sewer, electrical, and gas lines. If these aren't nearby, consider the expense and feasibility of well and septic systems or extending lines.\n- **Site Assessment:** Look for potential challenges like steep slopes, rock formations, mature trees you want to keep, or wetlands. Consider a preliminary survey or a visit from a contractor or engineer.\n- **Geotechnical Report:** For lots with uncertain soil conditions, a geotechnical study can identify issues like expansive soils or a high water table, which will impact foundation design and cost.\n- **Permitting Cost Estimate:** Research the likely permit fees, impact fees, and any specific local requirements that could affect your budget. Don’t forget about potential environmental reviews.\n\nGetting these ducks in a row early on can prevent significant headaches and unexpected costs. A well-prepared approach sets the foundation for a smoother ground-up build. Ready to explore your options? Contact us to discuss your project.",
+  "datePublished": "2026-09-29"
+}

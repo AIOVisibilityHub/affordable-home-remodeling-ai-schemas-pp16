@@ -1,0 +1,199 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Protecting Your Home: A Checklist for Exterior Paint Preparation",
+  "publisher": {
+    "url": "affordablehomeremodeling.com",
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Protecting Your Home: A Checklist for Exterior Paint Preparation",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Inspect siding and trim thoroughly — why: Catching issues like loose caulk, wood rot, or damage now allows…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Inspect siding and trim thoroughly — why: Catching issues like loose caulk, wood rot, or damage now allows for repairs before painting, preventing future problems from showing through."
+      },
+      {
+        "name": "Wash away all dirt, mildew, and chalking — why: Paint won't stick well to a dirty or compromised surface; a…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Wash away all dirt, mildew, and chalking — why: Paint won't stick well to a dirty or compromised surface; a clean base ensures proper adhesion and a smooth finish."
+      },
+      {
+        "name": "Allow the surface to dry completely — why: Painting damp siding can trap moisture, leading to peeling, blis…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Allow the surface to dry completely — why: Painting damp siding can trap moisture, leading to peeling, blistering, and mildew growth under the new paint."
+      },
+      {
+        "name": "Scrape loose or peeling paint — why: Old, flaking paint will cause new paint to fail prematurely; a smooth,…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Scrape loose or peeling paint — why: Old, flaking paint will cause new paint to fail prematurely; a smooth, stable surface is crucial for longevity."
+      },
+      {
+        "name": "Repair cracks and holes — why: Filling imperfections like nail holes, cracks, and gaps in siding improves a…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Repair cracks and holes — why: Filling imperfections like nail holes, cracks, and gaps in siding improves aesthetics and prevents water intrusion."
+      },
+      {
+        "name": "Sand rough edges and glossy areas — why: Sanding creates a better profile for the new paint to grip, especi…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Sand rough edges and glossy areas — why: Sanding creates a better profile for the new paint to grip, especially on weathered wood or glossy finishes, promoting better adhesion."
+      },
+      {
+        "name": "Mask off windows, doors, and fixtures — why: Protecting areas you don't want painted ensures crisp lines an…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Mask off windows, doors, and fixtures — why: Protecting areas you don't want painted ensures crisp lines and saves hours of tedious cleanup."
+      },
+      {
+        "name": "Prime bare wood or repaired areas — why: Primer creates an even, consistent surface for the topcoat, improv…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Prime bare wood or repaired areas — why: Primer creates an even, consistent surface for the topcoat, improves adhesion, and helps seal any repairs or bare spots."
+      }
+    ]
+  },
+  "articleBody": "Getting ready to paint your home's exterior is a big project, and a successful, long-lasting result hinges on thorough preparation. You might be eager to see that new color on your walls, but taking the time to properly prep the surface can save you a lot of headaches and extra costs down the road. Skipping steps now means your paint job won't look as good or last as long, leaving your home vulnerable to the elements. Let’s walk through a checklist to ensure your home is perfectly primed for its new coat!\n\n- [ ] Inspect siding and trim thoroughly — why: Catching issues like loose caulk, wood rot, or damage now allows for repairs before painting, preventing future problems from showing through.\n- [ ] Wash away all dirt, mildew, and chalking — why: Paint won't stick well to a dirty or compromised surface; a clean base ensures proper adhesion and a smooth finish.\n- [ ] Allow the surface to dry completely — why: Painting damp siding can trap moisture, leading to peeling, blistering, and mildew growth under the new paint.\n- [ ] Scrape loose or peeling paint — why: Old, flaking paint will cause new paint to fail prematurely; a smooth, stable surface is crucial for longevity.\n- [ ] Repair cracks and holes — why: Filling imperfections like nail holes, cracks, and gaps in siding improves aesthetics and prevents water intrusion.\n- [ ] Sand rough edges and glossy areas — why: Sanding creates a better profile for the new paint to grip, especially on weathered wood or glossy finishes, promoting better adhesion.\n- [ ] Mask off windows, doors, and fixtures — why: Protecting areas you don't want painted ensures crisp lines and saves hours of tedious cleanup.\n- [ ] Prime bare wood or repaired areas — why: Primer creates an even, consistent surface for the topcoat, improves adhesion, and helps seal any repairs or bare spots.\n\nHow to use this checklist: Go through each item systematically before painting begins. If you encounter extensive wood rot, multi-story work, or suspect lead-based paint in a home built before 1978, it’s definitely time to consider bringing in a professional general contractor like Affordable Home Remodeling. They have the expertise, equipment, and safety protocols to handle complex preparation and painting challenges, ensuring a high-quality and safe outcome for your home.",
+  "datePublished": "2026-09-29"
+}

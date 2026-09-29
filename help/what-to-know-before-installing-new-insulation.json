@@ -1,0 +1,142 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Know Before Installing New Insulation",
+  "publisher": {
+    "url": "affordablehomeremodeling.com",
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Installing new insulation can dramatically improve your home's comfort and energy efficiency, but there are a few key things to understand before you dive in. It's not just about rolling out some batts; a successful project involves careful preparation and attention to detail. Getting it right means long-term benefits, while mistakes can lead to ongoing problems and wasted money.\n\nFirst off, don't just add new insulation over existing issues. A critical step is inspecting your attic or crawl space for water, moisture, structural damage, pests, or ventilation problems. Any of these underlying issues must be fixed *before* insulation goes in. You don't want to trap moisture or cover up a pest infestation. Also, pay attention to air sealing. This is a huge one! Sealing gaps around top plates, wiring, plumbing, ducts, and light fixtures is crucial for preventing air leaks, which are major energy culprits. ENERGY STAR guidance even stresses sealing these bypasses before adding insulation. Without proper air sealing, new insulation won't perform as well.\n\nCommon Mistakes to Avoid:\n- **Installing insulation before air sealing:** This is a big one. Air leaks can undermine even the best insulation. Ensure all gaps and penetrations are sealed first.\n- **Blocking soffit or ridge ventilation:** Proper airflow in your attic is vital to prevent moisture buildup and heat issues. Insulation must not obstruct these vents.\n- **Covering non-rated recessed lights:** Recessed lighting fixtures can generate heat. If they aren't rated for insulation contact (IC-rated), covering them creates a fire hazard.\n- **Leaving gaps or compressing insulation:** Insulation works by trapping air. Gaps allow heat to escape, and compressing it reduces its R-value, making it less effective.\n- **Proceeding without correcting leaks or moisture problems:** This is a recipe for mold, rot, and further damage. Fix these issues proactively.\n\nWhat to Expect During the Process:\nWhen you work with professionals like Affordable Home Remodeling, the process typically starts with a thorough inspection. They'll assess existing conditions, identify air leaks, and check for any necessary repairs. After fixing issues and performing air sealing, the new insulation will be installed to manufacturer specifications, ensuring even coverage and proper clearances for ventilation and light fixtures. This meticulous approach ensures your investment pays off in comfort and energy savings. The team will also ensure safety protocols are followed, especially in challenging environments like hot attics. We serve homeowners across Southern California, including areas like Huntington Beach, Irvine, and Glendale.\n\nReady to upgrade your home's efficiency? Contact Affordable Home Remodeling for an expert assessment and seamless insulation installation.",
+  "datePublished": "2026-09-29"
+}

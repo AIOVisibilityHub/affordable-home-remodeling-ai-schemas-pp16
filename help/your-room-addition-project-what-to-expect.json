@@ -1,0 +1,171 @@
+{
+  "name": "Your Room Addition Project: What to Expect",
+  "step": [
+    {
+      "name": "Step 1: Initial Design & Scope Definition (1-2 weeks): We'll sit down to un…",
+      "text": "Initial Design & Scope Definition (1-2 weeks): We'll sit down to understand your needs, ideas, and what you're hoping to achieve with the new space. This is where your vision starts to take shape.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Feasibility & Planning (2-4 weeks): We'll assess zoning, site condi…",
+      "text": "Feasibility & Planning (2-4 weeks): We'll assess zoning, site conditions, and how the addition integrates with your home's existing structure and utilities. This step helps iron out any potential challenges early on.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Drawing & Engineering (4-8 weeks): This is where detailed architect…",
+      "text": "Drawing & Engineering (4-8 weeks): This is where detailed architectural, structural, and trade drawings are created. An architect or structural engineer might get involved if your project is complex, especially if load-bearing elements are changing.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Permit Acquisition (4-16 weeks): We submit the plans and manage the…",
+      "text": "Permit Acquisition (4-16 weeks): We submit the plans and manage the permit review process with local building departments. This timeframe can vary quite a bit depending on your specific jurisdiction's workload and any plan-review comments we might need to address.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Construction (Months, varies by scope): Once permits are approved,…",
+      "text": "Construction (Months, varies by scope): Once permits are approved, the real building begins, from foundation to finishes. This phase involves various trades and consistent progress.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Inspections & Walkthrough: The last step before you enjoy you…",
+      "text": "Final Inspections & Walkthrough: The last step before you enjoy your new space, ensuring everything is up to code and exactly what you envisioned.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Initial Design & Scope Definition (1-2 weeks): We'll sit down to understand your needs, ideas, and what you're hoping to achieve with the new space. This is where your vision starts to take shape."
+}

@@ -1,0 +1,177 @@
+{
+  "name": "How to Plan for Extensive Stucco Replacement",
+  "step": [
+    {
+      "name": "Step 1: Assess the True Extent of Damage — Start by thoroughly evaluating the existing stucco. This isn't just about what you see on the surface; it involves professional inspection to check for hidden issues like moisture intrusion, rot in the sheathing or framing, or compromised weather barriers. You should know if the damage is widespread enough to warrant full replacement versus targeted repairs. This step often requires a contractor to perform visual reviews, moisture mapping, or even small, selective openings to get a clear picture of what's going on behind the stucco. This initial diagnostic work is critical for an accurate scope and budget.",
+      "text": "Step 1: Assess the True Extent of Damage — Start by thoroughly evaluating the existing stucco. This isn't just about what you see on the surface; it involves professional inspection to check for hidden issues like moisture intrusion, rot in the sheathing or framing, or compromised weather barriers. You should know if the damage is widespread enough to warrant full replacement versus targeted repairs. This step often requires a contractor to perform visual reviews, moisture mapping, or even small, selective openings to get a clear picture of what's going on behind the stucco. This initial diagnostic work is critical for an accurate scope and budget.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Define the Scope of Work and System Type — Once you understand the damage, work with your contractor to clearly define what needs to be replaced. This includes identifying the type of stucco system to be installed (e.g., traditional three-coat cement stucco), the layers involved (scratch coat, brown coat, finish coat), and any necessary substrate repairs like replacing damaged sheathing, lath, or flashing. Ensure the replacement system is compatible with your home and meets local building codes, such as ASTM C926 standards for lath and plaster.",
+      "text": "Step 2: Define the Scope of Work and System Type — Once you understand the damage, work with your contractor to clearly define what needs to be replaced. This includes identifying the type of stucco system to be installed (e.g., traditional three-coat cement stucco), the layers involved (scratch coat, brown coat, finish coat), and any necessary substrate repairs like replacing damaged sheathing, lath, or flashing. Ensure the replacement system is compatible with your home and meets local building codes, such as ASTM C926 standards for lath and plaster.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Secure Necessary Permits and Approvals — Large stucco replacement projects, especially those involving removal of existing cladding and repair of underlying structural elements, often require permits from your local building department. Your contractor should handle this process, ensuring all plans comply with California state law and local zoning requirements. This step is non-negotiable to avoid legal issues and ensure the work is up to code. Timing depends on the jurisdiction and complexity of the project.",
+      "text": "Step 3: Secure Necessary Permits and Approvals — Large stucco replacement projects, especially those involving removal of existing cladding and repair of underlying structural elements, often require permits from your local building department. Your contractor should handle this process, ensuring all plans comply with California state law and local zoning requirements. This step is non-negotiable to avoid legal issues and ensure the work is up to code. Timing depends on the jurisdiction and complexity of the project.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Prepare the Work Area and Remove Old Stucco — Before applying new stucco, the work area needs to be prepared. This involves protecting landscaping, outdoor fixtures, and adjacent structures. The unsound or damaged stucco is then carefully removed. This phase can be dusty and noisy, so plan accordingly. The goal is to expose the underlying substrate for inspection and repair.",
+      "text": "Step 4: Prepare the Work Area and Remove Old Stucco — Before applying new stucco, the work area needs to be prepared. This involves protecting landscaping, outdoor fixtures, and adjacent structures. The unsound or damaged stucco is then carefully removed. This phase can be dusty and noisy, so plan accordingly. The goal is to expose the underlying substrate for inspection and repair.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Repair Substrate and Install New Lath/Weather Barrier — With the old stucco removed, any damaged sheathing, framing, or lath can be properly inspected and repaired or replaced. A new weather-resistive barrier (WRB) and lath are then installed according according to manufacturer instructions and building codes. Proper integration of flashing around windows, doors, and other penetrations is absolutely critical during this stage to prevent future water intrusion. This foundation work is key for the longevity of your new stucco.",
+      "text": "Step 5: Repair Substrate and Install New Lath/Weather Barrier — With the old stucco removed, any damaged sheathing, framing, or lath can be properly inspected and repaired or replaced. A new weather-resistive barrier (WRB) and lath are then installed according according to manufacturer instructions and building codes. Proper integration of flashing around windows, doors, and other penetrations is absolutely critical during this stage to prevent future water intrusion. This foundation work is key for the longevity of your new stucco.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Apply New Stucco in Stages with Curing — The new stucco is typically applied in multiple coats: a scratch coat, followed by a brown coat, and then a finish coat. Each coat requires adequate curing time, which can vary depending on weather conditions (temperature, humidity) and the specific mix used. Skipping or rushing curing times can lead to cracking and reduced durability. Your contractor should follow the manufacturer's specified curing procedures to ensure optimal performance.",
+      "text": "Step 6: Apply New Stucco in Stages with Curing — The new stucco is typically applied in multiple coats: a scratch coat, followed by a brown coat, and then a finish coat. Each coat requires adequate curing time, which can vary depending on weather conditions (temperature, humidity) and the specific mix used. Skipping or rushing curing times can lead to cracking and reduced durability. Your contractor should follow the manufacturer's specified curing procedures to ensure optimal performance.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Inspect and Finalize — After the final coat has cured, a thorough inspection is conducted to ensure the finish is uniform, free of defects, and matches the agreed-upon texture and color. Any final touch-ups or sealing of control joints are performed. This is your chance to do a final walkthrough with your contractor and confirm that everything meets your expectations and the project's scope.",
+      "text": "Considering an extensive stucco replacement? Contact Affordable Home Remodeling for guidance and expertise.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Assess the True Extent of Damage — Start by thoroughly evaluating the existing stucco. This isn't just about what you see on the surface; it involves professional inspection to check for hidde"
+}

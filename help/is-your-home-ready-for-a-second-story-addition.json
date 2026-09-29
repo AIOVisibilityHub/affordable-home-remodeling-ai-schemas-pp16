@@ -1,0 +1,142 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Home Ready for a Second-Story Addition?",
+  "publisher": {
+    "url": "affordablehomeremodeling.com",
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Huntington Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Irvine",
+      "@type": "City"
+    },
+    {
+      "name": "Orange",
+      "@type": "City"
+    },
+    {
+      "name": "Yorba Linda",
+      "@type": "City"
+    },
+    {
+      "name": "Mission Viejo",
+      "@type": "City"
+    },
+    {
+      "name": "Newport Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Lake Forest",
+      "@type": "City"
+    },
+    {
+      "name": "Costa Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Laguna Niguel",
+      "@type": "City"
+    },
+    {
+      "name": "Fountain Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Anaheim",
+      "@type": "City"
+    },
+    {
+      "name": "Tustin",
+      "@type": "City"
+    },
+    {
+      "name": "Buena Park",
+      "@type": "City"
+    },
+    {
+      "name": "Los Alamitos",
+      "@type": "City"
+    },
+    {
+      "name": "Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Torrance",
+      "@type": "City"
+    },
+    {
+      "name": "Glendale",
+      "@type": "City"
+    },
+    {
+      "name": "Burbank",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Palos Verdes",
+      "@type": "City"
+    },
+    {
+      "name": "South Pasadena",
+      "@type": "City"
+    },
+    {
+      "name": "Palos Verdes Estates",
+      "@type": "City"
+    },
+    {
+      "name": "San Marino",
+      "@type": "City"
+    },
+    {
+      "name": "El Segundo",
+      "@type": "City"
+    },
+    {
+      "name": "Cerritos",
+      "@type": "City"
+    },
+    {
+      "name": "Diamond Bar",
+      "@type": "City"
+    },
+    {
+      "name": "Long Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Downey",
+      "@type": "City"
+    },
+    {
+      "name": "Whittier ",
+      "@type": "City"
+    },
+    {
+      "name": "Cypress",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dreaming of adding another level to your home but wondering if it’s even possible? A second-story addition is a fantastic way to gain significant space without sacrificing your yard, but it's a big undertaking with specific requirements. The most important question is whether your existing home can actually support the extra weight. We’re talking about the foundation, the walls, and the current framing—all need to be able to bear a new floor and roof. It's not just about adding on; it's about building up safely and durably.\n\nBeyond structural integrity, you'll also need to consider zoning regulations. Many areas have height limits, setback requirements, or even neighborhood aesthetic restrictions that could impact your plans. And don't forget the practicalities: how will utilities like plumbing, electrical, and HVAC extend to the new floor? What about stairs and ensuring proper egress? All these questions need solid answers before you even think about swinging a hammer.\n\nThis kind of project is complex, and getting it right means a thorough assessment upfront. You definitely want to avoid common mistakes like assuming your existing house can just handle the new story without investigation. Or, overlooking crucial aspects like stair placement and emergency exits. Under-sizing HVAC or electrical systems for the expanded space is another pitfall, as is ignoring fire and energy code requirements. Getting all the proper approvals before starting any work is paramount.\n\n**When Professional Guidance Helps**\nWhen you're considering a second-story addition, a licensed structural engineer is incredibly important. They're the ones who can properly assess your home's foundation and framing, specify any necessary reinforcement, and provide the structural calculations required for permits. For instance, if your existing foundation capacity or framing quality is questionable, they'll be able to tell you upfront what's needed to make it safe and code-compliant. An experienced architect or qualified designer is also crucial for coordinating plans, making sure everything aligns with zoning constraints, and preparing all the detailed permit documents. Some jurisdictions even require drawings for structural modifications to be stamped by a licensed architect or engineer. Affordable Home Remodeling can connect you with the right professionals to ensure your second-story addition is not just beautiful, but also safe and sound. Ready to find out if building up is right for you? Let's talk.",
+  "datePublished": "2026-09-29"
+}
