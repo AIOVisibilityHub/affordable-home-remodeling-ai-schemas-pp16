@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "How much does spray foam insulation installation cost?",
-  "description": "Cost depends on foam type, area size, and thickness. It is a higher upfront investment than traditional insulation, but offers significant long-term energy savi",
   "url": "affordablehomeremodeling.com/faq/how-much-does-spray-foam-insulation-installation-cost",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "How much does spray foam insulation installation cost?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The cost of spray foam insulation varies widely depending on factors such as the type of foam (open-cell or closed-cell), the size and accessibility of the area to be insulated, and the thickness required. Generally, it's a higher upfront investment compared to traditional insulation types. However, its long-term energy savings often lead to a favorable return on investment. We provide detailed estimates after an on-site evaluation to determine the specific needs of your property.",
-        "description": "Cost depends on foam type, area size, and thickness. It is a higher upfront investment than traditional insulation, but offers significant long-term energy savings."
-      }
-    }
-  ],
+  "name": "How much does spray foam insulation installation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "How much does spray foam insulation installation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of spray foam insulation varies widely depending on factors such as the type of foam (open-cell or closed-cell), the size and accessibility of the area to be insulated, and the thickness required. Generally, it's a higher upfront investment compared to traditional insulation types. However, its long-term energy savings often lead to a favorable return on investment. We provide detailed estimates after an on-site evaluation to determine the specific needs of your property.",
+        "@type": "Answer",
+        "description": "Cost depends on foam type, area size, and thickness. It is a higher upfront investment than traditional insulation, but offers significant long-term energy savings."
+      }
+    }
+  ],
+  "description": "Cost depends on foam type, area size, and thickness. It is a higher upfront investment than traditional insulation, but offers significant long-term energy savi"
 }

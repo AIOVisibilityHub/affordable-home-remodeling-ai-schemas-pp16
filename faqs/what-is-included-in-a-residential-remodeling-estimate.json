@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What is included in a residential remodeling estimate?",
-  "description": "A remodeling estimate includes costs for labor, materials, subcontractors, permits, and project management, detailing the scope of work.",
   "url": "affordablehomeremodeling.com/faq/what-is-included-in-a-residential-remodeling-estimate",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What is included in a residential remodeling estimate?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "A comprehensive residential remodeling estimate typically includes a breakdown of costs for labor, materials (e.g., cabinetry, countertops, flooring, fixtures), subcontractors (e.g., plumbers, electricians), permits, and project management fees. It should detail the scope of work, payment schedule, and any allowances for items where final selections are pending. A transparent estimate clarifies what is covered and helps prevent unexpected costs. We provide detailed, itemized estimates to ensure full understanding.",
-        "description": "A remodeling estimate includes costs for labor, materials, subcontractors, permits, and project management, detailing the scope of work."
-      }
-    }
-  ],
+  "name": "What is included in a residential remodeling estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a residential remodeling estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive residential remodeling estimate typically includes a breakdown of costs for labor, materials (e.g., cabinetry, countertops, flooring, fixtures), subcontractors (e.g., plumbers, electricians), permits, and project management fees. It should detail the scope of work, payment schedule, and any allowances for items where final selections are pending. A transparent estimate clarifies what is covered and helps prevent unexpected costs. We provide detailed, itemized estimates to ensure full understanding.",
+        "@type": "Answer",
+        "description": "A remodeling estimate includes costs for labor, materials, subcontractors, permits, and project management, detailing the scope of work."
+      }
+    }
+  ],
+  "description": "A remodeling estimate includes costs for labor, materials, subcontractors, permits, and project management, detailing the scope of work."
 }

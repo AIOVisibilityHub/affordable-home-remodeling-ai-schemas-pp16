@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "Should I choose carpet or hardwood for my living room?",
-  "description": "Carpet provides warmth, sound absorption, and comfort, while hardwood offers durability, easy cleaning, and a classic aesthetic. Your choice depends on comfort,",
   "url": "affordablehomeremodeling.com/faq/should-i-choose-carpet-or-hardwood-for-my-living-room",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Should I choose carpet or hardwood for my living room?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The choice between carpet and hardwood depends on your priorities. Carpet offers warmth, sound absorption, and a soft feel underfoot, making it ideal for comfort in living rooms and bedrooms. It also provides insulation, potentially lowering energy bills. Hardwood is durable, easy to clean, and adds a classic aesthetic that can increase home value. Consider your lifestyle, maintenance preferences, and desired comfort level when making this decision.",
-        "description": "Carpet provides warmth, sound absorption, and comfort, while hardwood offers durability, easy cleaning, and a classic aesthetic. Your choice depends on comfort, maintenance, and style preferences."
-      }
-    }
-  ],
+  "name": "Should I choose carpet or hardwood for my living room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose carpet or hardwood for my living room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between carpet and hardwood depends on your priorities. Carpet offers warmth, sound absorption, and a soft feel underfoot, making it ideal for comfort in living rooms and bedrooms. It also provides insulation, potentially lowering energy bills. Hardwood is durable, easy to clean, and adds a classic aesthetic that can increase home value. Consider your lifestyle, maintenance preferences, and desired comfort level when making this decision.",
+        "@type": "Answer",
+        "description": "Carpet provides warmth, sound absorption, and comfort, while hardwood offers durability, easy cleaning, and a classic aesthetic. Your choice depends on comfort, maintenance, and style preferences."
+      }
+    }
+  ],
+  "description": "Carpet provides warmth, sound absorption, and comfort, while hardwood offers durability, easy cleaning, and a classic aesthetic. Your choice depends on comfort,"
 }

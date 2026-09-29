@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "What maintenance is required for stucco siding to ensure its longevity?",
-  "description": "Maintain stucco by regularly inspecting for cracks and sealing them, soft washing with mild detergent, and ensuring proper drainage to prevent moisture damage.",
   "url": "affordablehomeremodeling.com/faq/what-maintenance-is-required-for-stucco-siding-to-ensure-its-longevity",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "What maintenance is required for stucco siding to ensure its longevity?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Stucco siding is relatively low-maintenance, but some routine care helps ensure its longevity. Regularly inspect your stucco for cracks, chips, or signs of water intrusion, especially around windows, doors, and trim. Small cracks should be sealed promptly to prevent moisture damage. Cleaning stucco typically involves soft washing with a mild detergent and water to remove dirt, mold, or mildew, avoiding high-pressure washing which can damage the surface. Ensuring proper drainage away from the foundation and maintaining gutters also prevents water from compromising the stucco system.",
-        "description": "Maintain stucco by regularly inspecting for cracks and sealing them, soft washing with mild detergent, and ensuring proper drainage to prevent moisture damage."
-      }
-    }
-  ],
+  "name": "What maintenance is required for stucco siding to ensure its longevity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for stucco siding to ensure its longevity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco siding is relatively low-maintenance, but some routine care helps ensure its longevity. Regularly inspect your stucco for cracks, chips, or signs of water intrusion, especially around windows, doors, and trim. Small cracks should be sealed promptly to prevent moisture damage. Cleaning stucco typically involves soft washing with a mild detergent and water to remove dirt, mold, or mildew, avoiding high-pressure washing which can damage the surface. Ensuring proper drainage away from the foundation and maintaining gutters also prevents water from compromising the stucco system.",
+        "@type": "Answer",
+        "description": "Maintain stucco by regularly inspecting for cracks and sealing them, soft washing with mild detergent, and ensuring proper drainage to prevent moisture damage."
+      }
+    }
+  ],
+  "description": "Maintain stucco by regularly inspecting for cracks and sealing them, soft washing with mild detergent, and ensuring proper drainage to prevent moisture damage."
 }

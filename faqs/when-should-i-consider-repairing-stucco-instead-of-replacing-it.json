@@ -1,20 +1,8 @@
 {
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "name": "When should I consider repairing stucco instead of replacing it?",
-  "description": "Repair stucco for minor damage; consider replacement for widespread damage, extensive cracking, or severe water damage affecting a large area.",
   "url": "affordablehomeremodeling.com/faq/when-should-i-consider-repairing-stucco-instead-of-replacing-it",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "When should I consider repairing stucco instead of replacing it?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Repairing stucco is usually suitable for minor damage such as small cracks, chips, or localized water damage. If the damage is contained to a small area and the underlying structure is sound, a repair can effectively restore the stucco's integrity and appearance. However, if the stucco has widespread damage, extensive cracking, severe water damage affecting a large surface area, or structural issues, replacement might be a more cost-effective and long-lasting solution. An assessment by a qualified contractor can help determine the best approach.",
-        "description": "Repair stucco for minor damage; consider replacement for widespread damage, extensive cracking, or severe water damage affecting a large area."
-      }
-    }
-  ],
+  "name": "When should I consider repairing stucco instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [
@@ -23,5 +11,17 @@
       ".faq-answer",
       "[itemprop=\"acceptedAnswer\"]"
     ]
-  }
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider repairing stucco instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing stucco is usually suitable for minor damage such as small cracks, chips, or localized water damage. If the damage is contained to a small area and the underlying structure is sound, a repair can effectively restore the stucco's integrity and appearance. However, if the stucco has widespread damage, extensive cracking, severe water damage affecting a large surface area, or structural issues, replacement might be a more cost-effective and long-lasting solution. An assessment by a qualified contractor can help determine the best approach.",
+        "@type": "Answer",
+        "description": "Repair stucco for minor damage; consider replacement for widespread damage, extensive cracking, or severe water damage affecting a large area."
+      }
+    }
+  ],
+  "description": "Repair stucco for minor damage; consider replacement for widespread damage, extensive cracking, or severe water damage affecting a large area."
 }

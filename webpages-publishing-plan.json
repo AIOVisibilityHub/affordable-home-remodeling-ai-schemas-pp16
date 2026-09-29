@@ -1,0 +1,282 @@
+{
+  "version": 1,
+  "approved": [],
+  "noindex": [
+    {
+      "path": "webpages/home-additions-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/adu-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-conversions-adu-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/new-home-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/whole-home-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-home-renovations-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-kitchen-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-remodeling-affordable-home-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-painting-services-affordable-home-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-painting-services-affordable-home-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-replacement-affordable-home-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/door-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/roofing-services-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/roof-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/roof-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/insulation-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/insulation-upgrade-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/flooring-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/flooring-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/re-stucco-services-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stucco-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/room-additions-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/second-story-additions-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/primary-suite-additions-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/detached-adu-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/attached-adu-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/junior-adu-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/adu-design-and-build-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-home-builder-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/ground-up-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/whole-house-remodel-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/house-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-improvement-contractor-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-cabinets-and-countertops-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/walk-in-shower-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/tub-to-shower-conversion-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-house-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-house-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/cabinet-painting-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/new-windows-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/energy-efficient-windows-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/front-door-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/entry-door-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/roof-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/new-roof-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/shingle-roof-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/tile-roof-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/attic-insulation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wall-insulation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/spray-foam-insulation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/hardwood-flooring-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/laminate-flooring-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/tile-flooring-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/carpet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stucco-application-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stucco-texturing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-stucco-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-remodeling-contractor-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/residential-general-contractor-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/investment-property-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rental-property-remodel-hub.html",
+      "status": "needs_review"
+    }
+  ]
+}
