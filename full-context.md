@@ -1,7 +1,7 @@
 # Affordable Home Remodeling — Full AI Context
 
 **Canonical URL:** https://affordablehomeremodeling.aiovisibility.net
-**Generated:** 2026-09-16
+**Generated:** 2026-09-29
 
 ## Overview
 Affordable Home Remodeling publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
@@ -10,7 +10,6 @@ Affordable Home Remodeling publishes a structured AI Data Package designed for h
 - **1787** faqs
 - **35** reviews
 - **69** services
-- **69** webpages
 - **1** locations
 - **16** personnel
 - **236** helpArticles
