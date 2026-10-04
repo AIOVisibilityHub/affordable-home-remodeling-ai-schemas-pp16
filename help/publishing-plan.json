@@ -1,0 +1,2389 @@
+{
+  "publishedCategories": [
+    {
+      "slug": "getting-started",
+      "name": "Getting Started",
+      "description": "Introductory guidance for anyone contacting us for the first time.",
+      "keywords": [
+        "getting started",
+        "introduction",
+        "first",
+        "begin",
+        "basics",
+        "overview",
+        "what to expect",
+        "right choice",
+        "when to call",
+        "guide to"
+      ]
+    },
+    {
+      "slug": "services-and-process",
+      "name": "Services & Process",
+      "description": "How each service works, stage by stage, from first contact to completion.",
+      "keywords": [
+        "process",
+        "how we",
+        "step-by-step",
+        "steps",
+        "workflow",
+        "service",
+        "what happens",
+        "timeline",
+        "procedure"
+      ]
+    },
+    {
+      "slug": "planning-and-preparation",
+      "name": "Planning & Preparation",
+      "description": "What to gather, decide and arrange before work begins.",
+      "keywords": [
+        "prepare",
+        "preparation",
+        "checklist",
+        "before",
+        "plan",
+        "planning",
+        "ready",
+        "documents",
+        "paperwork"
+      ]
+    },
+    {
+      "slug": "pricing-and-estimates",
+      "name": "Pricing & Estimates",
+      "description": "How work is quoted, what affects the cost and how estimates are produced.",
+      "keywords": [
+        "cost",
+        "costs",
+        "price",
+        "pricing",
+        "estimate",
+        "quote",
+        "budget",
+        "fee",
+        "fees",
+        "payment",
+        "insurance"
+      ]
+    },
+    {
+      "slug": "local-service-guidance",
+      "name": "Local Service Guidance",
+      "description": "Guidance specific to the areas we serve.",
+      "keywords": [
+        "near me",
+        "local",
+        "area",
+        "county",
+        "city",
+        "region",
+        "neighborhood",
+        "serving"
+      ]
+    },
+    {
+      "slug": "care-and-maintenance",
+      "name": "Care & Maintenance",
+      "description": "Looking after the work once it is finished, and what to watch for over time.",
+      "keywords": [
+        "maintenance",
+        "maintain",
+        "care",
+        "upkeep",
+        "aftercare",
+        "repair",
+        "inspection",
+        "seasonal",
+        "troubleshoot",
+        "warranty",
+        "follow-up"
+      ]
+    }
+  ],
+  "articles": [
+    {
+      "title": "When Is the Right Time to Add Onto My House?",
+      "anchorSlug": "when-is-the-right-time-to-add-onto-my-house",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-the-right-time-to-add-onto-my-house.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Planning Your Home Addition",
+      "anchorSlug": "mistakes-to-avoid-when-planning-your-home-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-planning-your-home-addition.html"
+    },
+    {
+      "title": "Timeline for a Seamless Home Addition Project",
+      "anchorSlug": "timeline-for-a-seamless-home-addition-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/timeline-for-a-seamless-home-addition-project.html"
+    },
+    {
+      "title": "What Do I Need to Know About ADU Regulations?",
+      "anchorSlug": "what-do-i-need-to-know-about-adu-regulations",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-do-i-need-to-know-about-adu-regulations.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Building an ADU",
+      "anchorSlug": "mistakes-to-avoid-when-building-an-adu",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-building-an-adu.html"
+    },
+    {
+      "title": "Timeline for Building Your Dream ADU",
+      "anchorSlug": "timeline-for-building-your-dream-adu",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/timeline-for-building-your-dream-adu.html"
+    },
+    {
+      "title": "Worried Your Garage Conversion Won't Meet ADU Standards?",
+      "anchorSlug": "worried-your-garage-conversion-won-t-meet-adu-standards",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-your-garage-conversion-won-t-meet-adu-standards.html"
+    },
+    {
+      "title": "When is a Garage Conversion an ADU a Smart Move for Your Home?",
+      "anchorSlug": "when-is-a-garage-conversion-an-adu-a-smart-move-for-your-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-a-garage-conversion-an-adu-a-smart-move-for-your-home.html"
+    },
+    {
+      "title": "Thinking of Building a New Home? Here's What to Expect",
+      "anchorSlug": "thinking-of-building-a-new-home-here-s-what-to-expect",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thinking-of-building-a-new-home-here-s-what-to-expect.html"
+    },
+    {
+      "title": "What to Do When Your New Home Build Budget Starts to Balloon",
+      "anchorSlug": "what-to-do-when-your-new-home-build-budget-starts-to-balloon",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-new-home-build-budget-starts-to-balloon.html"
+    },
+    {
+      "title": "Don't Let These Mistakes Derail Your Garage to ADU Conversion",
+      "anchorSlug": "don-t-let-these-mistakes-derail-your-garage-to-adu-conversion",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/don-t-let-these-mistakes-derail-your-garage-to-adu-conversion.html"
+    },
+    {
+      "title": "Why You Need a Professional General Contractor for Your New Build",
+      "anchorSlug": "why-you-need-a-professional-general-contractor-for-your-new-build",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-you-need-a-professional-general-contractor-for-your-new-build.html"
+    },
+    {
+      "title": "What to Avoid During Your Whole-Home Remodel",
+      "anchorSlug": "what-to-avoid-during-your-whole-home-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-avoid-during-your-whole-home-remodel.html"
+    },
+    {
+      "title": "Is Your Whole-Home Remodel Project Getting Overwhelming?",
+      "anchorSlug": "is-your-whole-home-remodel-project-getting-overwhelming",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-whole-home-remodel-project-getting-overwhelming.html"
+    },
+    {
+      "title": "How to Plan Your Whole-Home Remodel for Success",
+      "anchorSlug": "how-to-plan-your-whole-home-remodel-for-success",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-whole-home-remodel-for-success.html"
+    },
+    {
+      "title": "Common Pitfalls in Custom Home Renovation Projects",
+      "anchorSlug": "common-pitfalls-in-custom-home-renovation-projects",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-pitfalls-in-custom-home-renovation-projects.html"
+    },
+    {
+      "title": "When to Bring in a Pro for Your Custom Home Renovation",
+      "anchorSlug": "when-to-bring-in-a-pro-for-your-custom-home-renovation",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-bring-in-a-pro-for-your-custom-home-renovation.html"
+    },
+    {
+      "title": "Mapping Out Your Custom Home Renovation Journey",
+      "anchorSlug": "mapping-out-your-custom-home-renovation-journey",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mapping-out-your-custom-home-renovation-journey.html"
+    },
+    {
+      "title": "Why Your Kitchen Remodel Might Be Over Budget",
+      "anchorSlug": "why-your-kitchen-remodel-might-be-over-budget",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-remodel-might-be-over-budget.html"
+    },
+    {
+      "title": "When Is it Time to Update Your Kitchen?",
+      "anchorSlug": "when-is-it-time-to-update-your-kitchen",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-update-your-kitchen.html"
+    },
+    {
+      "title": "Timeline: Planning for a Smooth Kitchen Renovation",
+      "anchorSlug": "timeline-planning-for-a-smooth-kitchen-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/timeline-planning-for-a-smooth-kitchen-renovation.html"
+    },
+    {
+      "title": "How to Avoid Common Custom Kitchen Design Mistakes",
+      "anchorSlug": "how-to-avoid-common-custom-kitchen-design-mistakes",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-common-custom-kitchen-design-mistakes.html"
+    },
+    {
+      "title": "What Makes a Custom Kitchen Truly Stand Out?",
+      "anchorSlug": "what-makes-a-custom-kitchen-truly-stand-out",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-makes-a-custom-kitchen-truly-stand-out.html"
+    },
+    {
+      "title": "When is the Right Time for a Custom Kitchen Renovation?",
+      "anchorSlug": "when-is-the-right-time-for-a-custom-kitchen-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-the-right-time-for-a-custom-kitchen-renovation.html"
+    },
+    {
+      "title": "What to Consider Before Your Bathroom Remodel?",
+      "anchorSlug": "what-to-consider-before-your-bathroom-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-your-bathroom-remodel.html"
+    },
+    {
+      "title": "How to Avoid Common Bathroom Remodeling Mistakes?",
+      "anchorSlug": "how-to-avoid-common-bathroom-remodeling-mistakes",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-avoid-common-bathroom-remodeling-mistakes.html"
+    },
+    {
+      "title": "When Should You Upgrade Your Bathroom?",
+      "anchorSlug": "when-should-you-upgrade-your-bathroom",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-upgrade-your-bathroom.html"
+    },
+    {
+      "title": "What to Know Before Starting Interior Painting?",
+      "anchorSlug": "what-to-know-before-starting-interior-painting",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-know-before-starting-interior-painting.html"
+    },
+    {
+      "title": "Mistakes to Steer Clear of with Interior Paint?",
+      "anchorSlug": "mistakes-to-steer-clear-of-with-interior-paint",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-steer-clear-of-with-interior-paint.html"
+    },
+    {
+      "title": "Is It Time for a Fresh Coat of Interior Paint?",
+      "anchorSlug": "is-it-time-for-a-fresh-coat-of-interior-paint",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-it-time-for-a-fresh-coat-of-interior-paint.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Planning Exterior Painting",
+      "anchorSlug": "mistakes-to-avoid-when-planning-exterior-painting",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-planning-exterior-painting.html"
+    },
+    {
+      "title": "When to Call for Exterior Painting Help",
+      "anchorSlug": "when-to-call-for-exterior-painting-help",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-for-exterior-painting-help.html"
+    },
+    {
+      "title": "Exterior Painting Project Timeline",
+      "anchorSlug": "exterior-painting-project-timeline",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/exterior-painting-project-timeline.html"
+    },
+    {
+      "title": "Why Are Your Energy Bills So High?",
+      "anchorSlug": "why-are-your-energy-bills-so-high",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-your-energy-bills-so-high.html"
+    },
+    {
+      "title": "When to Call for Window Replacement",
+      "anchorSlug": "when-to-call-for-window-replacement",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-for-window-replacement.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Replacing Your Windows",
+      "anchorSlug": "mistakes-to-avoid-when-replacing-your-windows",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-replacing-your-windows.html"
+    },
+    {
+      "title": "Why Are My Doors Drafty?",
+      "anchorSlug": "why-are-my-doors-drafty",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-my-doors-drafty.html"
+    },
+    {
+      "title": "When to Call for Door Replacement Help",
+      "anchorSlug": "when-to-call-for-door-replacement-help",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-for-door-replacement-help.html"
+    },
+    {
+      "title": "How to Replace Your Exterior Doors Like a Pro",
+      "anchorSlug": "how-to-replace-your-exterior-doors-like-a-pro",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-replace-your-exterior-doors-like-a-pro.html"
+    },
+    {
+      "title": "Are My Windows Letting Money Fly Out?",
+      "anchorSlug": "are-my-windows-letting-money-fly-out",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-my-windows-letting-money-fly-out.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Upgrading Your Home's Windows",
+      "anchorSlug": "mistakes-to-avoid-when-upgrading-your-home-s-windows",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-upgrading-your-home-s-windows.html"
+    },
+    {
+      "title": "When is it Time for New Windows?",
+      "anchorSlug": "when-is-it-time-for-new-windows",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-for-new-windows.html"
+    },
+    {
+      "title": "Is It Time to Replace My Drafty Doors?",
+      "anchorSlug": "is-it-time-to-replace-my-drafty-doors",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-it-time-to-replace-my-drafty-doors.html"
+    },
+    {
+      "title": "Preparing for a New Door Installation",
+      "anchorSlug": "preparing-for-a-new-door-installation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-for-a-new-door-installation.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Choosing New Doors",
+      "anchorSlug": "mistakes-to-avoid-when-choosing-new-doors",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-choosing-new-doors.html"
+    },
+    {
+      "title": "What Are the Signs My Roof Needs Repair?",
+      "anchorSlug": "what-are-the-signs-my-roof-needs-repair",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-signs-my-roof-needs-repair.html"
+    },
+    {
+      "title": "How to Plan for a Major Roof Replacement",
+      "anchorSlug": "how-to-plan-for-a-major-roof-replacement",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-for-a-major-roof-replacement.html"
+    },
+    {
+      "title": "Mistakes to Avoid with Your Roofing Project",
+      "anchorSlug": "mistakes-to-avoid-with-your-roofing-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-with-your-roofing-project.html"
+    },
+    {
+      "title": "Why Is My Home Feeling Too Small?",
+      "anchorSlug": "why-is-my-home-feeling-too-small",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-home-feeling-too-small.html"
+    },
+    {
+      "title": "Struggling with Space? Common Mistakes in Planning a Home Addition",
+      "anchorSlug": "struggling-with-space-common-mistakes-in-planning-a-home-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/struggling-with-space-common-mistakes-in-planning-a-home-addition.html"
+    },
+    {
+      "title": "How Does a Home Addition Project Actually Work?",
+      "anchorSlug": "how-does-a-home-addition-project-actually-work",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-does-a-home-addition-project-actually-work.html"
+    },
+    {
+      "title": "Is an ADU Right for My Property? What to Consider",
+      "anchorSlug": "is-an-adu-right-for-my-property-what-to-consider",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-an-adu-right-for-my-property-what-to-consider.html"
+    },
+    {
+      "title": "Confused About ADU Regulations? What You Need to Know",
+      "anchorSlug": "confused-about-adu-regulations-what-you-need-to-know",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/confused-about-adu-regulations-what-you-need-to-know.html"
+    },
+    {
+      "title": "Getting Started with Your ADU: A Step-by-Step Guide",
+      "anchorSlug": "getting-started-with-your-adu-a-step-by-step-guide",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-started-with-your-adu-a-step-by-step-guide.html"
+    },
+    {
+      "title": "What to Consider Before Converting Your Garage into an ADU",
+      "anchorSlug": "what-to-consider-before-converting-your-garage-into-an-adu",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-consider-before-converting-your-garage-into-an-adu.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Converting Your Garage into an ADU",
+      "anchorSlug": "mistakes-to-avoid-when-converting-your-garage-into-an-adu",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-converting-your-garage-into-an-adu.html"
+    },
+    {
+      "title": "Timeline for a Garage Conversion ADU Project",
+      "anchorSlug": "timeline-for-a-garage-conversion-adu-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/timeline-for-a-garage-conversion-adu-project.html"
+    },
+    {
+      "title": "How to Get Started with a New Home Build",
+      "anchorSlug": "how-to-get-started-with-a-new-home-build",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-get-started-with-a-new-home-build.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Building a New Home",
+      "anchorSlug": "mistakes-to-avoid-when-building-a-new-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-building-a-new-home.html"
+    },
+    {
+      "title": "Understanding the New Home Construction Process",
+      "anchorSlug": "understanding-the-new-home-construction-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-new-home-construction-process.html"
+    },
+    {
+      "title": "Why Your Whole-Home Remodel Might Be Over Budget",
+      "anchorSlug": "why-your-whole-home-remodel-might-be-over-budget",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-whole-home-remodel-might-be-over-budget.html"
+    },
+    {
+      "title": "When Is the Right Time to Start a Whole-Home Remodel?",
+      "anchorSlug": "when-is-the-right-time-to-start-a-whole-home-remodel",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-the-right-time-to-start-a-whole-home-remodel.html"
+    },
+    {
+      "title": "What to Expect During a Major Home Renovation",
+      "anchorSlug": "what-to-expect-during-a-major-home-renovation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-major-home-renovation.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Your Custom Home Project",
+      "anchorSlug": "avoiding-common-pitfalls-in-your-custom-home-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-your-custom-home-project.html"
+    },
+    {
+      "title": "Is a Custom Home Renovation Right for Me?",
+      "anchorSlug": "is-a-custom-home-renovation-right-for-me",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-custom-home-renovation-right-for-me.html"
+    },
+    {
+      "title": "How to Prepare Your Home for a Big Custom Renovation",
+      "anchorSlug": "how-to-prepare-your-home-for-a-big-custom-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-your-home-for-a-big-custom-renovation.html"
+    },
+    {
+      "title": "What are the Biggest Mistakes to Avoid in a Kitchen Remodel?",
+      "anchorSlug": "what-are-the-biggest-mistakes-to-avoid-in-a-kitchen-remodel",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-biggest-mistakes-to-avoid-in-a-kitchen-remodel.html"
+    },
+    {
+      "title": "When Should I Bring in a Pro for My Kitchen Redo?",
+      "anchorSlug": "when-should-i-bring-in-a-pro-for-my-kitchen-redo",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-bring-in-a-pro-for-my-kitchen-redo.html"
+    },
+    {
+      "title": "How Do I Plan a Kitchen Layout That Actually Works?",
+      "anchorSlug": "how-do-i-plan-a-kitchen-layout-that-actually-works",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-plan-a-kitchen-layout-that-actually-works.html"
+    },
+    {
+      "title": "Is a Custom Kitchen Renovation Right for My Home?",
+      "anchorSlug": "is-a-custom-kitchen-renovation-right-for-my-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-custom-kitchen-renovation-right-for-my-home.html"
+    },
+    {
+      "title": "How Can I Make My Custom Kitchen Unique, But Still Functional?",
+      "anchorSlug": "how-can-i-make-my-custom-kitchen-unique-but-still-functional",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-can-i-make-my-custom-kitchen-unique-but-still-functional.html"
+    },
+    {
+      "title": "How to Choose the Best Materials for My Custom Kitchen?",
+      "anchorSlug": "how-to-choose-the-best-materials-for-my-custom-kitchen",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-choose-the-best-materials-for-my-custom-kitchen.html"
+    },
+    {
+      "title": "Why Your Bathroom Remodel Might Be Taking Too Long",
+      "anchorSlug": "why-your-bathroom-remodel-might-be-taking-too-long",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-bathroom-remodel-might-be-taking-too-long.html"
+    },
+    {
+      "title": "How to Plan Your Dream Bathroom Remodel",
+      "anchorSlug": "how-to-plan-your-dream-bathroom-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-dream-bathroom-remodel.html"
+    },
+    {
+      "title": "Is Your Bathroom Ready for an Upgrade?",
+      "anchorSlug": "is-your-bathroom-ready-for-an-upgrade",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-bathroom-ready-for-an-upgrade.html"
+    },
+    {
+      "title": "Avoiding Paint Project Pitfalls",
+      "anchorSlug": "avoiding-paint-project-pitfalls",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-paint-project-pitfalls.html"
+    },
+    {
+      "title": "When is it Time for a New Interior Paint Job?",
+      "anchorSlug": "when-is-it-time-for-a-new-interior-paint-job",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-for-a-new-interior-paint-job.html"
+    },
+    {
+      "title": "Getting Your Walls Ready for a Fresh Coat",
+      "anchorSlug": "getting-your-walls-ready-for-a-fresh-coat",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-your-walls-ready-for-a-fresh-coat.html"
+    },
+    {
+      "title": "Why Your Exterior Paint Job Might Not Last",
+      "anchorSlug": "why-your-exterior-paint-job-might-not-last",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-exterior-paint-job-might-not-last.html"
+    },
+    {
+      "title": "When Should You Consider Replacing Your Windows?",
+      "anchorSlug": "when-should-you-consider-replacing-your-windows",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-consider-replacing-your-windows.html"
+    },
+    {
+      "title": "How to Prepare for Your Exterior Painting Project",
+      "anchorSlug": "how-to-prepare-for-your-exterior-painting-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-for-your-exterior-painting-project.html"
+    },
+    {
+      "title": "Is [Affordable Home Remodeling] the Right Choice for Your Window Replacement?",
+      "anchorSlug": "is-affordable-home-remodeling-the-right-choice-for-your-window-replaceme",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-affordable-home-remodeling-the-right-choice-for-your-window-replaceme.html"
+    },
+    {
+      "title": "Troubleshooting Common Exterior Paint Problems",
+      "anchorSlug": "troubleshooting-common-exterior-paint-problems",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/troubleshooting-common-exterior-paint-problems.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Choosing New Windows",
+      "anchorSlug": "mistakes-to-avoid-when-choosing-new-windows",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-choosing-new-windows.html"
+    },
+    {
+      "title": "Why Are My Energy Bills So High?",
+      "anchorSlug": "why-are-my-energy-bills-so-high",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-my-energy-bills-so-high.html"
+    },
+    {
+      "title": "How to Choose the Right Windows for My Home",
+      "anchorSlug": "how-to-choose-the-right-windows-for-my-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-choose-the-right-windows-for-my-home.html"
+    },
+    {
+      "title": "How Do I Prepare for Window Replacement?",
+      "anchorSlug": "how-do-i-prepare-for-window-replacement",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-prepare-for-window-replacement.html"
+    },
+    {
+      "title": "Why is My Door Sticking or Not Closing Properly?",
+      "anchorSlug": "why-is-my-door-sticking-or-not-closing-properly",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-door-sticking-or-not-closing-properly.html"
+    },
+    {
+      "title": "When Should I Consider Upgrading My Exterior Doors?",
+      "anchorSlug": "when-should-i-consider-upgrading-my-exterior-doors",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-consider-upgrading-my-exterior-doors.html"
+    },
+    {
+      "title": "Is My Roof Ready for an Upgrade?",
+      "anchorSlug": "is-my-roof-ready-for-an-upgrade",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-my-roof-ready-for-an-upgrade.html"
+    },
+    {
+      "title": "What to Expect During a Full Roof Replacement",
+      "anchorSlug": "what-to-expect-during-a-full-roof-replacement",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-full-roof-replacement.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Planning Your New Roof",
+      "anchorSlug": "mistakes-to-avoid-when-planning-your-new-roof",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-planning-your-new-roof.html"
+    },
+    {
+      "title": "When Should I Consider Replacing My Old Doors?",
+      "anchorSlug": "when-should-i-consider-replacing-my-old-doors",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-consider-replacing-my-old-doors.html"
+    },
+    {
+      "title": "How to Choose the Right New Doors for Your Home",
+      "anchorSlug": "how-to-choose-the-right-new-doors-for-your-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-choose-the-right-new-doors-for-your-home.html"
+    },
+    {
+      "title": "Getting Started with Your Door Installation Project",
+      "anchorSlug": "getting-started-with-your-door-installation-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/getting-started-with-your-door-installation-project.html"
+    },
+    {
+      "title": "What to do when your home feels too small for your family",
+      "anchorSlug": "what-to-do-when-your-home-feels-too-small-for-your-family",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-home-feels-too-small-for-your-family.html"
+    },
+    {
+      "title": "Avoiding budget surprises during your home addition",
+      "anchorSlug": "avoiding-budget-surprises-during-your-home-addition",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-budget-surprises-during-your-home-addition.html"
+    },
+    {
+      "title": "How to plan your perfect home addition from concept to completion",
+      "anchorSlug": "how-to-plan-your-perfect-home-addition-from-concept-to-completion",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-perfect-home-addition-from-concept-to-completion.html"
+    },
+    {
+      "title": "Is an ADU right for my property in Southern California?",
+      "anchorSlug": "is-an-adu-right-for-my-property-in-southern-california",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-an-adu-right-for-my-property-in-southern-california.html"
+    },
+    {
+      "title": "What to expect during the ADU construction process",
+      "anchorSlug": "what-to-expect-during-the-adu-construction-process",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-the-adu-construction-process.html"
+    },
+    {
+      "title": "Common ADU mistakes that can cost you time and money",
+      "anchorSlug": "common-adu-mistakes-that-can-cost-you-time-and-money",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-adu-mistakes-that-can-cost-you-time-and-money.html"
+    },
+    {
+      "title": "Is Converting Your Garage to an ADU Right for You?",
+      "anchorSlug": "is-converting-your-garage-to-an-adu-right-for-you",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-converting-your-garage-to-an-adu-right-for-you.html"
+    },
+    {
+      "title": "How to Plan Your Garage ADU Project Smoothly",
+      "anchorSlug": "how-to-plan-your-garage-adu-project-smoothly",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-garage-adu-project-smoothly.html"
+    },
+    {
+      "title": "When Should You Consider a Garage Conversion?",
+      "anchorSlug": "when-should-you-consider-a-garage-conversion",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-consider-a-garage-conversion.html"
+    },
+    {
+      "title": "Mistakes to Avoid in New Home Construction",
+      "anchorSlug": "mistakes-to-avoid-in-new-home-construction",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-in-new-home-construction.html"
+    },
+    {
+      "title": "What Does a New Home Build Really Involve?",
+      "anchorSlug": "what-does-a-new-home-build-really-involve",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-does-a-new-home-build-really-involve.html"
+    },
+    {
+      "title": "When is the Right Time to Build a Brand New Home?",
+      "anchorSlug": "when-is-the-right-time-to-build-a-brand-new-home",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-the-right-time-to-build-a-brand-new-home.html"
+    },
+    {
+      "title": "When is the Right Time for a Whole-Home Remodel?",
+      "anchorSlug": "when-is-the-right-time-for-a-whole-home-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-the-right-time-for-a-whole-home-remodel.html"
+    },
+    {
+      "title": "Mistakes to Avoid During Your Whole-Home Remodel",
+      "anchorSlug": "mistakes-to-avoid-during-your-whole-home-remodel",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-during-your-whole-home-remodel.html"
+    },
+    {
+      "title": "Whole-Home Remodel: A Step-by-Step Guide to Transforming Your Space",
+      "anchorSlug": "whole-home-remodel-a-step-by-step-guide-to-transforming-your-space",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/whole-home-remodel-a-step-by-step-guide-to-transforming-your-space.html"
+    },
+    {
+      "title": "What to Do When Your Custom Renovation Seems Too Complicated?",
+      "anchorSlug": "what-to-do-when-your-custom-renovation-seems-too-complicated",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-custom-renovation-seems-too-complicated.html"
+    },
+    {
+      "title": "Is a Custom Home Renovation Worth the Investment?",
+      "anchorSlug": "is-a-custom-home-renovation-worth-the-investment",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-custom-home-renovation-worth-the-investment.html"
+    },
+    {
+      "title": "How to Plan Your Custom Home Renovation",
+      "anchorSlug": "how-to-plan-your-custom-home-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-custom-home-renovation.html"
+    },
+    {
+      "title": "Why Does My Kitchen Feel So Cramped?",
+      "anchorSlug": "why-does-my-kitchen-feel-so-cramped",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-kitchen-feel-so-cramped.html"
+    },
+    {
+      "title": "When to Call a Pro for Your Kitchen Remodel?",
+      "anchorSlug": "when-to-call-a-pro-for-your-kitchen-remodel",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-your-kitchen-remodel.html"
+    },
+    {
+      "title": "How to Plan Your Kitchen Remodel",
+      "anchorSlug": "how-to-plan-your-kitchen-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-kitchen-remodel.html"
+    },
+    {
+      "title": "Is a Custom Kitchen Renovation Worth the Investment?",
+      "anchorSlug": "is-a-custom-kitchen-renovation-worth-the-investment",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-custom-kitchen-renovation-worth-the-investment.html"
+    },
+    {
+      "title": "Mistakes to Avoid in Your Custom Kitchen Renovation",
+      "anchorSlug": "mistakes-to-avoid-in-your-custom-kitchen-renovation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-in-your-custom-kitchen-renovation.html"
+    },
+    {
+      "title": "Timeline for Your Custom Kitchen Renovation",
+      "anchorSlug": "timeline-for-your-custom-kitchen-renovation",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/timeline-for-your-custom-kitchen-renovation.html"
+    },
+    {
+      "title": "Thinking of a Bathroom Renovation? Avoid These Common Pitfalls",
+      "anchorSlug": "thinking-of-a-bathroom-renovation-avoid-these-common-pitfalls",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thinking-of-a-bathroom-renovation-avoid-these-common-pitfalls.html"
+    },
+    {
+      "title": "Is it Time to Upgrade Your Bathroom? Here's How to Tell",
+      "anchorSlug": "is-it-time-to-upgrade-your-bathroom-here-s-how-to-tell",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-it-time-to-upgrade-your-bathroom-here-s-how-to-tell.html"
+    },
+    {
+      "title": "Your Bathroom Remodel: What to Expect from Start to Finish",
+      "anchorSlug": "your-bathroom-remodel-what-to-expect-from-start-to-finish",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/your-bathroom-remodel-what-to-expect-from-start-to-finish.html"
+    },
+    {
+      "title": "Ready for a New Look? What to Know About Interior Painting",
+      "anchorSlug": "ready-for-a-new-look-what-to-know-about-interior-painting",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ready-for-a-new-look-what-to-know-about-interior-painting.html"
+    },
+    {
+      "title": "Signs Your Home Needs a Fresh Coat of Interior Paint",
+      "anchorSlug": "signs-your-home-needs-a-fresh-coat-of-interior-paint",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-your-home-needs-a-fresh-coat-of-interior-paint.html"
+    },
+    {
+      "title": "How to Plan Your Interior Painting Project for a Smooth Experience",
+      "anchorSlug": "how-to-plan-your-interior-painting-project-for-a-smooth-experience",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-interior-painting-project-for-a-smooth-experience.html"
+    },
+    {
+      "title": "Why does my exterior paint peel and crack?",
+      "anchorSlug": "why-does-my-exterior-paint-peel-and-crack",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-exterior-paint-peel-and-crack.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Choosing Exterior Paint Colors",
+      "anchorSlug": "mistakes-to-avoid-when-choosing-exterior-paint-colors",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-choosing-exterior-paint-colors.html"
+    },
+    {
+      "title": "How to Prepare Your Home for Exterior Painting",
+      "anchorSlug": "how-to-prepare-your-home-for-exterior-painting",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-your-home-for-exterior-painting.html"
+    },
+    {
+      "title": "When to Consider Replacing Your Home's Windows",
+      "anchorSlug": "when-to-consider-replacing-your-home-s-windows",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-consider-replacing-your-home-s-windows.html"
+    },
+    {
+      "title": "Why Are My New Windows Still Drafty?",
+      "anchorSlug": "why-are-my-new-windows-still-drafty",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-my-new-windows-still-drafty.html"
+    },
+    {
+      "title": "What's the Process for a Professional Window Replacement?",
+      "anchorSlug": "what-s-the-process-for-a-professional-window-replacement",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-the-process-for-a-professional-window-replacement.html"
+    },
+    {
+      "title": "My doors look worn out – what should I do?",
+      "anchorSlug": "my-doors-look-worn-out-what-should-i-do",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-doors-look-worn-out-what-should-i-do.html"
+    },
+    {
+      "title": "When is it time to replace a door?",
+      "anchorSlug": "when-is-it-time-to-replace-a-door",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-replace-a-door.html"
+    },
+    {
+      "title": "What’s the process for getting new doors installed?",
+      "anchorSlug": "what-s-the-process-for-getting-new-doors-installed",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-the-process-for-getting-new-doors-installed.html"
+    },
+    {
+      "title": "Are my old windows costing me too much?",
+      "anchorSlug": "are-my-old-windows-costing-me-too-much",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-my-old-windows-costing-me-too-much.html"
+    },
+    {
+      "title": "Mistakes to avoid when planning window replacement?",
+      "anchorSlug": "mistakes-to-avoid-when-planning-window-replacement",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-planning-window-replacement.html"
+    },
+    {
+      "title": "How does window installation work?",
+      "anchorSlug": "how-does-window-installation-work",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-does-window-installation-work.html"
+    },
+    {
+      "title": "Why isn't my door closing right?",
+      "anchorSlug": "why-isn-t-my-door-closing-right",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-isn-t-my-door-closing-right.html"
+    },
+    {
+      "title": "When should I upgrade my home's entryways?",
+      "anchorSlug": "when-should-i-upgrade-my-home-s-entryways",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-upgrade-my-home-s-entryways.html"
+    },
+    {
+      "title": "How to choose the best door for your home",
+      "anchorSlug": "how-to-choose-the-best-door-for-your-home",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-choose-the-best-door-for-your-home.html"
+    },
+    {
+      "title": "What are the signs of a leaky roof?",
+      "anchorSlug": "what-are-the-signs-of-a-leaky-roof",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-signs-of-a-leaky-roof.html"
+    },
+    {
+      "title": "My roof looks old, what's next?",
+      "anchorSlug": "my-roof-looks-old-what-s-next",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-roof-looks-old-what-s-next.html"
+    },
+    {
+      "title": "How to extend your roof's lifespan",
+      "anchorSlug": "how-to-extend-your-roof-s-lifespan",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-extend-your-roof-s-lifespan.html"
+    },
+    {
+      "title": "Worried Your Home Addition Won't Blend In?",
+      "anchorSlug": "worried-your-home-addition-won-t-blend-in",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/worried-your-home-addition-won-t-blend-in.html"
+    },
+    {
+      "title": "When Is the Right Time to Add to Your Home?",
+      "anchorSlug": "when-is-the-right-time-to-add-to-your-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-the-right-time-to-add-to-your-home.html"
+    },
+    {
+      "title": "How to Plan Your Perfect Home Addition",
+      "anchorSlug": "how-to-plan-your-perfect-home-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-perfect-home-addition.html"
+    },
+    {
+      "title": "Thinking About an ADU But Don't Know Where to Start?",
+      "anchorSlug": "thinking-about-an-adu-but-don-t-know-where-to-start",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/thinking-about-an-adu-but-don-t-know-where-to-start.html"
+    },
+    {
+      "title": "Is Building an ADU Right for You?",
+      "anchorSlug": "is-building-an-adu-right-for-you",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-building-an-adu-right-for-you.html"
+    },
+    {
+      "title": "What to Expect During Your ADU Construction Project",
+      "anchorSlug": "what-to-expect-during-your-adu-construction-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-adu-construction-project.html"
+    },
+    {
+      "title": "Is a Garage Conversion to ADU Right for My Property?",
+      "anchorSlug": "is-a-garage-conversion-to-adu-right-for-my-property",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-garage-conversion-to-adu-right-for-my-property.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Garage ADU Projects",
+      "anchorSlug": "avoiding-common-pitfalls-in-garage-adu-projects",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-garage-adu-projects.html"
+    },
+    {
+      "title": "What Are the Key Steps for a Successful Garage ADU Conversion?",
+      "anchorSlug": "what-are-the-key-steps-for-a-successful-garage-adu-conversion",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-key-steps-for-a-successful-garage-adu-conversion.html"
+    },
+    {
+      "title": "When Is New Home Construction the Best Option for You?",
+      "anchorSlug": "when-is-new-home-construction-the-best-option-for-you",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-new-home-construction-the-best-option-for-you.html"
+    },
+    {
+      "title": "Common Mistakes to Steer Clear of in New Home Construction",
+      "anchorSlug": "common-mistakes-to-steer-clear-of-in-new-home-construction",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-to-steer-clear-of-in-new-home-construction.html"
+    },
+    {
+      "title": "How to Plan Your New Home Construction Project",
+      "anchorSlug": "how-to-plan-your-new-home-construction-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-new-home-construction-project.html"
+    },
+    {
+      "title": "Why is my whole-home remodel taking so long?",
+      "anchorSlug": "why-is-my-whole-home-remodel-taking-so-long",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-whole-home-remodel-taking-so-long.html"
+    },
+    {
+      "title": "When should I consider a custom home renovation?",
+      "anchorSlug": "when-should-i-consider-a-custom-home-renovation",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-consider-a-custom-home-renovation.html"
+    },
+    {
+      "title": "What makes a custom renovation truly \"custom\"?",
+      "anchorSlug": "what-makes-a-custom-renovation-truly-custom",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-makes-a-custom-renovation-truly-custom.html"
+    },
+    {
+      "title": "How to budget for a custom home renovation project?",
+      "anchorSlug": "how-to-budget-for-a-custom-home-renovation-project",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-budget-for-a-custom-home-renovation-project.html"
+    },
+    {
+      "title": "Common mistakes when planning a whole-home remodel",
+      "anchorSlug": "common-mistakes-when-planning-a-whole-home-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-when-planning-a-whole-home-remodel.html"
+    },
+    {
+      "title": "Is a whole-home remodel right for my family?",
+      "anchorSlug": "is-a-whole-home-remodel-right-for-my-family",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-whole-home-remodel-right-for-my-family.html"
+    },
+    {
+      "title": "What to Do When Your Kitchen Layout Just Doesn't Work Anymore",
+      "anchorSlug": "what-to-do-when-your-kitchen-layout-just-doesn-t-work-anymore",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-kitchen-layout-just-doesn-t-work-anymore.html"
+    },
+    {
+      "title": "Are You Making These Common Kitchen Remodeling Mistakes?",
+      "anchorSlug": "are-you-making-these-common-kitchen-remodeling-mistakes",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/are-you-making-these-common-kitchen-remodeling-mistakes.html"
+    },
+    {
+      "title": "What's the Process for a Custom Kitchen Design and Build?",
+      "anchorSlug": "what-s-the-process-for-a-custom-kitchen-design-and-build",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-the-process-for-a-custom-kitchen-design-and-build.html"
+    },
+    {
+      "title": "When is it Time to Completely Redo Your Kitchen?",
+      "anchorSlug": "when-is-it-time-to-completely-redo-your-kitchen",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-completely-redo-your-kitchen.html"
+    },
+    {
+      "title": "How to Choose the Right Materials for Your Dream Kitchen",
+      "anchorSlug": "how-to-choose-the-right-materials-for-your-dream-kitchen",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-choose-the-right-materials-for-your-dream-kitchen.html"
+    },
+    {
+      "title": "Is a full kitchen remodel the right move for my home in Southern California?",
+      "anchorSlug": "is-a-full-kitchen-remodel-the-right-move-for-my-home-in-southern-califor",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-full-kitchen-remodel-the-right-move-for-my-home-in-southern-califor.html"
+    },
+    {
+      "title": "What are the common pitfalls in a bathroom remodel?",
+      "anchorSlug": "what-are-the-common-pitfalls-in-a-bathroom-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-common-pitfalls-in-a-bathroom-remodel.html"
+    },
+    {
+      "title": "When should I consider a full bathroom remodel?",
+      "anchorSlug": "when-should-i-consider-a-full-bathroom-remodel",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-consider-a-full-bathroom-remodel.html"
+    },
+    {
+      "title": "How can I plan a bathroom remodel that truly fits my needs?",
+      "anchorSlug": "how-can-i-plan-a-bathroom-remodel-that-truly-fits-my-needs",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-can-i-plan-a-bathroom-remodel-that-truly-fits-my-needs.html"
+    },
+    {
+      "title": "My walls look dull and tired, what should I do?",
+      "anchorSlug": "my-walls-look-dull-and-tired-what-should-i-do",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-walls-look-dull-and-tired-what-should-i-do.html"
+    },
+    {
+      "title": "When is it time to repaint my home's interior?",
+      "anchorSlug": "when-is-it-time-to-repaint-my-home-s-interior",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-it-time-to-repaint-my-home-s-interior.html"
+    },
+    {
+      "title": "What are the steps for a professional interior paint job?",
+      "anchorSlug": "what-are-the-steps-for-a-professional-interior-paint-job",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-steps-for-a-professional-interior-paint-job.html"
+    },
+    {
+      "title": "Why Does My Exterior Paint Look Faded So Soon?",
+      "anchorSlug": "why-does-my-exterior-paint-look-faded-so-soon",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-exterior-paint-look-faded-so-soon.html"
+    },
+    {
+      "title": "Is It Time to Repaint My Home's Exterior?",
+      "anchorSlug": "is-it-time-to-repaint-my-home-s-exterior",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-it-time-to-repaint-my-home-s-exterior.html"
+    },
+    {
+      "title": "How to Get a Long-Lasting Exterior Paint Job",
+      "anchorSlug": "how-to-get-a-long-lasting-exterior-paint-job",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-get-a-long-lasting-exterior-paint-job.html"
+    },
+    {
+      "title": "What Are the Signs I Need New Windows?",
+      "anchorSlug": "what-are-the-signs-i-need-new-windows",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-signs-i-need-new-windows.html"
+    },
+    {
+      "title": "Can Replacing Windows Really Boost My Home's Value?",
+      "anchorSlug": "can-replacing-windows-really-boost-my-home-s-value",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/can-replacing-windows-really-boost-my-home-s-value.html"
+    },
+    {
+      "title": "What Happens During a Window Replacement Project?",
+      "anchorSlug": "what-happens-during-a-window-replacement-project",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-happens-during-a-window-replacement-project.html"
+    },
+    {
+      "title": "Why Your Doors Might Need Replacing Sooner Than You Think",
+      "anchorSlug": "why-your-doors-might-need-replacing-sooner-than-you-think",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-doors-might-need-replacing-sooner-than-you-think.html"
+    },
+    {
+      "title": "What to Know Before Your New Doors Are Installed",
+      "anchorSlug": "what-to-know-before-your-new-doors-are-installed",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-know-before-your-new-doors-are-installed.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Door Replacement",
+      "anchorSlug": "avoiding-common-pitfalls-in-door-replacement",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-door-replacement.html"
+    },
+    {
+      "title": "Is it Time to Replace Your Drafty Windows?",
+      "anchorSlug": "is-it-time-to-replace-your-drafty-windows",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-it-time-to-replace-your-drafty-windows.html"
+    },
+    {
+      "title": "How to Choose the Right Windows for Your Southern California Home",
+      "anchorSlug": "how-to-choose-the-right-windows-for-your-southern-california-home",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-choose-the-right-windows-for-your-southern-california-home.html"
+    },
+    {
+      "title": "Understanding the Window Replacement Process",
+      "anchorSlug": "understanding-the-window-replacement-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/understanding-the-window-replacement-process.html"
+    },
+    {
+      "title": "Why is my roof leaking after a small storm?",
+      "anchorSlug": "why-is-my-roof-leaking-after-a-small-storm",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-is-my-roof-leaking-after-a-small-storm.html"
+    },
+    {
+      "title": "When should I consider replacing my old roof?",
+      "anchorSlug": "when-should-i-consider-replacing-my-old-roof",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-consider-replacing-my-old-roof.html"
+    },
+    {
+      "title": "What to expect during a roof replacement project?",
+      "anchorSlug": "what-to-expect-during-a-roof-replacement-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-roof-replacement-project.html"
+    },
+    {
+      "title": "What are the signs of a poorly installed door?",
+      "anchorSlug": "what-are-the-signs-of-a-poorly-installed-door",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-signs-of-a-poorly-installed-door.html"
+    },
+    {
+      "title": "How can I prevent drafts around my entry doors?",
+      "anchorSlug": "how-can-i-prevent-drafts-around-my-entry-doors",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-can-i-prevent-drafts-around-my-entry-doors.html"
+    },
+    {
+      "title": "How to prepare my home for new door installation?",
+      "anchorSlug": "how-to-prepare-my-home-for-new-door-installation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-prepare-my-home-for-new-door-installation.html"
+    },
+    {
+      "title": "When is a Home Addition the Right Move for You?",
+      "anchorSlug": "when-is-a-home-addition-the-right-move-for-you",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-a-home-addition-the-right-move-for-you.html"
+    },
+    {
+      "title": "How to Plan Your Home Addition Project",
+      "anchorSlug": "how-to-plan-your-home-addition-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-home-addition-project.html"
+    },
+    {
+      "title": "What is an ADU and Why Should You Consider Building One?",
+      "anchorSlug": "what-is-an-adu-and-why-should-you-consider-building-one",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-is-an-adu-and-why-should-you-consider-building-one.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in ADU Construction",
+      "anchorSlug": "avoiding-common-pitfalls-in-adu-construction",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-adu-construction.html"
+    },
+    {
+      "title": "How to Maximize Your ADU's Rental Potential",
+      "anchorSlug": "how-to-maximize-your-adu-s-rental-potential",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-maximize-your-adu-s-rental-potential.html"
+    },
+    {
+      "title": "Why Isn't My Garage Conversion Getting Approved?",
+      "anchorSlug": "why-isn-t-my-garage-conversion-getting-approved",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-isn-t-my-garage-conversion-getting-approved.html"
+    },
+    {
+      "title": "What to Expect During Your Garage-to-ADU Project",
+      "anchorSlug": "what-to-expect-during-your-garage-to-adu-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-garage-to-adu-project.html"
+    },
+    {
+      "title": "When Should You Convert Your Garage to an ADU?",
+      "anchorSlug": "when-should-you-convert-your-garage-to-an-adu",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-convert-your-garage-to-an-adu.html"
+    },
+    {
+      "title": "My New Home Build is Over Budget – What Went Wrong?",
+      "anchorSlug": "my-new-home-build-is-over-budget-what-went-wrong",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/my-new-home-build-is-over-budget-what-went-wrong.html"
+    },
+    {
+      "title": "How to Plan Your New Home Construction",
+      "anchorSlug": "how-to-plan-your-new-home-construction",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-new-home-construction.html"
+    },
+    {
+      "title": "When Should I Hire a General Contractor for a New Build?",
+      "anchorSlug": "when-should-i-hire-a-general-contractor-for-a-new-build",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-hire-a-general-contractor-for-a-new-build.html"
+    },
+    {
+      "title": "What to Do When Your Whole-Home Remodel Feels Overwhelming",
+      "anchorSlug": "what-to-do-when-your-whole-home-remodel-feels-overwhelming",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-do-when-your-whole-home-remodel-feels-overwhelming.html"
+    },
+    {
+      "title": "How to Plan Your Whole-Home Remodel So It Stays on Budget",
+      "anchorSlug": "how-to-plan-your-whole-home-remodel-so-it-stays-on-budget",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-whole-home-remodel-so-it-stays-on-budget.html"
+    },
+    {
+      "title": "Signs Your Whole-Home Remodel Needs Professional Help",
+      "anchorSlug": "signs-your-whole-home-remodel-needs-professional-help",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/signs-your-whole-home-remodel-needs-professional-help.html"
+    },
+    {
+      "title": "When to Consider Custom Home Renovations Over Standard Upgrades",
+      "anchorSlug": "when-to-consider-custom-home-renovations-over-standard-upgrades",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-consider-custom-home-renovations-over-standard-upgrades.html"
+    },
+    {
+      "title": "How to Ensure Your Custom Home Renovation Reflects Your Style",
+      "anchorSlug": "how-to-ensure-your-custom-home-renovation-reflects-your-style",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-ensure-your-custom-home-renovation-reflects-your-style.html"
+    },
+    {
+      "title": "What to Expect During a Custom Home Renovation Project",
+      "anchorSlug": "what-to-expect-during-a-custom-home-renovation-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-custom-home-renovation-project.html"
+    },
+    {
+      "title": "Why Your Kitchen Renovation Costs Are Spiraling Out of Control",
+      "anchorSlug": "why-your-kitchen-renovation-costs-are-spiraling-out-of-control",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-kitchen-renovation-costs-are-spiraling-out-of-control.html"
+    },
+    {
+      "title": "When Should You Consider a Full Kitchen Overhaul?",
+      "anchorSlug": "when-should-you-consider-a-full-kitchen-overhaul",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-you-consider-a-full-kitchen-overhaul.html"
+    },
+    {
+      "title": "How to Plan Your Dream Kitchen Remodel Effectively",
+      "anchorSlug": "how-to-plan-your-dream-kitchen-remodel-effectively",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-dream-kitchen-remodel-effectively.html"
+    },
+    {
+      "title": "Avoiding Common Pitfalls in Custom Kitchen Design",
+      "anchorSlug": "avoiding-common-pitfalls-in-custom-kitchen-design",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-pitfalls-in-custom-kitchen-design.html"
+    },
+    {
+      "title": "Is a Kitchen Remodel Right for My Home in Southern California?",
+      "anchorSlug": "is-a-kitchen-remodel-right-for-my-home-in-southern-california",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-kitchen-remodel-right-for-my-home-in-southern-california.html"
+    },
+    {
+      "title": "What to Expect During Your Custom Kitchen Renovation Project",
+      "anchorSlug": "what-to-expect-during-your-custom-kitchen-renovation-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-your-custom-kitchen-renovation-project.html"
+    },
+    {
+      "title": "Why Does My Bathroom Remodel Cost So Much?",
+      "anchorSlug": "why-does-my-bathroom-remodel-cost-so-much",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-does-my-bathroom-remodel-cost-so-much.html"
+    },
+    {
+      "title": "When to Call a Pro for Your Bathroom Renovation?",
+      "anchorSlug": "when-to-call-a-pro-for-your-bathroom-renovation",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-your-bathroom-renovation.html"
+    },
+    {
+      "title": "What Are the Biggest Mistakes to Avoid When Painting My Home Interior?",
+      "anchorSlug": "what-are-the-biggest-mistakes-to-avoid-when-painting-my-home-interior",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-are-the-biggest-mistakes-to-avoid-when-painting-my-home-interior.html"
+    },
+    {
+      "title": "When Should I Consider Professional Interior Painting Services?",
+      "anchorSlug": "when-should-i-consider-professional-interior-painting-services",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-consider-professional-interior-painting-services.html"
+    },
+    {
+      "title": "Is Professional Interior Painting Worth the Investment?",
+      "anchorSlug": "is-professional-interior-painting-worth-the-investment",
+      "categorySlug": null,
+      "status": "unassigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-professional-interior-painting-worth-the-investment.html"
+    },
+    {
+      "title": "When Should I Consider Repainting My Home's Exterior?",
+      "anchorSlug": "when-should-i-consider-repainting-my-home-s-exterior",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-should-i-consider-repainting-my-home-s-exterior.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Planning Your Exterior Paint Job",
+      "anchorSlug": "mistakes-to-avoid-when-planning-your-exterior-paint-job",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-planning-your-exterior-paint-job.html"
+    },
+    {
+      "title": "What's the Exterior Painting Process Look Like?",
+      "anchorSlug": "what-s-the-exterior-painting-process-look-like",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-s-the-exterior-painting-process-look-like.html"
+    },
+    {
+      "title": "Is it time to replace my old windows?",
+      "anchorSlug": "is-it-time-to-replace-my-old-windows",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-it-time-to-replace-my-old-windows.html"
+    },
+    {
+      "title": "How Do I Choose the Right Replacement Windows for My Home?",
+      "anchorSlug": "how-do-i-choose-the-right-replacement-windows-for-my-home",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-do-i-choose-the-right-replacement-windows-for-my-home.html"
+    },
+    {
+      "title": "When to Call a Pro for Window Replacement",
+      "anchorSlug": "when-to-call-a-pro-for-window-replacement",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-call-a-pro-for-window-replacement.html"
+    },
+    {
+      "title": "Why Are My Windows Drafty?",
+      "anchorSlug": "why-are-my-windows-drafty",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-my-windows-drafty.html"
+    },
+    {
+      "title": "How to Plan Your Window Installation Project",
+      "anchorSlug": "how-to-plan-your-window-installation-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-window-installation-project.html"
+    },
+    {
+      "title": "Is It Time to Replace My Exterior Doors?",
+      "anchorSlug": "is-it-time-to-replace-my-exterior-doors",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-it-time-to-replace-my-exterior-doors.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Replacing Your Doors",
+      "anchorSlug": "mistakes-to-avoid-when-replacing-your-doors",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-replacing-your-doors.html"
+    },
+    {
+      "title": "How to Get Started with a Door Replacement Project",
+      "anchorSlug": "how-to-get-started-with-a-door-replacement-project",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-get-started-with-a-door-replacement-project.html"
+    },
+    {
+      "title": "Why Your New Door Installation Might Be Lagging",
+      "anchorSlug": "why-your-new-door-installation-might-be-lagging",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-new-door-installation-might-be-lagging.html"
+    },
+    {
+      "title": "When Is The Right Time to Replace Your Old Doors?",
+      "anchorSlug": "when-is-the-right-time-to-replace-your-old-doors",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-the-right-time-to-replace-your-old-doors.html"
+    },
+    {
+      "title": "How to Plan Your Door Installation Project",
+      "anchorSlug": "how-to-plan-your-door-installation-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-your-door-installation-project.html"
+    },
+    {
+      "title": "Is Your Roof Showing Signs of Trouble?",
+      "anchorSlug": "is-your-roof-showing-signs-of-trouble",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-roof-showing-signs-of-trouble.html"
+    },
+    {
+      "title": "What to Expect During a Major Roofing Project",
+      "anchorSlug": "what-to-expect-during-a-major-roofing-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-major-roofing-project.html"
+    },
+    {
+      "title": "Mistakes to Avoid When Getting a New Roof",
+      "anchorSlug": "mistakes-to-avoid-when-getting-a-new-roof",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/mistakes-to-avoid-when-getting-a-new-roof.html"
+    },
+    {
+      "title": "Deciding on Interior House Painting: When to Bring in the Pros",
+      "anchorSlug": "deciding-on-interior-house-painting-when-to-bring-in-the-pros",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/deciding-on-interior-house-painting-when-to-bring-in-the-pros.html"
+    },
+    {
+      "title": "Preparing Your Walls for Interior Painting: A Simple Checklist",
+      "anchorSlug": "preparing-your-walls-for-interior-painting-a-simple-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-your-walls-for-interior-painting-a-simple-checklist.html"
+    },
+    {
+      "title": "Why Your Interior Paint Job Might Not Last: Common Mistakes to Avoid",
+      "anchorSlug": "why-your-interior-paint-job-might-not-last-common-mistakes-to-avoid",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-interior-paint-job-might-not-last-common-mistakes-to-avoid.html"
+    },
+    {
+      "title": "Why Your Exterior Paint Job Needs More Than Just a New Coat",
+      "anchorSlug": "why-your-exterior-paint-job-needs-more-than-just-a-new-coat",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-your-exterior-paint-job-needs-more-than-just-a-new-coat.html"
+    },
+    {
+      "title": "When Is the Best Time for Exterior House Painting in Southern California?",
+      "anchorSlug": "when-is-the-best-time-for-exterior-house-painting-in-southern-california",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-is-the-best-time-for-exterior-house-painting-in-southern-california.html"
+    },
+    {
+      "title": "Protecting Your Home: A Checklist for Exterior Paint Preparation",
+      "anchorSlug": "protecting-your-home-a-checklist-for-exterior-paint-preparation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/protecting-your-home-a-checklist-for-exterior-paint-preparation.html"
+    },
+    {
+      "title": "Why Are My Energy Bills So High? Understanding Insulation Issues",
+      "anchorSlug": "why-are-my-energy-bills-so-high-understanding-insulation-issues",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/why-are-my-energy-bills-so-high-understanding-insulation-issues.html"
+    },
+    {
+      "title": "What to Know Before Installing New Insulation",
+      "anchorSlug": "what-to-know-before-installing-new-insulation",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-know-before-installing-new-insulation.html"
+    },
+    {
+      "title": "Preparing Your Home for an Insulation Installation Project",
+      "anchorSlug": "preparing-your-home-for-an-insulation-installation-project",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-your-home-for-an-insulation-installation-project.html"
+    },
+    {
+      "title": "Should I Upgrade My Home's Insulation? Signs It's Time",
+      "anchorSlug": "should-i-upgrade-my-home-s-insulation-signs-it-s-time",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/should-i-upgrade-my-home-s-insulation-signs-it-s-time.html"
+    },
+    {
+      "title": "Common Mistakes When Upgrading Attic Insulation",
+      "anchorSlug": "common-mistakes-when-upgrading-attic-insulation",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/common-mistakes-when-upgrading-attic-insulation.html"
+    },
+    {
+      "title": "Is Adding Insulation Worthwhile, or Should Old Insulation Be Removed?",
+      "anchorSlug": "is-adding-insulation-worthwhile-or-should-old-insulation-be-removed",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-adding-insulation-worthwhile-or-should-old-insulation-be-removed.html"
+    },
+    {
+      "title": "Choosing the Right Flooring Installation: What to Consider for Your Home",
+      "anchorSlug": "choosing-the-right-flooring-installation-what-to-consider-for-your-home",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/choosing-the-right-flooring-installation-what-to-consider-for-your-home.html"
+    },
+    {
+      "title": "Flooring Installation: Common Mistakes to Avoid for a Smooth Process",
+      "anchorSlug": "flooring-installation-common-mistakes-to-avoid-for-a-smooth-process",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/flooring-installation-common-mistakes-to-avoid-for-a-smooth-process.html"
+    },
+    {
+      "title": "What to Expect During a Professional Flooring Installation Project",
+      "anchorSlug": "what-to-expect-during-a-professional-flooring-installation-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-professional-flooring-installation-project.html"
+    },
+    {
+      "title": "When to Replace Your Flooring: Signs You Need an Upgrade",
+      "anchorSlug": "when-to-replace-your-flooring-signs-you-need-an-upgrade",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-replace-your-flooring-signs-you-need-an-upgrade.html"
+    },
+    {
+      "title": "Flooring Replacement After Water Damage: When to Call a Pro",
+      "anchorSlug": "flooring-replacement-after-water-damage-when-to-call-a-pro",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/flooring-replacement-after-water-damage-when-to-call-a-pro.html"
+    },
+    {
+      "title": "What to Expect During a Professional Flooring Replacement Project",
+      "anchorSlug": "what-to-expect-during-a-professional-flooring-replacement-project",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-expect-during-a-professional-flooring-replacement-project.html"
+    },
+    {
+      "title": "When Stucco Cracks Signal a Bigger Problem",
+      "anchorSlug": "when-stucco-cracks-signal-a-bigger-problem",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-stucco-cracks-signal-a-bigger-problem.html"
+    },
+    {
+      "title": "Avoiding Common Mistakes in Stucco Repair Projects",
+      "anchorSlug": "avoiding-common-mistakes-in-stucco-repair-projects",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/avoiding-common-mistakes-in-stucco-repair-projects.html"
+    },
+    {
+      "title": "What to Ask a Contractor About Stucco Repair Quality",
+      "anchorSlug": "what-to-ask-a-contractor-about-stucco-repair-quality",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/what-to-ask-a-contractor-about-stucco-repair-quality.html"
+    },
+    {
+      "title": "When to Replace Stucco vs. Just Repair It",
+      "anchorSlug": "when-to-replace-stucco-vs-just-repair-it",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-to-replace-stucco-vs-just-repair-it.html"
+    },
+    {
+      "title": "Preparing for Stucco Replacement: What Homeowners Need to Know",
+      "anchorSlug": "preparing-for-stucco-replacement-what-homeowners-need-to-know",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/preparing-for-stucco-replacement-what-homeowners-need-to-know.html"
+    },
+    {
+      "title": "How to Plan for Extensive Stucco Replacement",
+      "anchorSlug": "how-to-plan-for-extensive-stucco-replacement",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/how-to-plan-for-extensive-stucco-replacement.html"
+    },
+    {
+      "title": "Room Addition Mistakes to Avoid",
+      "anchorSlug": "room-addition-mistakes-to-avoid",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/room-addition-mistakes-to-avoid.html"
+    },
+    {
+      "title": "Is a Room Addition Right for Your Expanding Family?",
+      "anchorSlug": "is-a-room-addition-right-for-your-expanding-family",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-a-room-addition-right-for-your-expanding-family.html"
+    },
+    {
+      "title": "Your Room Addition Project: What to Expect",
+      "anchorSlug": "your-room-addition-project-what-to-expect",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/your-room-addition-project-what-to-expect.html"
+    },
+    {
+      "title": "Is Your Home Ready for a Second-Story Addition?",
+      "anchorSlug": "is-your-home-ready-for-a-second-story-addition",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/is-your-home-ready-for-a-second-story-addition.html"
+    },
+    {
+      "title": "Navigating Your Second-Story Addition Timeline",
+      "anchorSlug": "navigating-your-second-story-addition-timeline",
+      "categorySlug": "services-and-process",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-your-second-story-addition-timeline.html"
+    },
+    {
+      "title": "Planning Your Second-Story Addition: A Checklist",
+      "anchorSlug": "planning-your-second-story-addition-a-checklist",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/planning-your-second-story-addition-a-checklist.html"
+    },
+    {
+      "title": "Primary Suite Addition: Choosing the Right Contractor",
+      "anchorSlug": "primary-suite-addition-choosing-the-right-contractor",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/primary-suite-addition-choosing-the-right-contractor.html"
+    },
+    {
+      "title": "When a Primary Suite Addition Needs an Expert Eye",
+      "anchorSlug": "when-a-primary-suite-addition-needs-an-expert-eye",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/when-a-primary-suite-addition-needs-an-expert-eye.html"
+    },
+    {
+      "title": "Primary Suite Addition: Preparing Your Home for Construction",
+      "anchorSlug": "primary-suite-addition-preparing-your-home-for-construction",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/primary-suite-addition-preparing-your-home-for-construction.html"
+    },
+    {
+      "title": "Detached ADU Construction: Is Your Lot Ready?",
+      "anchorSlug": "detached-adu-construction-is-your-lot-ready",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/detached-adu-construction-is-your-lot-ready.html"
+    },
+    {
+      "title": "Detached ADU Mistakes to Avoid During Planning",
+      "anchorSlug": "detached-adu-mistakes-to-avoid-during-planning",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/detached-adu-mistakes-to-avoid-during-planning.html"
+    },
+    {
+      "title": "Navigating Detached ADU Regulations: What to Check First",
+      "anchorSlug": "navigating-detached-adu-regulations-what-to-check-first",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/navigating-detached-adu-regulations-what-to-check-first.html"
+    },
+    {
+      "title": "Attached ADU Construction: What Qualifies as an Attached ADU?",
+      "anchorSlug": "attached-adu-construction-what-qualifies-as-an-attached-adu",
+      "categorySlug": "local-service-guidance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/attached-adu-construction-what-qualifies-as-an-attached-adu.html"
+    },
+    {
+      "title": "Junior ADU Construction: How to Maximize Your Space",
+      "anchorSlug": "junior-adu-construction-how-to-maximize-your-space",
+      "categorySlug": "getting-started",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/junior-adu-construction-how-to-maximize-your-space.html"
+    },
+    {
+      "title": "Attached ADU Construction: Avoiding Common Permitting Pitfalls",
+      "anchorSlug": "attached-adu-construction-avoiding-common-permitting-pitfalls",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/attached-adu-construction-avoiding-common-permitting-pitfalls.html"
+    },
+    {
+      "title": "Junior ADU Construction: Navigating Owner-Occupancy Rules",
+      "anchorSlug": "junior-adu-construction-navigating-owner-occupancy-rules",
+      "categorySlug": "care-and-maintenance",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/junior-adu-construction-navigating-owner-occupancy-rules.html"
+    },
+    {
+      "title": "Attached ADU Construction: When Do You Need an Architect?",
+      "anchorSlug": "attached-adu-construction-when-do-you-need-an-architect",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/attached-adu-construction-when-do-you-need-an-architect.html"
+    },
+    {
+      "title": "Junior ADU Construction: Preparing for Your Permit Application",
+      "anchorSlug": "junior-adu-construction-preparing-for-your-permit-application",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/junior-adu-construction-preparing-for-your-permit-application.html"
+    },
+    {
+      "title": "ADU Design: Why Your Project Might Get Stuck in Permitting",
+      "anchorSlug": "adu-design-why-your-project-might-get-stuck-in-permitting",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-design-why-your-project-might-get-stuck-in-permitting.html"
+    },
+    {
+      "title": "Ground-Up Construction: What to Consider Before Buying a Lot",
+      "anchorSlug": "ground-up-construction-what-to-consider-before-buying-a-lot",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/ground-up-construction-what-to-consider-before-buying-a-lot.html"
+    },
+    {
+      "title": "ADU Build: How to Avoid Common Site and Utility Snags",
+      "anchorSlug": "adu-build-how-to-avoid-common-site-and-utility-snags",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-build-how-to-avoid-common-site-and-utility-snags.html"
+    },
+    {
+      "title": "New Home Construction: When to Bring in a Professional Team",
+      "anchorSlug": "new-home-construction-when-to-bring-in-a-professional-team",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/new-home-construction-when-to-bring-in-a-professional-team.html"
+    },
+    {
+      "title": "ADU Project: What You Need to Prepare for a Smooth Start",
+      "anchorSlug": "adu-project-what-you-need-to-prepare-for-a-smooth-start",
+      "categorySlug": "planning-and-preparation",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/adu-project-what-you-need-to-prepare-for-a-smooth-start.html"
+    },
+    {
+      "title": "Building a New Home: How to Budget Effectively for Unexpected Costs",
+      "anchorSlug": "building-a-new-home-how-to-budget-effectively-for-unexpected-costs",
+      "categorySlug": "pricing-and-estimates",
+      "status": "assigned",
+      "standaloneReason": null,
+      "legacyUrl": "help/building-a-new-home-how-to-budget-effectively-for-unexpected-costs.html"
+    }
+  ],
+  "migrations": [],
+  "sitemapInclude": [
+    "https://affordablehomeremodeling.aiovisibility.net/articles.html",
+    "https://affordablehomeremodeling.aiovisibility.net/articles/getting-started.html",
+    "https://affordablehomeremodeling.aiovisibility.net/articles/services-and-process.html",
+    "https://affordablehomeremodeling.aiovisibility.net/articles/planning-and-preparation.html",
+    "https://affordablehomeremodeling.aiovisibility.net/articles/pricing-and-estimates.html",
+    "https://affordablehomeremodeling.aiovisibility.net/articles/local-service-guidance.html",
+    "https://affordablehomeremodeling.aiovisibility.net/articles/care-and-maintenance.html"
+  ],
+  "sitemapRemove": []
+}
