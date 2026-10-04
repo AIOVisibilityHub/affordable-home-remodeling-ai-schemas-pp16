@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-30T00:01:03.272Z",
+  "generatedAt": "2026-10-04T00:35:31.168Z",
   "client": {
     "name": "Affordable Home Remodeling",
     "canonicalUrl": "https://affordablehomeremodeling.aiovisibility.net",
@@ -130,7 +130,7 @@
   },
   "package": {
     "totalFiles": 2224,
-    "totalBytes": 9113958,
+    "totalBytes": 9219246,
     "stats": {
       "qna": 0,
       "faqs": 1787,
@@ -2022,6 +2022,11 @@
       {
         "path": "help/building-a-new-home-how-to-budget-effectively-for-unexpected-costs.json",
         "bytes": 4557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/publishing-plan.json",
+        "bytes": 82283,
         "purpose": "schema"
       }
     ],
@@ -11154,77 +11159,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 20387,
+        "bytes": 26159,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 156113,
+        "bytes": 161737,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 80163,
+        "bytes": 85786,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 48817,
+        "bytes": 54239,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 18789,
+        "bytes": 24302,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1305741,
+        "bytes": 1311268,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 20370,
+        "bytes": 25469,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 147096,
+        "bytes": 152571,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 159528,
+        "bytes": 181475,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 102265,
+        "bytes": 108474,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 292802,
+        "bytes": 287635,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 268319,
+        "bytes": 246951,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 77972,
+        "bytes": 73130,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 61660,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "articles/unassigned.html",
-        "bytes": 9975,
+        "bytes": 53966,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -11261,17 +11261,17 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 1012770,
+        "bytes": 1012762,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 293886,
+        "bytes": 293868,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 293886,
+        "bytes": 293868,
         "purpose": "Extended LLM context (markdown)"
       },
       {
@@ -11281,17 +11281,17 @@
       },
       {
         "path": "README.md",
-        "bytes": 342310,
+        "bytes": 342293,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 314879,
+        "bytes": 314880,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1849,
+        "bytes": 1749,
         "purpose": "Standard sitemap"
       }
     ]
