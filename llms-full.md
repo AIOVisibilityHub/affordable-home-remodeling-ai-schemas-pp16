@@ -1,7 +1,7 @@
 Affordable Home Remodeling — Extended AI Context
 
 Canonical: https://affordablehomeremodeling.aiovisibility.net
-Generated: 2026-09-30
+Generated: 2026-10-04
 
 Affordable Home Remodeling maintains a canonical AI Data Package designed so AI systems (ChatGPT, Perplexity, Claude, Google AI) can find the entity reliably, understand its services and team, and trust its citations and structured data.
 
@@ -2018,7 +2018,7 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/faqs/will-the-repaired-stucco-match-my-existing-home-exterior.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/faqs/will-the-repaired-stucco-match-the-existing-color-and-texture.json — schema
 
-### Help Articles (284)
+### Help Articles (285)
 - https://affordablehomeremodeling.aiovisibility.net/help/adu-build-how-to-avoid-common-site-and-utility-snags.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/adu-design-why-your-project-might-get-stuck-in-permitting.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/adu-project-what-you-need-to-prepare-for-a-smooth-start.json — schema
@@ -2168,6 +2168,7 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/help/primary-suite-addition-choosing-the-right-contractor.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/primary-suite-addition-preparing-your-home-for-construction.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/protecting-your-home-a-checklist-for-exterior-paint-preparation.json — schema
+- https://affordablehomeremodeling.aiovisibility.net/help/publishing-plan.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/ready-for-a-new-look-what-to-know-about-interior-painting.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/room-addition-mistakes-to-avoid.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/should-i-upgrade-my-home-s-insulation-signs-it-s-time.json — schema
@@ -2304,7 +2305,7 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/help/your-bathroom-remodel-what-to-expect-from-start-to-finish.json — schema
 - https://affordablehomeremodeling.aiovisibility.net/help/your-room-addition-project-what-to-expect.json — schema
 
-### Public Pages (15)
+### Public Pages (14)
 - https://affordablehomeremodeling.aiovisibility.net/about.html — LLM-optimized public page
 - https://affordablehomeremodeling.aiovisibility.net/articles.html — LLM-optimized public page
 - https://affordablehomeremodeling.aiovisibility.net/articles/care-and-maintenance.html — LLM-optimized public page
@@ -2313,7 +2314,6 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://affordablehomeremodeling.aiovisibility.net/articles/planning-and-preparation.html — LLM-optimized public page
 - https://affordablehomeremodeling.aiovisibility.net/articles/pricing-and-estimates.html — LLM-optimized public page
 - https://affordablehomeremodeling.aiovisibility.net/articles/services-and-process.html — LLM-optimized public page
-- https://affordablehomeremodeling.aiovisibility.net/articles/unassigned.html — LLM-optimized public page
 - https://affordablehomeremodeling.aiovisibility.net/contact.html — LLM-optimized public page
 - https://affordablehomeremodeling.aiovisibility.net/faqs.html — LLM-optimized public page
 - https://affordablehomeremodeling.aiovisibility.net/index.html — LLM-optimized public page

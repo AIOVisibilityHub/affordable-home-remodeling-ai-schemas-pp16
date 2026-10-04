@@ -1923,7 +1923,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/will-the-repaired-stucco-match-my-existing-home-exterior.json`](./faqs/will-the-repaired-stucco-match-my-existing-home-exterior.json) — schema
 - [`faqs/will-the-repaired-stucco-match-the-existing-color-and-texture.json`](./faqs/will-the-repaired-stucco-match-the-existing-color-and-texture.json) — schema
 
-### Help Articles (284)
+### Help Articles (285)
 - [`help/adu-build-how-to-avoid-common-site-and-utility-snags.json`](./help/adu-build-how-to-avoid-common-site-and-utility-snags.json) — schema
 - [`help/adu-design-why-your-project-might-get-stuck-in-permitting.json`](./help/adu-design-why-your-project-might-get-stuck-in-permitting.json) — schema
 - [`help/adu-project-what-you-need-to-prepare-for-a-smooth-start.json`](./help/adu-project-what-you-need-to-prepare-for-a-smooth-start.json) — schema
@@ -2073,6 +2073,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/primary-suite-addition-choosing-the-right-contractor.json`](./help/primary-suite-addition-choosing-the-right-contractor.json) — schema
 - [`help/primary-suite-addition-preparing-your-home-for-construction.json`](./help/primary-suite-addition-preparing-your-home-for-construction.json) — schema
 - [`help/protecting-your-home-a-checklist-for-exterior-paint-preparation.json`](./help/protecting-your-home-a-checklist-for-exterior-paint-preparation.json) — schema
+- [`help/publishing-plan.json`](./help/publishing-plan.json) — schema
 - [`help/ready-for-a-new-look-what-to-know-about-interior-painting.json`](./help/ready-for-a-new-look-what-to-know-about-interior-painting.json) — schema
 - [`help/room-addition-mistakes-to-avoid.json`](./help/room-addition-mistakes-to-avoid.json) — schema
 - [`help/should-i-upgrade-my-home-s-insulation-signs-it-s-time.json`](./help/should-i-upgrade-my-home-s-insulation-signs-it-s-time.json) — schema
@@ -2209,7 +2210,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/your-bathroom-remodel-what-to-expect-from-start-to-finish.json`](./help/your-bathroom-remodel-what-to-expect-from-start-to-finish.json) — schema
 - [`help/your-room-addition-project-what-to-expect.json`](./help/your-room-addition-project-what-to-expect.json) — schema
 
-### Public Pages (15)
+### Public Pages (14)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
 - [`articles/care-and-maintenance.html`](./articles/care-and-maintenance.html) — LLM-optimized public page
@@ -2218,7 +2219,6 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`articles/planning-and-preparation.html`](./articles/planning-and-preparation.html) — LLM-optimized public page
 - [`articles/pricing-and-estimates.html`](./articles/pricing-and-estimates.html) — LLM-optimized public page
 - [`articles/services-and-process.html`](./articles/services-and-process.html) — LLM-optimized public page
-- [`articles/unassigned.html`](./articles/unassigned.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
