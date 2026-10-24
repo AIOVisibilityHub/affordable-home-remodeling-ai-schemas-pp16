@@ -2,7 +2,7 @@
 <html lang="en"><head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Services — Affordable Home Remodeling</title>
-<meta name="description" content="Affordable Home Remodeling services: ADU construction, ADU design and build, Attached ADU, attached ADU construction, Attic Insulation.">
+<meta name="description" content="Affordable Home Remodeling services: ADU construction, ADU design and build, Attached ADU, attached ADU construction, bathroom remodeling.">
 <style>
 body{font-family:system-ui,-apple-system,sans-serif;max-width:900px;margin:0 auto;padding:2rem 1.5rem;color:#1a1a2e;line-height:1.7}
 h1{border-bottom:2px solid #222;padding-bottom:.4rem}
@@ -21,9 +21,17 @@ ul{padding-left:1.2rem}
 .card{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem;margin:.8rem 0}
 .svc-index{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem 1.2rem;margin:1.5rem 0;scroll-margin-top:1rem}
 .svc-index h2{margin:0 0 .7rem;font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:#555}
-.svc-index ul{list-style:none;display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0}
-.svc-index li a{display:inline-block;padding:.3rem .7rem;border:1px solid #d5dbe1;border-radius:999px;background:#fff;font-size:.85rem;font-weight:600;text-decoration:none}
-.svc-index li a:hover{border-color:#1a5276;background:#eef4f8}
+.svc-index .svc-cols{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1rem 1.6rem}
+.svc-index .svc-bubbles{display:flex;flex-wrap:wrap;gap:.55rem;list-style:none;margin:0;padding:0}
+.svc-bubbles li{margin:0;max-width:100%}
+.svc-index .svc-bubbles a{display:block;margin:0;border:1px solid currentColor;border-radius:999px;padding:.35rem .85rem;font-size:.85rem;line-height:1.5;overflow-wrap:anywhere;text-decoration:none}
+.svc-index .svc-bubbles a:hover,.svc-index .svc-bubbles a:focus-visible{text-decoration:underline}
+.svc-group .cat-link{font-size:.85rem;font-weight:700;color:#1a5276;text-decoration:none}
+.svc-group .cat-link:hover{text-decoration:underline}
+.svc-group ul{list-style:none;margin:.3rem 0 0;padding:0}
+.svc-group li{margin:.12rem 0}
+.svc-group li a{font-size:.82rem;color:#1a5276;text-decoration:none}
+.svc-group li a:hover{text-decoration:underline}
 .svc-index .n{font-weight:400;color:#666}
 .cat{margin:2.6rem 0 0;scroll-margin-top:1rem}
 .cat h2{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin:0 0 .5rem;padding-bottom:.35rem;border-bottom:2px solid #222;font-size:1.4rem}
@@ -48,7 +56,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
       "item": {
         "@type": "Service",
         "name": "ADU construction",
-        "category": "Services",
+        "category": "Remodeling",
         "description": "Planning and construction support for adu construction projects, subject to project scope, availability, and the approved service area.",
         "provider": {
           "@type": "Organization",
@@ -63,7 +71,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
       "item": {
         "@type": "Service",
         "name": "ADU design and build",
-        "category": "Services",
+        "category": "Remodeling",
         "description": "Planning and construction support for adu design and build projects, subject to project scope, availability, and the approved service area.",
         "provider": {
           "@type": "Organization",
@@ -78,7 +86,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
       "item": {
         "@type": "Service",
         "name": "Attached ADU",
-        "category": "Services",
+        "category": "Remodeling",
         "description": "Planning and construction support for attached adu projects, subject to project scope, availability, and the approved service area.",
         "provider": {
           "@type": "Organization",
@@ -93,7 +101,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
       "item": {
         "@type": "Service",
         "name": "attached ADU construction",
-        "category": "Services",
+        "category": "Remodeling",
         "description": "Planning and construction support for attached adu construction projects, subject to project scope, availability, and the approved service area.",
         "provider": {
           "@type": "Organization",
@@ -105,6 +113,1101 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     {
       "@type": "ListItem",
       "position": 5,
+      "item": {
+        "@type": "Service",
+        "name": "bathroom remodeling",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Bathroom Remodeling in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Service",
+        "name": "bathroom renovation",
+        "category": "Remodeling",
+        "description": "Planning and construction support for bathroom renovation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "Service",
+        "name": "cabinet painting",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Cabinet Painting in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "Service",
+        "name": "Custom Home Builder",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Custom Home Builder in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "Service",
+        "name": "custom home renovation",
+        "category": "Remodeling",
+        "description": "Planning and construction support for custom home renovation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "Service",
+        "name": "custom kitchen renovation",
+        "category": "Remodeling",
+        "description": "Planning and construction support for custom kitchen renovation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 11,
+      "item": {
+        "@type": "Service",
+        "name": "Detached ADU",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Detached ADU in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 12,
+      "item": {
+        "@type": "Service",
+        "name": "detached ADU construction",
+        "category": "Remodeling",
+        "description": "Planning and construction support for detached adu construction projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 13,
+      "item": {
+        "@type": "Service",
+        "name": "exterior home renovation",
+        "category": "Remodeling",
+        "description": "Planning and construction support for exterior home renovation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 14,
+      "item": {
+        "@type": "Service",
+        "name": "exterior house painting",
+        "category": "Remodeling",
+        "description": "Planning and construction support for exterior house painting projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 15,
+      "item": {
+        "@type": "Service",
+        "name": "Exterior Painting Services",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Exterior Painting Services in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 16,
+      "item": {
+        "@type": "Service",
+        "name": "Exterior Renovation",
+        "category": "Remodeling",
+        "description": "Planning and construction support for exterior renovation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 17,
+      "item": {
+        "@type": "Service",
+        "name": "flooring installation",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Flooring Installation in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 18,
+      "item": {
+        "@type": "Service",
+        "name": "flooring replacement",
+        "category": "Remodeling",
+        "description": "Assessment and project support for flooring replacement, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 19,
+      "item": {
+        "@type": "Service",
+        "name": "garage conversion ADU",
+        "category": "Remodeling",
+        "description": "Planning and construction support for garage conversion adu projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 20,
+      "item": {
+        "@type": "Service",
+        "name": "Garage Conversions to ADU",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Garage Conversions to ADU in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 21,
+      "item": {
+        "@type": "Service",
+        "name": "ground-up home construction",
+        "category": "Remodeling",
+        "description": "Planning and construction support for ground-up home construction projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 22,
+      "item": {
+        "@type": "Service",
+        "name": "hardwood flooring installation",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Hardwood Flooring Installation in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 23,
+      "item": {
+        "@type": "Service",
+        "name": "home addition construction",
+        "category": "Remodeling",
+        "description": "Planning and construction support for home addition construction projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 24,
+      "item": {
+        "@type": "Service",
+        "name": "Home Additions",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Home Additions in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 25,
+      "item": {
+        "@type": "Service",
+        "name": "home remodeling",
+        "category": "Remodeling",
+        "description": "Planning and construction support for home remodeling projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 26,
+      "item": {
+        "@type": "Service",
+        "name": "home renovation",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Home Renovation in Lake Forest, Cerritos, Anaheim.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 27,
+      "item": {
+        "@type": "Service",
+        "name": "house remodeling",
+        "category": "Remodeling",
+        "description": "Planning and construction support for house remodeling projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 28,
+      "item": {
+        "@type": "Service",
+        "name": "interior home renovation",
+        "category": "Remodeling",
+        "description": "Planning and construction support for interior home renovation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 29,
+      "item": {
+        "@type": "Service",
+        "name": "interior house painting",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Interior House Painting in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 30,
+      "item": {
+        "@type": "Service",
+        "name": "Interior Painting Services",
+        "category": "Remodeling",
+        "description": "Planning and construction support for interior painting services projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 31,
+      "item": {
+        "@type": "Service",
+        "name": "Interior Renovation",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Interior Renovation in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 32,
+      "item": {
+        "@type": "Service",
+        "name": "investment property renovation",
+        "category": "Remodeling",
+        "description": "Planning and construction support for investment property renovation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 33,
+      "item": {
+        "@type": "Service",
+        "name": "Junior ADU",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Junior ADU in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 34,
+      "item": {
+        "@type": "Service",
+        "name": "junior ADU construction",
+        "category": "Remodeling",
+        "description": "Planning and construction support for junior adu construction projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 35,
+      "item": {
+        "@type": "Service",
+        "name": "kitchen cabinet and countertop installation",
+        "category": "Remodeling",
+        "description": "Planning and project support for kitchen cabinet and countertop installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 36,
+      "item": {
+        "@type": "Service",
+        "name": "Kitchen Cabinets and Countertops",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Kitchen Cabinets and Countertops in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 37,
+      "item": {
+        "@type": "Service",
+        "name": "kitchen remodeling",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Kitchen Remodeling in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 38,
+      "item": {
+        "@type": "Service",
+        "name": "kitchen renovation",
+        "category": "Remodeling",
+        "description": "Planning and construction support for kitchen renovation projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 39,
+      "item": {
+        "@type": "Service",
+        "name": "laminate flooring installation",
+        "category": "Remodeling",
+        "description": "Planning and project support for laminate flooring installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 40,
+      "item": {
+        "@type": "Service",
+        "name": "new home construction",
+        "category": "Remodeling",
+        "description": "Planning and construction support for new home construction projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 41,
+      "item": {
+        "@type": "Service",
+        "name": "primary suite addition",
+        "category": "Remodeling",
+        "description": "Planning and construction support for primary suite addition projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 42,
+      "item": {
+        "@type": "Service",
+        "name": "room additions",
+        "category": "Remodeling",
+        "description": "Planning and construction support for room additions projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 43,
+      "item": {
+        "@type": "Service",
+        "name": "second-story addition",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Second Story Additions in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 44,
+      "item": {
+        "@type": "Service",
+        "name": "tile flooring installation",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Tile Flooring Installation in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 45,
+      "item": {
+        "@type": "Service",
+        "name": "tile roof repair",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Tile Roof Repair in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 46,
+      "item": {
+        "@type": "Service",
+        "name": "tub-to-shower conversion",
+        "category": "Remodeling",
+        "description": "Planning and construction support for tub-to-shower conversion projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 47,
+      "item": {
+        "@type": "Service",
+        "name": "walk-in shower installation",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Walk-In Shower Installation in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 48,
+      "item": {
+        "@type": "Service",
+        "name": "Whole House Remodel",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Whole House Remodel in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 49,
+      "item": {
+        "@type": "Service",
+        "name": "whole-home remodeling",
+        "category": "Remodeling",
+        "description": "Affordable Home Remodeling provides Whole-Home Remodeling in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 50,
+      "item": {
+        "@type": "Service",
+        "name": "whole-house remodeling",
+        "category": "Remodeling",
+        "description": "Planning and construction support for whole-house remodeling projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 51,
+      "item": {
+        "@type": "Service",
+        "name": "Wall Insulation",
+        "category": "Outdoor Living",
+        "description": "Affordable Home Remodeling provides Wall Insulation in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 52,
+      "item": {
+        "@type": "Service",
+        "name": "wall insulation installation",
+        "category": "Outdoor Living",
+        "description": "Planning and project support for wall insulation installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 53,
+      "item": {
+        "@type": "Service",
+        "name": "energy-efficient window replacement",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for energy-efficient window replacement, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 54,
+      "item": {
+        "@type": "Service",
+        "name": "Energy-Efficient Windows",
+        "category": "Roofing and Exterior",
+        "description": "Affordable Home Remodeling provides Energy-Efficient Windows in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 55,
+      "item": {
+        "@type": "Service",
+        "name": "entry door installation",
+        "category": "Roofing and Exterior",
+        "description": "Affordable Home Remodeling provides Entry Door Installation in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 56,
+      "item": {
+        "@type": "Service",
+        "name": "exterior stucco repair",
+        "category": "Roofing and Exterior",
+        "description": "Affordable Home Remodeling provides Exterior Stucco Repair in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 57,
+      "item": {
+        "@type": "Service",
+        "name": "front door replacement",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for front door replacement, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 58,
+      "item": {
+        "@type": "Service",
+        "name": "new roof installation",
+        "category": "Roofing and Exterior",
+        "description": "Affordable Home Remodeling provides New Roof Installation in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 59,
+      "item": {
+        "@type": "Service",
+        "name": "new window installation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and project support for new window installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 60,
+      "item": {
+        "@type": "Service",
+        "name": "Re-Stucco Services",
+        "category": "Roofing and Exterior",
+        "description": "Affordable Home Remodeling provides Re-Stucco Services in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 61,
+      "item": {
+        "@type": "Service",
+        "name": "roof installation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and project support for roof installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 62,
+      "item": {
+        "@type": "Service",
+        "name": "roof repair",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for roof repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 63,
+      "item": {
+        "@type": "Service",
+        "name": "roof replacement",
+        "category": "Roofing and Exterior",
+        "description": "Affordable Home Remodeling provides Roof Replacement in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 64,
+      "item": {
+        "@type": "Service",
+        "name": "roofing",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for roofing projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 65,
+      "item": {
+        "@type": "Service",
+        "name": "shingle roof replacement",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for shingle roof replacement, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 66,
+      "item": {
+        "@type": "Service",
+        "name": "Stucco Application",
+        "category": "Roofing and Exterior",
+        "description": "Affordable Home Remodeling provides Stucco Application in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 67,
+      "item": {
+        "@type": "Service",
+        "name": "stucco installation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and project support for stucco installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 68,
+      "item": {
+        "@type": "Service",
+        "name": "stucco repair",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for stucco repair, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 69,
+      "item": {
+        "@type": "Service",
+        "name": "stucco replacement",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for stucco replacement, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 70,
+      "item": {
+        "@type": "Service",
+        "name": "stucco texturing",
+        "category": "Roofing and Exterior",
+        "description": "Planning and construction support for stucco texturing projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 71,
+      "item": {
+        "@type": "Service",
+        "name": "window installation",
+        "category": "Roofing and Exterior",
+        "description": "Planning and project support for window installation, subject to site conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 72,
+      "item": {
+        "@type": "Service",
+        "name": "window replacement",
+        "category": "Roofing and Exterior",
+        "description": "Assessment and project support for window replacement, subject to existing conditions, approved scope, availability, and service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 73,
+      "item": {
+        "@type": "Service",
+        "name": "custom home construction",
+        "category": "Construction",
+        "description": "Planning and construction support for custom home construction projects, subject to project scope, availability, and the approved service area.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 74,
+      "item": {
+        "@type": "Service",
+        "name": "home improvement services",
+        "category": "Construction",
+        "description": "Affordable Home Remodeling provides Home Improvement Contractor in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 75,
+      "item": {
+        "@type": "Service",
+        "name": "Residential General Contractor",
+        "category": "Construction",
+        "description": "Affordable Home Remodeling provides Residential General Contractor in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 76,
+      "item": {
+        "@type": "Service",
+        "name": "door installation",
+        "category": "Doors, Windows, and Finishes",
+        "description": "Affordable Home Remodeling provides Door Installation in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 77,
+      "item": {
+        "@type": "Service",
+        "name": "door replacement",
+        "category": "Doors, Windows, and Finishes",
+        "description": "Affordable Home Remodeling provides Door Replacement in Huntington Beach, Irvine, Orange.",
+        "provider": {
+          "@type": "Organization",
+          "name": "Affordable Home Remodeling",
+          "url": "affordablehomeremodeling.com"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 78,
       "item": {
         "@type": "Service",
         "name": "Attic Insulation",
@@ -119,7 +1222,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 6,
+      "position": 79,
       "item": {
         "@type": "Service",
         "name": "attic insulation installation",
@@ -134,52 +1237,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 7,
-      "item": {
-        "@type": "Service",
-        "name": "bathroom remodeling",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Bathroom Remodeling in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 8,
-      "item": {
-        "@type": "Service",
-        "name": "bathroom renovation",
-        "category": "Services",
-        "description": "Planning and construction support for bathroom renovation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 9,
-      "item": {
-        "@type": "Service",
-        "name": "cabinet painting",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Cabinet Painting in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 10,
+      "position": 80,
       "item": {
         "@type": "Service",
         "name": "carpet installation",
@@ -194,322 +1252,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 11,
-      "item": {
-        "@type": "Service",
-        "name": "Custom Home Builder",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Custom Home Builder in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 12,
-      "item": {
-        "@type": "Service",
-        "name": "custom home construction",
-        "category": "Services",
-        "description": "Planning and construction support for custom home construction projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 13,
-      "item": {
-        "@type": "Service",
-        "name": "custom home renovation",
-        "category": "Services",
-        "description": "Planning and construction support for custom home renovation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 14,
-      "item": {
-        "@type": "Service",
-        "name": "custom kitchen renovation",
-        "category": "Services",
-        "description": "Planning and construction support for custom kitchen renovation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 15,
-      "item": {
-        "@type": "Service",
-        "name": "Detached ADU",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Detached ADU in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 16,
-      "item": {
-        "@type": "Service",
-        "name": "detached ADU construction",
-        "category": "Services",
-        "description": "Planning and construction support for detached adu construction projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 17,
-      "item": {
-        "@type": "Service",
-        "name": "door installation",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Door Installation in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 18,
-      "item": {
-        "@type": "Service",
-        "name": "door replacement",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Door Replacement in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 19,
-      "item": {
-        "@type": "Service",
-        "name": "energy-efficient window replacement",
-        "category": "Services",
-        "description": "Assessment and project support for energy-efficient window replacement, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 20,
-      "item": {
-        "@type": "Service",
-        "name": "Energy-Efficient Windows",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Energy-Efficient Windows in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 21,
-      "item": {
-        "@type": "Service",
-        "name": "entry door installation",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Entry Door Installation in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 22,
-      "item": {
-        "@type": "Service",
-        "name": "exterior home renovation",
-        "category": "Services",
-        "description": "Planning and construction support for exterior home renovation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 23,
-      "item": {
-        "@type": "Service",
-        "name": "exterior house painting",
-        "category": "Services",
-        "description": "Planning and construction support for exterior house painting projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 24,
-      "item": {
-        "@type": "Service",
-        "name": "Exterior Painting Services",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Exterior Painting Services in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 25,
-      "item": {
-        "@type": "Service",
-        "name": "Exterior Renovation",
-        "category": "Services",
-        "description": "Planning and construction support for exterior renovation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 26,
-      "item": {
-        "@type": "Service",
-        "name": "exterior stucco repair",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Exterior Stucco Repair in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 27,
-      "item": {
-        "@type": "Service",
-        "name": "flooring installation",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Flooring Installation in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 28,
-      "item": {
-        "@type": "Service",
-        "name": "flooring replacement",
-        "category": "Services",
-        "description": "Assessment and project support for flooring replacement, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 29,
-      "item": {
-        "@type": "Service",
-        "name": "front door replacement",
-        "category": "Services",
-        "description": "Assessment and project support for front door replacement, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 30,
-      "item": {
-        "@type": "Service",
-        "name": "garage conversion ADU",
-        "category": "Services",
-        "description": "Planning and construction support for garage conversion adu projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 31,
-      "item": {
-        "@type": "Service",
-        "name": "Garage Conversions to ADU",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Garage Conversions to ADU in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 32,
+      "position": 81,
       "item": {
         "@type": "Service",
         "name": "Ground-Up Construction",
@@ -524,127 +1267,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 33,
-      "item": {
-        "@type": "Service",
-        "name": "ground-up home construction",
-        "category": "Services",
-        "description": "Planning and construction support for ground-up home construction projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 34,
-      "item": {
-        "@type": "Service",
-        "name": "hardwood flooring installation",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Hardwood Flooring Installation in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 35,
-      "item": {
-        "@type": "Service",
-        "name": "home addition construction",
-        "category": "Services",
-        "description": "Planning and construction support for home addition construction projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 36,
-      "item": {
-        "@type": "Service",
-        "name": "Home Additions",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Home Additions in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 37,
-      "item": {
-        "@type": "Service",
-        "name": "home improvement services",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Home Improvement Contractor in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 38,
-      "item": {
-        "@type": "Service",
-        "name": "home remodeling",
-        "category": "Services",
-        "description": "Planning and construction support for home remodeling projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 39,
-      "item": {
-        "@type": "Service",
-        "name": "home renovation",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Home Renovation in Lake Forest, Cerritos, Anaheim.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 40,
-      "item": {
-        "@type": "Service",
-        "name": "house remodeling",
-        "category": "Services",
-        "description": "Planning and construction support for house remodeling projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 41,
+      "position": 82,
       "item": {
         "@type": "Service",
         "name": "insulation installation",
@@ -659,7 +1282,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 42,
+      "position": 83,
       "item": {
         "@type": "Service",
         "name": "insulation upgrade",
@@ -674,262 +1297,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 43,
-      "item": {
-        "@type": "Service",
-        "name": "interior home renovation",
-        "category": "Services",
-        "description": "Planning and construction support for interior home renovation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 44,
-      "item": {
-        "@type": "Service",
-        "name": "interior house painting",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Interior House Painting in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 45,
-      "item": {
-        "@type": "Service",
-        "name": "Interior Painting Services",
-        "category": "Services",
-        "description": "Planning and construction support for interior painting services projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 46,
-      "item": {
-        "@type": "Service",
-        "name": "Interior Renovation",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Interior Renovation in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 47,
-      "item": {
-        "@type": "Service",
-        "name": "investment property renovation",
-        "category": "Services",
-        "description": "Planning and construction support for investment property renovation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 48,
-      "item": {
-        "@type": "Service",
-        "name": "Junior ADU",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Junior ADU in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 49,
-      "item": {
-        "@type": "Service",
-        "name": "junior ADU construction",
-        "category": "Services",
-        "description": "Planning and construction support for junior adu construction projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 50,
-      "item": {
-        "@type": "Service",
-        "name": "kitchen cabinet and countertop installation",
-        "category": "Services",
-        "description": "Planning and project support for kitchen cabinet and countertop installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 51,
-      "item": {
-        "@type": "Service",
-        "name": "Kitchen Cabinets and Countertops",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Kitchen Cabinets and Countertops in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 52,
-      "item": {
-        "@type": "Service",
-        "name": "kitchen remodeling",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Kitchen Remodeling in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 53,
-      "item": {
-        "@type": "Service",
-        "name": "kitchen renovation",
-        "category": "Services",
-        "description": "Planning and construction support for kitchen renovation projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 54,
-      "item": {
-        "@type": "Service",
-        "name": "laminate flooring installation",
-        "category": "Services",
-        "description": "Planning and project support for laminate flooring installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 55,
-      "item": {
-        "@type": "Service",
-        "name": "new home construction",
-        "category": "Services",
-        "description": "Planning and construction support for new home construction projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 56,
-      "item": {
-        "@type": "Service",
-        "name": "new roof installation",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides New Roof Installation in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 57,
-      "item": {
-        "@type": "Service",
-        "name": "new window installation",
-        "category": "Services",
-        "description": "Planning and project support for new window installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 58,
-      "item": {
-        "@type": "Service",
-        "name": "primary suite addition",
-        "category": "Services",
-        "description": "Planning and construction support for primary suite addition projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 59,
-      "item": {
-        "@type": "Service",
-        "name": "Re-Stucco Services",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Re-Stucco Services in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 60,
+      "position": 84,
       "item": {
         "@type": "Service",
         "name": "Rental Property Remodel",
@@ -944,7 +1312,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 61,
+      "position": 85,
       "item": {
         "@type": "Service",
         "name": "rental property remodeling",
@@ -959,22 +1327,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 62,
-      "item": {
-        "@type": "Service",
-        "name": "Residential General Contractor",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Residential General Contractor in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 63,
+      "position": 86,
       "item": {
         "@type": "Service",
         "name": "residential remodeling",
@@ -989,112 +1342,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 64,
-      "item": {
-        "@type": "Service",
-        "name": "roof installation",
-        "category": "Services",
-        "description": "Planning and project support for roof installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 65,
-      "item": {
-        "@type": "Service",
-        "name": "roof repair",
-        "category": "Services",
-        "description": "Assessment and project support for roof repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 66,
-      "item": {
-        "@type": "Service",
-        "name": "roof replacement",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Roof Replacement in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 67,
-      "item": {
-        "@type": "Service",
-        "name": "roofing",
-        "category": "Services",
-        "description": "Planning and construction support for roofing projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 68,
-      "item": {
-        "@type": "Service",
-        "name": "room additions",
-        "category": "Services",
-        "description": "Planning and construction support for room additions projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 69,
-      "item": {
-        "@type": "Service",
-        "name": "second-story addition",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Second Story Additions in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 70,
-      "item": {
-        "@type": "Service",
-        "name": "shingle roof replacement",
-        "category": "Services",
-        "description": "Assessment and project support for shingle roof replacement, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 71,
+      "position": 87,
       "item": {
         "@type": "Service",
         "name": "Spray Foam Insulation",
@@ -1109,252 +1357,12 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
     },
     {
       "@type": "ListItem",
-      "position": 72,
+      "position": 88,
       "item": {
         "@type": "Service",
         "name": "spray foam insulation installation",
         "category": "Services",
         "description": "Planning and project support for spray foam insulation installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 73,
-      "item": {
-        "@type": "Service",
-        "name": "Stucco Application",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Stucco Application in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 74,
-      "item": {
-        "@type": "Service",
-        "name": "stucco installation",
-        "category": "Services",
-        "description": "Planning and project support for stucco installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 75,
-      "item": {
-        "@type": "Service",
-        "name": "stucco repair",
-        "category": "Services",
-        "description": "Assessment and project support for stucco repair, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 76,
-      "item": {
-        "@type": "Service",
-        "name": "stucco replacement",
-        "category": "Services",
-        "description": "Assessment and project support for stucco replacement, subject to existing conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 77,
-      "item": {
-        "@type": "Service",
-        "name": "stucco texturing",
-        "category": "Services",
-        "description": "Planning and construction support for stucco texturing projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 78,
-      "item": {
-        "@type": "Service",
-        "name": "tile flooring installation",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Tile Flooring Installation in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 79,
-      "item": {
-        "@type": "Service",
-        "name": "tile roof repair",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Tile Roof Repair in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 80,
-      "item": {
-        "@type": "Service",
-        "name": "tub-to-shower conversion",
-        "category": "Services",
-        "description": "Planning and construction support for tub-to-shower conversion projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 81,
-      "item": {
-        "@type": "Service",
-        "name": "walk-in shower installation",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Walk-In Shower Installation in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 82,
-      "item": {
-        "@type": "Service",
-        "name": "Wall Insulation",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Wall Insulation in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 83,
-      "item": {
-        "@type": "Service",
-        "name": "wall insulation installation",
-        "category": "Services",
-        "description": "Planning and project support for wall insulation installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 84,
-      "item": {
-        "@type": "Service",
-        "name": "Whole House Remodel",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Whole House Remodel in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 85,
-      "item": {
-        "@type": "Service",
-        "name": "whole-home remodeling",
-        "category": "Services",
-        "description": "Affordable Home Remodeling provides Whole-Home Remodeling in Huntington Beach, Irvine, Orange.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 86,
-      "item": {
-        "@type": "Service",
-        "name": "whole-house remodeling",
-        "category": "Services",
-        "description": "Planning and construction support for whole-house remodeling projects, subject to project scope, availability, and the approved service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 87,
-      "item": {
-        "@type": "Service",
-        "name": "window installation",
-        "category": "Services",
-        "description": "Planning and project support for window installation, subject to site conditions, approved scope, availability, and service area.",
-        "provider": {
-          "@type": "Organization",
-          "name": "Affordable Home Remodeling",
-          "url": "affordablehomeremodeling.com"
-        }
-      }
-    },
-    {
-      "@type": "ListItem",
-      "position": 88,
-      "item": {
-        "@type": "Service",
-        "name": "window replacement",
-        "category": "Services",
-        "description": "Assessment and project support for window replacement, subject to existing conditions, approved scope, availability, and service area.",
         "provider": {
           "@type": "Organization",
           "name": "Affordable Home Remodeling",
@@ -1368,13 +1376,13 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="author" content="Affordable Home Remodeling">
 <meta property="og:title" content="Services — Affordable Home Remodeling" />
-<meta property="og:description" content="Affordable Home Remodeling services: ADU construction, ADU design and build, Attached ADU, attached ADU construction, Attic Insulation." />
+<meta property="og:description" content="Affordable Home Remodeling services: ADU construction, ADU design and build, Attached ADU, attached ADU construction, bathroom remodeling." />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Affordable Home Remodeling" />
 <meta property="og:locale" content="en_US" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Services — Affordable Home Remodeling" />
-<meta name="twitter:description" content="Affordable Home Remodeling services: ADU construction, ADU design and build, Attached ADU, attached ADU construction, Attic Insulation." />
+<meta name="twitter:description" content="Affordable Home Remodeling services: ADU construction, ADU design and build, Attached ADU, attached ADU construction, bathroom remodeling." />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -1382,9 +1390,9 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "@id": "https://affordablehomeremodeling.aiovisibility.net/services.html#webpage",
   "url": "https://affordablehomeremodeling.aiovisibility.net/services.html",
   "name": "Services — Affordable Home Remodeling",
-  "description": "Affordable Home Remodeling services: ADU construction, ADU design and build, Attached ADU, attached ADU construction, Attic Insulation.",
+  "description": "Affordable Home Remodeling services: ADU construction, ADU design and build, Attached ADU, attached ADU construction, bathroom remodeling.",
   "inLanguage": "en-US",
-  "dateModified": "2026-10-04",
+  "dateModified": "2026-10-24",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Affordable Home Remodeling",
@@ -1594,15 +1602,15 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <link rel="canonical" href="https://affordablehomeremodeling.aiovisibility.net/services.html" />
 <link rel="sitemap" type="application/xml" href="https://affordablehomeremodeling.aiovisibility.net/ai-sitemap.xml" />
 <meta property="og:title" content="Services — Affordable Home Remodeling" />
-<meta property="og:description" content="Affordable Home Remodeling services: ADU construction, ADU design and build, Attached ADU, attached ADU construction, Attic Insulation." />
+<meta property="og:description" content="Affordable Home Remodeling services: ADU construction, ADU design and build, Attached ADU, attached ADU construction, bathroom remodeling." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://affordablehomeremodeling.aiovisibility.net/services.html" />
 <meta property="og:site_name" content="Affordable Home Remodeling" />
 <meta property="og:locale" content="en_US" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Services — Affordable Home Remodeling" />
-<meta name="twitter:description" content="Affordable Home Remodeling services: ADU construction, ADU design and build, Attached ADU, attached ADU construction, Attic Insulation." />
-<meta name="dcterms.modified" content="2026-10-04" />
+<meta name="twitter:description" content="Affordable Home Remodeling services: ADU construction, ADU design and build, Attached ADU, attached ADU construction, bathroom remodeling." />
+<meta name="dcterms.modified" content="2026-10-24" />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -1610,10 +1618,10 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "@id": "https://affordablehomeremodeling.aiovisibility.net/services.html#webpage",
   "url": "https://affordablehomeremodeling.aiovisibility.net/services.html",
   "name": "Services — Affordable Home Remodeling",
-  "description": "Affordable Home Remodeling services: ADU construction, ADU design and build, Attached ADU, attached ADU construction, Attic Insulation.",
+  "description": "Affordable Home Remodeling services: ADU construction, ADU design and build, Attached ADU, attached ADU construction, bathroom remodeling.",
   "inLanguage": "en-US",
-  "datePublished": "2026-10-04",
-  "dateModified": "2026-10-04",
+  "datePublished": "2026-10-24",
+  "dateModified": "2026-10-24",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Affordable Home Remodeling",
@@ -1829,103 +1837,138 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <a href="faqs.html">FAQs</a>
 <a href="articles.html">Articles</a>
 <a href="team-members.html">Team Members</a></nav>
-<nav class="svc-index" id="top" aria-label="Service categories">
-<h2>Browse by category</h2>
-<ul>
-<li><a href="#cat-services">Services <span class="n">88</span></a></li>
+<nav class="svc-index" id="top" aria-label="Services index">
+<h2>Service categories</h2>
+<ul class="svc-bubbles">
+<li><a href="#cat-remodeling">Remodeling <span class="n">(50)</span></a></li>
+<li><a href="#cat-outdoor-living">Outdoor Living <span class="n">(2)</span></a></li>
+<li><a href="#cat-roofing-and-exterior">Roofing and Exterior <span class="n">(20)</span></a></li>
+<li><a href="#cat-construction">Construction <span class="n">(3)</span></a></li>
+<li><a href="#cat-doors-windows-and-finishes">Doors, Windows, and Finishes <span class="n">(2)</span></a></li>
+<li><a href="#cat-services">Services <span class="n">(11)</span></a></li>
 </ul>
 </nav>
-<section class="cat" id="cat-services">
-<h2>Services<span class="count">88 services</span></h2>
+<section class="cat" id="cat-remodeling">
+<h2>Remodeling<span class="count">50 services</span></h2>
 <ul class="svc-list">
-<li><strong>ADU construction</strong> <span class="scope">&mdash; Planning and construction support for adu construction projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>ADU design and build</strong> <span class="scope">&mdash; Planning and construction support for adu design and build projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Attached ADU</strong> <span class="scope">&mdash; Planning and construction support for attached adu projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>attached ADU construction</strong> <span class="scope">&mdash; Planning and construction support for attached adu construction projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Attic Insulation</strong> <span class="scope">&mdash; Planning and construction support for attic insulation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>attic insulation installation</strong> <span class="scope">&mdash; Planning and project support for attic insulation installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>bathroom remodeling</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Bathroom Remodeling in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>bathroom renovation</strong> <span class="scope">&mdash; Planning and construction support for bathroom renovation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>cabinet painting</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Cabinet Painting in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>carpet installation</strong> <span class="scope">&mdash; Planning and project support for carpet installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Custom Home Builder</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Custom Home Builder in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>custom home construction</strong> <span class="scope">&mdash; Planning and construction support for custom home construction projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>custom home renovation</strong> <span class="scope">&mdash; Planning and construction support for custom home renovation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>custom kitchen renovation</strong> <span class="scope">&mdash; Planning and construction support for custom kitchen renovation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Detached ADU</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Detached ADU in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>detached ADU construction</strong> <span class="scope">&mdash; Planning and construction support for detached adu construction projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>door installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Door Installation in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>door replacement</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Door Replacement in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>energy-efficient window replacement</strong> <span class="scope">&mdash; Assessment and project support for energy-efficient window replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Energy-Efficient Windows</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Energy-Efficient Windows in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>entry door installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Entry Door Installation in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>exterior home renovation</strong> <span class="scope">&mdash; Planning and construction support for exterior home renovation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>exterior house painting</strong> <span class="scope">&mdash; Planning and construction support for exterior house painting projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Exterior Painting Services</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Exterior Painting Services in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>Exterior Renovation</strong> <span class="scope">&mdash; Planning and construction support for exterior renovation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>exterior stucco repair</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Exterior Stucco Repair in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>flooring installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Flooring Installation in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>flooring replacement</strong> <span class="scope">&mdash; Assessment and project support for flooring replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>front door replacement</strong> <span class="scope">&mdash; Assessment and project support for front door replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>garage conversion ADU</strong> <span class="scope">&mdash; Planning and construction support for garage conversion adu projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Garage Conversions to ADU</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Garage Conversions to ADU in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>Ground-Up Construction</strong> <span class="scope">&mdash; Planning and construction support for ground-up construction projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>ground-up home construction</strong> <span class="scope">&mdash; Planning and construction support for ground-up home construction projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>hardwood flooring installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Hardwood Flooring Installation in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>home addition construction</strong> <span class="scope">&mdash; Planning and construction support for home addition construction projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Home Additions</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Home Additions in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>home improvement services</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Home Improvement Contractor in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>home remodeling</strong> <span class="scope">&mdash; Planning and construction support for home remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>home renovation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Home Renovation in Lake Forest, Cerritos, Anaheim.</span></li>
-<li><strong>house remodeling</strong> <span class="scope">&mdash; Planning and construction support for house remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>insulation installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Insulation Installation in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>insulation upgrade</strong> <span class="scope">&mdash; Planning and construction support for insulation upgrade projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>interior home renovation</strong> <span class="scope">&mdash; Planning and construction support for interior home renovation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>interior house painting</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Interior House Painting in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>Interior Painting Services</strong> <span class="scope">&mdash; Planning and construction support for interior painting services projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Interior Renovation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Interior Renovation in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>investment property renovation</strong> <span class="scope">&mdash; Planning and construction support for investment property renovation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Junior ADU</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Junior ADU in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>junior ADU construction</strong> <span class="scope">&mdash; Planning and construction support for junior adu construction projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>kitchen cabinet and countertop installation</strong> <span class="scope">&mdash; Planning and project support for kitchen cabinet and countertop installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Kitchen Cabinets and Countertops</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Kitchen Cabinets and Countertops in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>kitchen remodeling</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Kitchen Remodeling in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>kitchen renovation</strong> <span class="scope">&mdash; Planning and construction support for kitchen renovation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>laminate flooring installation</strong> <span class="scope">&mdash; Planning and project support for laminate flooring installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>new home construction</strong> <span class="scope">&mdash; Planning and construction support for new home construction projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>new roof installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides New Roof Installation in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>new window installation</strong> <span class="scope">&mdash; Planning and project support for new window installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>primary suite addition</strong> <span class="scope">&mdash; Planning and construction support for primary suite addition projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Re-Stucco Services</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Re-Stucco Services in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>Rental Property Remodel</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Rental Property Remodel in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>rental property remodeling</strong> <span class="scope">&mdash; Planning and construction support for rental property remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>Residential General Contractor</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Residential General Contractor in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>residential remodeling</strong> <span class="scope">&mdash; Planning and construction support for residential remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>roof installation</strong> <span class="scope">&mdash; Planning and project support for roof installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>roof repair</strong> <span class="scope">&mdash; Assessment and project support for roof repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>roof replacement</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Roof Replacement in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>roofing</strong> <span class="scope">&mdash; Planning and construction support for roofing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>room additions</strong> <span class="scope">&mdash; Planning and construction support for room additions projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>second-story addition</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Second Story Additions in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>shingle roof replacement</strong> <span class="scope">&mdash; Assessment and project support for shingle roof replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Spray Foam Insulation</strong> <span class="scope">&mdash; Planning and construction support for spray foam insulation projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>spray foam insulation installation</strong> <span class="scope">&mdash; Planning and project support for spray foam insulation installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Stucco Application</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Stucco Application in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>stucco installation</strong> <span class="scope">&mdash; Planning and project support for stucco installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>stucco repair</strong> <span class="scope">&mdash; Assessment and project support for stucco repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>stucco replacement</strong> <span class="scope">&mdash; Assessment and project support for stucco replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
-<li><strong>stucco texturing</strong> <span class="scope">&mdash; Planning and construction support for stucco texturing projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>tile flooring installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Tile Flooring Installation in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>tile roof repair</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Tile Roof Repair in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>tub-to-shower conversion</strong> <span class="scope">&mdash; Planning and construction support for tub-to-shower conversion projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>walk-in shower installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Walk-In Shower Installation in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>Wall Insulation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Wall Insulation in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>wall insulation installation</strong> <span class="scope">&mdash; Planning and project support for wall insulation installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>Whole House Remodel</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Whole House Remodel in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>whole-home remodeling</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Whole-Home Remodeling in Huntington Beach, Irvine, Orange.</span></li>
-<li><strong>whole-house remodeling</strong> <span class="scope">&mdash; Planning and construction support for whole-house remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
-<li><strong>window installation</strong> <span class="scope">&mdash; Planning and project support for window installation, subject to site conditions, approved scope, availability, and service area.</span></li>
-<li><strong>window replacement</strong> <span class="scope">&mdash; Assessment and project support for window replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-adu-construction"><strong>ADU construction</strong> <span class="scope">&mdash; Planning and construction support for adu construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-adu-design-and-build"><strong>ADU design and build</strong> <span class="scope">&mdash; Planning and construction support for adu design and build projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-attached-adu"><strong>Attached ADU</strong> <span class="scope">&mdash; Planning and construction support for attached adu projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-attached-adu-construction"><strong>attached ADU construction</strong> <span class="scope">&mdash; Planning and construction support for attached adu construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-bathroom-remodeling"><strong>bathroom remodeling</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Bathroom Remodeling in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-bathroom-renovation"><strong>bathroom renovation</strong> <span class="scope">&mdash; Planning and construction support for bathroom renovation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-cabinet-painting"><strong>cabinet painting</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Cabinet Painting in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-custom-home-builder"><strong>Custom Home Builder</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Custom Home Builder in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-custom-home-renovation"><strong>custom home renovation</strong> <span class="scope">&mdash; Planning and construction support for custom home renovation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-custom-kitchen-renovation"><strong>custom kitchen renovation</strong> <span class="scope">&mdash; Planning and construction support for custom kitchen renovation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-detached-adu"><strong>Detached ADU</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Detached ADU in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-detached-adu-construction"><strong>detached ADU construction</strong> <span class="scope">&mdash; Planning and construction support for detached adu construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-exterior-home-renovation"><strong>exterior home renovation</strong> <span class="scope">&mdash; Planning and construction support for exterior home renovation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-exterior-house-painting"><strong>exterior house painting</strong> <span class="scope">&mdash; Planning and construction support for exterior house painting projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-exterior-painting-services"><strong>Exterior Painting Services</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Exterior Painting Services in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-exterior-renovation"><strong>Exterior Renovation</strong> <span class="scope">&mdash; Planning and construction support for exterior renovation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-flooring-installation"><strong>flooring installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Flooring Installation in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-flooring-replacement"><strong>flooring replacement</strong> <span class="scope">&mdash; Assessment and project support for flooring replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-garage-conversion-adu"><strong>garage conversion ADU</strong> <span class="scope">&mdash; Planning and construction support for garage conversion adu projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-garage-conversions-to-adu"><strong>Garage Conversions to ADU</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Garage Conversions to ADU in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-ground-up-home-construction"><strong>ground-up home construction</strong> <span class="scope">&mdash; Planning and construction support for ground-up home construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-hardwood-flooring-installation"><strong>hardwood flooring installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Hardwood Flooring Installation in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-home-addition-construction"><strong>home addition construction</strong> <span class="scope">&mdash; Planning and construction support for home addition construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-home-additions"><strong>Home Additions</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Home Additions in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-home-remodeling"><strong>home remodeling</strong> <span class="scope">&mdash; Planning and construction support for home remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-home-renovation"><strong>home renovation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Home Renovation in Lake Forest, Cerritos, Anaheim.</span></li>
+<li id="svc-house-remodeling"><strong>house remodeling</strong> <span class="scope">&mdash; Planning and construction support for house remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-interior-home-renovation"><strong>interior home renovation</strong> <span class="scope">&mdash; Planning and construction support for interior home renovation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-interior-house-painting"><strong>interior house painting</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Interior House Painting in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-interior-painting-services"><strong>Interior Painting Services</strong> <span class="scope">&mdash; Planning and construction support for interior painting services projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-interior-renovation"><strong>Interior Renovation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Interior Renovation in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-investment-property-renovation"><strong>investment property renovation</strong> <span class="scope">&mdash; Planning and construction support for investment property renovation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-junior-adu"><strong>Junior ADU</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Junior ADU in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-junior-adu-construction"><strong>junior ADU construction</strong> <span class="scope">&mdash; Planning and construction support for junior adu construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-kitchen-cabinet-and-countertop-installation"><strong>kitchen cabinet and countertop installation</strong> <span class="scope">&mdash; Planning and project support for kitchen cabinet and countertop installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-kitchen-cabinets-and-countertops"><strong>Kitchen Cabinets and Countertops</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Kitchen Cabinets and Countertops in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-kitchen-remodeling"><strong>kitchen remodeling</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Kitchen Remodeling in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-kitchen-renovation"><strong>kitchen renovation</strong> <span class="scope">&mdash; Planning and construction support for kitchen renovation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-laminate-flooring-installation"><strong>laminate flooring installation</strong> <span class="scope">&mdash; Planning and project support for laminate flooring installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-new-home-construction"><strong>new home construction</strong> <span class="scope">&mdash; Planning and construction support for new home construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-primary-suite-addition"><strong>primary suite addition</strong> <span class="scope">&mdash; Planning and construction support for primary suite addition projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-room-additions"><strong>room additions</strong> <span class="scope">&mdash; Planning and construction support for room additions projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-second-story-addition"><strong>second-story addition</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Second Story Additions in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-tile-flooring-installation"><strong>tile flooring installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Tile Flooring Installation in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-tile-roof-repair"><strong>tile roof repair</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Tile Roof Repair in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-tub-to-shower-conversion"><strong>tub-to-shower conversion</strong> <span class="scope">&mdash; Planning and construction support for tub-to-shower conversion projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-walk-in-shower-installation"><strong>walk-in shower installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Walk-In Shower Installation in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-whole-house-remodel"><strong>Whole House Remodel</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Whole House Remodel in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-whole-home-remodeling"><strong>whole-home remodeling</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Whole-Home Remodeling in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-whole-house-remodeling"><strong>whole-house remodeling</strong> <span class="scope">&mdash; Planning and construction support for whole-house remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-outdoor-living">
+<h2>Outdoor Living<span class="count">2 services</span></h2>
+<ul class="svc-list">
+<li id="svc-wall-insulation"><strong>Wall Insulation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Wall Insulation in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-wall-insulation-installation"><strong>wall insulation installation</strong> <span class="scope">&mdash; Planning and project support for wall insulation installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-roofing-and-exterior">
+<h2>Roofing and Exterior<span class="count">20 services</span></h2>
+<ul class="svc-list">
+<li id="svc-energy-efficient-window-replacement"><strong>energy-efficient window replacement</strong> <span class="scope">&mdash; Assessment and project support for energy-efficient window replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-energy-efficient-windows"><strong>Energy-Efficient Windows</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Energy-Efficient Windows in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-entry-door-installation"><strong>entry door installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Entry Door Installation in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-exterior-stucco-repair"><strong>exterior stucco repair</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Exterior Stucco Repair in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-front-door-replacement"><strong>front door replacement</strong> <span class="scope">&mdash; Assessment and project support for front door replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-new-roof-installation"><strong>new roof installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides New Roof Installation in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-new-window-installation"><strong>new window installation</strong> <span class="scope">&mdash; Planning and project support for new window installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-re-stucco-services"><strong>Re-Stucco Services</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Re-Stucco Services in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-roof-installation"><strong>roof installation</strong> <span class="scope">&mdash; Planning and project support for roof installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-roof-repair"><strong>roof repair</strong> <span class="scope">&mdash; Assessment and project support for roof repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-roof-replacement"><strong>roof replacement</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Roof Replacement in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-roofing"><strong>roofing</strong> <span class="scope">&mdash; Planning and construction support for roofing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-shingle-roof-replacement"><strong>shingle roof replacement</strong> <span class="scope">&mdash; Assessment and project support for shingle roof replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-stucco-application"><strong>Stucco Application</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Stucco Application in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-stucco-installation"><strong>stucco installation</strong> <span class="scope">&mdash; Planning and project support for stucco installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-stucco-repair"><strong>stucco repair</strong> <span class="scope">&mdash; Assessment and project support for stucco repair, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-stucco-replacement"><strong>stucco replacement</strong> <span class="scope">&mdash; Assessment and project support for stucco replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-stucco-texturing"><strong>stucco texturing</strong> <span class="scope">&mdash; Planning and construction support for stucco texturing projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-window-installation"><strong>window installation</strong> <span class="scope">&mdash; Planning and project support for window installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-window-replacement"><strong>window replacement</strong> <span class="scope">&mdash; Assessment and project support for window replacement, subject to existing conditions, approved scope, availability, and service area.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-construction">
+<h2>Construction<span class="count">3 services</span></h2>
+<ul class="svc-list">
+<li id="svc-custom-home-construction"><strong>custom home construction</strong> <span class="scope">&mdash; Planning and construction support for custom home construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-home-improvement-services"><strong>home improvement services</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Home Improvement Contractor in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-residential-general-contractor"><strong>Residential General Contractor</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Residential General Contractor in Huntington Beach, Irvine, Orange.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-doors-windows-and-finishes">
+<h2>Doors, Windows, and Finishes<span class="count">2 services</span></h2>
+<ul class="svc-list">
+<li id="svc-door-installation"><strong>door installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Door Installation in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-door-replacement"><strong>door replacement</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Door Replacement in Huntington Beach, Irvine, Orange.</span></li>
+</ul>
+<p class="top"><a href="#top">&uarr; Back to category index</a></p>
+</section>
+<section class="cat" id="cat-services">
+<h2>Services<span class="count">11 services</span></h2>
+<ul class="svc-list">
+<li id="svc-attic-insulation"><strong>Attic Insulation</strong> <span class="scope">&mdash; Planning and construction support for attic insulation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-attic-insulation-installation"><strong>attic insulation installation</strong> <span class="scope">&mdash; Planning and project support for attic insulation installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-carpet-installation"><strong>carpet installation</strong> <span class="scope">&mdash; Planning and project support for carpet installation, subject to site conditions, approved scope, availability, and service area.</span></li>
+<li id="svc-ground-up-construction"><strong>Ground-Up Construction</strong> <span class="scope">&mdash; Planning and construction support for ground-up construction projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-insulation-installation"><strong>insulation installation</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Insulation Installation in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-insulation-upgrade"><strong>insulation upgrade</strong> <span class="scope">&mdash; Planning and construction support for insulation upgrade projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-rental-property-remodel"><strong>Rental Property Remodel</strong> <span class="scope">&mdash; Affordable Home Remodeling provides Rental Property Remodel in Huntington Beach, Irvine, Orange.</span></li>
+<li id="svc-rental-property-remodeling"><strong>rental property remodeling</strong> <span class="scope">&mdash; Planning and construction support for rental property remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-residential-remodeling"><strong>residential remodeling</strong> <span class="scope">&mdash; Planning and construction support for residential remodeling projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-spray-foam-insulation"><strong>Spray Foam Insulation</strong> <span class="scope">&mdash; Planning and construction support for spray foam insulation projects, subject to project scope, availability, and the approved service area.</span></li>
+<li id="svc-spray-foam-insulation-installation"><strong>spray foam insulation installation</strong> <span class="scope">&mdash; Planning and project support for spray foam insulation installation, subject to site conditions, approved scope, availability, and service area.</span></li>
 </ul>
 <p class="top"><a href="#top">&uarr; Back to category index</a></p>
 </section>

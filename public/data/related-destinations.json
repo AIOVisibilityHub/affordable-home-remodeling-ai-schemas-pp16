@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:35:51.576Z",
+  "generatedAt": "2026-10-24T23:23:55.169Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -13,7 +13,27 @@
     "name": "Affordable Home Remodeling",
     "canonicalUrl": "https://affordablehomeremodeling.aiovisibility.net",
     "primaryWebsiteUrl": "affordablehomeremodeling.com",
-    "aiDataHub": "https://affordablehomeremodeling.aiovisibility.net/ai-data.html"
+    "aiDataHub": "https://affordablehomeremodeling.aiovisibility.net/ai-data.html",
+    "sameAs": [
+      "https://www.yelp.com/biz/affordable-home-remodeling-cerritos",
+      "https://aiovisibility.net/profiles/affordable-home-remodeling-and-renovation-llc",
+      "https://github.com/AIOVisibilityHub/affordable-home-remodeling-ai-schemas-pp16",
+      "https://affordablehomeremodeling.aiovisibility.net",
+      "https://affordable-home-remodeling-ai-schemas-ica3-023d40.gitlab.io/",
+      "https://aiovisibilityhub-affordable-home-remodeling-ai-schemas.static.hf.space/index.html",
+      "https://www.mapquest.com/us/california/affordable-home-remodeling-420055464",
+      "https://www.kaggle.com/datasets/aiovisibilityhub/affordable-home-remodeling-ai-schemas",
+      "https://www.manta.com/c/m1201jf/affordable-home-remodeling",
+      "https://aiovisibilityhub.codeberg.page/affordable-home-remodeling-ai-schemas/",
+      "https://www.buildzoom.com/contractor/affordable-home-remodeling-ca",
+      "https://zenodo.org/records/23048803",
+      "https://trustvetted.com/report/affordable-home-remodeling/",
+      "https://www.peeplocal.com/united-states/cerritos/services-repairs/affordable-home-remodeling",
+      "https://www.dibiz.com/affordablehomeremodeling",
+      "https://www.isokorigaridirectory.com/real-estate-services/affordable-home-remodeling",
+      "https://www.expatriates.com/cls/63757867.html",
+      "https://huggingface.co/spaces/AIOVisibilityHub/affordable-home-remodeling-ai-schemas/blob/main/services/hardwood-flooring-installation-service.json"
+    ]
   },
   "related": [
     {
@@ -37,6 +57,86 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "http://affordablehomeremodeling.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on yelp.com",
+      "url": "https://www.yelp.com/biz/affordable-home-remodeling-cerritos"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on aiovisibility.net",
+      "url": "https://aiovisibility.net/profiles/affordable-home-remodeling-and-renovation-llc"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on affordable-home-remodeling-ai-schemas-ica3-023d40.gitlab.io",
+      "url": "https://affordable-home-remodeling-ai-schemas-ica3-023d40.gitlab.io/"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on aiovisibilityhub-affordable-home-remodeling-ai-schemas.static.hf.space",
+      "url": "https://aiovisibilityhub-affordable-home-remodeling-ai-schemas.static.hf.space/index.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on mapquest.com",
+      "url": "https://www.mapquest.com/us/california/affordable-home-remodeling-420055464"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on kaggle.com",
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/affordable-home-remodeling-ai-schemas"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on manta.com",
+      "url": "https://www.manta.com/c/m1201jf/affordable-home-remodeling"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on aiovisibilityhub.codeberg.page",
+      "url": "https://aiovisibilityhub.codeberg.page/affordable-home-remodeling-ai-schemas/"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on buildzoom.com",
+      "url": "https://www.buildzoom.com/contractor/affordable-home-remodeling-ca"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on zenodo.org",
+      "url": "https://zenodo.org/records/23048803"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on trustvetted.com",
+      "url": "https://trustvetted.com/report/affordable-home-remodeling/"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on peeplocal.com",
+      "url": "https://www.peeplocal.com/united-states/cerritos/services-repairs/affordable-home-remodeling"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on dibiz.com",
+      "url": "https://www.dibiz.com/affordablehomeremodeling"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on isokorigaridirectory.com",
+      "url": "https://www.isokorigaridirectory.com/real-estate-services/affordable-home-remodeling"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on expatriates.com",
+      "url": "https://www.expatriates.com/cls/63757867.html"
+    },
+    {
+      "role": "same-as",
+      "label": "Affordable Home Remodeling on huggingface.co",
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/affordable-home-remodeling-ai-schemas/blob/main/services/hardwood-flooring-installation-service.json"
     }
   ],
   "destinations": {
