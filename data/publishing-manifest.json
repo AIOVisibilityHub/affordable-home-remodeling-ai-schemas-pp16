@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:35:51.616Z",
+  "generatedAt": "2026-10-24T23:23:55.195Z",
   "client": {
     "name": "Affordable Home Remodeling",
     "canonicalUrl": "https://affordablehomeremodeling.aiovisibility.net",
@@ -129,24 +129,24 @@
     ]
   },
   "package": {
-    "totalFiles": 2224,
-    "totalBytes": 9141140,
+    "totalFiles": 2210,
+    "totalBytes": 8945045,
     "stats": {
-      "qna": 0,
       "faqs": 1787,
-      "press": 0,
-      "total": 2263,
-      "awards": 0,
-      "reviews": 35,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 284,
       "services": 69,
       "webpages": 0,
+      "personnel": 2,
+      "products": 0,
       "locations": 1,
-      "personnel": 16,
+      "awards": 0,
       "caseStudies": 0,
-      "helpArticles": 284,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 35,
+      "qna": 0,
+      "research": 0,
+      "total": 2249
     }
   },
   "entrypoints": {
@@ -510,82 +510,12 @@
     "team": [
       {
         "path": "team/santiago-quintero-profile.json",
-        "bytes": 7594,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/santiago-quintero-lake-forest.json",
-        "bytes": 7342,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/santiago-quintero-cerritos.json",
-        "bytes": 7339,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/santiago-quintero-anaheim.json",
-        "bytes": 7338,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/santiago-quintero-pasadena.json",
-        "bytes": 7339,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/santiago-quintero-orange.json",
-        "bytes": 7337,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/santiago-quintero-cypress.json",
-        "bytes": 7338,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/santiago-quintero-tustin.json",
-        "bytes": 7337,
+        "bytes": 8086,
         "purpose": "schema"
       },
       {
         "path": "team/cary-quintero-profile.json",
-        "bytes": 7025,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/cary-quintero-lake-forest.json",
-        "bytes": 6773,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/cary-quintero-cerritos.json",
-        "bytes": 6770,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/cary-quintero-anaheim.json",
-        "bytes": 6769,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/cary-quintero-pasadena.json",
-        "bytes": 6770,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/cary-quintero-orange.json",
-        "bytes": 6768,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/cary-quintero-cypress.json",
-        "bytes": 6769,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/cary-quintero-tustin.json",
-        "bytes": 6768,
+        "bytes": 7620,
         "purpose": "schema"
       }
     ],
@@ -599,7 +529,7 @@
     "organization": [
       {
         "path": "organization/affordable-home-remodeling-organization.json",
-        "bytes": 8851,
+        "bytes": 16770,
         "purpose": "schema"
       }
     ],
@@ -2022,11 +1952,6 @@
       {
         "path": "help/building-a-new-home-how-to-budget-effectively-for-unexpected-costs.json",
         "bytes": 4557,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/publishing-plan.json",
-        "bytes": 82283,
         "purpose": "schema"
       }
     ],
@@ -11159,72 +11084,77 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 20387,
+        "bytes": 26158,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 156113,
+        "bytes": 75951,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 80163,
+        "bytes": 91107,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 48817,
+        "bytes": 54813,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 18789,
+        "bytes": 24876,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1305741,
+        "bytes": 1311842,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 19947,
+        "bytes": 26466,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 147096,
+        "bytes": 53542,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 175910,
+        "bytes": 165667,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 102839,
+        "bytes": 108474,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 282029,
+        "bytes": 298982,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 241309,
+        "bytes": 274535,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 67594,
+        "bytes": 84082,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 48322,
+        "bytes": 67878,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/unassigned.html",
+        "bytes": 16058,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -11236,7 +11166,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 3450,
+        "bytes": 5712,
         "purpose": "LLM hint"
       },
       {
@@ -11256,42 +11186,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1737,
+        "bytes": 6375,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1012762,
+        "bytes": 1012775,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 293868,
+        "bytes": 294766,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 293868,
+        "bytes": 294766,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 3394,
+        "bytes": 5655,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 342293,
+        "bytes": 343322,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 314880,
+        "bytes": 313345,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1749,
+        "bytes": 1849,
         "purpose": "Standard sitemap"
       }
     ]

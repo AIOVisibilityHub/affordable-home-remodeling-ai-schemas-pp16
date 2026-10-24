@@ -10,19 +10,35 @@ Canonical AI Data Package for Affordable Home Remodeling.
 
 ## Stats
 - 1787 faqs
-- 35 reviews
-- 69 services
-- 1 locations
-- 16 personnel
 - 284 helpArticles
+- 69 services
+- 2 personnel
+- 1 locations
 - 1 organization
-- **2263** total
+- 35 reviews
+- **2249** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Affordable Home Remodeling — canonical website — https://affordablehomeremodeling.aiovisibility.net
 - [ai-data-hub] Affordable Home Remodeling — AI Data Hub — https://affordablehomeremodeling.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/affordable-home-remodeling-ai-schemas-pp16
 - [mirror-pages] GitHub — AI Data Hub mirror — http://affordablehomeremodeling.aiovisibility.net/ai-data.html
+- [same-as] Affordable Home Remodeling on yelp.com — https://www.yelp.com/biz/affordable-home-remodeling-cerritos
+- [same-as] Affordable Home Remodeling on aiovisibility.net — https://aiovisibility.net/profiles/affordable-home-remodeling-and-renovation-llc
+- [same-as] Affordable Home Remodeling on affordable-home-remodeling-ai-schemas-ica3-023d40.gitlab.io — https://affordable-home-remodeling-ai-schemas-ica3-023d40.gitlab.io/
+- [same-as] Affordable Home Remodeling on aiovisibilityhub-affordable-home-remodeling-ai-schemas.static.hf.space — https://aiovisibilityhub-affordable-home-remodeling-ai-schemas.static.hf.space/index.html
+- [same-as] Affordable Home Remodeling on mapquest.com — https://www.mapquest.com/us/california/affordable-home-remodeling-420055464
+- [same-as] Affordable Home Remodeling on kaggle.com — https://www.kaggle.com/datasets/aiovisibilityhub/affordable-home-remodeling-ai-schemas
+- [same-as] Affordable Home Remodeling on manta.com — https://www.manta.com/c/m1201jf/affordable-home-remodeling
+- [same-as] Affordable Home Remodeling on aiovisibilityhub.codeberg.page — https://aiovisibilityhub.codeberg.page/affordable-home-remodeling-ai-schemas/
+- [same-as] Affordable Home Remodeling on buildzoom.com — https://www.buildzoom.com/contractor/affordable-home-remodeling-ca
+- [same-as] Affordable Home Remodeling on zenodo.org — https://zenodo.org/records/23048803
+- [same-as] Affordable Home Remodeling on trustvetted.com — https://trustvetted.com/report/affordable-home-remodeling/
+- [same-as] Affordable Home Remodeling on peeplocal.com — https://www.peeplocal.com/united-states/cerritos/services-repairs/affordable-home-remodeling
+- [same-as] Affordable Home Remodeling on dibiz.com — https://www.dibiz.com/affordablehomeremodeling
+- [same-as] Affordable Home Remodeling on isokorigaridirectory.com — https://www.isokorigaridirectory.com/real-estate-services/affordable-home-remodeling
+- [same-as] Affordable Home Remodeling on expatriates.com — https://www.expatriates.com/cls/63757867.html
+- [same-as] Affordable Home Remodeling on huggingface.co — https://huggingface.co/spaces/AIOVisibilityHub/affordable-home-remodeling-ai-schemas/blob/main/services/hardwood-flooring-installation-service.json
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
@@ -116,23 +132,9 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 ### Locations (1)
 - [`locations/cerritos-office.json`](./locations/cerritos-office.json) — schema
 
-### Team Members (16)
-- [`team/cary-quintero-anaheim.json`](./team/cary-quintero-anaheim.json) — schema
-- [`team/cary-quintero-cerritos.json`](./team/cary-quintero-cerritos.json) — schema
-- [`team/cary-quintero-cypress.json`](./team/cary-quintero-cypress.json) — schema
-- [`team/cary-quintero-lake-forest.json`](./team/cary-quintero-lake-forest.json) — schema
-- [`team/cary-quintero-orange.json`](./team/cary-quintero-orange.json) — schema
-- [`team/cary-quintero-pasadena.json`](./team/cary-quintero-pasadena.json) — schema
+### Team Members (2)
 - [`team/cary-quintero-profile.json`](./team/cary-quintero-profile.json) — schema
-- [`team/cary-quintero-tustin.json`](./team/cary-quintero-tustin.json) — schema
-- [`team/santiago-quintero-anaheim.json`](./team/santiago-quintero-anaheim.json) — schema
-- [`team/santiago-quintero-cerritos.json`](./team/santiago-quintero-cerritos.json) — schema
-- [`team/santiago-quintero-cypress.json`](./team/santiago-quintero-cypress.json) — schema
-- [`team/santiago-quintero-lake-forest.json`](./team/santiago-quintero-lake-forest.json) — schema
-- [`team/santiago-quintero-orange.json`](./team/santiago-quintero-orange.json) — schema
-- [`team/santiago-quintero-pasadena.json`](./team/santiago-quintero-pasadena.json) — schema
 - [`team/santiago-quintero-profile.json`](./team/santiago-quintero-profile.json) — schema
-- [`team/santiago-quintero-tustin.json`](./team/santiago-quintero-tustin.json) — schema
 
 ### FAQs (1787)
 - [`faqs/are-permits-required-for-kitchen-cabinet-and-countertop-installation-in-irvine.json`](./faqs/are-permits-required-for-kitchen-cabinet-and-countertop-installation-in-irvine.json) — schema
@@ -1923,7 +1925,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/will-the-repaired-stucco-match-my-existing-home-exterior.json`](./faqs/will-the-repaired-stucco-match-my-existing-home-exterior.json) — schema
 - [`faqs/will-the-repaired-stucco-match-the-existing-color-and-texture.json`](./faqs/will-the-repaired-stucco-match-the-existing-color-and-texture.json) — schema
 
-### Help Articles (285)
+### Help Articles (284)
 - [`help/adu-build-how-to-avoid-common-site-and-utility-snags.json`](./help/adu-build-how-to-avoid-common-site-and-utility-snags.json) — schema
 - [`help/adu-design-why-your-project-might-get-stuck-in-permitting.json`](./help/adu-design-why-your-project-might-get-stuck-in-permitting.json) — schema
 - [`help/adu-project-what-you-need-to-prepare-for-a-smooth-start.json`](./help/adu-project-what-you-need-to-prepare-for-a-smooth-start.json) — schema
@@ -2073,7 +2075,6 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/primary-suite-addition-choosing-the-right-contractor.json`](./help/primary-suite-addition-choosing-the-right-contractor.json) — schema
 - [`help/primary-suite-addition-preparing-your-home-for-construction.json`](./help/primary-suite-addition-preparing-your-home-for-construction.json) — schema
 - [`help/protecting-your-home-a-checklist-for-exterior-paint-preparation.json`](./help/protecting-your-home-a-checklist-for-exterior-paint-preparation.json) — schema
-- [`help/publishing-plan.json`](./help/publishing-plan.json) — schema
 - [`help/ready-for-a-new-look-what-to-know-about-interior-painting.json`](./help/ready-for-a-new-look-what-to-know-about-interior-painting.json) — schema
 - [`help/room-addition-mistakes-to-avoid.json`](./help/room-addition-mistakes-to-avoid.json) — schema
 - [`help/should-i-upgrade-my-home-s-insulation-signs-it-s-time.json`](./help/should-i-upgrade-my-home-s-insulation-signs-it-s-time.json) — schema
@@ -2210,7 +2211,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/your-bathroom-remodel-what-to-expect-from-start-to-finish.json`](./help/your-bathroom-remodel-what-to-expect-from-start-to-finish.json) — schema
 - [`help/your-room-addition-project-what-to-expect.json`](./help/your-room-addition-project-what-to-expect.json) — schema
 
-### Public Pages (14)
+### Public Pages (15)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
 - [`articles/care-and-maintenance.html`](./articles/care-and-maintenance.html) — LLM-optimized public page
@@ -2219,6 +2220,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`articles/planning-and-preparation.html`](./articles/planning-and-preparation.html) — LLM-optimized public page
 - [`articles/pricing-and-estimates.html`](./articles/pricing-and-estimates.html) — LLM-optimized public page
 - [`articles/services-and-process.html`](./articles/services-and-process.html) — LLM-optimized public page
+- [`articles/unassigned.html`](./articles/unassigned.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
