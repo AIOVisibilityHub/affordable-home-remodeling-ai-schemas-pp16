@@ -1,27 +1,27 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Anonymous"
+    "name": "Anonymous",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "They were pretty fast at it. Went on top of the roof, looked at it; I really loved it.",
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-  },
-  "datePublished": "2025-02-19",
   "itemReviewed": {
-    "@type": "Organization",
-    "name": "Affordable Home Remodeling",
     "url": "https://affordablehomeremodeling.aiovisibility.net",
+    "name": "Affordable Home Remodeling",
+    "@type": "Organization",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
-        "@type": "Service",
-        "name": "Roofing"
+        "name": "Roofing",
+        "@type": "Service"
       }
     }
-  }
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "bestRating": 5,
+    "ratingValue": 5
+  },
+  "datePublished": "2025-02-19"
 }
